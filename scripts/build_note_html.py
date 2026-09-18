@@ -18,6 +18,16 @@ note.com のエディタはプレーンテキストのMarkdown記号（#, -, 1. 
     - 項目            -> <ul><li>
     1. 項目           -> <ol><li>
     空行区切りの段落   -> <p>
+    <ruby>漢字<rt>かんじ</rt></ruby>  -> そのまま埋め込みHTMLとして扱う（エスケープしない）
+
+るびについて:
+    本文中の <ruby>...</ruby> はエスケープせずそのまま出力するので、
+    ブラウザで開くと漢字の上に読みが表示される（GitHub上のMarkdown表示でも
+    同様にruby要素として描画される）。
+    ただしnote.comのエディタがペースト時にruby/rt要素を保持する保証はなく、
+    保持されない場合は「漢字かんじ」のように読みが地の文に落ちる可能性がある。
+    確実に安全な表記にしたい場合は、ソース側で「漢字(かんじ)」の括弧表記に
+    戻すこと（このスクリプトは括弧表記もそのままの文字として扱える）。
 """
 import html
 import re
@@ -34,7 +44,30 @@ body { font-family: sans-serif; line-height: 1.8; max-width: 640px; margin: 2em 
 .copy-note { font-size: 0.85em; color: #666; margin-bottom: 2em; }
 h2 { font-size: 1.3em; margin-top: 1.6em; }
 p { margin: 1em 0; }
+rt { font-size: 0.6em; }
 """
+
+RUBY_PATTERN = re.compile(r"<ruby>.*?</ruby>", re.DOTALL)
+
+
+def escape_preserving_ruby(text: str) -> str:
+    """textをHTMLエスケープしつつ、<ruby>...</ruby>部分だけは生のHTMLとして残す。"""
+    parts = RUBY_PATTERN.split(text)
+    ruby_matches = RUBY_PATTERN.findall(text)
+    escaped = [html.escape(part) for part in parts]
+    out = []
+    for i, part in enumerate(escaped):
+        out.append(part)
+        if i < len(ruby_matches):
+            out.append(ruby_matches[i])
+    return "".join(out)
+
+
+def plain_text(text: str) -> str:
+    """ruby要素を取り除いた素のテキスト（タイトル欄コピー用・<title>タグ用）。"""
+    text = re.sub(r"<rt>.*?</rt>", "", text)
+    text = re.sub(r"</?ruby>", "", text)
+    return text
 
 
 def convert(md_text: str) -> str:
@@ -47,7 +80,7 @@ def convert(md_text: str) -> str:
         if paragraph:
             text = " ".join(paragraph).strip()
             if text:
-                out.append(f"<p>{html.escape(text)}</p>")
+                out.append(f"<p>{escape_preserving_ruby(text)}</p>")
             paragraph.clear()
 
     while i < len(lines):
@@ -55,13 +88,13 @@ def convert(md_text: str) -> str:
 
         if line.startswith("# "):
             flush_paragraph()
-            out.append(f"<h1>{html.escape(line[2:].strip())}</h1>")
+            out.append(f"<h1>{escape_preserving_ruby(line[2:].strip())}</h1>")
             i += 1
             continue
 
         if line.startswith("## "):
             flush_paragraph()
-            out.append(f"<h2>{html.escape(line[3:].strip())}</h2>")
+            out.append(f"<h2>{escape_preserving_ruby(line[3:].strip())}</h2>")
             i += 1
             continue
 
@@ -69,7 +102,7 @@ def convert(md_text: str) -> str:
             flush_paragraph()
             out.append("<ul>")
             while i < len(lines) and lines[i].startswith("- "):
-                out.append(f"<li>{html.escape(lines[i][2:].strip())}</li>")
+                out.append(f"<li>{escape_preserving_ruby(lines[i][2:].strip())}</li>")
                 i += 1
             out.append("</ul>")
             continue
@@ -79,7 +112,7 @@ def convert(md_text: str) -> str:
             out.append("<ol>")
             while i < len(lines) and re.match(r"^\d+\. ", lines[i]):
                 item = re.sub(r"^\d+\. ", "", lines[i]).strip()
-                out.append(f"<li>{html.escape(item)}</li>")
+                out.append(f"<li>{escape_preserving_ruby(item)}</li>")
                 i += 1
             out.append("</ol>")
             continue
@@ -101,7 +134,11 @@ def main():
     for md_path in sorted(SRC_DIR.glob("*.md")):
         raw = md_path.read_text(encoding="utf-8")
         title_match = re.search(r"^# (.+)$", raw, re.MULTILINE)
-        title = title_match.group(1).strip() if title_match else md_path.stem
+        title_raw = title_match.group(1).strip() if title_match else md_path.stem
+        # note投稿画面のタイトル欄はプレーンテキストの入力欄なので、
+        # るび（<ruby>/<rt>）は展開して素のテキストにしておく。
+        title_plain = plain_text(title_raw)
+        title_note = "（本文にはコピーしない。るびは展開済み）" if title_plain != title_raw else "（本文にはコピーしない）"
 
         # 本文からタイトル行(# ...)を取り除いてから変換する。
         # note投稿画面のタイトル欄はエディタ本文と別なので、
@@ -113,13 +150,13 @@ def main():
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>{html.escape(title)}</title>
+<title>{html.escape(title_plain)}</title>
 <style>{STYLE}</style>
 </head>
 <body>
 <div class="title-box">
-<p class="label">↓ note投稿画面の「タイトル」欄にコピーする（本文にはコピーしない）</p>
-<h1>{html.escape(title)}</h1>
+<p class="label">↓ note投稿画面の「タイトル」欄にコピーする{title_note}</p>
+<h1>{html.escape(title_plain)}</h1>
 </div>
 <p class="copy-note">↓ ここから下を選択してコピーし、note本文欄に貼り付けると見出しが引き継がれます</p>
 <div id="note-body">
