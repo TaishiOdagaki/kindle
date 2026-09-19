@@ -11,7 +11,7 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 - `manuscript.md` — full manuscript (~14,000 words, 14 chapters + front/back matter). Source of truth — edit this, then regenerate the EPUB.
 - `cover/cover.jpg` — chosen cover (AI-generated chainsaw product shot + typography), author's own design, selected over three typographic concepts also explored in this project's chat history. 1250×2000px (1.6:1), matches KDP's recommended cover ratio; above KDP's 1000px minimum on the short side.
 - `Chainsaw Man - The Devil in the Details.epub` — built interior file, ready to upload to KDP as the manuscript. Validated with `epubcheck` (0 errors, 0 warnings). This is a generated artifact — regenerate it any time `manuscript.md` changes (command below); don't hand-edit the `.epub` directly.
-- `kdp-book-description.txt` — the KDP product page description (~3,965 characters), for the "Book Description" field, not the manuscript itself.
+- `kdp-book-description.txt` — the KDP product page description (~3,926 characters including markup, under KDP's 4,000-character hard limit which counts HTML tags too), for the "Book Description" field, not the manuscript itself. Pre-formatted with KDP-supported HTML (`<p>`, `<b>`, `<i>`) — paste directly into the KDP description field, no reformatting needed.
 
 ## Before Publishing
 
