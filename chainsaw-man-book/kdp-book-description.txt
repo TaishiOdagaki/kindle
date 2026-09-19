@@ -1,15 +1,33 @@
 <p><b>You finished it.</b> Pochita said his line, the timeline reset, and the internet argued about what it meant for about a week before mostly moving on. Now there's a very specific kind of silence where a weekly ritual used to be. No chapter dropping on Jump+ at midnight. No group chat lighting up over what just happened. If you know that silence, this book is for you.</p>
 
-<p><i>Chainsaw Man</i> is finished: twenty-four volumes, two parts, one deliberately uncomfortable ending. Which means it can finally be read whole, the way it was maybe always meant to be. This is a critical companion built for exactly that moment. Not a recap wiki walking you through what happens next, but an argument for why it happens the way it does. Why Denji's whole personality is built out of wanting bread with jam instead of saving the world. Why Makima eating her way into the story's most disturbing scene was actually the most honest thing the series ever did. Why Part 2 split longtime readers right down the middle, and why a lot of them came back around once they could read it in one sitting instead of one chapter a week.</p>
+<h4>A Companion Built for the Moment After the Ending</h4>
+<p><i>Chainsaw Man</i> is finished: twenty-four volumes, two parts, one deliberately uncomfortable ending. Which means it can finally be read whole, the way it was maybe always meant to be. This isn't a recap wiki walking you through what happens next. It's an argument for why it happens the way it does, chapter by chapter, written by someone who followed this story chapter by chapter too.</p>
 
-<p>Here's what makes this different from the usual fan-wiki content dump. Every chapter is <b>spoiler-tagged</b>, so you'll know whether you're in safe territory if you've only seen the anime, Season 1 and the <i>Reze Arc</i> movie, or whether you're about to step past what's been adapted so far. A Spoiler Map in the back matter lays it out at a glance. And where this book does go deep into the ending, it isn't interested in just telling you what happened. It's interested in what it means, which turns out to be a different kind of spoiler entirely, the kind that can make a finished story hit harder the second time, not less.</p>
+<h4>What's Inside</h4>
+<ul>
+<li>Why Denji's whole personality is built out of wanting bread with jam instead of saving the world</li>
+<li>Why Makima eating her way into the story's most disturbing scene was the most honest thing the series ever did</li>
+<li>How Fujimoto's love of film shows up in the paneling itself, and what that means for how the manga was adapted</li>
+<li>The real, documented controversy around Season 1's anime direction, and why the <i>Reze Arc</i> movie took a different approach entirely</li>
+<li>An honest look at why Part 2 split longtime readers right down the middle, and why a lot of them came back around on a reread</li>
+<li>What gets quietly lost in translation: honorifics, Denji's almost total lack of them, and the register in Kishibe's dialogue that has no clean English equivalent</li>
+<li>Both major fan readings of the finale, laid out honestly, side by side, instead of a single tidy answer</li>
+</ul>
 
-<p>Inside: a chapter on Fujimoto's fear-based devil system, and why Part 2's scariest devils run on information and fame instead of guns and darkness. A close read of the real controversy around Season 1's anime direction, the realism-over-energy choice that split the fanbase and reportedly hurt Blu-ray sales before the <i>Reze Arc</i> movie took a different approach entirely. An honest look at why Part 2's pacing frustrated even devoted readers, and why that frustration mostly doesn't survive a reread. A chapter on what gets lost in translation: the honorifics, the weight of Denji almost never using one, the register in Kishibe's dialogue with no clean English equivalent. And at the finale, both major fan readings, laid out honestly, side by side, instead of one correct answer to an ending built to resist having one.</p>
+<h4>Who This Book Is For</h4>
+<ul>
+<li>Readers who finished the manga and want the "why" behind what they just read</li>
+<li>Anime-only fans still catching up, who want the context without the plot dumped on them early</li>
+<li>Anyone deciding whether this series is worth the eight-year commitment other fans keep talking about</li>
+</ul>
 
-<p>This isn't a hype piece. It doesn't claim the series is flawless, because it isn't. It's written the way you'd actually talk about this story with someone who loved it as much as you did: what worked, what didn't quite land, and why the whole thing was worth the eight-year wait anyway.</p>
+<h4>Spoiler-Safe, However Far You've Gotten</h4>
+<p>Every chapter is <b>spoiler-tagged</b>, so you'll always know whether you're on safe ground if you've only seen the anime, Season 1 and the <i>Reze Arc</i> movie, or about to step past what's been adapted so far. A Spoiler Map in the back matter lays the whole thing out at a glance, chapter by chapter, so you can plan your own reading order instead of guessing.</p>
+<p>And where this book does go deep into the ending, it isn't interested in just telling you what happened. It's interested in what it means, which turns out to be a different kind of spoiler entirely, the kind that can make a finished story hit harder the second time, not less.</p>
 
-<p><b>About the author</b></p>
+<h4>Honest, Not Hype</h4>
+<p>This book doesn't claim the series is flawless, because it isn't, and pretending otherwise would make for a worse, less trustworthy book. It's written the way you'd actually talk about this story with someone who loved it as much as you did: what worked, what didn't quite land, and why the whole thing was worth the eight-year wait anyway.</p>
 
-<p>Jiro Naozane has been writing about manga and anime online for over a decade, starting from a habit that began with weekly Shonen Jump+ releases and never let up. He studied Japanese culture at university, where a student manga research circle turned casual reading into something closer to an ongoing project: tracking how a series is built, not just what happens in it. This is his independent critical take on <i>Chainsaw Man</i>, written for readers on either side of the Pacific who want the layer of context that doesn't always survive translation, the industry pressures behind the pacing, the folklore and film references baked into the panels, and the fan culture that grew up around waiting for this manga one Tuesday at a time.</p>
-
+<h4>About the Author</h4>
+<p>Jiro Naozane has been writing about manga and anime online for over a decade, starting from a habit that began with weekly Shonen Jump+ releases and never let up. He studied Japanese culture at university, where a student manga research circle turned casual reading into something closer to an ongoing project: tracking how a series is built, not just what happens in it.</p>
 <p>He is not affiliated with Tatsuki Fujimoto, Shueisha, MAPPA, or any other rights holder connected to the series. This is an independent work of criticism, published under Japanese Culture Press, written from one side of the fandom to the other.</p>
