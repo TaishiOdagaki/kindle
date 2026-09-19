@@ -1,5 +1,5 @@
-# THE DEVIL IN THE DETAILS
-### A Critical Companion to Chainsaw Man, From One Otaku to Another
+# CHAINSAW MAN: THE DEVIL IN THE DETAILS
+### A Critical Companion, From a Researcher to Fans Worldwide
 
 by Jiro Naozane
 
@@ -11,7 +11,7 @@ This is an independent work of criticism and cultural commentary. It is not affi
 
 **About the Author**
 
-Jiro Naozane grew up on weekly Shonen Jump+ releases and has been writing about manga and anime online for over a decade. He studied Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism.
+Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
 
 ---
 

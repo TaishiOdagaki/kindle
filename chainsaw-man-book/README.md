@@ -1,4 +1,4 @@
-# The Devil in the Details — Manuscript
+# Chainsaw Man: The Devil in the Details — Manuscript
 
 Draft manuscript for a ~14,000-word Kindle companion book of critical analysis on *Chainsaw Man*, written under the pen name Jiro Naozane. Fourteen chapters plus front/back matter, built around three design choices agreed with the author before drafting:
 
@@ -22,7 +22,7 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 Same workflow as the other book in this repo:
 
 ```
-pandoc manuscript.md -o manuscript.epub --metadata title="The Devil in the Details" --metadata author="Jiro Naozane"
+pandoc manuscript.md -o manuscript.epub --metadata title="Chainsaw Man: The Devil in the Details" --metadata author="Jiro Naozane"
 ```
 
 ## Suggested KDP Metadata
