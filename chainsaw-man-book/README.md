@@ -8,8 +8,9 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 
 ## Files
 
-- `manuscript.md` — full manuscript (~14,000 words, 14 chapters + front/back matter).
-- `cover/cover.jpg` — chosen cover (AI-generated chainsaw product shot + typography), author's own design, selected over three typographic concepts also explored in this project's chat history.
+- `manuscript.md` — full manuscript (~14,000 words, 14 chapters + front/back matter). Source of truth — edit this, then regenerate the EPUB.
+- `cover/cover.jpg` — chosen cover (AI-generated chainsaw product shot + typography), author's own design, selected over three typographic concepts also explored in this project's chat history. 1250×2000px (1.6:1), matches KDP's recommended cover ratio; above KDP's 1000px minimum on the short side.
+- `Chainsaw Man - The Devil in the Details.epub` — built interior file, ready to upload to KDP as the manuscript. Validated with `epubcheck` (0 errors, 0 warnings). This is a generated artifact — regenerate it any time `manuscript.md` changes (command below); don't hand-edit the `.epub` directly.
 
 ## Before Publishing
 
@@ -21,11 +22,33 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 
 ## Converting for KDP
 
-Same workflow as the other book in this repo:
+Regenerate the EPUB after any manuscript edit:
 
 ```
-pandoc manuscript.md -o manuscript.epub --metadata title="Chainsaw Man: The Devil in the Details" --metadata author="Jiro Naozane"
+pandoc manuscript.md \
+  -o "Chainsaw Man - The Devil in the Details.epub" \
+  --metadata title="Chainsaw Man: The Devil in the Details" \
+  --metadata author="Jiro Naozane" \
+  --metadata publisher="Japanese Culture Press" \
+  --metadata lang=en-US \
+  --toc --toc-depth=2 \
+  --split-level=2
 ```
+
+Then validate before uploading (catches malformed markup pandoc would otherwise pass through silently):
+
+```
+java -jar /usr/share/java/epubcheck.jar "Chainsaw Man - The Devil in the Details.epub"
+```
+
+## Ready to Upload — KDP Submission Checklist
+
+1. **Manuscript file:** `Chainsaw Man - The Devil in the Details.epub` — upload as the interior content file.
+2. **Cover file:** `cover/cover.jpg` — upload separately in KDP's dedicated Cover step. Don't also embed it as a page inside the EPUB; KDP renders the uploaded cover on its own, and a duplicated cover page is a common self-publishing mistake this avoids.
+3. **AI content disclosure:** tick this for *both* the manuscript text and the cover image in KDP's content-origin declaration — see point 5 below.
+4. **Publisher field:** Japanese Culture Press.
+5. **Author field:** Jiro Naozane.
+6. Everything else below this checklist (categories, keywords, pricing, territories) is a normal KDP account/business decision, not something this repo tracks.
 
 ## Suggested KDP Metadata
 
