@@ -25,6 +25,7 @@ pandoc manuscript.md -o manuscript.epub --metadata title="The Japan They Never T
 
 ## Suggested KDP Metadata
 
+- **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
 - **Categories:** Nonfiction > Asia Travel, or Nonfiction > Popular Culture / Japanese Studies
 - **Keywords to consider:** anime culture, Japan travel, yakuza history, otaku, Japanese folklore, manga industry
 - **Content note:** the manuscript includes historical organized-crime content and brief, non-explicit adult-industry discussion (Chapter 8) — review KDP's content guidelines for the appropriate age/content rating before submission.

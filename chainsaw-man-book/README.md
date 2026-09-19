@@ -29,6 +29,7 @@ pandoc manuscript.md -o manuscript.epub --metadata title="Chainsaw Man: The Devi
 
 ## Suggested KDP Metadata
 
+- **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
 - **Categories:** Nonfiction > Performing Arts > Comics & Graphic Novels, or Literary Criticism
 - **Keywords to consider:** Chainsaw Man analysis, manga criticism, Tatsuki Fujimoto, shonen manga essay, anime companion book
 - **Content note:** discusses character deaths and dark themes present in the source material; no explicit content of its own.

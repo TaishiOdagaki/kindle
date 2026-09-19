@@ -1,6 +1,8 @@
 # THE JAPAN THEY NEVER TOLD YOU
 ### An Otaku's Field Guide to the Real Country Behind Your Favorite Anime
 
+*A Japanese Culture Press Book*
+
 ---
 
 **A Note Before You Begin**

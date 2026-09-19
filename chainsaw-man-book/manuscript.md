@@ -2,6 +2,7 @@
 ### A Critical Companion, From a Japanese Researcher to Fans Worldwide
 
 by Jiro Naozane
+*A Japanese Culture Press Book*
 
 ---
 
