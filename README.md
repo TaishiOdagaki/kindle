@@ -10,7 +10,7 @@ Independent, self-published Kindle books about Japanese pop culture, written for
 |---|---|---|---|
 | *The Japan They Never Told You* | [`book/`](book/) | Draft manuscript | (none yet — unsigned) |
 | *Chainsaw Man: The Devil in the Details* | [`chainsaw-man-book/`](chainsaw-man-book/) | **Published** | Jiro Naozane (pen name) |
-| *Demon Slayer* companion (working title) | TBD | Planning | TBD |
+| *Demon Slayer: Total Concentration* | [`demon-slayer-book/`](demon-slayer-book/) | Draft manuscript, cover pending | Jiro Naozane (pen name) |
 
 Each book folder has its own `README.md` with publishing notes, KDP conversion instructions, and a pre-publish checklist specific to that title.
 
