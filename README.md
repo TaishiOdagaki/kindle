@@ -9,7 +9,8 @@ Independent, self-published Kindle books about Japanese pop culture, written for
 | Book | Folder | Status | Author byline |
 |---|---|---|---|
 | *The Japan They Never Told You* | [`book/`](book/) | Draft manuscript | (none yet — unsigned) |
-| *Chainsaw Man: The Devil in the Details* | [`chainsaw-man-book/`](chainsaw-man-book/) | Draft manuscript | Jiro Naozane (pen name) |
+| *Chainsaw Man: The Devil in the Details* | [`chainsaw-man-book/`](chainsaw-man-book/) | **Published** | Jiro Naozane (pen name) |
+| *Demon Slayer* companion (working title) | TBD | Planning | TBD |
 
 Each book folder has its own `README.md` with publishing notes, KDP conversion instructions, and a pre-publish checklist specific to that title.
 
@@ -22,3 +23,4 @@ Each book folder has its own `README.md` with publishing notes, KDP conversion i
 - **No reproduced copyrighted art, panels, or extended text** from any work discussed — commentary and original analysis only.
 - **AI-generated content disclosure**: both manuscript text and any AI-generated cover art need to be disclosed in KDP's content-origin declaration at publishing time, regardless of how much subsequent editing/art-direction happened. This is a KDP compliance step for each book, not a one-time setup.
 - **Book descriptions are delivered paste-ready**: any KDP product-page description gets written directly in KDP-supported HTML (`<p>`, `<b>`, `<i>`, etc.) as its own `kdp-book-description.txt` in the book's folder, not as plain text needing reformatting later. Keep the total length, HTML markup included, under KDP's 4,000-character limit — the limit counts the tags, not just the visible text.
+- **Every manuscript gets a `verify-nonfiction-claims` audit pass before publishing**, not just a read-through. The *Chainsaw Man* book shipped, and only afterward turned out to have several confident, fluently-written factual errors (a spliced/misattributed quote, a whole chapter built on a wrong claim about which magazine serialized the manga, a citation to interviews that didn't exist, a backwards etymology claim) — all found only because the user happened to ask. Run the audit *before* that happens, not after.
