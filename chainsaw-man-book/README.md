@@ -9,13 +9,16 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 ## Files
 
 - `manuscript.md` — full manuscript (~14,000 words, 14 chapters + front/back matter).
+- `cover/cover.jpg` — chosen cover (AI-generated chainsaw product shot + typography), author's own design, selected over three typographic concepts also explored in this project's chat history.
 
 ## Before Publishing
 
 1. **Fact-check before printing.** Plot and production details (chapter numbers, character fates, adaptation credits, release dates) were verified against current sources as of September 2026, but *Chainsaw Man* coverage online is dense and sometimes contradictory — spot-check anything load-bearing before final publication, especially Part 2/Academy Saga specifics.
 2. **Author bio.** A short "About the Author" note for Jiro Naozane is already in the front matter. It intentionally avoids naming any specific real institution (see this project's chat history for why) — keep any further additions to non-verifiable general background, not specific real organizations or credentials.
 3. **Copyright posture.** No panels, extended dialogue, or character art are reproduced. Quotation is limited to a couple of short, already-widely-quoted phrases (e.g., Pochita's final line) used for critical discussion. The front-matter disclaimer names the relevant rights holders (Tatsuki Fujimoto, Shueisha, MAPPA) as unaffiliated. Keep it that way in any further edits — this is a single-work deep dive, which carries more derivative-work risk than a multi-topic culture book, so avoid adding extended scene-by-scene retellings.
-4. **No images.** Unlike the companion anime-culture book in this repo, this manuscript doesn't use `[IMAGE: ...]` placeholders — there's no clean source of non-infringing images for a single-series critical companion, so it's designed as a text-only read.
+4. **No interior images.** Unlike the companion anime-culture book in this repo, the manuscript itself doesn't use `[IMAGE: ...]` placeholders — there's no clean source of non-infringing images for a single-series critical companion, so it's designed as a text-only read. The cover is the exception (see below).
+5. **Cover is AI-generated — disclose it on KDP.** `cover/cover.jpg` was AI-generated. Amazon KDP's content-origin disclosure requirement covers AI-generated images the same as AI-generated text, regardless of how much the image was subsequently art-directed or edited — tick the appropriate box in the publishing form's content declaration when you upload it. This is separate from, and doesn't resolve, the manuscript-text disclosure already noted for the sibling book in this repo.
+6. **Subtitle wording differs between cover and interior — pick one.** The cover reads "From a Japanese Researcher to Fans Worldwide"; the manuscript's title page currently reads "From a Researcher to Fans Worldwide" (no "Japanese"). Sync one to the other before publishing so the listing and the book agree.
 
 ## Converting for KDP
 
