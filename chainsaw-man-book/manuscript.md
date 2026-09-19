@@ -1,5 +1,5 @@
 # CHAINSAW MAN: THE DEVIL IN THE DETAILS
-### A Critical Companion, From a Researcher to Fans Worldwide
+### A Critical Companion, From a Japanese Researcher to Fans Worldwide
 
 by Jiro Naozane
 
