@@ -65,6 +65,12 @@ Even the title carries an ambiguity that the English translation quietly erases,
 
 That's not a trivial translation quirk. The ambiguity tracks the story's own argument almost exactly: for most of its run, a reader genuinely can't be sure whether humanity is the side under attack or the side that's ultimately going to be doing the attacking, and by the time Eren's own power turns out to be called the Attack Titan, the title has quietly been describing him, specifically, the entire time: a spoiler sitting in plain sight in the original language, invisible to anyone who only ever read the English cover.
 
+**A Reading List Hiding Inside the Story**
+
+Isayama has been unusually open, across interviews given over the years, about what he was actually reading and watching while this series took shape, and the borrowings are specific enough to name. He has said directly that Mikasa's characterization draws from Casca, the female lead of Kentaro Miura's *Berserk* — one of several manga widely credited with shaping an entire generation of dark-fantasy Japanese creators who came up reading it. He has also described being a fan of *Neon Genesis Evangelion*, both for its giant-creature designs and for what he's called a personal theory that anime characters named after Japanese battleships tend to become fan favorites — Misato Katsuragi in *Evangelion* being his example — which is the specific, half-joking logic he's given for naming a character Mikasa, after the World War I-era Japanese battleship preserved as a museum ship in Yokosuka today.
+
+None of that makes *Attack on Titan* a copy of either series. It makes it a work built the way most long-running manga actually get built: not from nothing, but from a specific, nameable stack of things one artist loved enough to fold into something new.
+
 ---
 
 ## CHAPTER 2: THE REVEAL THAT REWROTE THE WHOLE STORY
@@ -161,6 +167,12 @@ The second incident is murkier, and it needs to be presented that way rather tha
 
 Isayama himself has mostly avoided direct political commentary in his official, confirmed public statements and interviews. Whatever his actual private views are, the manga he's produced is more morally complicated than either "secretly nationalist propaganda" or "totally apolitical adventure story" fully captures, and the next chapters look at how that complexity actually played out, first in Japan, then internationally.
 
+**A Costume Piece That Got Pulled Before It Shipped**
+
+A third incident belongs in this chapter, and unlike the Twitter account, this one isn't disputed at all — it's a confirmed, on-the-record production decision. In November 2021, the franchise's official merchandising arm put replica Eldian armbands up for preorder: the fictional identifying band that Eldians, the story's persecuted ethnic minority, are forced to wear within the story's own world. Within days of going on sale, the production committee pulled the listing and issued an apology, acknowledging that the armband's design — a star badge worn as a mark of forced identification — evoked real historical examples of discriminatory badges used against persecuted minorities, most immediately the Star of David badge Nazi Germany forced Jewish people to wear. Coverage of the incident, including from Anime News Network and CBR, quotes the production committee's own statement describing the sale as an act carried out "without consideration" for what the symbol it was commercializing actually represents.
+
+That the story's own in-fiction badge is legible as a Star of David reference isn't a fan theory — it's close enough to the real thing that the people who make the show pulled the merchandise rather than defend it. It doesn't resolve the larger argument about whether the series overall reads as nationalist or anti-nationalist; a story can build a genuinely sympathetic persecuted-minority allegory and still stumble, badly, when that same imagery gets turned into a product for sale. Both things happened here, in the same franchise, within the same week.
+
 ---
 
 ## CHAPTER 6: HOW THIS LANDED AT HOME
@@ -172,6 +184,10 @@ What's harder to find, and worth being honest about, is a strong, sustained curr
 **One Divide That Didn't Split Along National Lines**
 
 It's worth contrasting that domestic-versus-overseas gap with a different controversy this book covers later, because the two don't behave the same way, and the difference is itself informative. The ending's reception, discussed in full in Chapter 11, split readers roughly down the middle almost everywhere it landed, Japan included. Japanese fan reaction to the manga's final chapters was every bit as openly divided as the international response, with the same range running from readers calling it a betrayal of everything the story had built to readers calling it one of the most complete pieces of long-form storytelling manga has ever produced, and plenty of ordinary readers landing somewhere confused in between. The nationalism controversy breaks cleanly along a domestic-versus-overseas fault line. The ending controversy doesn't break along any national line at all. It's the same argument, playing out inside individual readers and individual fandoms, in Tokyo exactly as much as anywhere else.
+
+**What the Sales Numbers Say, Whatever the Arguments Say**
+
+Whatever individual readers felt about how the story ended, it's worth putting one hard number next to all that argument: Volume 34, the manga's final collected volume, sold roughly 820,000 copies in its first week on sale in Japan, according to Oricon's weekly sales tracking, enough to take the number-one spot on Oricon's weekly comics ranking outright. That's not the number of a fanbase quietly souring on its own series. Whatever the ending controversy did to individual readers' feelings about the last stretch of the story, it didn't translate into Japanese readers declining to buy the book that contained it.
 
 ---
 
@@ -197,11 +213,11 @@ That's worth including for balance as much as for scale: not every market's stor
 
 ---
 
-## CHAPTER 8: BANNED, THEN UNBANNED, IN CHINA
+## CHAPTER 8: BANNED IN CHINA, AND STILL BANNED
 
 In 2015, China's Ministry of Culture placed *Attack on Titan* on a blacklist of foreign manga and anime titles, alongside other violent, high-profile titles like *Death Note* and *Claymore*, citing scenes of excessive violence and content the ministry considered a threat to public morality. That official framing was about gore, not politics, and the gore complaint is genuine: the series is graphically violent even by seinen manga standards, especially in its early Titan-eating-people sequences. But the ban landed inside a broader context that made it read as more than a content-rating decision to a lot of observers: *Attack on Titan* had, around the same period, become an unofficial symbol adopted by some protesters during Hong Kong's Umbrella Movement, who found resonance in its imagery of people fighting for freedom against an overwhelming, wall-enclosing power structure, which put the franchise uncomfortably close to a live political flashpoint from the Chinese government's perspective, whatever the ministry's official stated reasoning.
 
-The ban didn't stay permanent. After roughly a year off the approved list, the series' producers negotiated changes that let it return to Chinese platforms: toning down some of the most violent visuals and adjusting specific plot elements connected to nationalistic symbolism and Japanese identity. Once those edits were made, the blacklist status was lifted and the series became available again.
+Unlike most titles that land on a foreign-content blacklist for a season or two and then quietly reappear once the controversy cools, this one hasn't come back. As of recent reporting, *Attack on Titan* remains officially unavailable on licensed Chinese streaming platforms — there was no negotiated re-cut, no quiet re-release once the Umbrella Movement faded from headlines. Outside observers have floated a reason the ministry never stated outright: the Marley-versus-Paradis conflict, an isolated island power facing down a much larger military bloc that considers it a permanent threat, reads to some viewers as sitting a little too close to live regional tensions for the government's comfort. That's a reading this book can report as a widely circulated theory, not confirm as the actual internal reasoning behind a foreign government's media policy — nobody outside that ministry has said so on the record.
 
 **A Red Giant, Painted by a Protester**
 
@@ -295,6 +311,10 @@ It's worth being honest that this franchise's adaptation record isn't a perfect 
 
 That contrast is worth holding onto specifically because this book has spent so much time explaining why the anime adaptation worked as well as it did. Good source material doesn't guarantee a good adaptation in any medium, automatically, by default. It guarantees an opportunity, one that this franchise's animation studios, Wit Studio's early visual language and MAPPA's later execution alike, actually took, and one a separate production, working from the exact same source pages, simply didn't.
 
+**The Performance That Made a Voice Actor's Career**
+
+The visual side of this franchise isn't the only place a specific person's work got recognized formally. Yūki Kaji, the Japanese voice actor behind Eren Yeager across the entire series, won Best Actor in a Leading Role at the 8th Seiyu Awards, held in March 2014, specifically for the role — his second consecutive year winning that category, after taking it the year before for an unrelated series, which made him the first voice actor in the award's history to win Best Actor back-to-back. That's not a franchise-wide honor being generously attributed to one performer. It's a dedicated industry award, voted on by the seiyuu profession's own peers, for the specific work of voicing one specific character across a demanding, multi-season emotional arc — Eren's voice needing to carry a scared teenager, a traumatized soldier, and eventually something considerably darker, without the performance ever announcing the shift as a stunt.
+
 ---
 
 ## CHAPTER 13: THE SCALE OF THE THING, IN NUMBERS
@@ -372,6 +392,12 @@ So: the argument, I think, was earned. The execution of its final delivery, I th
 
 Argue with that. I'd rather you did than simply agreed.
 
+**The Creator Said the Quiet Part Himself**
+
+It's worth knowing that Isayama didn't wait for critics to make this case before making a version of it himself. In an interview given in May 2021, shortly after the manga's conclusion, he addressed the ending's reception directly: he said the climax had been genuinely difficult to draw, that he regretted not being able to express it properly, and he apologized to readers who had stayed with the series for over a decade only to feel let down by how it closed. That's a specific, sourced admission, not a vague deflection — he named the final stretch, specifically, as the place where his own execution fell short of what the material needed.
+
+The backlash behind that apology had gotten ugly enough that Isayama and his staff reportedly received death threats over how the story ended, and ahead of a public appearance at Anime NYC that year, he posted a message asking fans to be kind to him in person. What actually happened at that convention went the other way: the crowd responded to his vulnerability with sustained applause and shouted support, a reception fans and press covering the event described as nearly bringing him to tears. It's a strange, oddly moving footnote to a franchise that spent its entire run arguing that people are usually more capable of choosing understanding over cruelty than the story's own bleakest chapters gave them credit for — and for one night, in one room, that argument held.
+
 ---
 
 ## CHAPTER 16: WHAT ATTACK ON TITAN LEFT BEHIND
@@ -415,7 +441,7 @@ None of that makes *Attack on Titan* solely responsible for either franchise's s
 | 5. The Nationalism Controversy | Safe — real-world/production history |
 | 6. How This Landed at Home | Safe — real-world reception history |
 | 7. The Fandom That Reads Itself Into Both Sides | Safe — real-world reception |
-| 8. Banned, Then Unbanned, in China | Safe — real-world production/reception history |
+| 8. Banned in China, and Still Banned | Safe — real-world production/reception history |
 | 9. Names That Were Arguing With Each Other | Light — character-name spoilers only |
 | 10. What Actually Happens at the End | **Full ending spoilers** |
 | 11. Why That Ending Split the Fandom in Half | Full ending spoilers |
