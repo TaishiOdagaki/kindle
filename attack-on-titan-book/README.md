@@ -58,5 +58,14 @@ java -jar /usr/share/java/epubcheck.jar "Attack on Titan - The Price of Freedom.
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
 - **Categories:** Nonfiction > Performing Arts > Comics & Graphic Novels, or Literary Criticism
-- **Keywords to consider:** Attack on Titan analysis, Shingeki no Kyojin, manga criticism, Hajime Isayama, anime companion book, ending explained
+- **KDP's 7-keyword field (each ≤50 characters):**
+  1. Shingeki no Kyojin explained
+  2. AOT ending controversy analysis
+  3. Eren Yeager Mikasa Levi Armin
+  4. anime manga essay collection
+  5. Hajime Isayama biography interviews
+  6. Titans Eldia Marley lore guide
+  7. otaku anime pop culture nonfiction
+
+  Chosen deliberately to avoid repeating words already in the title/subtitle ("Attack on Titan," "Price of Freedom," "Critical Companion," "Japanese Researcher," "Fans Worldwide") — KDP's own guidance is that repeating those doesn't add search surface. These instead cover: the original Japanese title, the "AOT" fan abbreviation plus the ending controversy directly, character names, format/genre, the author's name, in-universe lore terms, and the general nonfiction/pop-culture-criticism category.
 - **Content note:** discusses genocide, war, and real historical atrocity as depicted in the source material, plus real-world political controversy tied to the work's reception; no explicit content of its own.
