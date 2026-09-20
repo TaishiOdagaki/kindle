@@ -185,6 +185,10 @@ A third incident belongs in this chapter, and unlike the Twitter account, this o
 
 That the story's own in-fiction badge is legible as a Star of David reference isn't a fan theory — it's close enough to the real thing that the people who make the show pulled the merchandise rather than defend it. It doesn't resolve the larger argument about whether the series overall reads as nationalist or anti-nationalist; a story can build a genuinely sympathetic persecuted-minority allegory and still stumble, badly, when that same imagery gets turned into a product for sale. Both things happened here, in the same franchise, within the same week.
 
+**This Argument Has Made It Into Peer Review, Not Just Op-Eds**
+
+It's worth knowing that the nationalism question this chapter has been picking apart isn't confined to op-eds, message boards, and this book's own analysis. It's become a subject of actual peer-reviewed academic study. Communication scholars Fielding Montgomery and Megu Itoh published a paper on the series in *Critical Studies in Media Communication* in 2023, examining how a single text's political meaning can shift dramatically as it crosses borders and gets picked up by audiences the creator never wrote for, using *Attack on Titan* as their central case study specifically because of how differently the story reads depending on who's doing the reading and where. That a shonen manga about giants eating people has generated serious academic attention from media-studies scholars, not just entertainment journalism, is itself a marker of how far past "just a controversial cartoon" this argument has traveled. Scholars don't build peer-reviewed case studies around texts that aren't saying something worth the trouble of studying carefully.
+
 ---
 
 ## CHAPTER 6: HOW THIS LANDED AT HOME
