@@ -243,6 +243,10 @@ That's a level of direct, artistically rendered political appropriation most fra
 
 Hold that whole episode next to the earlier Japan-Korea controversy and a pattern becomes visible that the rest of this book keeps returning to: this is a story that different governments, different fandoms, and different national audiences have each found a reason to read as being specifically about them, whether the story was made with them in mind or not. A manga about giants eating people inside walled cities has ended up being treated, in multiple countries, as if it were actually about those countries. That's an unusual amount of real-world political gravity for a shonen-adjacent action series to accumulate, and it didn't happen by accident. It happened because the story kept insisting, structurally, that there's no neutral, apolitical way to tell a story about walls, persecution, and who gets to call themselves human.
 
+**It Wasn't Singled Out, But It's Stayed Longer Than Most**
+
+Worth being fair about the scale here, since it would be easy to make this sound like a punishment aimed specifically at *Attack on Titan*: the 2015 blacklist covered more than three dozen titles at once, including *Death Note* and *Elfen Lied* alongside it, and neither of those has been officially relicensed on Chinese platforms either, years later. This wasn't one series being made an example of. It was a blanket policy sweep, and a fair number of the titles caught in it are, by most current reporting, still caught in it. What does set *Attack on Titan* apart is simply how much attention its continued absence keeps drawing, years after most of the other 2015 blacklist titles stopped being newsworthy at all — a byproduct, probably, of the franchise having grown so much larger and more culturally visible everywhere else in the years since the ban took effect, making its one major absence stand out by contrast rather than by unique severity.
+
 ---
 
 ## CHAPTER 9: NAMES THAT WERE ARGUING WITH EACH OTHER FROM PAGE ONE
@@ -338,6 +342,10 @@ That contrast is worth holding onto specifically because this book has spent so 
 **The Performance That Made a Voice Actor's Career**
 
 The visual side of this franchise isn't the only place a specific person's work got recognized formally. Yūki Kaji, the Japanese voice actor behind Eren Yeager across the entire series, won Best Actor in a Leading Role at the 8th Seiyu Awards, held in March 2014, specifically for the role — his second consecutive year winning that category, after taking it the year before for an unrelated series, which made him the first voice actor in the award's history to win Best Actor back-to-back. That's not a franchise-wide honor being generously attributed to one performer. It's a dedicated industry award, voted on by the seiyuu profession's own peers, for the specific work of voicing one specific character across a demanding, multi-season emotional arc — Eren's voice needing to carry a scared teenager, a traumatized soldier, and eventually something considerably darker, without the performance ever announcing the shift as a stunt.
+
+**A Theme Song That Became Bigger Than the Show, Briefly**
+
+Sawano's score wasn't the only piece of this franchise's music to break out on its own. "Guren no Yumiya," the group Linked Horizon's opening theme for the very first season, released in July 2013 as half of a double A-side single, hit number two on the Oricon singles chart, went on to top Billboard Japan's own Hot Animation chart, and was eventually certified double platinum. That's an unusually large commercial life for an anime opening theme specifically, a category of song that normally lives and dies inside the fandom that watches the show it's attached to rather than crossing into general pop-chart territory the way this one did. Its bombastic, faux-orchestral, half-German-half-Japanese lyrics became something people who had never watched a single episode still recognized, a level of standalone cultural penetration that put actual pressure, in retrospect, on Sawano's own score to match: the show's opening theme had already told the audience, before a single frame of Titan combat aired, exactly how much scale and dread this story intended to operate at.
 
 ---
 
