@@ -54,7 +54,7 @@ java -jar /usr/share/java/epubcheck.jar "Chainsaw Man - The Devil in the Details
 ## Suggested KDP Metadata
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
-- **Categories:** Nonfiction > Performing Arts > Comics & Graphic Novels, or Literary Criticism
+- **Categories:** ⚠️ KDP rejected the "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" category on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel") — this book is prose criticism *about* a manga, not a comic itself, and any category path with "Comics" or "Graphic Novels" in the breadcrumb is apparently not safe for that reason, even a criticism-of-comics subcategory. Needs a verified, non-Comics literary-criticism category as a replacement — check this against Demon Slayer's and Attack on Titan's READMEs, which had the identical problem. The other two categories (Pop Culture General; Movies > Genre > Anime) were not flagged.
 - **KDP's 7-keyword field (each ≤50 characters):**
   1. manga finale ending explained
   2. Denji Makima Power Aki Reze
