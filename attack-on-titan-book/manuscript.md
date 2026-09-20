@@ -363,6 +363,10 @@ Two Guinness World Records get attached to this franchise often enough that it's
 
 Both the manga and the anime finished within roughly two and a half years of each other — the manga in April 2021, the anime's last special in November 2023 — meaning that, unlike *Demon Slayer*'s current position mid-adaptation, there's no live gap left for a book like this one to work around. Everything discussed across this book's chapters is available, in full, to anyone who wants to go check it directly, right now, in whatever order and whatever medium they prefer.
 
+**A Magazine Issue That Physically Ran Out**
+
+One more number is worth including here specifically because it's about physical, printed scarcity in an era when that's genuinely rare: the May 2021 issue of *Bessatsu Shonen Magazine*, carrying the manga's actual final chapter, sold out at retailers across Japan fast enough that Kodansha ordered an emergency second printing, reported by Anime News Network and Hypebeast at the time, with fresh copies arriving back in stores by the end of April. Physical magazine issues running out entirely, in a market where most readers could have simply waited for the digital release or the eventual collected volume, is its own small piece of evidence for how much specifically Japanese readers wanted to hold that particular issue, on that particular week, in their own hands.
+
 **It Wasn't an Instant Hit**
 
 It's worth correcting an assumption a reader coming to this franchise after the fact might reasonably make: *Attack on Titan* did not launch as an immediate, chart-topping phenomenon. Tracked against Japan's annual manga sales rankings, the series placed a modest eleventh in its first full year on shelves, 2011, and actually slipped to fifteenth the following year. Those aren't failing numbers by any normal standard, but they're the numbers of a well-regarded, mid-tier hit, not a runaway sensation. The jump came in 2013, when the anime adaptation premiered and the manga's annual sales more than quadrupled almost overnight, vaulting it to second place nationally and keeping it in the top five for most of the following decade.
