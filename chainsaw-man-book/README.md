@@ -58,11 +58,11 @@ java -jar /usr/share/java/epubcheck.jar "Chainsaw Man - The Devil in the Details
 - **KDP's 7-keyword field (each ≤50 characters):**
   1. manga finale ending explained
   2. Denji Makima Power Aki Reze
-  3. Tatsuki Fujimoto biography interviews
+  3. manga creator biography essays
   4. Part 2 fandom reception debate
   5. shonen manga nonfiction essay
   6. devil hunters Public Safety arc
   7. anime manga pop culture criticism
 
-  Chosen to avoid repeating words already in the title/subtitle ("Chainsaw Man," "Devil in the Details," "Critical Companion," "Japanese Researcher," "Fans Worldwide") — see the `attack-on-titan-book/README.md` for the reasoning behind this approach. Covers: the "ending explained" search intent directly, a character-name cluster, the author's name, the Part 2 reception controversy as its own searchable topic, format/genre, in-universe setting terms, and the general nonfiction/pop-culture-criticism category. Replaces an earlier, unstructured keyword list — if this campaign's live Amazon Ads targeting still reflects the old list, check it against this one (see the `kdp-ads-strategy` skill).
+  Chosen to avoid repeating words already in the title/subtitle ("Chainsaw Man," "Devil in the Details," "Critical Companion," "Japanese Researcher," "Fans Worldwide") — see the `attack-on-titan-book/README.md` for the reasoning behind this approach. Covers: the "ending explained" search intent directly, a character-name cluster, format/genre, the Part 2 reception controversy as its own searchable topic, in-universe setting terms, and the general nonfiction/pop-culture-criticism category. Replaces an earlier, unstructured keyword list — if this campaign's live Amazon Ads targeting still reflects the old list, check it against this one (see the `kdp-ads-strategy` skill). ⚠️ Keyword #3 was originally "Tatsuki Fujimoto biography interviews" — changed to avoid the real creator's name after KDP rejected Demon Slayer's keyword list on 2026-09-20 for including the real original creator's name and a separate trademarked movie title. Never put a real living creator's name in this field, even in a biography/interview framing.
 - **Content note:** discusses character deaths and dark themes present in the source material; no explicit content of its own.

@@ -57,5 +57,14 @@ java -jar /usr/share/java/epubcheck.jar "Demon Slayer - Total Concentration.epub
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
 - **Categories:** ⚠️ KDP rejected the "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" category on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel") — this book is prose criticism *about* a manga, not a comic itself, and any category path with "Comics" or "Graphic Novels" in the breadcrumb is apparently not safe for that reason, even a criticism-of-comics subcategory. Needs a verified, non-Comics literary-criticism category as a replacement — check this against Chainsaw Man's and Attack on Titan's READMEs, which had the identical problem. The other two categories (Pop Culture General; Movies > Genre > Anime) were not flagged.
-- **Keywords to consider:** Demon Slayer analysis, Kimetsu no Yaiba, manga criticism, Koyoharu Gotouge, anime companion book, Infinity Castle
+- **KDP's 7-keyword field (each ≤50 characters):**
+  1. Kimetsu no Yaiba explained
+  2. Tanjiro Nezuko Zenitsu Inosuke
+  3. manga criticism nonfiction essay
+  4. swordsmith demon hunter guide
+  5. anime manga pop culture criticism
+  6. shonen manga finale analysis
+  7. Taisho era Japan folklore setting
+
+  ⚠️ Replaces an earlier list that included "Koyoharu Gotouge" (the real original creator's name) and "Infinity Castle" (a separate, trademarked movie title) — KDP rejected that list on 2026-09-20, citing "keywords that could mislead readers," which matches its own stated prohibited categories of "other authors' names" and "brands you don't own or aren't authorized to use." This new list avoids both: no real creator names, no other work's specific titles, and no words already duplicated from the title/subtitle. See the `kdp-ads-strategy` skill and the repo-root README for this lesson — it applies to every Naozane book's keyword field, not just this one.
 - **Content note:** discusses character deaths and dark themes present in the source material; no explicit content of its own.
