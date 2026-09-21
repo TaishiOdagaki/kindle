@@ -1,0 +1,24 @@
+---
+name: nihongo-kyoin-ads-strategy
+description: Use when reviewing Amazon Ads performance data (search term reports, campaign dashboards) for the "登録日本語教員試験" (Registered Japanese Language Teacher Exam) workbook series — a separate product line from this repo's Jiro Naozane manga/anime companion books, sharing the same "Sponsored ads - Author" Amazon Ads account. Use as a growing, dated log of what's actually worked for this specific book/series, not generic marketing advice. Keep this log separate from `kdp-ads-strategy`, which is scoped to the manga companion books only.
+---
+
+# Amazon Ads Strategy for the 登録日本語教員試験 Workbook Series
+
+This is a sibling skill to `kdp-ads-strategy` (same accumulate-real-knowledge-over-time approach, same discipline of dated log entries over generic advice) but for a genuinely different product: study workbooks for the Registered Japanese Language Teacher (登録日本語教員) national certification exam, not the manga/anime criticism books. Both product lines run through the same "Sponsored ads - Author" Amazon Ads account, so search-term reports and dashboard screenshots can get mixed up between them — always confirm which book/campaign a screenshot or CSV actually belongs to before analyzing it (this happened once already: a manga-book search-term review turned out to be this product's data instead).
+
+**Current title:** 登録日本語教員試験 決定版問題集 (the "decisive/definitive edition" workbook). A prior edition, marketed under a "パーフェクト2026" campaign, has since been discontinued/delisted — its ad data is historical reference only, not something to keep optimizing directly, but the keyword-level lessons from it still apply to the current edition.
+
+## What we've learned (dated log — add to this, don't just read it)
+
+- **2026-09-21 — analyzed the discontinued "パーフェクト2026" edition's full campaign history.** 371 impressions, 18 clicks, ¥850 spent, 3 orders, ¥1,365 sales, ROAS ≈ 1.61 over the campaign's life (2026-09-07 to 2026-09-12, ~5 days active). This is a real, converted campaign, not just noise — clear evidence the product category itself sells. Keyword-level breakdown was the useful part:
+  - **Branded/specific terms converted well**: "日本語教員試験 パーフェクト" (1 click, ¥31, 1 order — converted on the very first click), a direct ASIN hit "B0GQ2WMMJH" (1 click, ¥6, 1 order — extremely cheap conversion), and "日本語教員試験 問題集" (4 clicks, ¥238, 1 order, ROAS 1.91) all converted.
+  - **Broad/generic terms did not convert**: the bare term "日本語教員試験" alone (4 clicks, ¥148, 0 orders — highest volume of any term, zero return) and especially "登録日本語教員" (3 clicks, ¥220, 0 orders — the single worst cost-per-click of any term in the report, ~¥73/click, no conversions) burned real budget with nothing to show for it.
+  - **Takeaway carried forward to the current edition**: include the current book's own distinguishing name/edition marker ("決定版") as an explicit keyword, the same way "パーフェクト" worked for the prior edition — specific, branded search intent converts far better than generic category browsing for this product. Watch "登録日本語教員" (the bare term, no exam/edition qualifier) closely in the current campaign; historically it's been the worst-performing term and a negative-keyword candidate if the pattern repeats.
+- **2026-09-21 — current edition ("決定版問題集") campaign reviewed, still early.** 776 impressions, 13 clicks, ¥346 spent, 0 orders, over the campaign's first ~5 days (started 2026-09-16). Overall CTR ≈1.68%, healthy by Sponsored Products benchmarks. The dominant term so far is the bare "日本語教員試験" (504 impressions, 5 clicks alone) — the same generic term that never converted in the prior edition's data. No conversions yet, but volume is still low (13 clicks) and the prior edition also took several days and ~18 clicks before its first sale, so this isn't concerning on its own yet. Recommended: add "決定版" as an explicit keyword if not already targeted, and watch whether "登録日本語教員" (bare) repeats its poor performance from the prior edition — if so, negative-match it.
+
+## Open questions to resolve as more data comes in
+
+- List price and royalty tier for 決定版問題集 — not yet provided, needed to compute a real breakeven ROAS the way it was done for the manga books (~1.5 there, but that was for $2.99/70%-royalty ebooks; this product's economics may differ, especially if it's priced differently or sold in print too).
+- Whether adding "決定版" as a keyword actually reproduces the "パーフェクト" edition's conversion pattern, or whether that was specific to the prior edition's own branding/audience recognition — untested with real data yet.
+- Whether "登録日本語教員" (bare term) is worth an outright negative-match now (based on the prior edition's single data point) or worth watching a bit longer in the current campaign before acting — currently leaning toward the latter given how small the prior edition's own sample was (only 3 clicks on that exact term).
