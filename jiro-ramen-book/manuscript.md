@@ -211,3 +211,49 @@ Chapter 4 argued that the ordering ritual — the call, the unspoken rules, the 
 None of this is cynical, and none of it makes the food or the fandom around it less genuine. It's closer to the opposite: an operation built from the start around real constraints — a shop with limited staff, serving customers with limited money, needing to move a lot of food through a small space quickly — that turned those constraints into a set of rituals distinctive enough to become a subculture in their own right. The discomfort isn't a flaw the business tolerates. It's most of how the business survives.
 
 ---
+
+## CHAPTER 10: THE ANSWER
+
+This book opened with a question: is Ramen Jiro's intimidation a real barrier, or the whole point, dressed up as one? By now the honest answer is both, and the two halves aren't in tension the way the question implies they'd be.
+
+It's a real barrier. A first-time visitor genuinely can misjudge the call, genuinely can order more than they can finish, genuinely can feel the specific social discomfort of holding up a line of regulars who all know exactly what they're doing while they themselves don't. None of that is theater. Chapter 4 wasn't wrong to take the fear seriously — it's a documented, common, first-person experience, not an exaggeration.
+
+But every chapter after that one kept finding the same second layer underneath the first. The lineage taxonomy in Chapter 5 isn't gatekeeping for its own sake — it's how a specific technique and its fandom track authenticity across roughly forty independently run shops with no central quality control beyond shared training and reputation. The Jirolian fan culture in Chapter 6 isn't an accident that grew up around an intimidating restaurant despite the intimidation — the zombie-adjacent self-mythology, the pilgrimage circuit, the ranking blogs, all of it treats the difficulty of the experience as the actual substance of the devotion, not an obstacle to it. And Chapter 9 found the plainest version of the answer: the ritual that scares off first-timers is also, functionally, the exact mechanism that lets a handful of staff move an enormous amount of food through a small room fast enough to keep the business's famously low prices sustainable. Strip the intimidation out, and you don't get a friendlier version of the same restaurant. You get a restaurant that can't run the way this one runs.
+
+That's the actual finding this book keeps landing on, chapter after chapter, from a dozen different angles: the barrier and the point are the same thing, examined from two different distances. Close up, in the moment a newcomer is standing at the ticket machine trying to remember whether they're supposed to say something about garlic, it feels like an obstacle between them and a bowl of noodles. Stepped back far enough to see the whole system — the apprenticeship model that built the lineage, the fan culture that turned scrutiny into devotion, the throughput economics that kept a bowl this large this cheap for over half a century — the obstacle turns out to be the structure holding everything else up.
+
+None of that requires resolving whether the discomfort is worth it for any individual eating a bowl on any individual day — that's a question this book has deliberately left to the reader, the same way Chapter 7 left the calorie count as information rather than a verdict on anyone's choices. What this book can answer, and does, is the narrower question it actually opened with. The intimidation was never a flaw in an otherwise straightforward ramen shop. It's the shop.
+
+---
+
+## GLOSSARY
+
+A quick reference for the Japanese terms used throughout this book, gathered in one place rather than left scattered across chapters.
+
+- **Jiro-kei (二郎系)** — "Jiro-style": the broader category of ramen shops, whether direct-lineage or independent, that cook in the technique and spirit Ramen Jiro established. See Chapter 5.
+- **Chokkei (直系)** — "Direct lineage": the roughly forty shops formally connected to the original Mita shop through the apprenticeship-and-permission system described below, entitled to operate under the Ramen Jiro name itself. See Chapters 5 and 9.
+- **Inspaia-kei (インスパイア系)** — "Inspired-style": shops that cook in a style influenced by Jiro without any training lineage back to it, often taking more creative liberties with the format. See Chapter 5.
+- **Noren-wake (暖簾分け)** — Literally "splitting the shop curtain": the traditional Japanese apprenticeship custom by which a trained cook earns permission to open their own shop under a shared name and lineage. The actual mechanism behind Ramen Jiro's chokkei network. See Chapter 9.
+- **The call** — This book's own working term (not a single fixed Japanese phrase) for the moment a customer, once seated, states their topping preferences before the cook plates the bowl. See Chapter 4.
+- **Ninniku (ニンニク)** — Garlic, one of the four core call toppings.
+- **Yasai (野菜)** — Vegetables (cabbage and bean sprouts), another of the four core call toppings.
+- **Abura (アブラ)** — Back fat, another of the four core call toppings.
+- **Karame (カラメ)** — Extra-strong seasoning, another of the four core call toppings.
+- **Mashi (マシ) / mashi mashi (マシマシ)** — "Extra" / "double extra": the doubling terminology used to request more of any given topping during the call. See Chapter 4.
+- **Sōsui (総帥)** — "Supreme commander," the affectionate nickname Ramen Jiro's fan community gave founder Takumi Yamada. See Chapter 2.
+- **Jirorian (ジロリアン) / "Jirolian"** — The fandom's own name for its most devoted regulars. See Chapter 6.
+- **Junrei (巡礼)** — Pilgrimage: used within Jirolian culture to describe the practice of methodically working through the various chokkei and Jiro-kei branches. See Chapter 6.
+
+---
+
+## AFTERWORD: ON SHARING A NAME WITH THE SUBJECT
+
+A promise made in the "About the Author" note, back near the start of this book, was to address directly the coincidence between this author's pen name — Jiro Naozane — and the subject of the book that pen name has now been attached to.
+
+It is, genuinely, a coincidence, and a fairly ordinary one once explained rather than left to sound mysterious. "Jiro Naozane" was chosen as this pen name well before this particular book was conceived, across the earlier titles in this series covering anime and manga rather than ramen — the name was picked for how it read as a plausible Japanese author byline, not with this restaurant in mind at all. "Jiro" (次郎 or, elsewhere, 二郎) is simply a common Japanese given name, traditionally associated with second sons, and shows up constantly across unrelated contexts with no connection to each other whatsoever — a common name attached to a famous ramen shop, and the same common name attached to an unrelated pen name, is not the improbable overlap it might look like from outside Japan, where the name is rarer and reads as more distinctive than it actually is.
+
+Still, once the idea for this book existed — the fourth title from this pen name, and its first outside anime and manga criticism — the coincidence was too on-the-nose to leave unaddressed and hope nobody noticed. Better to name it plainly, here, than let a reader wonder if it was some kind of branding stunt. It wasn't. It's simply what happens when a common name and a well-chosen subject cross paths after the fact, and the honest response to that is a straightforward footnote, not an elaborate explanation.
+
+Thank you for reading this far into a book about a ramen shop that spent fifty years refusing to explain itself. If nothing else, this book owed its subject the opposite approach.
+
+*— Jiro Naozane*
