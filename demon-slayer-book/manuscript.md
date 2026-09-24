@@ -419,6 +419,12 @@ It's worth placing this specific moment at the end of a longer chain rather than
 
 ---
 
+## A QUICK FAVOR
+
+This book doesn't have a publisher or a marketing budget behind it — just an independent writer and whatever readers decide to tell each other. If it gave you a sharper way to talk about *Demon Slayer*, or a better answer the next time someone asks why this franchise broke every record twice, the single most useful thing you can do for it is leave a short rating or review on its Amazon page. It doesn't need to be long. A sentence is enough. It's how books like this one get found by the next reader wondering whether it's worth their time.
+
+---
+
 ## SPOILER MAP
 
 | Chapter | Tag | Notes |
@@ -479,3 +485,5 @@ I said in the introduction that I'd rather you argue with my answer than accept 
 If you came to this book already having watched the movies, I hope some of what's here changes how the next rewatch feels. If you came to it having read the manga years ago, I hope it was worth revisiting a story you already know the shape of. And if you're still, genuinely, waiting for Parts 2 and 3 to arrive, unspoiled, in their own time: I understand the instinct that kept you from Chapter 11, and I don't think it was the wrong call.
 
 Total concentration. That's the whole trick, on the page and off it.
+
+If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.

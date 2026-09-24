@@ -252,6 +252,12 @@ None of that requires resolving whether the discomfort is worth it for any indiv
 
 ---
 
+## A QUICK FAVOR
+
+This book doesn't have a publisher or a marketing budget behind it — just an independent writer and whatever readers decide to tell each other. If it changed how you'll order next time you're standing at a Jiro-kei ticket machine, the single most useful thing you can do for it is leave a short rating or review on its Amazon page. It doesn't need to be long. A sentence is enough. It's how books like this one get found by the next reader wondering whether it's worth their time.
+
+---
+
 ## GLOSSARY
 
 A quick reference for the Japanese terms used throughout this book, gathered in one place rather than left scattered across chapters.
@@ -282,5 +288,7 @@ It is, genuinely, a coincidence, and a fairly ordinary one once explained rather
 Still, once the idea for this book existed — the fourth title from this pen name, and its first outside anime and manga criticism — the coincidence was too on-the-nose to leave unaddressed and hope nobody noticed. Better to name it plainly, here, than let a reader wonder if it was some kind of branding stunt. It wasn't. It's simply what happens when a common name and a well-chosen subject cross paths after the fact, and the honest response to that is a straightforward footnote, not an elaborate explanation.
 
 Thank you for reading this far into a book about a ramen shop that spent fifty years refusing to explain itself. If nothing else, this book owed its subject the opposite approach.
+
+If it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
 
 *— Jiro Naozane*

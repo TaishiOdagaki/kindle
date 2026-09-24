@@ -550,6 +550,12 @@ None of that makes *Attack on Titan* solely responsible for either franchise's s
 
 ---
 
+## A QUICK FAVOR
+
+This book doesn't have a publisher or a marketing budget behind it — just an independent writer and whatever readers decide to tell each other. If it gave you a sharper way to argue about how this ending actually earned its own thesis, the single most useful thing you can do for it is leave a short rating or review on its Amazon page. It doesn't need to be long. A sentence is enough. It's how books like this one get found by the next reader wondering whether it's worth their time.
+
+---
+
 ## SPOILER MAP
 
 | Chapter | Content Warning |
@@ -602,4 +608,6 @@ I said at the start that I'd rather you argue with my answer than accept it, and
 If you came to this book already certain the ending was a masterpiece, I hope the pacing critique in Chapter 15 at least gave you a specific, arguable version of the other side rather than a vague complaint to dismiss. If you came to it already certain the ending was a betrayal, I hope Chapter 3's look at what the story was actually trying to do with its historical material complicates that certainty a little. And if you came to it worried about the nationalism question specifically, I hope this book handled it the way it deserved to be handled: seriously, with sources, and without pretending the argument is settled when it isn't.
 
 The world in this story is cruel. Whether it's also beautiful is a line this book was careful not to put in anyone's mouth without being sure who actually said it first. Read it yourself, and decide.
+
+If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
 
