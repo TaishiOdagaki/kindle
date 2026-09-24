@@ -9,7 +9,7 @@ All four books in this series (Chainsaw Man, Demon Slayer, Attack on Titan, Rame
 ## What's done
 
 - **In-book review asks added** (2026-09-24): each book now has two asks — a short "A QUICK FAVOR" section right after the final content chapter (before the Spoiler Map / Glossary back matter, so it's seen even by readers who don't read every back-matter page) and a one-line reminder at the very end of the Afterword. All four EPUBs regenerated via the documented pandoc command and validated clean with epubcheck (0 errors/warnings each).
-- **⚠️ Chainsaw Man is already live on KDP.** Regenerating the EPUB in this repo does not update the published listing — the updated `.epub` file needs to be manually re-uploaded via KDP's "Edit Paperback/eBook Content" flow for the review ask to actually reach readers. Demon Slayer, Attack on Titan, and Ramen Jiro are pre-publication, so their updated EPUBs are already what will ship.
+- **⚠️ Chainsaw Man, Demon Slayer, and Attack on Titan are all already live on KDP** (corrected 2026-09-24 — this repo's top-level README previously and incorrectly listed the latter two as "Ready for KDP upload"; all three are published). Regenerating the EPUB in this repo does not update an already-published listing — each of these three needs its updated `.epub` file manually re-uploaded via KDP's "Edit eBook Content" flow for the review ask to actually reach readers. Only Ramen Jiro is genuinely pre-publication (cover art still not finalized), so its updated EPUB is already what will ship once it's uploaded for the first time.
 
 ## What's drafted, not yet posted: public fan-community callouts
 
