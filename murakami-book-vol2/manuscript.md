@@ -118,16 +118,18 @@ What makes *1Q84* worth treating as a distinct kind of event, rather than simply
 
 **Murakami Haruki Children**
 
-By the 2000s, Murakami's influence on other Japanese writers had become visible enough to earn its own shorthand. Novelist Takayuki Honda is one of the writers most often described, in Japanese literary commentary, as part of a loose group nicknamed "Murakami Haruki Children" (村上春樹チルドレン),[^10] a label pointing to recognizable traces of Murakami's prose habits, metaphor style, and recurring motifs showing up in a younger generation's own fiction. It's a slightly reductive label, the kind critics reach for when a stylistic fingerprint becomes common enough to name, but the underlying observation, that Murakami's particular way of building a sentence had become something other writers were visibly working with or against, is a real one.
+By the 2000s, Murakami's influence on other Japanese writers had become visible enough to earn its own shorthand. Novelists Takayuki Honda and Yoshio Ōsaki are among the writers most often described, in Japanese literary commentary, as part of a loose group nicknamed "Murakami Haruki Children" (村上春樹チルドレン),[^10] a label pointing to recognizable traces of Murakami's prose habits, metaphor style, and recurring motifs showing up in a younger generation's own fiction: in Ōsaki's case, a similarly spare, melancholic prose built around loss and quiet recovery. It's a slightly reductive label, the kind critics reach for when a stylistic fingerprint becomes common enough to name, but the underlying observation, that Murakami's particular way of building a sentence had become something other writers were visibly working with or against, is a real one.
 
 **Beyond the Page**
 
 The influence wasn't confined to prose fiction. The animation director Makoto Shinkai has said directly, in magazine interviews, that Murakami's work shaped his own.[^11] It's a detail worth pausing on for what it says about how far this influence actually traveled: a writer whose entire early reputation rested on being told his prose sounded too foreign for serious Japanese literature ended up shaping the sensibility of one of the defining animation directors of a later generation, in a completely different medium, working in the same emotionally spare, quietly melancholic register Murakami had spent decades building in prose.
 
-[^10]: The "Murakami Haruki Children" (村上春樹チルドレン) label, applied to Takayuki Honda and other younger Japanese novelists, appears throughout Japanese literary commentary on Murakami's domestic influence.
+[^10]: The "Murakami Haruki Children" (村上春樹チルドレン) label, applied to novelists including Takayuki Honda and Yoshio Ōsaki, appears throughout Japanese literary commentary on Murakami's domestic influence.
 [^11]: Director Makoto Shinkai has discussed Murakami's influence on his own work in Japanese magazine interviews.
 
 None of this is to claim Murakami invented contemporary Japanese literary sensibility single-handedly, and this book won't pretend the influence runs in only one direction or that every writer working in a Murakami-adjacent register owes him a direct debt. But by the time *1Q84* had turned into a scheduled national event, the writer whose own literary establishment had spent two decades questioning whether his prose belonged to any recognizable Japanese tradition had become, for a younger generation of writers and artists, something closer to a tradition of his own.
+
+---
 
 ## CHAPTER 7: A GENERATION'S DEFAULT MODE
 
@@ -164,7 +166,7 @@ Whether that trade was worth it, from the inside, isn't a question this volume c
 
 - **Shakai-ha (社会派)** — "Socially engaged": the term critic Saburō Kawamoto used, with real suspicion, to describe Murakami's turn toward direct engagement with real events after *Underground*. See Chapter 3.
 - **Detachment (デタッチメント) / Commitment (コミットメント)** — Murakami's own paired terms, discussed in a published dialogue with psychologist Hayao Kawai, for the ethical stance running through his early fiction (a deliberate distance from ideology, rooted in his disillusionment with the failed 1960s student movement) and the shift toward direct social engagement he located around 1995. See Chapters 3 and 7.
-- **Murakami Haruki Children (村上春樹チルドレン)** — A loose critical label for younger Japanese writers, including Takayuki Honda, whose prose shows visible traces of Murakami's style, metaphor habits, and recurring motifs. See Chapter 6.
+- **Murakami Haruki Children (村上春樹チルドレン)** — A loose critical label for younger Japanese writers, including Takayuki Honda and Yoshio Ōsaki, whose prose shows visible traces of Murakami's style, metaphor habits, and recurring motifs. See Chapter 6.
 - **The Sheep tetralogy** — An alternate grouping, used by some readers and critics, of *Hear the Wind Sing*, *Pinball, 1973*, *A Wild Sheep Chase*, and *Dance Dance Dance* as a four-book unit, as distinct from the narrower "Trilogy of the Rat" covering only the first three. See Chapter 1 and Volume One, Chapter 5.
 
 ## A NOTE ON WHAT COMES NEXT
@@ -203,7 +205,7 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Contemporary Japanese press coverage of the May 29, 2009 release and the Mainichi Publishing Culture Award.
 
 **Chapter 6: The Writers Who Read Him First**
-- Japanese literary commentary on the "Murakami Haruki Children" (村上春樹チルドレン) label and novelist Takayuki Honda.
+- Japanese literary commentary on the "Murakami Haruki Children" (村上春樹チルドレン) label and novelists Takayuki Honda and Yoshio Ōsaki.
 - Director Makoto Shinkai's published interview statements on Murakami's influence on his own work.
 
 **Chapter 7: A Generation's Default Mode**

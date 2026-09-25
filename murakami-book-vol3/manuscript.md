@@ -66,6 +66,8 @@ This is worth placing against everything the earlier volumes of this series have
 [^3]: MCLC Resource Center, "Murakami novel acknowledges Nanjing Massacre" (2017); *People's Daily Online*, "Murakami novel acknowledges Nanjing Massacre, sets off online frenzy" (March 3, 2017), both reporting the Nanjing Massacre Memorial Hall's official Weibo response.
 [^4]: Domestic Japanese criticism of the passage, including from Naoki Hyakuta and Makoto Sakurai, and coverage in the *Sankei Shimbun*, is documented in contemporary Japanese and English-language reporting on the novel's reception, including the MCLC Resource Center account cited above.
 
+---
+
 ## CHAPTER 3: THE BOOK HE WENT BACK TO FINISH, TWICE
 
 **An Origin Story Longer Than the Book Itself**
@@ -92,13 +94,13 @@ Every October, for the better part of two decades now, some section of the Japan
 
 **What the Sealed Records Actually Say**
 
-Here's the detail that genre of coverage tends to skip past: the Nobel Prize in Literature doesn't publish its shortlist. Nominees are kept sealed for fifty years under the prize's own rules, occasionally surfacing only long after the fact.[^6] There is no public, official list confirming Murakami has ever actually been a Nobel finalist in any specific year, because that information simply isn't released while any candidate is alive to read it. What actually exists, and what actually drives the annual headlines, is something considerably less authoritative: British bookmakers running ordinary betting markets on the prize, the same kind of speculative odds-setting they'd apply to a horse race or an election, with Murakami's name routinely appearing near the top at odds in the range of roughly 7 to 1 or 12 to 1 depending on the site and the year. Japanese media coverage has spent two decades treating those betting odds as though they were a genuine signal from inside the Swedish Academy's actual deliberations, when they're really just a reflection of which names casual bettors, and the oddsmakers pricing their bets, recognize.
+Here's the detail that genre of coverage tends to skip past: the Nobel Prize in Literature doesn't publish its shortlist. Nominees are kept sealed for fifty years under the prize's own rules, occasionally surfacing only long after the fact.[^6] There is no public, official list confirming Murakami has ever actually been a Nobel finalist in any specific year, because that information simply isn't released while any candidate is alive to read it. What actually exists, and what actually drives the annual headlines, is something considerably less authoritative: British bookmakers running ordinary betting markets on the prize, the same kind of speculative odds-setting they'd apply to a horse race or an election, with Murakami's name a fixture near the top of that market for over a decade, at odds that have swung considerably from year to year, from as short as 3 to 1 to as long as 16 to 1 depending on the bookmaker and the season.[^6] Japanese media coverage has spent two decades treating those betting odds as though they were a genuine signal from inside the Swedish Academy's actual deliberations, when they're really just a reflection of which names casual bettors, and the oddsmakers pricing their bets, recognize.
 
 **Betting Odds Aren't a Signal From Stockholm**
 
 None of which means the underlying question, why hasn't he won, isn't worth asking on its own terms, separate from the bookmaker theater built up around it. One recurring explanation among Japanese commentators who've tracked the prize closely points to changes in the Swedish Academy's own membership over the years, and the corresponding shift in the kind of writer and the kind of work that membership has tended to recognize. That's a real, structural, institutional explanation, and a considerably less satisfying one than "he keeps almost winning," because it suggests the more accurate framing was never about Murakami's own work falling just short year after year. It's that an entire domestic media cycle built a two-decade-long "will he finally win" narrative on top of a betting market that was never actually reporting anything about the prize at all.
 
-[^6]: The Nobel Prize's nomination records are sealed for fifty years under its own rules; as of this writing, only nominations submitted through 1975 have been publicly released. Kōbō Abe, who died in 1993, was widely regarded at the time as one of the Japanese writers closest to winning the prize, though the nomination records confirming any specific consideration remain sealed until decades after this book's publication.
+[^6]: The Nobel Prize's nomination records are sealed for fifty years under its own rules; as of this writing, only nominations submitted through 1975 have been publicly released. Kōbō Abe, who died in 1993, was widely regarded at the time as one of the Japanese writers closest to winning the prize, though the nomination records confirming any specific consideration remain sealed until decades after this book's publication. On the betting markets themselves: British bookmaker Ladbrokes has listed Murakami among the favorites in most years since at least 2011, at odds that have ranged from roughly 16 to 1 (2011) to 3 to 1 (2013) to 14 to 1 (2024), among other years in between — a spread wide enough on its own to show the odds are tracking public speculation, not any actual signal from the Swedish Academy.
 
 ---
 
@@ -149,6 +151,8 @@ He returned, twice now, to the realist register he first used to signal a delibe
 **Not the Profile of a Writer Fully Absorbed Into Safety**
 
 None of that is the profile of a writer who's been fully absorbed into safety. A writer that safe doesn't publish a passage that gets him denounced by name in his own country's press. He doesn't spend his seventies rewriting his own earliest, most personally damning verdict on his own work rather than letting it stand. The specific shape of the outsider status changed completely across the four and a half decades this series has covered: from a debut novelist accused of sounding too foreign for serious Japanese literature, to a writer whose own historical honesty made him a target for a different kind of domestic hostility, to a man in his seventies still dissatisfied enough with his own oldest unfinished business to go back and fix it in public. What stayed constant, underneath every one of those different shapes, is a writer who never fully settled into being comfortable, at home, in his own country's literary establishment, even once that establishment's opinion had stopped being able to slow him down at all.
+
+---
 
 ## CHAPTER 8: VERDICT — SERIES CONCLUSION
 
@@ -202,6 +206,7 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 **Chapter 4: The Nobel Bet That Never Pays Off**
 - Nobel Prize official records on the nomination and selection process for the Nobel Prize in Literature, including its fifty-year confidentiality rule (nobelprize.org).
 - Nippon.com, "Champions and Candidates: Japan and the Nobel Prize in Literature," on Kōbō Abe's standing as a Nobel contender at the time of his death in 1993.
+- Contemporary press coverage of Ladbrokes' Nobel Prize in Literature odds on Murakami across multiple years, including *Time* (2014) and reporting on the 2024 and 2025 betting markets, cited for the actual range those odds have covered.
 
 **Chapter 5: The Adaptation That Went Further Than the Oscars Ever Had**
 - Murakami Haruki, *Men Without Women* [女のいない男たち] (Tokyo: Bungeishunjū, 2014), source collection for *Drive My Car*.
