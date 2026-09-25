@@ -14,7 +14,7 @@ Where a claim about a living person's stated intentions, private life, or ongoin
 
 ## About the Author
 
-Tyler Atsumori is an independent researcher and literary critic writing on modern Japanese fiction for an international audience, after studying Japanese literature at university, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. This book draws directly on Japanese-language sources: literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays that have shaped how he's actually been read and argued about at home, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 

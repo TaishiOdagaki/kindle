@@ -12,7 +12,7 @@ This is the second of three volumes of independent literary criticism and resear
 
 ## About the Author
 
-Tyler Atsumori is an independent researcher and literary critic writing on modern Japanese fiction for an international audience. This volume, like the first, draws directly on Japanese-language sources: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 
