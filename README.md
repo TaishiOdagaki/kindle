@@ -10,8 +10,8 @@ Independent, self-published Kindle books about Japanese pop culture, written for
 |---|---|---|---|
 | *The Japan They Never Told You* | [`book/`](book/) | Draft manuscript | (none yet — unsigned) |
 | *Chainsaw Man: The Devil in the Details* | [`chainsaw-man-book/`](chainsaw-man-book/) | **Published** | Jiro Naozane (pen name) |
-| *Demon Slayer: Total Concentration* | [`demon-slayer-book/`](demon-slayer-book/) | Ready for KDP upload | Jiro Naozane (pen name) |
-| *Attack on Titan: The Price of Freedom* | [`attack-on-titan-book/`](attack-on-titan-book/) | Ready for KDP upload | Jiro Naozane (pen name) |
+| *Demon Slayer: Total Concentration* | [`demon-slayer-book/`](demon-slayer-book/) | **Published** | Jiro Naozane (pen name) |
+| *Attack on Titan: The Price of Freedom* | [`attack-on-titan-book/`](attack-on-titan-book/) | **Published** | Jiro Naozane (pen name) |
 | *Ramen Jiro: The Cult of Tokyo's Most Intimidating Bowl* | [`jiro-ramen-book/`](jiro-ramen-book/) | Manuscript audited, EPUB built — cover art still needed | Jiro Naozane (pen name) |
 
 Each book folder has its own `README.md` with publishing notes, KDP conversion instructions, and a pre-publish checklist specific to that title.

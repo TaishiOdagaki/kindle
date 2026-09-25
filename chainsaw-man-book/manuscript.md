@@ -407,6 +407,12 @@ I get asked, more than almost any other question, whether *Chainsaw Man* is wort
 
 ---
 
+## A QUICK FAVOR
+
+This book doesn't have a publisher or a marketing budget behind it — just an independent writer and whatever readers decide to tell each other. If it gave you a sharper way to talk about *Chainsaw Man*, or changed how you'll read Part 2 on a reread, the single most useful thing you can do for it is leave a short rating or review on its Amazon page. It doesn't need to be long. A sentence is enough. It's how books like this one get found by the next reader who's wondering whether it's worth their time.
+
+---
+
 ## SPOILER MAP
 
 A quick reference for what each chapter covers, matched against where the anime currently stands (Season 1 + *Reze Arc* movie, as of this writing).
@@ -464,3 +470,5 @@ I started this book wanting to explain why an ending I found upsetting also felt
 I don't know what Fujimoto does next, and after eight years of getting his choices wrong in my own head before every major arc, I've mostly stopped trying to predict him. What I do know is that whatever it is, it'll probably promise one kind of story and spend its whole runtime quietly declining to give you the version of that promise you expected. That's been true of everything he's made so far. I don't see why it would stop being true now.
 
 Keep on dreaming. That's the whole book, really, in three words that weren't mine to begin with.
+
+If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
