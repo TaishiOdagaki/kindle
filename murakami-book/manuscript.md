@@ -14,7 +14,7 @@ Where a claim about a living person's stated intentions, private life, or ongoin
 
 ## About the Author
 
-Jiro Naozane is an independent researcher and writer covering Japanese culture (anime, manga, food culture, and now literature) for over a decade, after studying Japanese culture at university, where a student research circle turned casual curiosity into something closer to an ongoing project. This book draws directly on Japanese-language sources: literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays that have shaped how he's actually been read and argued about at home, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori is an independent researcher and literary critic writing on modern Japanese fiction for an international audience, after studying Japanese literature at university, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. This book draws directly on Japanese-language sources: literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays that have shaped how he's actually been read and argued about at home, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 

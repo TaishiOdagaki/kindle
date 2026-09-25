@@ -12,7 +12,7 @@ This is the second of three volumes of independent literary criticism and resear
 
 ## About the Author
 
-Jiro Naozane is an independent researcher and writer covering Japanese culture (anime, manga, food culture, and literature) for over a decade. This volume, like the first, draws directly on Japanese-language sources: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori is an independent researcher and literary critic writing on modern Japanese fiction for an international audience. This volume, like the first, draws directly on Japanese-language sources: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 
