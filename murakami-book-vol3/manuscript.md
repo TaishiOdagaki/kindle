@@ -1,0 +1,57 @@
+# MURAKAMI, UNFINISHED
+
+### The Late Novels, the Nobel Bet, and a Writer Who Never Stopped Being Read as an Outsider — Volume Three of a Critical Companion, From a Japanese Researcher to Readers Who Only Know Him in English
+
+*A Japanese Culture Press Book*
+
+---
+
+## A Note Before You Begin
+
+This is the third and final volume of independent literary criticism and research about the writer Haruki Murakami and his work, covering roughly 2013 to the present. It is not affiliated with, endorsed by, or representing Murakami himself, his publishers, or any of his translators. No extended passages from Murakami's novels or essays are reproduced here; quotations are kept brief and used for critical commentary, consistent with fair-use practice for literary criticism. This volume discusses a real, ongoing historical and political controversy involving the Nanjing Massacre, a real historical atrocity that mainstream historians do not seriously dispute occurred, though the precise casualty figures remain a genuine subject of academic debate; the treatment here is sourced to multiple outlets and written with care given how reputationally and politically sensitive this category of claim is. Readers new to this series may want to start with Volume One, *Murakami, Untranslated*, and Volume Two, *Murakami, Everywhere*.
+
+## About the Author
+
+Jiro Naozane is an independent researcher and writer covering Japanese culture (anime, manga, food culture, and literature) for over a decade. This volume, like the first two, draws directly on Japanese-language sources: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, alongside the English-language reception more familiar to this book's readers.
+
+## How to Read This Book
+
+Volume Two ended in 2010, with Murakami's earlier private alienation turned into a generation's shared vocabulary and a single novel treated as a scheduled national event. This volume follows him through the past decade and more: a return to the deliberately realist register he first tried with *Norwegian Wood*, a direct and politically costly engagement with a disputed chapter of Japan's own wartime history, a late-career return to unfinished business from his own earliest writing, and the strange, ongoing spectacle of being literature's most reliable Nobel Prize bridesmaid.
+
+---
+
+## THE QUESTION THIS VOLUME IS TRYING TO ANSWER
+
+Twenty years after Japan's literary establishment decided Murakami's prose sounded too foreign to belong to its own tradition, and a full career after he built an entire international reputation out of that same not-quite-belonging: is there anything left for a writer this large, this studied, this translated, to actually risk, or has "Murakami" become too big a name to ever sound like an outsider again?
+
+---
+
+## CHAPTER 1: THE RETURN TO REALISM, AGAIN
+
+*Colorless Tsukuru Tazaki and His Years of Pilgrimage* (色彩を持たない多崎つくると、彼の巡礼の年), Murakami's thirteenth novel, was published on April 12, 2013, and readers who came to it expecting another *1Q84*-scale structural experiment found something considerably plainer: a contained, grounded, unusually readable story about a man confronting, decades later, why four childhood friends cut him off without explanation. Critics reviewing it at the time noted, with some surprise, just how firmly the book was rooted in realism, a comparatively straightforward "Murakami world" next to the genre-bending architecture of *1Q84* or *Kafka on the Shore*.
+
+That description should sound familiar by now. It's close to the exact language critics reached for describing *Norwegian Wood* in 1987, and the parallel isn't superficial. Both are relatively short, tightly focused novels about a protagonist working through a specific, unresolved loss from his own past, told in a stripped-down realist mode that stands out precisely because it's surrounded, on both sides of the timeline, by Murakami's more surreal work. But the comparison critics have drawn between the two books points to a real difference in what each one actually does with its loss. *Norwegian Wood* is a story that keeps losing, an accumulation of deaths and absences the narrator never quite recovers from by the book's own close. *Colorless Tsukuru Tazaki*, by contrast, has been read as a story of recovery: the same basic architecture, wound and unresolved grief triggering a first-person reckoning, but built this time toward something closer to repair.
+
+It's worth asking what it means that a writer would go back to the same realist register twice, roughly a quarter-century apart, at two very different points in his own career. In 1987, the turn to realism was a deliberate departure, a "100% realism novel" he wrote specifically to signal distance from the surreal registers of *A Wild Sheep Chase* and *Hard-Boiled Wonderland*, as Volume One of this series covered in detail. By 2013, the same move reads less like a departure from anything and more like a tool he now simply has available, one register among several rather than a statement about which kind of writer he's trying to prove himself to be. A writer only gets to make that kind of move without it looking like retreat once he's spent enough decades proving he can do the other thing too.
+
+---
+
+## CHAPTER 2: PAINTING OVER THE PAST
+
+*Killing Commendatore* (騎士団長殺し), published in Japan on February 24, 2017, is a long, formally strange novel about a portrait painter and a mysterious painting come partially to life, and it would be an unusual book to build a chapter about real-world political controversy around, except for one passage. A character in the novel refers, in passing, to the Nanjing Massacre, the mass killing and widespread atrocities committed by Imperial Japanese forces after the capture of Nanjing in December 1937, and cites an estimate of roughly 400,000 victims. That the massacre itself occurred is not a matter of serious dispute among mainstream historians in Japan or internationally; what remains genuinely, academically contested is the precise death toll, with published estimates ranging considerably depending on methodology and which killings and time period are counted. The "400,000" figure the novel's character cites sits at the high end of that disputed range rather than representing some fabricated invention on Murakami's part, but it was also, predictably, not a neutral number to put on the page in Japan in 2017.
+
+The reaction split along entirely predictable lines. The Nanjing Massacre Memorial Hall in China responded through its official social media account with approval, characterizing Murakami's willingness to name the event directly as a writer facing his own country's history honestly. In Japan, the passage drew direct, public criticism from figures including novelist Naoki Hyakuta and Makoto Sakurai, the former leader of Zaitokukai, a real, documented ultranationalist organization whose name translates roughly to "citizens against special privileges for [ethnic] Koreans in Japan" and whose activity has centered on anti-Korean-resident rhetoric; online backlash from further right-wing commentators followed the same pattern. What's arguably more telling than either reaction is a detail that isn't really a reaction at all: despite the novel's substantial commercial success, mainstream Japanese media coverage largely avoided any sustained, substantive discussion of what the book was actually doing with this material, a silence some observers at the time read as its own kind of statement about how uncomfortable the subject still was for outlets unwilling to either defend or attack Murakami's choice directly.
+
+This is worth placing against everything the earlier volumes of this series have already traced. A writer whose 1979 debut was dismissed as too imitative of foreign fiction to count as serious Japanese literature, who spent the 1990s proving, through *The Wind-Up Bird Chronicle*'s Nomonhan material, that his surreal register could hold real historical weight, used one supporting character's single aside in a 2017 novel to state a plain, historically uncontroversial fact that a meaningful share of his own domestic readership still found genuinely difficult to hear. The specific number he chose to cite may sit at the higher end of a real academic range, but the underlying claim it was attached to, that the massacre happened at all, was never actually the part in dispute. It just wasn't a small thing to write down and publish under his own name, at that particular moment, in that particular country, and, at nearly seventy years old and three decades past his own literary establishment's harshest early verdicts, he did it anyway.
+
+---
+
+## CHAPTER 3: THE BOOK HE WENT BACK TO FINISH, TWICE
+
+*The City and Its Uncertain Walls* (街とその不確かな壁), published April 13, 2023, is a roughly 1,200-manuscript-page novel with an origin story considerably longer than the book itself. It starts in 1980, when Murakami published a novella called *The Town, and Its Uncertain Wall* (街と、その不確かな壁, note the comma his later title drops), his own account of which has never been kind: he's described the piece as published in an unsatisfying, half-finished shape, and has said outright, in later interviews, that the novella was "a failure," that he "shouldn't have written it" in the form it took. That's an unusually harsh verdict for a writer to pass on his own published work, and it's worth taking seriously rather than reading as false modesty.
+
+Readers of Volume One of this series already know where the next part of this story goes, even if they don't know it yet. In 1985, dissatisfied with how that 1980 novella had turned out, Murakami reworked its core material into *Hard-Boiled Wonderland and the End of the World*, the same novel this series' first volume examined closely for its split *watashi*/*boku* narration, the walled, seasonless Town guarded by golden beasts belonging specifically to the *boku* half of that book's divided narrator. Even that second pass didn't fully settle the matter for him. He's since said he felt he'd rushed it, that he wished he'd let the material sit for another two years before publishing again. The dissatisfaction that started with a 1980 novella he called a failure survived one full novel built to work through it and still wasn't resolved.
+
+The 2023 novel is the third attempt at the same underlying material, more than four decades after the first one, and it's worth pausing on what that persistence actually says. This isn't a writer returning to old material because he's run out of new ideas this late in his career; everything else in this volume argues the opposite, a writer still willing to take on real historical risk and real formal experiment well into his seventies. It's something closer to unfinished business in the most literal sense available to a novelist: a walled town he first imagined at thirty-one, rebuilt at thirty-six inside one of his most acclaimed early novels, and still didn't feel he'd gotten right until he came back a third time, at seventy-four, to finish it properly. Few writers get handed the chance to revise the same founding image of their own career three separate times, decades apart, in full public view. Fewer still would have the nerve to call the first two attempts failures on the way to the third.
+
+---
