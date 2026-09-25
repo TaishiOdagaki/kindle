@@ -4,17 +4,9 @@
 
 *A Japanese Culture Press Book*
 
+*This is an independent, unauthorized work of literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*
+
 ---
-
-## A Note Before You Begin
-
-This book is an independent work of literary criticism and research about the writer Haruki Murakami and his work. It is not affiliated with, endorsed by, or representing Murakami himself, his publishers (Kodansha, Shinchosha, and others in Japan; Knopf and Vintage in English translation), or any of his translators. No extended passages from Murakami's novels or essays are reproduced here; quotations are kept brief and used for critical commentary, consistent with fair-use practice for literary criticism.
-
-Where a claim about a living person's stated intentions, private life, or ongoing career could plausibly have changed or been characterized differently elsewhere, that is noted directly in the text rather than smoothed into false certainty.
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 
@@ -264,3 +256,9 @@ This volume draws on Murakami's own novels and essays, on the published jury com
 - Murakami's own published accounts of his time in Greece and Italy, 1986–1989.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.

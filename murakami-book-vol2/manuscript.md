@@ -4,15 +4,9 @@
 
 *A Japanese Culture Press Book*
 
+*This is the second of three volumes of independent, unauthorized literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*
+
 ---
-
-## A Note Before You Begin
-
-This is the second of three volumes of independent literary criticism and research about the writer Haruki Murakami and his work, covering roughly 1988 to 2010. It is not affiliated with, endorsed by, or representing Murakami himself, his publishers, or any of his translators. No extended passages from Murakami's novels or essays are reproduced here; quotations are kept brief and used for critical commentary, consistent with fair-use practice for literary criticism. Readers new to this series may want to start with Volume One, *Murakami, Untranslated*, which covers his 1979–1987 debut period and lays out the central argument this volume builds on: that the "translated-sounding" quality of Murakami's prose was a technique he built deliberately, not an accident of influence.
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 
@@ -30,7 +24,7 @@ How did one writer's very specific, private sense of loneliness end up as the em
 
 **A Sequel Six Years Late**
 
-*Dance Dance Dance* (ダンス・ダンス・ダンス), published in October 1988,[^1] is a strange kind of sequel. Six years had passed since *A Wild Sheep Chase*, and the narrator picking the story back up is recognizably the same *boku* from the earlier trilogy, older now, still haunted by the same hotel, the same sheep-obsessed conspiracy, and the same friend, the Rat, who by the end of *A Wild Sheep Chase* was already dead. Some readers and critics group all four books together as a loose "Sheep" tetralogy rather than treating the earlier three as a closed trilogy with this one bolted on afterward; either way, this is the book where Murakami went back to close a door he'd left open six years earlier, in a considerably different register than the one he'd left it in.
+*A Wild Sheep Chase* had ended with the narrator's closest friend dead, and Murakami had said nothing about him since. Six years is a long time to leave a body unaccounted for, and when Murakami finally did go back for it, readers expecting a straightforward continuation of the Rat trilogy got something considerably stranger. *Dance Dance Dance* (ダンス・ダンス・ダンス), published in October 1988,[^1] is a strange kind of sequel. The narrator picking the story back up is recognizably the same *boku* from the earlier trilogy, older now, still haunted by the same hotel, the same sheep-obsessed conspiracy, and the same friend, the Rat, who by the end of *A Wild Sheep Chase* was already dead. Some readers and critics group all four books together as a loose "Sheep" tetralogy rather than treating the earlier three as a closed trilogy with this one bolted on afterward; either way, this is the book where Murakami went back to close a door he'd left open six years earlier, in a considerably different register than the one he'd left it in.
 
 The tone has shifted along with the years. Where *A Wild Sheep Chase* built its plot around a dense, heavy political allegory, *Dance Dance Dance* is a more polished, psychologically interior novel about a specific kind of late-1980s emptiness: a freelance writer drifting through Tokyo's hyper-consumerist boom years, doing hollow corporate work he doesn't believe in, entering a city that's been renovated past recognition since he last paid attention to it. The Rat is gone. The friend who anchored the earlier trilogy's structure, whose parallel chapters and possible status as a split-off piece of the narrator's own psyche drove so much of *Pinball, 1973*'s formal experiment, is simply absent from this book, present only as something the narrator has to learn to live without. In his place is the Sheep Man (羊男), a recurring figure from *A Wild Sheep Chase* who returns here as something closer to a guide through grief than a plot device, telling the narrator, in effect, to keep dancing, to keep moving, because stopping is the actual danger.
 
@@ -213,3 +207,9 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Norihiro Katō's published critical writing on Murakami, cited for his objection to the "detachment" framing.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.

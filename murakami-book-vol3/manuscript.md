@@ -4,15 +4,9 @@
 
 *A Japanese Culture Press Book*
 
+*This is the third and final volume of independent, unauthorized literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*
+
 ---
-
-## A Note Before You Begin
-
-This is the third and final volume of independent literary criticism and research about the writer Haruki Murakami and his work, covering roughly 2013 to the present. It is not affiliated with, endorsed by, or representing Murakami himself, his publishers, or any of his translators. No extended passages from Murakami's novels or essays are reproduced here; quotations are kept brief and used for critical commentary, consistent with fair-use practice for literary criticism. This volume discusses a real, ongoing historical and political controversy involving the Nanjing Massacre, a real historical atrocity that mainstream historians do not seriously dispute occurred, though the precise casualty figures remain a genuine subject of academic debate; the treatment here is sourced to multiple outlets and written with care given how reputationally and politically sensitive this category of claim is. Readers new to this series may want to start with Volume One, *Murakami, Untranslated*, and Volume Two, *Murakami, Everywhere*.
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first two, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ## How to Read This Book
 
@@ -30,7 +24,7 @@ Twenty years after Japan's literary establishment decided Murakami's prose sound
 
 **A Plainer Book Than Expected**
 
-*Colorless Tsukuru Tazaki and His Years of Pilgrimage* (色彩を持たない多崎つくると、彼の巡礼の年), Murakami's thirteenth novel, was published on April 12, 2013,[^1] and readers who came to it expecting another *1Q84*-scale structural experiment found something considerably plainer: a contained, grounded, unusually readable story about a man confronting, decades later, why four childhood friends cut him off without explanation. Critics reviewing it at the time noted, with some surprise, just how firmly the book was rooted in realism, a comparatively straightforward "Murakami world" next to the genre-bending architecture of *1Q84* or *Kafka on the Shore*.
+After *1Q84*'s two alternate Tokyos, its cult, its rewritten fairy tale, and its two moons in one sky, readers had reason to expect Murakami's next novel to go even further out. It went the other way entirely. *Colorless Tsukuru Tazaki and His Years of Pilgrimage* (色彩を持たない多崎つくると、彼の巡礼の年), Murakami's thirteenth novel, published on April 12, 2013,[^1] is a contained, grounded, unusually readable story about a man confronting, decades later, why four childhood friends cut him off without explanation. Critics reviewing it at the time noted, with some surprise, just how firmly the book was rooted in realism, a comparatively straightforward "Murakami world" next to the genre-bending architecture of *1Q84* or *Kafka on the Shore*.
 
 **The Same Register, a Different Kind of Loss**
 
@@ -45,6 +39,8 @@ It's worth asking what it means that a writer would go back to the same realist 
 ---
 
 ## CHAPTER 2: PAINTING OVER THE PAST
+
+*A note on this chapter: it discusses the Nanjing Massacre, a real historical atrocity that mainstream historians do not seriously dispute occurred, though the precise casualty figures remain a genuine subject of academic debate. The treatment here is sourced to multiple outlets and written with care given how reputationally and politically sensitive this category of claim is.*
 
 **A Novel About a Painting, With One Thread of History Running Through It**
 
@@ -218,3 +214,9 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 - Tamkang University Murakami Haruki Research Center, program materials for the 14th International Murakami Haruki Symposium, Kyoto University, July 5–6, 2025.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here. Given the sensitivity of the material in Chapter 2, that chapter in particular was checked against multiple independent sources before publication.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first two, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
