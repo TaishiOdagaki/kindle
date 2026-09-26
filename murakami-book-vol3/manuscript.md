@@ -1,6 +1,6 @@
 # MURAKAMI, UNFINISHED
 
-### 2013–2025: The Late Novels and the Nobel Bet
+### 2013–2025: The Late Novels, the Nobel Bet, and Still Being Read as an Outsider
 
 *A Japanese Culture Press Book*
 

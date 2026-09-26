@@ -1,6 +1,6 @@
 # MURAKAMI, UNTRANSLATED
 
-### 1979–1987: From *Hear the Wind Sing* to *Norwegian Wood*
+### 1979–1987: The Voice Japan Doubted and the World Fell For
 
 *A Japanese Culture Press Book*
 

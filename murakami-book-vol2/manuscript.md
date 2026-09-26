@@ -1,6 +1,6 @@
 # MURAKAMI, EVERYWHERE
 
-### 1988–2010: From *Dance Dance Dance* to *1Q84*
+### 1988–2010: The Decade His Loneliness Became Everyone Else's
 
 *A Japanese Culture Press Book*
 
