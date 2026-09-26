@@ -5,17 +5,7 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
----
-
-**A Note Before You Begin**
-
-This is an independent work of criticism and cultural commentary. It is not affiliated with, endorsed by, or sponsored by Hajime Isayama, Kodansha, Wit Studio, MAPPA, Crunchyroll, or any other rights holder connected to *Attack on Titan* (*Shingeki no Kyojin*). No copyrighted artwork, panels, or extended story text are reproduced here. Quotation is limited to short phrases used for critical discussion.
-
-This book discusses real historical atrocities, including genocide and ethnic persecution, in the context of analyzing how a work of fiction draws on them. It also discusses a real, ongoing political controversy involving accusations of nationalism directed at the work and its author. Where a claim is disputed or unconfirmed, this book says so directly rather than presenting it as settled fact.
-
-**About the Author**
-
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Hajime Isayama, Kodansha, Wit Studio, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
 
 ---
 
@@ -184,6 +174,8 @@ It's worth updating the record here rather than leaving Isayama frozen at the mo
 ---
 
 ## CHAPTER 5: THE NATIONALISM CONTROVERSY, AS PRECISELY AS IT CAN BE STATED
+
+*A note on this chapter and the two that follow: they discuss real historical atrocities, including genocide and ethnic persecution, in the context of analyzing how a work of fiction draws on them, and a real, ongoing political controversy involving accusations of nationalism directed at the work and its author. Where a claim is disputed or unconfirmed, that is said directly rather than presented as settled fact.*
 
 Two separate incidents anchor most of the serious nationalism criticism aimed at Isayama, and it's worth keeping them clearly separate, because they carry very different levels of certainty.
 
@@ -610,4 +602,10 @@ If you came to this book already certain the ending was a masterpiece, I hope th
 The world in this story is cruel. Whether it's also beautiful is a line this book was careful not to put in anyone's mouth without being sure who actually said it first. Read it yourself, and decide.
 
 If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
+
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
 

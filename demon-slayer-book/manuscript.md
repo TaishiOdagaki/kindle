@@ -5,15 +5,7 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
----
-
-**A Note Before You Begin**
-
-This is an independent work of criticism and cultural commentary. It is not affiliated with, endorsed by, or sponsored by Koyoharu Gotouge, Shueisha, Aniplex, ufotable, Crunchyroll, or any other rights holder connected to *Demon Slayer: Kimetsu no Yaiba*. No copyrighted artwork, panels, or extended story text are reproduced here. Quotation is limited to short phrases used for critical discussion.
-
-**About the Author**
-
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Koyoharu Gotouge, Shueisha, Aniplex, ufotable, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
 
 ---
 
@@ -487,3 +479,9 @@ If you came to this book already having watched the movies, I hope some of what'
 Total concentration. That's the whole trick, on the page and off it.
 
 If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
+
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.

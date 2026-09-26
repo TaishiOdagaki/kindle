@@ -5,15 +5,7 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
----
-
-**A Note Before You Begin**
-
-This is an independent work of criticism and cultural commentary. It is not affiliated with, endorsed by, or sponsored by Tatsuki Fujimoto, Shueisha, MAPPA, Crunchyroll, or any other rights holder connected to *Chainsaw Man*. No copyrighted artwork, panels, or extended story text are reproduced here. Quotation is limited to short phrases used for critical discussion.
-
-**About the Author**
-
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Tatsuki Fujimoto, Shueisha, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
 
 ---
 
@@ -167,6 +159,8 @@ Read against Denji's arc, Aki's death lands as an argument rather than just a tr
 
 It's worth remembering Aki wasn't only a cautionary tale. Before any of the above, he's the closest thing to an older brother Denji ever gets in this story, and their small, prickly domestic scenes together, arguing over cigarettes, over chores, over Power's latest disaster, are doing real emotional groundwork the tragedy later cashes in. Aki teaches Denji things nobody else in his life bothered to: how to behave at a funeral, what basic decency toward a roommate looks like, the unglamorous choreography of just being a person around other people, past pure survival. None of that gets undone by how the arc ends. If anything, it's the reason the ending costs what it costs. You don't mourn a mentor you were never shown mentoring. This series makes sure you were.
 
+---
+
 ## CHAPTER 5: FUJIMOTO'S CAMERA — THE DIRECTOR WHO DRAWS MANGA
 
 *[Anime-safe]*
@@ -204,6 +198,8 @@ MAPPA's response was telling. *Chainsaw Man – The Movie: Reze Arc* brought in 
 **Where the Adaptation Goes From Here**
 
 With an anime sequel covering the Assassins Arc now announced, the studio and whoever ends up directing it are inheriting a genuinely difficult brief: win back a portion of the audience Season 1 lost, without simply overcorrecting into the louder, more conventionally "anime" register the original direction was consciously trying to avoid in the first place. The *Reze Arc* film's warmer reception suggests the fix isn't as simple as more exaggeration for its own sake. It's closer to finding the specific register the manga itself lives in, tonal whiplash played completely straight, and trusting that register to carry across mediums without either flattening it into naturalism or inflating it into spectacle. That's a narrower needle to thread than either extreme, and it's the real test still ahead of this franchise on screen. The manga already solved this problem once, on the page. The anime is still working out its own answer.
+
+---
 
 ## CHAPTER 7: MAKIMA AND THE GRAMMAR OF CONTROL
 
@@ -329,6 +325,8 @@ Here's the complicating twist, and it's one worth sitting with rather than resol
 
 I don't think that fully absolves the pacing issues. A story serialized weekly has some obligation to also work weekly, and Part 2 often didn't, especially through its middle stretch. But I do think it's worth naming plainly, in a book written specifically for people encountering this as a finished object rather than a live weekly release: you are, structurally, reading this the way it may have worked best all along. If Part 2 disappointed you the first time through and you're considering a reread, that disappointment might not survive a second, uninterrupted pass. Mine mostly didn't.
 
+---
+
 ## CHAPTER 12: HOW IT ENDS — POCHITA'S CHOICE
 
 *[Manga-only, major spoilers — the ending in full]*
@@ -380,6 +378,8 @@ None of this is a complaint about the English release, which is by most accounts
 One more small thing worth flagging, because it's easy to get backward: the devils' names are not English dressed up in katakana the way the title is. "Gun Devil" is 銃の悪魔 (*jū no akuma*), "gun's devil," built entirely out of native Japanese vocabulary, *akuma* being the ordinary Japanese word for devil or demon, the same word Japanese folklore and religious writing has used for centuries. "Chainsaw Man" the title is the outlier here, a full transliteration of borrowed English words into katakana script. The devils underneath it are named in a much older register of the language.
 
 What does shift, devil to devil, is the noun describing what each one is the devil of. Some of those are old, native words, a gun, a shape, a name with centuries of Japanese vocabulary behind it. Others, tellingly, aren't, and get rendered in katakana precisely because Japanese has no traditional word for what they're naming: no old-language term exists for a zombie, so the devil of that fear has to reach for a borrowed one. Read that way, the series' vocabulary is itself doing the fear-mapping this book's Chapter 2 already described: the oldest, most universal fears get named in the language's oldest words, and the newer, more imported anxieties show up wearing imported vocabulary, right down to the noun.
+
+---
 
 ## CHAPTER 14: WHERE THIS LEAVES SHONEN MANGA
 
@@ -472,3 +472,9 @@ I don't know what Fujimoto does next, and after eight years of getting his choic
 Keep on dreaming. That's the whole book, really, in three words that weren't mine to begin with.
 
 If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
+
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
