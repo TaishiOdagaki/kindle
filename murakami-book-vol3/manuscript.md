@@ -1,6 +1,6 @@
 # MURAKAMI, UNFINISHED
 
-### The Late Novels, the Nobel Bet, and a Writer Who Never Stopped Being Read as an Outsider — Volume Three of a Critical Companion, From a Japanese Researcher to Readers Who Only Know Him in English
+### 2013–2025: The Late Novels and the Nobel Bet
 
 *A Japanese Culture Press Book*
 

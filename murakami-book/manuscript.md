@@ -1,6 +1,6 @@
 # MURAKAMI, UNTRANSLATED
 
-### The Voice Japan Doubted and the World Fell For, From a Japanese Researcher to Readers Who Only Know Him in English
+### 1979–1987: From *Hear the Wind Sing* to *Norwegian Wood*
 
 *A Japanese Culture Press Book*
 

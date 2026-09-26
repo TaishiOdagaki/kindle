@@ -1,6 +1,6 @@
 # MURAKAMI, EVERYWHERE
 
-### The Decade His Loneliness Became Everyone Else's — Volume Two of a Critical Companion, From a Japanese Researcher to Readers Who Only Know Him in English
+### 1988–2010: From *Dance Dance Dance* to *1Q84*
 
 *A Japanese Culture Press Book*
 
