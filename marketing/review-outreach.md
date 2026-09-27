@@ -104,20 +104,18 @@ Per rule 7's exact wording — "one linking to your content for every 10 quality
 
 - **2026-09-26 (same day, later still) — user held the self-promo post back despite the ratio being cleared, on account-age grounds, and this is the right call, not overcaution.** The 10:1 ratio is r/ChainsawMan's own explicit rule, but it's a necessary condition, not a sufficient one — the account is only 3-4 days old, and contribution #1 sitting in mod-approval limbo for 3+ days is live proof this account's *original posts* have zero track record of actually going public yet. A self-promo post is also an original post, plus it carries an external monetized link, which mods (and Reddit's site-wide spam filters, separate from subreddit rules) weigh more skeptically from young accounts regardless of comment history. **Decision: hold the self-promo post for roughly another week** (matching the original 1-2 week account-warming estimate from this doc's very first entries — 3-4 days is only the midpoint of that, not the end), continuing organic participation in the meantime. Contribution #1's eventual approval (or continued non-approval) is a useful real-world signal to watch: if it gets approved, that's the first evidence this account's original posts *can* go live, which should raise confidence before attempting the self-promo post.
 
-## r/DemonSlayerAnime (new front, started 2026-09-27)
+## r/DemonSlayerAnime — checked 2026-09-27, ruled out for self-promo
 
-Second subreddit for this account, ahead of eventually promoting *Demon Slayer: Total Concentration*. **Not yet vetted — do not post anything (comment or otherwise) until its rules are read**, same as the r/ChainsawMan and r/CharacterRant process. Specific things to check before any activity:
+Rules confirmed via the Community Guide. **Dead end for this account's actual purpose, on two independent grounds:**
 
-- **Name suggests it may be anime-only** (r/ChainsawMan's own sidebar pointed anime-only viewers to a separate r/CSMAnime — r/DemonSlayerAnime could be the Demon Slayer equivalent of that split). If so, its spoiler norms may be much stricter than a manga-inclusive sub, which matters both for casual participation and — more importantly — for the eventual self-promo post, since the book covers the manga's full ending in depth.
-- Its own self-promotion rule (ratio, megathread-only, mod pre-approval, etc.) — cannot assume it matches r/ChainsawMan's 10:1.
-- Whether it has an undisclosed AutoMod account-age/karma gate on original posts, comments, or both (r/ChainsawMan: replies clean, original posts held; r/CharacterRant: outright rejected new accounts).
-- This is a **separate ratio tracker from r/ChainsawMan** once rules are confirmed — "contributions made by you in X" language (if this sub has similar wording) scopes per-subreddit, so the r/ChainsawMan count doesn't carry over.
+1. **Rule 6: "Advertising — No advertising!!"** — an absolute ban, no ratio, no megathread exception, no path to compliance at all. Unlike r/ChainsawMan's 10:1 rule, there is no amount of genuine participation that earns a self-promo post here.
+2. **Rules 2 and 9: anime-only, manga content/spoilers banned outright ("Manga posts are not allowed... manga spoilers will be removed").** *Demon Slayer: Total Concentration* is a book about the completed manga, ending included — its actual subject matter conflicts with this subreddit's core rule independent of the advertising ban. Even organic, non-promotional discussion of the book's actual content would risk removal here.
 
-Next step: get the Community Guide/rules text or a screenshot, same as was done for r/ChainsawMan.
+**Decision: do not use this subreddit for the Demon Slayer campaign.** It's fine as a place for pure anime-only fan participation if desired, but that doesn't advance the review-generation goal (no promo path exists, ever). Redirect the Demon Slayer target back to **r/KimetsuNoYaiba** (the original pick from this doc's first draft, before r/ChainsawMan became the sole focus) — a name-of-origin sub is more likely to be manga-inclusive, but that still needs confirming via its own Community Guide before any activity, same process as always.
 
 ## Open items
 
-- **Get r/DemonSlayerAnime's rules before any activity there** (see new section above) — don't assume its self-promo/spoiler/account-age rules match r/ChainsawMan's.
+- **r/DemonSlayerAnime ruled out** (see section above — flat advertising ban, manga/spoiler content banned outright). Get r/KimetsuNoYaiba's rules instead before any Demon Slayer activity — don't assume anything matches r/ChainsawMan's.
 - **Self-promo post deliberately held for ~1 more week on account-age grounds**, not just the ratio (see above) — don't attempt it early just because the ratio number looks satisfied.
 - Check back on contribution #1's mod-approval status (still pending as of 2026-09-26; modmail sent, no reply yet) — its resolution is a signal worth watching before the self-promo attempt.
 - Continue organic replies during the waiting period (no shortage of ratio headroom now); when the self-promo post is eventually drafted, redraft fresh rather than reusing the 2026-09-24 version, since tone/length lessons have accumulated since (shorter comments performed better; original posts face a mod-approval hold this post will also face).
