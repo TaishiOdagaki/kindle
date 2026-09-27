@@ -113,9 +113,20 @@ Rules confirmed via the Community Guide. **Dead end for this account's actual pu
 
 **Decision: do not use this subreddit for the Demon Slayer campaign.** It's fine as a place for pure anime-only fan participation if desired, but that doesn't advance the review-generation goal (no promo path exists, ever). Redirect the Demon Slayer target back to **r/KimetsuNoYaiba** (the original pick from this doc's first draft, before r/ChainsawMan became the sole focus) — a name-of-origin sub is more likely to be manga-inclusive, but that still needs confirming via its own Community Guide before any activity, same process as always.
 
+## r/KimetsuNoYaiba — checked 2026-09-27, viable but two rules need care
+
+Rules confirmed via the Community Guide (14 rules total). Unlike r/DemonSlayerAnime, this sub is workable — manga/ending content is explicitly allowed with spoiler tags (rule 10), and self-promotion isn't an absolute ban (rule 5: "It is welcomed to share your ... personal sites ... " for active community members — closer to r/ChainsawMan's spirit than a flat ban). Two things need specific care before doing anything here:
+
+1. **Rule 14, "Not a selling platform," may conflict with rule 5's more permissive self-promotion language.** Rule 5 explicitly invites contacting the mod team via modmail when in doubt — take that offer literally: **message the mods and ask directly whether announcing a paid Kindle book counts as prohibited "selling" before attempting any self-promo post here**, rather than inferring an answer from the text the way this doc did for r/ChainsawMan's more mechanical 10:1 rule. This sub's self-promo rule is judgment-based, not numeric, so guessing carries more risk than it did on r/ChainsawMan.
+2. **Rule 12, "AI Content Policy": "Our default policy is to remove AI content (that includes AI generated ... texts ...) as low effort."** This is stricter than anything r/ChainsawMan has on the books — there, an AI-sounding comment risks social awkwardness (the 2026-09-27 "this reads like chatgpt" catch); here, it's an explicit, named removal policy. **Every draft posted to this subreddit needs a real hand-edit pass before posting, more so than on r/ChainsawMan** — see `reddit-comment-voice` skill, and treat its "hand-edit before posting" recommendation as mandatory here rather than best-practice.
+
+Other rules worth noting in passing: max 4 submissions/24h and 2/hour (rule 6, generous, not a practical constraint at this account's pace); English-only (rule 8, already the default); no powerscaling discussion outside the monthly megathread (rule 13); no new threads about the most recent episode/chapter until 7 days post-release (rule 11).
+
+**Plan: start genuine participation here the same way as r/ChainsawMan (comments, no self-promo yet), with extra care on AI-detection per rule 12. Message the mods about rule 14 well before attempting any self-promo post — don't wait until the ratio/timing otherwise feels ready and then find out the answer is no.**
+
 ## Open items
 
-- **r/DemonSlayerAnime ruled out** (see section above — flat advertising ban, manga/spoiler content banned outright). Get r/KimetsuNoYaiba's rules instead before any Demon Slayer activity — don't assume anything matches r/ChainsawMan's.
+- **r/DemonSlayerAnime ruled out; r/KimetsuNoYaiba confirmed viable** (see sections above) — start genuine participation there, message the mods about rule 14 ("not a selling platform") before ever attempting a self-promo post, and hand-edit every draft more carefully given rule 12's explicit AI-content removal policy.
 - **Self-promo post deliberately held for ~1 more week on account-age grounds**, not just the ratio (see above) — don't attempt it early just because the ratio number looks satisfied.
 - Check back on contribution #1's mod-approval status (still pending as of 2026-09-26; modmail sent, no reply yet) — its resolution is a signal worth watching before the self-promo attempt.
 - Continue organic replies during the waiting period (no shortage of ratio headroom now); when the self-promo post is eventually drafted, redraft fresh rather than reusing the 2026-09-24 version, since tone/length lessons have accumulated since (shorter comments performed better; original posts face a mod-approval hold this post will also face).
