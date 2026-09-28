@@ -188,9 +188,8 @@ verdict/synthesis chapters):
    and the closing beach passage ("二時間泣いた... 生まれてはじめてだった"
    / "the first time in my life I'd cried that much," ending on "小さな
    波の音"/the sound of waves). Added as a new subsection with both
-   quotes and a footnote; edition/printing not confirmed beyond
-   Kōdansha, only the page number is pinned down — ask if the user can
-   confirm bunko vs. hardcover/printing year later.
+   quotes and a footnote, cited to Volume 2 [下巻], Kōdansha Bunko,
+   1985 (user confirmed the edition after the fact).
 2. **Vol.2, Ch.1, *Dance Dance Dance* [ダンス・ダンス・ダンス]** —
    user has a copy. Candidate scene: the Sheep Man's "keep dancing"
    speech — already paraphrased in the current text ("telling the

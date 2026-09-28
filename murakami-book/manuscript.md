@@ -129,7 +129,7 @@ What isn't interpretation is what was actually happening in Murakami's own life 
 
 Whatever the Rat's death ends up meaning read back across all three books, on the page it happens almost entirely offstage. The novel's actual final pages aren't about the event itself; they're about the narrator afterward, back in his hometown at J's Bar, handing the bartender money he says he and the Rat earned together and making him a full partner in the place. J, visibly moved, asks for a pinball machine and a jukebox by the time the narrator next comes by; the narrator says he'll have them ready.[^9] Then, after a section break, the actual mourning happens, and it's almost entirely exterior. In the original Japanese: 「僕は川に沿って河口まで歩き、最後に残された五十メートルの砂浜に腰を下ろし、二時間泣いた。そんなに泣いたのは生まれてはじめてだった」 — roughly: he walks along the river to its mouth, sits down on the last fifty meters of beach, and cries for two hours, the first time in his life he's cried that much. He finally stands, brushes the fine sand from his trousers, still not sure where to go next. The novel's very last lines don't dwell on him at all: 「日はすっかり暮れていて、歩き始めると背中に小さな波の音が聞こえた」 — the day gone fully dark, and behind him, as he starts walking, the small sound of waves.[^9] It's a strikingly undemonstrative way to close a trilogy that supposedly ends in a death: no funeral, no confrontation, no explanation delivered on the page, just a bar transaction settled and a controlled, private, time-limited collapse on an anonymous beach — arguably the more honest ending for a character who's spent three books never quite being seen directly by anyone, including, on the trilogy's own account, himself.
 
-[^9]: Murakami Haruki, *A Wild Sheep Chase* [羊をめぐる冒険] (Tokyo: Kōdansha), p. 230; final scene quoted directly from the user's copy. Edition/printing not confirmed beyond the publisher.
+[^9]: Murakami Haruki, *A Wild Sheep Chase* [羊をめぐる冒険], Volume 2 [下巻] (Tokyo: Kōdansha Bunko, 1985), p. 230; final scene quoted directly from the user's copy.
 
 ---
 
@@ -256,7 +256,7 @@ This volume draws on Murakami's own novels and essays, on the published jury com
 **Chapter 5: The Trilogy Nobody Planned**
 - Murakami Haruki, *Pinball, 1973* [1973年のピンボール] (Tokyo: Kōdansha, 1980).
 - Murakami Haruki, *A Wild Sheep Chase* [羊をめぐる冒険], serialized in *Gunzō*, August 1982; published in book form by Kōdansha, October 1982. Winner of the 4th Noma Literary New Face Prize.
-- Same work, p. 230, final scene (the J's Bar conversation and the closing beach passage), consulted directly from the user's copy.
+- Murakami Haruki, *A Wild Sheep Chase* [羊をめぐる冒険], Volume 2 [下巻] (Tokyo: Kōdansha Bunko, 1985), p. 230 — final scene (the J's Bar conversation and the closing beach passage), consulted directly from the user's copy.
 
 **Chapter 6: Two Worlds, One Skull**
 - Murakami Haruki, *Hard-Boiled Wonderland and the End of the World* [世界の終りとハードボイルド・ワンダーランド] (Tokyo: Shinchōsha, 1985); close reading based on the original Japanese text.
