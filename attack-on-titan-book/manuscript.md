@@ -21,11 +21,7 @@ Jiro Naozane is a Japanese researcher and critic who reads manga the way a trans
 
 ![What's inside](images/charts/whats_inside.png)
 
-*Attack on Titan* is finished — manga and anime both — so nothing here is spoiler-shy about the ending. What started as a horror manga about giants eating people closes as one of the most politically argued-over stories in modern manga, and this book follows that whole arc.
-
-Two things worth knowing before you start. One clearly-marked section spells out exactly how the story ends, including who lives and who dies — skip it and come back later if you want to go in cold. And this book spends real time on accusations that the story carries nationalist politics, handled carefully, with sources, and without pretending the argument is settled.
-
-Let's get into it.
+Two things worth knowing before you start. One clearly-marked section spells out exactly how the story ends, including who lives and who dies — skip it if you want to go in cold. And this book spends real time on accusations that the story carries nationalist politics, handled carefully and with sources.
 
 ---
 

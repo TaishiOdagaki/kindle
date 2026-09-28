@@ -21,7 +21,7 @@ Jiro Naozane is a Japanese researcher and critic who reads manga the way a trans
 
 ![What's inside](images/charts/whats_inside.png)
 
-Every chapter carries a spoiler tag. **[Anime-safe]** stays inside Season 1 and the *Reze Arc* movie. **[Manga-only, spoilers ahead]** goes past that line — only two chapters near the end carry it in full, including the finale. This book isn't a recap; it's interested in why a scene works, not just what happens in it. A full Spoiler Map lives in the back matter if you want to plan your reading around it.
+Every chapter carries a spoiler tag. **[Anime-safe]** stays inside Season 1 and the *Reze Arc* movie. **[Manga-only, spoilers ahead]** goes past that line — only two chapters near the end carry it in full, including the finale. A full Spoiler Map lives in the back matter.
 
 ---
 

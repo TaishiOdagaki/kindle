@@ -21,11 +21,7 @@ Jiro Naozane is a Japanese researcher and critic who reads manga the way a trans
 
 ![What's inside](images/charts/whats_inside.png)
 
-This book is written from a strange gap: the manga ended in 2020, but the movie trilogy adapting it, *Infinity Castle*, is only one-third finished. Every chapter carries a tag so you always know which side of that gap you're on.
-
-**[Manga-known]** is safe regardless of how far you've gotten in the anime and movies. **[Anime/Movie-current]** is covered through *Infinity Castle: Part 1*. **[Beyond Part 1]** is manga-only material the trilogy hasn't reached yet — only a handful of chapters carry it, clearly marked.
-
-Let's get into it.
+Every chapter carries a tag: **[Manga-known]** is safe regardless of how far you've gotten in the anime and movies. **[Anime/Movie-current]** is covered through *Infinity Castle: Part 1*. **[Beyond Part 1]** is manga-only material the trilogy hasn't reached yet — only a handful of chapters carry it, clearly marked.
 
 ---
 
