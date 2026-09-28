@@ -9,6 +9,10 @@ by Jiro Naozane
 
 ---
 
+![What's inside](images/charts/whats_inside.png)
+
+---
+
 ## HOW TO READ THIS BOOK
 
 Here is the question this whole book is trying to answer: why did *Demon Slayer: Infinity Castle* become the highest-grossing Japanese film ever made, by a margin large enough to make the previous record holder, a movie from the same franchise, look modest by comparison?
@@ -88,6 +92,8 @@ There's a real historical detail underneath the premise too, easy to miss withou
 Zenitsu screams, cowers, and begs to go home in almost every scene he's introduced into, and Inosuke charges into danger wearing a boar's skull as a mask, feral and half-articulate, spoiling for a fight before he's finished the sentence explaining why. On paper, both read like stock shonen comic relief, the loud, ridiculous sidekicks built to lighten a story otherwise this heavy. What actually happens across the story is that both get handed real, specific trauma of their own, played completely straight when the story chooses to, and the comedy never fully cancels it out afterward. Zenitsu's fear is directly tied to being orphaned and abandoned as an infant, then scammed into crushing debt as a teenager, an abandonment he never processed even after the swordsman who eventually rescued and trained him gave him a real home. Inosuke's feral affect turns out to be the coping shape of a kid raised in genuine isolation, taught to survive by a wild boar mother after his own human one was killed.
 
 Neither reveal erases the comedy that came before it. That's the specific trick worth naming: this ensemble doesn't graduate from funny to serious the way a lot of shonen casts do, shedding the joke-character role once the "real" backstory arrives. Zenitsu stays a coward who screams through most of his own biggest fights, even after you know why, even while he's doing something genuinely brave. The comedy and the wound sit in the same character, at the same time, permanently, rather than one retiring once the other shows up. It's a small structural choice with a large effect: it keeps an ensemble this large from ever feeling like it's organized around one tragic hero and several disposable jokes standing around him.
+
+![A name hiding in plain sight](images/charts/name_etymology.png)
 
 I'll offer a reading here, clearly marked as mine rather than anything sourced to the author: Zenitsu and Inosuke read, to me, like two opposite ends of a single, well-documented human response to danger. Trauma and stress research has long described a spectrum of automatic survival responses beyond the familiar "fight or flight," including a freeze response, a nervous system flooding a person with fear to the point of near-paralysis rather than action. Zenitsu's constant screaming, begging, and apparent cowardice plays, on this reading, less like a joke about weakness and more like an exaggerated, comedic dramatization of exactly that freeze state, a body sounding every alarm at once while somehow still moving forward regardless. Inosuke sits closer to the opposite end of that same spectrum, a hyper-vigilant fight response calibrated so high, so constantly, that it reads as feral before it reads as frightened. Neither of those specific diagnostic terms shows up anywhere in the text, and I'm not claiming Gotouge was working from a psychology textbook. But the emotional logic of both characters, comedy sitting directly on top of real, unresolved fear, tracks close enough to something clinically real that it's worth naming as more than coincidence.
 
@@ -311,6 +317,8 @@ It's worth being honest about the part of this story that doesn't fit a clean, u
 
 That's worth sitting with rather than smoothing over. The single highest-grossing film in Japanese box office history at the time, adored domestically and increasingly abroad, didn't translate that success into the specific kind of Western critical institutional recognition an Oscar nomination represents. It's a useful reminder that box office dominance, critical acclaim, and awards-body recognition are three genuinely separate kinds of validation, not three ways of measuring the same thing, and a franchise can sweep two of them completely while still getting passed over on the third. Whether that says more about a still-real gap in how Western awards bodies engage with anime, or simply reflects one very competitive category in one particular year, is a fair question this book doesn't have a confident answer to. What it does have is the honest, unglamorous fact itself, rather than a tidier story that leaves it out.
 
+![Box office, head to head](images/charts/box_office.png)
+
 ---
 
 ![Chapter 10](images/chapter-openers/ch10.png)
@@ -387,6 +395,8 @@ It's worth naming, too, that the wait between movies isn't just being filled by 
 
 There's also a whole comedic corner of the franchise that most anime-only viewers never encounter: Kimetsu Academy, a lighthearted spin-off, born from omake gag pages tucked into the original manga, that reimagines the entire main cast attending an ordinary high school. It's been expanded into its own light novel material, official and Gotouge-sanctioned, sitting well outside the tone this book has spent most of its chapters describing. None of that is essential reading to understand the main story. But it's worth knowing it exists, because it's a reminder that "the wait" for Parts 2 and 3 isn't really a wait at all for anyone willing to look sideways at the franchise instead of straight ahead at the next movie release date.
 
+![The trilogy, one piece at a time](images/charts/release_timeline.png)
+
 ---
 
 ![Chapter 13](images/chapter-openers/ch13.png)
@@ -449,54 +459,13 @@ This book doesn't have a publisher or a marketing budget behind it — just an i
 
 ## SPOILER MAP
 
-| Chapter | Tag | Notes |
-|---|---|---|
-| Intro / How to Read | Safe for everyone | No plot-specific spoilers |
-| The Question This Book Is Answering | Safe for everyone | Box office facts only |
-| 1. The Manga Everyone Already Knows How It Ends | Manga-known | Context only, no plot details |
-| 2. A Teenager Who Wanted to Keep His Sister | Anime/Movie-current | Covered by TV series |
-| 3. The Woman Who Refuses to Be Known | Manga-known | Author biography, not plot |
-| 4. The Pitch Meeting That Almost Killed It | Manga-known | Production history, not plot |
-| 5. The Studio That Broke Its Own Record | Anime/Movie-current | Industry/craft discussion |
-| 6. Why Adults Who Never Watch Anime Cried | Anime/Movie-current | Tone/theme discussion |
-| 7. The Sound of a Sword You've Never Heard | Anime/Movie-current | Worldbuilding mechanics |
-| 8. The World That Makes the Secrecy Make Sense | Manga-known | Setting/history, not plot-specific |
-| 9. What the Box Office Numbers Actually Mean | Anime/Movie-current | Industry data |
-| 10. The Year One Manga Held Up an Industry | Manga-known | 2020 industry/cultural data |
-| 11. What Already Happened, Waiting to Be Seen | **Beyond Part 1** | Full manga ending spoilers |
-| 12. Waiting for Parts 2 and 3 | Anime/Movie-current | Industry/production discussion |
-| 13. So Why Did It Break Every Record | Anime/Movie-current | Synthesis, no new spoilers |
-| 14. Where This Leaves Anime Globally | Anime/Movie-current | Industry discussion |
+![Spoiler map](images/charts/spoiler_map.png)
 
 ---
 
 ## GLOSSARY
 
-**Breathing Style** — a sword-fighting discipline built around Total Concentration Breathing, each style associated with a natural element.
-
-**Demon Slayer Corps** — the secret, unofficial organization of sword-wielding demon hunters Tanjiro joins, operating entirely outside legal sanction.
-
-**Hashira** — the highest-ranking swordsmen in the Demon Slayer Corps, each a master of their own Breathing Style.
-
-**Hinokami Kagura** — the Kamado family's ritual "dance," secretly the original Sun Breathing style, disguised for generations as a fire-warding New Year's Eve tradition.
-
-**Kizuki** — the twelve most powerful demons directly serving Muzan, ranked Lower and Upper.
-
-**Mangaka** — a manga creator.
-
-**Muzan Kibutsuji** — the story's central antagonist, the first demon and the source of every other demon's power.
-
-**Nezuko Kamado** — Tanjiro's younger sister, turned into a demon in the story's opening chapter; her recovery of her humanity drives the series' central arc.
-
-**Nichirin blade** — the specialized swords carried by Demon Slayer Corps members, forged from ore that absorbs sunlight and said to change color to match each wielder.
-
-**Oni** — the Japanese word for demon, used throughout the original text; a figure with roots in Japanese folklore predating this story by centuries.
-
-**Taisho era** — the period of Japanese history, roughly 1912–1926, in which the series is set.
-
-**Total Concentration Breathing** — *zen shuchu no kokyu*, the foundational breathing technique underlying every Breathing Style.
-
-**Ufotable** — the animation studio producing the *Demon Slayer* TV series and film trilogy.
+![Glossary, at a glance](images/charts/glossary_visual.png)
 
 ---
 

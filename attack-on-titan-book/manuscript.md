@@ -9,6 +9,10 @@ by Jiro Naozane
 
 ---
 
+![What's inside](images/charts/whats_inside.png)
+
+---
+
 ## HOW TO READ THIS BOOK
 
 *Attack on Titan* is finished. The manga ended in April 2021, the anime's final special aired in November 2023, and there is no unresolved wait built into this book the way there was for a franchise still mid-adaptation. Everything discussed here is fair game, and everything is available to you right now, in whatever form you prefer to experience it.
@@ -146,6 +150,8 @@ That's worth sitting with specifically because of where this book started: Marle
 There's a quieter, more domestic kind of real-world politics built into the story's setting too, one that doesn't need Marley or Eldia to land: the three concentric walls that give the series its physical geography, Maria, Rose, and Sina, aren't just a defensive structure. They're a map of class. Sina, the innermost and smallest ring, holds the aristocracy and the royal government, physically the farthest possible distance from any Titan incursion. Maria, the outermost and largest wall, holds the poorest working population, families running market stalls and manual-labor jobs in towns like Shiganshina, the district a Titan actually breaches in the story's opening chapter. Proximity to danger and proximity to poverty map onto the exact same geography, layer by layer, and the people with the least power over whether the walls hold are, structurally and by design, the ones standing closest to them when they don't.
 
 That's not a subtle metaphor buried in subtext. It's the literal load-bearing architecture of the setting, made explicit early and never really contradicted: safety in this world is something the wealthy can simply buy more of, by living farther from the edge, while the people who can't afford that distance absorb the actual physical cost when the system fails. The story's opening tragedy, a Titan breaching the outer wall and eating Eren's mother, doesn't happen to a random family. It happens to the specific working-class family the geography of this world had already positioned to be first in line for it.
+
+![The three walls](images/charts/three_walls.png)
 
 ---
 
@@ -325,6 +331,8 @@ There's a mechanical reason both Levi and Mikasa read as physically superhuman c
 
 The power itself doesn't run passively, either. Individual Ackermans have to have it awakened, and the story is consistent that this only happens under extreme, often violent trauma: Mikasa's dormant strength surfaces for the first time as a child, in the same attack that kills her parents, when Eren tells her to fight back. Levi's own awakening, described later in the story, comes from a comparably brutal moment in his own past. It's a bloodline built for protection that the people it was built to protect ended up hunting instead, and one that only fully activates in its individual members at the exact moment their own lives are already falling apart — one more version, at the level of individual biology this time, of the same inherited, unchosen burden this book keeps finding running through every layer of this story's world.
 
+![Names arguing with each other](images/charts/names_arguing.png)
+
 **Someone the Story Let Be Simply Loved**
 
 Every name discussed so far in this chapter carries weight on purpose — a title's worth of meaning, a moral argument, a piece of German or biblical or historical borrowing. Sasha Braus carries a stolen potato.
@@ -475,6 +483,8 @@ That comparison isn't a knock on *Attack on Titan*'s cultural weight, which this
 
 Where *Attack on Titan* did convert its scale into something notable was press coverage of a kind manga rarely receives at all, regardless of sales figures. The *New York Times* ran a feature interview with Isayama himself, treating the manga as a subject worth serious cultural journalism rather than a niche curiosity, and the manga's collected volumes landed repeatedly on the *Times*'s own manga best-seller lists in both 2014 and 2015, a specifically American, specifically mainstream measure of sustained commercial reach that most manga franchises, even hugely popular ones, never register on at all. The specific rankings, tracked week by week by Anime News Network's own coverage of the *Times* list, show just how sustained that reach actually was: Volume 1 held the top spot in mid-December 2014, and by the following November, the series was still selling well enough for Volume 14, more than a dozen volumes deep into the run, to claim number one all over again. That's not a single breakout volume riding a launch-week spike. It's a series that kept returning to the top of a mainstream American bestseller list across multiple years and multiple volumes, long after any normal opening-week bump would have faded. That kind of coverage doesn't happen because a distributor bought an ad. It happens because a general-interest cultural publication decided its own readership, most of whom have never opened a manga, needed to understand why this particular one mattered. Combined with the sales figures and awards already covered in this chapter, it's further evidence that this franchise crossed a line few of its peers ever reach: treated not just as a hit within its own medium, but as a text worth explaining to people who don't otherwise follow that medium at all.
 
+![The scale of the thing](images/charts/scale_of_the_thing.png)
+
 ---
 
 ![Chapter 14](images/chapter-openers/ch14.png)
@@ -584,46 +594,13 @@ This book doesn't have a publisher or a marketing budget behind it — just an i
 
 ## SPOILER MAP
 
-| Chapter | Content Warning |
-|---|---|
-| Intro / How to Read | Safe — no plot specifics |
-| The Question This Book Is Answering | Safe — general framing only |
-| 1. A Horror Manga, Or So It Seemed | Safe — opening-chapter events only |
-| 2. The Reveal That Rewrote the Whole Story | Mid-series spoiler (the basement reveal) |
-| 3. The History Underneath the Fiction | Mid-to-late-series worldbuilding spoilers |
-| 4. A Creator Who Actually Talks | Safe — author background |
-| 5. The Nationalism Controversy | Safe — real-world/production history |
-| 6. How This Landed at Home | Safe — real-world reception history |
-| 7. The Fandom That Reads Itself Into Both Sides | Safe — real-world reception |
-| 8. Banned in China, and Still Banned | Safe — real-world production/reception history |
-| 9. Names That Were Arguing With Each Other | Light — character-name spoilers only |
-| 10. What Actually Happens at the End | **Full ending spoilers** |
-| 11. Why That Ending Split the Fandom in Half | Full ending spoilers |
-| 12. The Studio Switch Nobody Wanted | Safe — real-world production history |
-| 13. The Scale of the Thing, in Numbers | Safe — real-world sales/awards data |
-| 14. A Curse Passed Down, on Purpose | Full ending spoilers (final chapter referenced) |
-| 15. Did the Story Earn Its Own Argument? | Full ending spoilers |
-| 16. What Attack on Titan Left Behind | Safe — legacy discussion, no new plot specifics |
+![Spoiler map](images/charts/spoiler_map.png)
 
 ---
 
 ## GLOSSARY
 
-**Eldians** — the ethnic group, within the story, capable of being turned into Titans; subject to persecution and segregation by Marley.
-
-**Founding Titan** — the most powerful of the Nine Titans, capable of controlling other Titans and, in Eren's hands, triggering the Rumbling.
-
-**Marley** — the powerful nation across the sea from Paradis Island, which segregates and persecutes its Eldian population while treating Paradis as an existential enemy.
-
-**Paradis Island** — the walled island where the story's main cast lives, home to the last free population of Eldians and the source of the Rumbling.
-
-**The Rumbling** — the apocalyptic weapon Eren unleashes in the story's climax, sending countless Colossal Titans marching across the world.
-
-**Survey Corps / Scout Regiment** — the military branch, symbolized by the "Wings of Freedom" emblem, dedicated to exploring and fighting beyond the walls.
-
-**Titan** — in-story, a towering, mindless-seeming humanoid that eats people; later revealed to be a transformed human being.
-
-**Wit Studio / MAPPA** — the two animation studios that produced the *Attack on Titan* anime, Wit from 2013 through the third season, MAPPA for the final season.
+![Glossary, at a glance](images/charts/glossary_visual.png)
 
 ---
 
