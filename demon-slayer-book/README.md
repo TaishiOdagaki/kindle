@@ -56,7 +56,7 @@ java -jar /usr/share/java/epubcheck.jar "Demon Slayer - Total Concentration.epub
 ## Suggested KDP Metadata
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
-- **Categories:** ⚠️ KDP rejected the "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" category on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel") — this book is prose criticism *about* a manga, not a comic itself, and any category path with "Comics" or "Graphic Novels" in the breadcrumb is apparently not safe for that reason, even a criticism-of-comics subcategory. Needs a verified, non-Comics literary-criticism category as a replacement — check this against Chainsaw Man's and Attack on Titan's READMEs, which had the identical problem. The other two categories (Pop Culture General; Movies > Genre > Anime) were not flagged.
+- **Categories:** ✅ **Resolved 2026-09-28** (see `chainsaw-man-book/README.md` for the full story — same category, same resolution, applies series-wide). KDP initially rejected "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" on 2026-09-20, but the user disputed rather than switching categories, and KDP settled on keeping all three original categories after a few rounds of correction emails, confirmed live on Chainsaw Man's published listing on 2026-09-28. No change needed for this book either.
 - **KDP's 7-keyword field (each ≤50 characters):**
   1. Kimetsu no Yaiba explained
   2. Tanjiro Nezuko Zenitsu Inosuke

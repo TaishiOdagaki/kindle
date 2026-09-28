@@ -57,7 +57,7 @@ java -jar /usr/share/java/epubcheck.jar "Attack on Titan - The Price of Freedom.
 ## Suggested KDP Metadata
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
-- **Categories:** ⚠️ Do not use the "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" category — KDP rejected it for both *Chainsaw Man* and *Demon Slayer* on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel"). This book is prose criticism *about* a manga/anime, not a comic itself, so any category path with "Comics" or "Graphic Novels" in the breadcrumb is apparently unsafe, even a criticism-of-comics subcategory. Use a verified, non-Comics literary-criticism category instead (not yet identified — pending the live KDP category picker). The other two categories those books used (Pop Culture General; Movies > Genre > Anime) were not flagged and are likely still safe.
+- **Categories:** ✅ **Resolved 2026-09-28** (see `chainsaw-man-book/README.md` for the full story). KDP initially rejected "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" for both *Chainsaw Man* and *Demon Slayer* on 2026-09-20, but the user disputed rather than switching categories, and KDP settled on keeping all three original categories after a few rounds of correction emails, confirmed live on Chainsaw Man's published listing on 2026-09-28. Safe to use the same three categories (that criticism-of-comics path, Pop Culture General, Movies > Genre > Anime) for this book too.
 - **KDP's 7-keyword field (each ≤50 characters):**
   1. Shingeki no Kyojin explained
   2. AOT ending controversy analysis

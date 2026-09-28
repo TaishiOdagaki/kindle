@@ -54,7 +54,7 @@ java -jar /usr/share/java/epubcheck.jar "Chainsaw Man - The Devil in the Details
 ## Suggested KDP Metadata
 
 - **Publisher / imprint:** Japanese Culture Press (this repo's label for the series — see the repo root README)
-- **Categories:** ⚠️ KDP rejected the "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" category on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel") — this book is prose criticism *about* a manga, not a comic itself, and any category path with "Comics" or "Graphic Novels" in the breadcrumb is apparently not safe for that reason, even a criticism-of-comics subcategory. Needs a verified, non-Comics literary-criticism category as a replacement — check this against Demon Slayer's and Attack on Titan's READMEs, which had the identical problem. The other two categories (Pop Culture General; Movies > Genre > Anime) were not flagged.
+- **Categories:** ✅ **Resolved 2026-09-28.** KDP initially rejected "Criticism & Literary Studies > Subjects & Themes > Comics & Graphic Novels" on 2026-09-20 (email: "categories including Comics, but content is not manga or a graphic novel"), but the user disputed rather than switching categories, and after a few rounds of correction emails KDP settled on keeping all three original categories — confirmed live on the published listing on 2026-09-28: `Kindle本 › 小説・文芸 › 評論・文学研究 › 主題・テーマ › コミック・グラフィックノベル`, `Kindle本 › エンターテイメント › ポップカルチャー › ポップカルチャー一般`, `Kindle本 › エンターテイメント › 映画 › ジャンル › アニメ化`. No change needed — this is the final, stable combination.
 - **KDP's 7-keyword field (each ≤50 characters):**
   1. manga finale ending explained
   2. Denji Makima Power Aki Reze
