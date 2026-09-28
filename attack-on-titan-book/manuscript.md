@@ -27,7 +27,7 @@ Let's get into it.
 
 ---
 
-![Introduction](images/chapter-openers/intro.png)
+![Introduction](images/chapter-openers/intro.jpg)
 
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
 
@@ -39,7 +39,7 @@ I'm not going to pretend that's a comfortable question. *Attack on Titan* draws 
 
 ---
 
-![Chapter 1](images/chapter-openers/ch01.png)
+![Chapter 1](images/chapter-openers/ch01.jpg)
 
 ## CHAPTER 1: A HORROR MANGA, OR SO IT SEEMED
 
@@ -73,7 +73,7 @@ None of that makes *Attack on Titan* a copy of either series. It makes it a work
 
 ---
 
-![Chapter 2](images/chapter-openers/ch02.png)
+![Chapter 2](images/chapter-openers/ch02.jpg)
 
 ## CHAPTER 2: THE REVEAL THAT REWROTE THE WHOLE STORY
 
@@ -115,7 +115,7 @@ The story adds one more twist to that already-brutal history that this book's la
 
 ---
 
-![Chapter 3](images/chapter-openers/ch03.png)
+![Chapter 3](images/chapter-openers/ch03.jpg)
 
 ## CHAPTER 3: THE HISTORY UNDERNEATH THE FICTION
 
@@ -155,7 +155,7 @@ That's not a subtle metaphor buried in subtext. It's the literal load-bearing ar
 
 ---
 
-![Chapter 4](images/chapter-openers/ch04.png)
+![Chapter 4](images/chapter-openers/ch04.jpg)
 
 ## CHAPTER 4: A CREATOR WHO ACTUALLY TALKS
 
@@ -189,7 +189,7 @@ It's worth updating the record here rather than leaving Isayama frozen at the mo
 
 ---
 
-![Chapter 5](images/chapter-openers/ch05.png)
+![Chapter 5](images/chapter-openers/ch05.jpg)
 
 ## CHAPTER 5: THE NATIONALISM CONTROVERSY, AS PRECISELY AS IT CAN BE STATED
 
@@ -217,7 +217,7 @@ It's worth knowing that the nationalism question this chapter has been picking a
 
 ---
 
-![Chapter 6](images/chapter-openers/ch06.png)
+![Chapter 6](images/chapter-openers/ch06.jpg)
 
 ## CHAPTER 6: HOW THIS LANDED AT HOME
 
@@ -247,7 +247,7 @@ Whatever individual readers felt about how the story ended, it's worth putting o
 
 ---
 
-![Chapter 7](images/chapter-openers/ch07.png)
+![Chapter 7](images/chapter-openers/ch07.jpg)
 
 ## CHAPTER 7: THE FANDOM THAT READS ITSELF INTO BOTH SIDES
 
@@ -279,7 +279,7 @@ That's worth including for balance as much as for scale: not every market's stor
 
 ---
 
-![Chapter 8](images/chapter-openers/ch08.png)
+![Chapter 8](images/chapter-openers/ch08.jpg)
 
 ## CHAPTER 8: BANNED IN CHINA, AND STILL BANNED
 
@@ -305,7 +305,7 @@ It's also worth being precise about exactly where the ban applies, since "China"
 
 ---
 
-![Chapter 9](images/chapter-openers/ch09.png)
+![Chapter 9](images/chapter-openers/ch09.jpg)
 
 ## CHAPTER 9: NAMES THAT WERE ARGUING WITH EACH OTHER FROM PAGE ONE
 
@@ -351,7 +351,7 @@ That's a genuinely unusual thing to build, on purpose, into a mainstream shonen-
 
 ---
 
-![Chapter 10](images/chapter-openers/ch10.png)
+![Chapter 10](images/chapter-openers/ch10.jpg)
 
 ## CHAPTER 10: WHAT ACTUALLY HAPPENS AT THE END — FULL SPOILERS
 
@@ -377,7 +377,7 @@ The final anime episode, which aired as part of a special released after the man
 
 ---
 
-![Chapter 11](images/chapter-openers/ch11.png)
+![Chapter 11](images/chapter-openers/ch11.jpg)
 
 ## CHAPTER 11: WHY THAT ENDING SPLIT THE FANDOM IN HALF
 
@@ -403,7 +403,7 @@ That's philosophically closer to a real, named position, compatibilism, the idea
 
 ---
 
-![Chapter 12](images/chapter-openers/ch12.png)
+![Chapter 12](images/chapter-openers/ch12.jpg)
 
 ## CHAPTER 12: THE STUDIO SWITCH NOBODY WANTED, THEN EVERYONE THANKED
 
@@ -437,7 +437,7 @@ The Wit-to-MAPPA handoff wasn't the production's only scheduling headache. MAPPA
 
 ---
 
-![Chapter 13](images/chapter-openers/ch13.png)
+![Chapter 13](images/chapter-openers/ch13.jpg)
 
 ## CHAPTER 13: THE SCALE OF THE THING, IN NUMBERS
 
@@ -487,7 +487,7 @@ Where *Attack on Titan* did convert its scale into something notable was press c
 
 ---
 
-![Chapter 14](images/chapter-openers/ch14.png)
+![Chapter 14](images/chapter-openers/ch14.jpg)
 
 ## CHAPTER 14: A CURSE PASSED DOWN, ON PURPOSE
 
@@ -524,7 +524,7 @@ The speech Erwin gives immediately before that charge is worth naming specifical
 
 ---
 
-![Chapter 15](images/chapter-openers/ch15.png)
+![Chapter 15](images/chapter-openers/ch15.jpg)
 
 ## CHAPTER 15: DID THE STORY EARN ITS OWN ARGUMENT?
 
@@ -552,7 +552,7 @@ The backlash behind that apology had gotten ugly enough that Isayama and his sta
 
 ---
 
-![Chapter 16](images/chapter-openers/ch16.png)
+![Chapter 16](images/chapter-openers/ch16.jpg)
 
 ## CHAPTER 16: WHAT ATTACK ON TITAN LEFT BEHIND
 

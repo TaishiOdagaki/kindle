@@ -33,7 +33,7 @@ There's a Spoiler Map in the back matter that lists every chapter's coverage at 
 
 ---
 
-![Introduction](images/chapter-openers/intro.png)
+![Introduction](images/chapter-openers/intro.jpg)
 
 ## INTRODUCTION: WHY WRITE ABOUT AN ENDING
 
@@ -53,7 +53,7 @@ One more thing before we start, and I'll be quick about it. I'm writing this as 
 
 ---
 
-![Chapter 1](images/chapter-openers/ch01.png)
+![Chapter 1](images/chapter-openers/ch01.jpg)
 
 ## CHAPTER 1: THE MANGA THAT WASN'T SUPPOSED TO WORK
 
@@ -85,7 +85,7 @@ Here's the part that surprises people who only learn the Weekly Jump history aft
 
 ---
 
-![Chapter 2](images/chapter-openers/ch02.png)
+![Chapter 2](images/chapter-openers/ch02.jpg)
 
 ## CHAPTER 2: DEVILS ARE JUST OUR FEARS WEARING A COSTUME
 
@@ -117,7 +117,7 @@ There's also a cleaner emotional logic underneath the mechanic, one that explain
 
 ---
 
-![Chapter 3](images/chapter-openers/ch03.png)
+![Chapter 3](images/chapter-openers/ch03.jpg)
 
 ## CHAPTER 3: DENJI AND THE DEATH OF THE SHONEN DREAM
 
@@ -157,7 +157,7 @@ I want to end this chapter defending something that gets treated, even by fans, 
 
 ---
 
-![Chapter 4](images/chapter-openers/ch04.png)
+![Chapter 4](images/chapter-openers/ch04.jpg)
 
 ## CHAPTER 4: AKI HAYAKAWA AND THE COST OF REVENGE
 
@@ -181,7 +181,7 @@ It's worth remembering Aki wasn't only a cautionary tale. Before any of the abov
 
 ---
 
-![Chapter 5](images/chapter-openers/ch05.png)
+![Chapter 5](images/chapter-openers/ch05.jpg)
 
 ## CHAPTER 5: FUJIMOTO'S CAMERA — THE DIRECTOR WHO DRAWS MANGA
 
@@ -207,7 +207,7 @@ Manga sound effects, *onomatopoeia* rendered as hand-lettered art within the pan
 
 ---
 
-![Chapter 6](images/chapter-openers/ch06.png)
+![Chapter 6](images/chapter-openers/ch06.jpg)
 
 ## CHAPTER 6: THE ANIME'S OWN ARGUMENT WITH THE PAGE
 
@@ -225,7 +225,7 @@ With an anime sequel covering the Assassins Arc now announced, the studio and wh
 
 ---
 
-![Chapter 7](images/chapter-openers/ch07.png)
+![Chapter 7](images/chapter-openers/ch07.jpg)
 
 ## CHAPTER 7: MAKIMA AND THE GRAMMAR OF CONTROL
 
@@ -255,7 +255,7 @@ One last note on this arc, because the specific mechanism, eating rather than si
 
 ---
 
-![Chapter 8](images/chapter-openers/ch08.png)
+![Chapter 8](images/chapter-openers/ch08.jpg)
 
 ## CHAPTER 8: THE WOMEN WHO REFUSE TO BE SAVED
 
@@ -287,7 +287,7 @@ Asa and Yoru's specific arrangement, one body, two wills, constantly negotiating
 
 ---
 
-![Chapter 9](images/chapter-openers/ch09.png)
+![Chapter 9](images/chapter-openers/ch09.jpg)
 
 ## CHAPTER 9: VIOLENCE AS PUNCHLINE
 
@@ -315,7 +315,7 @@ Take one of the series' most reliable comic engines: Power taking credit for som
 
 ---
 
-![Chapter 10](images/chapter-openers/ch10.png)
+![Chapter 10](images/chapter-openers/ch10.jpg)
 
 ## CHAPTER 10: PART 2 AND THE DEVIL OF FAME
 
@@ -347,7 +347,7 @@ It's worth spending a moment on the structural irony of where Part 2 physically 
 
 ---
 
-![Chapter 11](images/chapter-openers/ch11.png)
+![Chapter 11](images/chapter-openers/ch11.jpg)
 
 ## CHAPTER 11: THE PACING WAR — WHY PART 2 SPLIT THE FANDOM
 
@@ -363,7 +363,7 @@ I don't think that fully absolves the pacing issues. A story serialized weekly h
 
 ---
 
-![Chapter 12](images/chapter-openers/ch12.png)
+![Chapter 12](images/chapter-openers/ch12.jpg)
 
 ## CHAPTER 12: HOW IT ENDS — POCHITA'S CHOICE
 
@@ -397,7 +397,7 @@ I've talked myself into both readings on different days since the chapter came o
 
 ---
 
-![Chapter 13](images/chapter-openers/ch13.png)
+![Chapter 13](images/chapter-openers/ch13.jpg)
 
 ## CHAPTER 13: WHAT GETS LOST IN TRANSLATION
 
@@ -421,7 +421,7 @@ What does shift, devil to devil, is the noun describing what each one is the dev
 
 ---
 
-![Chapter 14](images/chapter-openers/ch14.png)
+![Chapter 14](images/chapter-openers/ch14.jpg)
 
 ## CHAPTER 14: WHERE THIS LEAVES SHONEN MANGA
 
