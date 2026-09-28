@@ -191,11 +191,11 @@ verdict/synthesis chapters):
    quotes and a footnote, cited to Volume 2 [下巻], Kōdansha Bunko,
    1985 (user confirmed the edition after the fact).
 2. **Vol.2, Ch.1, *Dance Dance Dance* [ダンス・ダンス・ダンス]** —
-   user has a copy. Candidate scene: the Sheep Man's "keep dancing"
-   speech — already paraphrased in the current text ("telling the
-   narrator, in effect, to keep dancing... because stopping is the
-   actual danger"); a real quote here would upgrade a paraphrase to a
-   citation, the same move made elsewhere in the trilogy.
+   **STATUS: done.** User typed out the Sheep Man's full "dance for as
+   long as the music plays" speech directly (Kōdansha Bunko, 1991).
+   Added as a new subsection with two direct quotes (the "don't think
+   about meaning" passage and the closing line), replacing what had
+   been only a paraphrase.
 3. **Vol.2, Ch.4, *Kafka on the Shore* [海辺のカフカ]** — user has a
    copy. This chapter is entirely reception history (8,000 reader
    questions to a publisher-run website, Philip Gabriel's translation,
