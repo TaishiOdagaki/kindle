@@ -9,11 +9,7 @@ by Jiro Naozane
 
 *Chainsaw Man* asked its readers to want almost nothing — bread, a bed that isn't a van floor, someone who'd stay — and somehow that turned into one of the strangest, most talked-about endings of its decade. This book is about why that worked: the craft hiding underneath the shock value, the small human wants tucked inside the apocalypse, and what it actually felt like to follow this story chapter by weekly chapter, half-panicking about who'd die next. Written for people who already finished it, and for people who are about to.
 
----
-
-## ABOUT THE AUTHOR
-
-Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Chainsaw Man*.
 
 ---
 
@@ -21,21 +17,7 @@ Jiro Naozane has spent a career reading stories the way a translator reads a sen
 
 ![What's inside](images/charts/whats_inside.png)
 
-*Chainsaw Man* finished in March 2026. Twenty-four volumes, two parts, one very strange ending. This book is written for people who already know that, or who are about to.
-
-Every chapter carries a tag.
-
-**[Anime-safe]** means the chapter stays inside what the anime has actually covered so far: Season 1 and the *Reze Arc* movie. If you're caught up on the anime and nothing else, these chapters are yours without risk.
-
-**[Manga-only, spoilers ahead]** means the chapter goes past that line, into territory the anime hasn't reached yet or may never reach the same way. Two chapters near the end carry this tag in full, including the finale itself.
-
-A word on what "spoilers" means in this book. I'm not going to walk you through plot beat by plot beat like a recap wiki. That's not interesting to write and it's not interesting to read. What I'm after is meaning: why a scene lands the way it does, what it's actually doing underneath the shock value. Knowing the ending of *Chainsaw Man* and understanding why it works are two different kinds of knowledge. This book is mostly interested in the second kind. If you've already finished the series, that's exactly the experience this book is built for. If you haven't, the spoiler-tagged chapters will still be waiting when you're ready.
-
-Here's a small example of the difference, so you know what to expect. A plot-first sentence would tell you a specific major character dies partway through Part 1, and stop there, treating the fact of the death as the whole payload. A meaning-first sentence, the kind this book aims for, tells you a character dies in a way that recontextualizes everything they said about themselves for the previous fifty chapters, and then spends a paragraph on what exactly gets recontextualized and why. The first version is information you can look up on a wiki in ten seconds. The second version is closer to what a good conversation with a friend who just finished the series actually sounds like, which is the tone I'm aiming for throughout.
-
-One last practical note. A few chapters carry a heavier spoiler warning mid-paragraph rather than at the top, flagging a specific detail sharper than the rest of that chapter's discussion. Those inline flags are there so you can skip a single paragraph without losing the chapter around it, rather than having to avoid an entire chapter over one specific reveal.
-
-There's a Spoiler Map in the back matter that lists every chapter's coverage at a glance, in case you want to plan your reading around it.
+Every chapter carries a spoiler tag. **[Anime-safe]** stays inside Season 1 and the *Reze Arc* movie. **[Manga-only, spoilers ahead]** goes past that line — only two chapters near the end carry it in full, including the finale. This book isn't a recap; it's interested in why a scene works, not just what happens in it. A full Spoiler Map lives in the back matter if you want to plan your reading around it.
 
 ---
 

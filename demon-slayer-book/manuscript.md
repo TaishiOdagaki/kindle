@@ -9,11 +9,7 @@ by Jiro Naozane
 
 In 2025, a movie about a teenager fighting demons to save his sister became the highest-grossing Japanese film ever made — passing *Spirited Away*, passing *Your Name*, passing a movie from its own franchise set five years earlier. This book is about how a story built on something that simple did something that big: the craft, the timing, and the strange six-year gap between a manga that already ended and a global audience still holding its breath for the finish. Written for people who've already read it, and people still catching up.
 
----
-
-## ABOUT THE AUTHOR
-
-Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Demon Slayer*.
 
 ---
 
@@ -21,19 +17,9 @@ Jiro Naozane has spent a career reading stories the way a translator reads a sen
 
 ![What's inside](images/charts/whats_inside.png)
 
-Here is the question this whole book is trying to answer: why did *Demon Slayer: Infinity Castle* become the highest-grossing Japanese film ever made, by a margin large enough to make the previous record holder, a movie from the same franchise, look modest by comparison?
+This book is written from a strange gap: the manga ended in 2020, but the movie trilogy adapting it, *Infinity Castle*, is only one-third finished. Every chapter carries a tag so you always know which side of that gap you're on.
 
-That's not a rhetorical question. I don't think there's one clean answer, and I don't think you'd believe me if I pretended there was. What I think is that the answer is scattered across a dozen smaller ones: a studio's specific technical obsessions, a story built on an unusually simple premise, an author nobody has ever seen, a historical setting chosen for very deliberate reasons, an editor who almost killed the whole project in its first pitch meeting. Each chapter in this book hands you one piece. By the end, you should be able to put them together yourself, probably before I do it for you in the closing chapters.
-
-A word on the strange position this book is written from. *Demon Slayer*'s manga ended in 2020. If you've read it, you already know how it ends, and have for years. But the movie trilogy currently breaking box office records worldwide, *Infinity Castle*, is only one-third finished. Part 1 covers up through a specific character's death partway through the manga's final arc. Parts 2 and 3 don't have confirmed release dates yet, current unofficial estimates float somewhere around 2027 and 2029, and even that could shift.
-
-That gap is unusual, and this book uses it deliberately. If you've only watched the anime and movies, there are things in these pages you don't know yet, clearly marked, that you can choose to read now or save. If you've read the manga, you already hold information the rest of the fandom doesn't, and this book treats that as worth something rather than something to route around.
-
-**[Manga-known]** marks material that's been public since 2020, safe regardless of how far you've gotten in the anime and movies.
-
-**[Anime/Movie-current]** marks material covered by the TV series and *Infinity Castle: Part 1* as of this writing, current as of Part 1's release.
-
-**[Beyond Part 1]** marks manga-only material that the movie trilogy hasn't reached yet, and might not reach for years. A handful of chapters carry this tag. You'll know exactly which ones before you open them.
+**[Manga-known]** is safe regardless of how far you've gotten in the anime and movies. **[Anime/Movie-current]** is covered through *Infinity Castle: Part 1*. **[Beyond Part 1]** is manga-only material the trilogy hasn't reached yet — only a handful of chapters carry it, clearly marked.
 
 Let's get into it.
 

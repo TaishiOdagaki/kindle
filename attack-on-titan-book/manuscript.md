@@ -9,11 +9,7 @@ by Jiro Naozane
 
 *Attack on Titan* began as a horror manga about giants eating people behind a wall. It ended as one of the most politically contested, most passionately argued-over stories in modern manga. This book traces exactly what happened between chapter one and the finale — the real history the story borrowed from, the controversy it earned, and an honest answer to whether it earned the argument it ended up making. Written for people who love this story enough to still be arguing about it.
 
----
-
-## ABOUT THE AUTHOR
-
-Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Attack on Titan*.
 
 ---
 
@@ -21,13 +17,9 @@ Jiro Naozane has spent a career reading stories the way a translator reads a sen
 
 ![What's inside](images/charts/whats_inside.png)
 
-*Attack on Titan* is finished. The manga ended in April 2021, the anime's final special aired in November 2023, and there is no unresolved wait built into this book the way there was for a franchise still mid-adaptation. Everything discussed here is fair game, and everything is available to you right now, in whatever form you prefer to experience it.
+*Attack on Titan* is finished — manga and anime both — so nothing here is spoiler-shy about the ending. What started as a horror manga about giants eating people closes as one of the most politically argued-over stories in modern manga, and this book follows that whole arc.
 
-That doesn't mean this book is uncomplicated to read. A story that started as a monster-horror manga about giants eating people ended as one of the most politically argued-over works in modern manga, and this book follows that whole arc: the horror, the war, the history it borrowed from, the controversy it earned, and the ending that split its own fandom in half.
-
-One section of this book, clearly marked, summarizes exactly what happens in the story's final chapters and movements, including who lives, who dies, and how the story ultimately resolves. If you haven't finished *Attack on Titan* and want to go in cold, skip that chapter and come back to it after.
-
-This book also spends real time on a genuinely difficult subject: accusations that the story and its author carry nationalist or revisionist politics regarding Japan's twentieth-century history. That discussion doesn't get softened or skipped. It gets handled carefully, with sources, and with the disputes left visibly disputed rather than resolved into a tidier story than the real one.
+Two things worth knowing before you start. One clearly-marked section spells out exactly how the story ends, including who lives and who dies — skip it and come back later if you want to go in cold. And this book spends real time on accusations that the story carries nationalist politics, handled carefully, with sources, and without pretending the argument is settled.
 
 Let's get into it.
 
