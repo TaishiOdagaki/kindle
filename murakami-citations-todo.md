@@ -182,11 +182,15 @@ list (excluding chapters that are legitimately not about one novel —
 Nobel odds, Murakami Studies institutions, the Drive My Car adaptation,
 verdict/synthesis chapters):
 
-1. **Vol.1, Ch.5, *A Wild Sheep Chase* [羊をめぐる冒険]** — user has a
-   copy. Candidate scene: the ending (the narrator alone on the beach
-   after the Rat's death/disappearance) — this is the emotional
-   payoff *Dance Dance Dance*'s own opening chapter (Vol.2 Ch.1)
-   already references ("the narrator's closest friend dead").
+1. **Vol.1, Ch.5, *A Wild Sheep Chase* [羊をめぐる冒険]** — **STATUS:
+   done.** User photographed p. 230, the actual final scene: the J's
+   Bar conversation (splitting the reward money, making J a partner)
+   and the closing beach passage ("二時間泣いた... 生まれてはじめてだった"
+   / "the first time in my life I'd cried that much," ending on "小さな
+   波の音"/the sound of waves). Added as a new subsection with both
+   quotes and a footnote; edition/printing not confirmed beyond
+   Kōdansha, only the page number is pinned down — ask if the user can
+   confirm bunko vs. hardcover/printing year later.
 2. **Vol.2, Ch.1, *Dance Dance Dance* [ダンス・ダンス・ダンス]** —
    user has a copy. Candidate scene: the Sheep Man's "keep dancing"
    speech — already paraphrased in the current text ("telling the
