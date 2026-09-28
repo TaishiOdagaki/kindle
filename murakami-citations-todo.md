@@ -4,6 +4,57 @@ Working log of physical-book citations gathered for the three Murakami
 criticism manuscripts (`murakami-book/`, `murakami-book-vol2/`,
 `murakami-book-vol3/`). Update this file whenever a citation is
 requested, fulfilled, or corrected — don't rely on chat history alone.
+This file is the only thing that survives between sessions; a prior
+session's library-borrowing plan (below) was never written here and
+almost got lost as a result — don't repeat that mistake.
+
+## Master library list (prioritized, from a prior session)
+
+The user got this list from a different Claude Code session/thread. It
+doesn't survive in chat memory across sessions, only in this file from
+now on. Status annotations added 2026-09-28.
+
+**① Top priority — foundational for the whole series**
+1. *Novelist as a Vocation* [職業としての小説家] (Shinchō bunko) — the
+   original-Japanese account of writing in English and translating back.
+   English translation (trans. Philip Gabriel & Ted Goossen) also
+   wanted if available. **STATUS: Japanese text confirmed (Ch.2,
+   「小説家になった頃」) and quoted in Vol.1 footnote 2. English
+   translation edition not yet obtained — open if the user finds a
+   copy, but not blocking.**
+2. Jury remarks (選評) for the 81st and 82nd Akutagawa Prizes (1979,
+   1980) — likely only in back issues of *Bungei Shunjū* or an
+   Akutagawa-Prize anthology, may not be at an ordinary public library.
+   **STATUS: not started. User was told it's fine to give up on this
+   one if unavailable — low priority.**
+
+**② For expanding close readings**
+3. *The Wind-Up Bird Chronicle* Part 1 — (a) the opening
+   spaghetti-boiling scene, (b) the start of Mamiya's Nomonhan
+   monologue. **STATUS: (b) done — Ch.12 opening, p.245, confirmed and
+   cited. (a) the spaghetti-cooking opening is still open.**
+4. *1Q84* BOOK 1 — opening scene, taxi with Janáček's *Sinfonietta*
+   playing. **STATUS: not started.** (This is Vol.2 material.)
+5. *Killing Commendatore* [騎士団長殺し] — the scene where Menshiki
+   talks on the phone about Amada Tomohiko's brother Tsuguhiko, and
+   the Nanjing death-toll line ("some say 400,000, others say
+   100,000"). Somewhere in the first volume. **STATUS: not started.**
+   (This is Vol.3's Nanjing Massacre chapter.)
+
+**③ For translation side-by-side comparisons — need BOTH the Japanese
+original and the English translation**
+6. *Norwegian Wood* — Japanese opening already in hand; needed the
+   English translation (Jay Rubin) to compare. **STATUS: done** — Jay
+   Rubin, Vintage International, 2010, cited in Vol.1 Ch.7.
+7. *Hard-Boiled Wonderland and the End of the World* — Japanese
+   passages (the elevator scene, the golden beast scene) already in
+   hand; needed the English translation (Alfred Birnbaum) to compare.
+   **STATUS: not started.**
+
+*Hear the Wind Sing*'s English translation (Birnbaum) only exists in
+the bilingual Kodansha English Library edition, unlikely to be at a
+foreign public library — deprioritize translation comparisons for that
+title in favor of #6/#7.
 
 ## Done
 
@@ -58,10 +109,11 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   Part 2 or 3 specifically, don't ask the user to source it from Part 1
   — flag it as unverified/needs Parts 2–3 and wait until they have those
   volumes (they'll follow up once they do).
-- **Vol.3** — no specific pages requested yet. Likely candidates once
-  we get there: the Nanjing Massacre passage (*Killing Commendatore*)
-  and the *Drive My Car* / *Men Without Women* chapter. Nothing to
-  correct or confirm yet — just not started.
+- See the master library list above for what's still open: *Novelist
+  as a Vocation* (English ed.), Akutagawa jury remarks, the Wind-Up
+  Bird spaghetti-cooking opening, *1Q84*'s taxi opening, *Killing
+  Commendatore*'s Menshiki/Nanjing scene, and *Hard-Boiled Wonderland*'s
+  English translation.
 
 ## Notes
 
