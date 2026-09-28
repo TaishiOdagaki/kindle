@@ -40,15 +40,16 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   the Nomonhan narration directly instead of only its bloodiest
   moment.
 - **Vol.2, Ch.2** — Kano Creta's introduction: confirmed as **Chapter 8**,
-  「加納クレタの長い話、苦痛についての考察」(user-photographed, p.
-  159/161 visible) — her birth date, decision to end her life at 20,
-  family background. This one happened to match an earlier guess of
-  mine, but treat that as coincidence, not as license to trust
-  title-based guessing going forward. Not yet confirmed: whether her
-  specific characterization as a "prostitute" (娼婦) — which is what the
-  manuscript's "psychic prostitute" line actually asserts — appears in
-  this chapter or a later one; the two photographed pages only cover
-  her biographical backstory.
+  「加納クレタの長い話、苦痛についての考察」(user-photographed, pp.
+  159–181) — her birth date, decision to end her life at 20, family
+  background, and (pp. 179–181) becoming numb to physical pain and
+  pleasure after that attempt, then being coerced by two yakuza who
+  filmed and blackmailed her into sex work for their organization. This
+  confirms the manuscript's "psychic prostitute" description is
+  grounded in the text, not overstated. Added to the Sources list; kept
+  the main text's phrasing brief given how graphic the source pages
+  are. This chapter guess happened to match an earlier one of mine, but
+  that's coincidence, not license to trust title-based guessing again.
 - **Vol.2, Ch.2** — the dry-well scene (Toru Okada sitting at the
   bottom of a dry well). User has confirmed it is **not** Chapter 4.
   Chapter number still unknown — do not guess again; ask directly.
