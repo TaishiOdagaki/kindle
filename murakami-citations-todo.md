@@ -39,8 +39,19 @@ now on. Status annotations added 2026-09-28.
 5. *Killing Commendatore* [騎士団長殺し] — the scene where Menshiki
    talks on the phone about Amada Tomohiko's brother Tsuguhiko, and
    the Nanjing death-toll line ("some say 400,000, others say
-   100,000"). Somewhere in the first volume. **STATUS: not started.**
-   (This is Vol.3's Nanjing Massacre chapter.)
+   100,000"). **STATUS: done.** User provided the exact Japanese text
+   directly (typed, not photographed) from Part 2 [第2部
+   遷ろうメタファー編] (Shinchōsha, 2017). Now quoted directly in Vol.3
+   with a footnote and Sources entry. In the process, softened one
+   overclaim: the manuscript had said the passage "asks, in effect,
+   what real difference that gap actually makes" — the quoted text
+   only confirmed as far as "the killing is an undeniable fact
+   regardless of the exact count," so the stronger rhetorical-question
+   framing was walked back to what's actually verified. A note.com
+   article the user linked (by Sasaki Atsushi, discussing how
+   contentious this passage is) could deepen this chapter further, but
+   note.com is blocked by this session's network egress — ask the user
+   to paste the relevant content directly if they want it incorporated.
 
 **③ For translation side-by-side comparisons — need BOTH the Japanese
 original and the English translation**
