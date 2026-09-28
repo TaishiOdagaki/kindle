@@ -182,6 +182,7 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Murakami Haruki, *The Wind-Up Bird Chronicle* [ねじまき鳥クロニクル], serialized 1992–1995 (Tokyo: Shinchōsha).
 - Murakami Haruki, *The Wind-Up Bird Chronicle*, Part 1: *Dorobō Kasasagi-hen* [第1部 泥棒かささぎ編] (Tokyo: Shinchōsha, 1994) — first-edition text consulted directly for Chapter 13 ("間宮中尉の長い話２"), including Lieutenant Mamiya's reflection on defending militarily worthless land, p. 263.
 - Same edition, Chapter 8 ("加納クレタの長い話、苦痛についての考察"), pp. 159–181 — consulted directly for Kano Creta's introduction and backstory, including the coerced sex work, following an earlier suicide attempt, that grounds this book's "psychic prostitute" description of her.
+- Same edition, Chapter 12 ("間宮中尉の長い話・1"), opening page 245 — consulted directly for the start of Mamiya's own narration: his posting, in early 1937, to the Kwantung Army General Staff's military-geography section in Manchuria.
 - Murakami Haruki, *Henkyō, Kinkyō* [辺境・近境] (Tokyo: Shinchōsha, 1998), including the chapter "Nomonhan's Iron Graveyard" (ノモンハンの鉄の墓場), drawn from his June 1994 trip to the Nomonhan battlefield.
 - On Shiba Ryōtarō's abandoned Nomonhan research: Keio University, "The 100th Anniversary of Shiba Ryōtarō's Birth," *Mita Hyōron* (2023).
 

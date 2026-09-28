@@ -20,6 +20,11 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   Part 1 [ねじまき鳥クロニクル 第1部 泥棒かささぎ編] (Tokyo:
   Shinchōsha, 1994), Chapter 13 "Lieutenant Mamiya's Long Story, Part 2"
   (間宮中尉の長い話２), p. 263.
+- **Vol.2, Ch.2** — Chapter 12, "Lieutenant Mamiya's Long Story, Part 1"
+  (間宮中尉の長い話・1), opening page 245, confirmed and photographed:
+  Mamiya's own account starts with his posting to the Kwantung Army
+  General Staff's military-geography section in Manchuria in early
+  1937. Added to Sources.
 - **Vol.1, Ch.2 (*Novelist as a Vocation*)** — footnote [^2] and its
   Sources entry now cite the exact chapter (第二章「小説家になった頃」)
   and quote his own description of the process directly: typing in
@@ -28,17 +33,6 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   "not a rigid literal translation... something closer to a free
   'transplantation'" (「移植」に近いもの). No page number was visible in
   the photos, so the citation is chapter-level only.
-
-## Open / candidates
-
-- **Vol.2, Ch.2** — Chapter 12, "Lieutenant Mamiya's Long Story, Part 1"
-  (間宮中尉の長い話１), confirmed by the user as where Mamiya's account
-  actually begins (correcting an earlier, wrong guess on my part that
-  it was Chapter 4 — that guess was based only on a chapter-title
-  search, not verified against the book, and the user caught it).
-  Photographing the opening of Ch.12 would let us cite the start of
-  the Nomonhan narration directly instead of only its bloodiest
-  moment.
 - **Vol.2, Ch.2** — Kano Creta's introduction: confirmed as **Chapter 8**,
   「加納クレタの長い話、苦痛についての考察」(user-photographed, pp.
   159–181) — her birth date, decision to end her life at 20, family
@@ -50,6 +44,9 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   the main text's phrasing brief given how graphic the source pages
   are. This chapter guess happened to match an earlier one of mine, but
   that's coincidence, not license to trust title-based guessing again.
+
+## Open / candidates
+
 - **Vol.2, Ch.2** — the dry-well scene (Toru Okada sitting at the
   bottom of a dry well). User has confirmed it is **not** Chapter 4.
   Chapter number still unknown — do not guess again; ask directly.
