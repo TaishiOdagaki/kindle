@@ -4,8 +4,6 @@
 
 *A Japanese Culture Press Book*
 
-*This is an independent, unauthorized work of literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*
-
 ---
 
 ## How to Read This Book
@@ -289,3 +287,7 @@ This list reflects sources consulted during research and does not claim to be ex
 ## About the Author
 
 Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+
+---
+
+*This is an independent, unauthorized work of literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*

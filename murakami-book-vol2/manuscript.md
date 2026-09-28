@@ -4,8 +4,6 @@
 
 *A Japanese Culture Press Book*
 
-*This is the second of three volumes of independent, unauthorized literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*
-
 ---
 
 ## How to Read This Book
@@ -245,3 +243,7 @@ This list reflects sources consulted during research and does not claim to be ex
 ## About the Author
 
 Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+
+---
+
+*This is the second of three volumes of independent, unauthorized literary criticism — not affiliated with, endorsed by, or representing Haruki Murakami, his publishers, or his translators. Quotations are kept brief and used for critical commentary under fair-use practice.*

@@ -39,6 +39,23 @@ Vol.3 gets its own polish pass then, not now. Applied, in order:
    junbungaku/taishū bungaku split). Worth spot-checking Vol.3's
    chapter titles against their bodies the same way at some point.
 
+**Front-matter convention change, all three volumes:** the general
+rights disclaimer ("This is an independent, unauthorized work of
+literary criticism...") used to sit right after the "A Japanese
+Culture Press Book" imprint line, before "How to Read This Book." The
+user asked for it moved to the very back of each book instead (after
+"About the Author," as the book's last lines) so every volume's front
+matter goes straight from title/imprint into the hook, no legal
+throat-clearing first. Done for Vol.1, Vol.2, and Vol.3. Note this is
+a step further than the sibling anime-book series' own convention,
+which keeps a single italic disclaimer line near the front and only
+moves the fuller stuff and "About the Author" to the back — this is a
+deliberate deviation for this series specifically, not a mistake to
+"fix" back toward the anime books' pattern. Vol.3's chapter-2-specific
+sensitivity note (on discussing the Nanjing Massacre) is a different,
+content-specific warning and stays where it is, directly before that
+chapter.
+
 ## Master library list (prioritized, from a prior session)
 
 The user got this list from a different Claude Code session/thread. It
