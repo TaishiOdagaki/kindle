@@ -204,13 +204,14 @@ verdict/synthesis chapters):
    point about the novel staying mysterious even to devoted domestic
    readers.
 4. **Vol.3, Ch.3, *The City and Its Uncertain Walls* [街とその不確かな
-   壁]** — user has a copy. This chapter is entirely origin-story
-   (1980 novella → 1985's *Hard-Boiled Wonderland* → this 2023 novel)
-   — no quotes yet from the actual 2023 text. Candidate: an opening or
-   Wall/Gatekeeper passage that shows how this version's walled town
-   echoes or diverges from *Hard-Boiled Wonderland*'s — ask the user
-   what stands out on a skim, since this book hasn't been discussed in
-   detail yet.
+   壁]** — **STATUS: done.** User photographed pp. 18–20: the golden
+   beasts' autumn transformation (directly echoing *Hard-Boiled
+   Wonderland*'s "Golden Beasts" chapter, quoted in Vol.1 Ch.6 — same
+   image, 38 years apart), the Gatekeeper's daily razor/horn ritual,
+   and the previously-undocumented spring mating-week violence. Added
+   as a new subsection ("What Carried Over, and What Got Built Out")
+   comparing this version directly to the *Hard-Boiled Wonderland*
+   material Vol.1 already quoted.
 5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **user does NOT have
    this one.** Leave open; don't ask for it until they do.
 
