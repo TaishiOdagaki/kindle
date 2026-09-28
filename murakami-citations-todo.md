@@ -295,7 +295,28 @@ verdict/synthesis chapters):
    comparing this version directly to the *Hard-Boiled Wonderland*
    material Vol.1 already quoted.
 5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **user does NOT have
-   this one.** Leave open; don't ask for it until they do.
+   this one yet; borrowing from the library 2026-09-29.** Prepped
+   2026-09-28 while waiting: verified the chapter's only hard factual
+   claim (13th novel, published April 12, 2013, by Bungeishunjū) via
+   web search — already correct in the manuscript, no fix needed.
+   Chapter 1's current argument is a direct comparison to *Norwegian
+   Wood*: same wound-and-reckoning structure, but read as building
+   toward *recovery* rather than staying inside loss. Two candidate
+   passages identified (by scene, not exact wording — don't have the
+   text to quote yet, and didn't want to guess/fabricate it):
+   1. **First choice — the ending.** The final pages: Tsukuru turns
+      out the light the night before Sara is due to give him her
+      answer. Falls directly out of the chapter's existing "recovery,
+      not resolution" argument — an irresolute ending is itself the
+      textual evidence for that claim.
+   2. **Second choice — the swimming-pool passages.** Tsukuru's
+      recurring swimming ritual, used through the novel as a physical/
+      interior-life motif (emptiness, self-image). A good backup if
+      the ending doesn't work well pulled out as a standalone quote.
+   Once the user has the book: ask for a photo/typed excerpt of
+   whichever passage(s) they land on, then add a new subsection to
+   Vol.3 Ch.1 the same way Vol.1 Ch.5 (*A Wild Sheep Chase*) and Vol.2
+   Ch.1 (*Dance Dance Dance*) were handled.
 
 No fixed order requested yet — user hasn't picked which to start with.
 
