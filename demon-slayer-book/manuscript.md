@@ -5,7 +5,9 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
-*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Koyoharu Gotouge, Shueisha, Aniplex, ufotable, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
+## A NOTE BEFORE YOU BEGIN
+
+In 2025, a movie about a teenager fighting demons to save his sister became the highest-grossing Japanese film ever made — passing *Spirited Away*, passing *Your Name*, passing a movie from its own franchise set five years earlier. This book is about how a story built on something that simple did something that big: the craft, the timing, and the strange six-year gap between a manga that already ended and a global audience still holding its breath for the finish. Written for people who've already read it, and people still catching up.
 
 ---
 
@@ -483,4 +485,8 @@ If you made it this far and it was worth your time, a quick rating or review hel
 
 ## ABOUT THE AUTHOR
 
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+
+---
+
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Koyoharu Gotouge, Shueisha, Aniplex, ufotable, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*

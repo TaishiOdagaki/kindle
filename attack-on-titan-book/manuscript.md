@@ -5,7 +5,9 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
-*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Hajime Isayama, Kodansha, Wit Studio, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
+## A NOTE BEFORE YOU BEGIN
+
+*Attack on Titan* began as a horror manga about giants eating people behind a wall. It ended as one of the most politically contested, most passionately argued-over stories in modern manga. This book traces exactly what happened between chapter one and the finale — the real history the story borrowed from, the controversy it earned, and an honest answer to whether it earned the argument it ended up making. Written for people who love this story enough to still be arguing about it.
 
 ---
 
@@ -618,5 +620,9 @@ If you made it this far and it was worth your time, a quick rating or review hel
 
 ## ABOUT THE AUTHOR
 
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+
+---
+
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Hajime Isayama, Kodansha, Wit Studio, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
 

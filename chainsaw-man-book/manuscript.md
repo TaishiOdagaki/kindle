@@ -5,7 +5,9 @@ by Jiro Naozane
 
 *A Japanese Culture Press Book*
 
-*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Tatsuki Fujimoto, Shueisha, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
+## A NOTE BEFORE YOU BEGIN
+
+*Chainsaw Man* asked its readers to want almost nothing — bread, a bed that isn't a van floor, someone who'd stay — and somehow that turned into one of the strangest, most talked-about endings of its decade. This book is about why that worked: the craft hiding underneath the shock value, the small human wants tucked inside the apocalypse, and what it actually felt like to follow this story chapter by weekly chapter, half-panicking about who'd die next. Written for people who already finished it, and for people who are about to.
 
 ---
 
@@ -483,4 +485,8 @@ If you made it this far and it was worth your time, a quick rating or review hel
 
 ## ABOUT THE AUTHOR
 
-Jiro Naozane is an independent researcher and writer covering manga and anime for over a decade, after studying Japanese culture at university, where a manga research circle turned a casual habit into something closer to an obsession. This book is an independent work of criticism, not the output of any academic institution or publisher.
+Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+
+---
+
+*This is an independent, unauthorized work of criticism — not affiliated with, endorsed by, or sponsored by Tatsuki Fujimoto, Shueisha, MAPPA, Crunchyroll, or any other rights holder connected to this book's subject matter. No copyrighted artwork, panels, or extended story text are reproduced here.*
