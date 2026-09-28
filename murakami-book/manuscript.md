@@ -10,6 +10,8 @@
 
 ## How to Read This Book
 
+A note on who this is for: readers who already love Murakami and want the argument underneath the reputation, and readers who've never read a word of him and just want to know what the fuss is actually about. Either one works. Start here.
+
 In April 1978, a twenty-nine-year-old jazz-bar owner named Haruki Murakami was watching a baseball game at Jingū Stadium when an American import batting leadoff for the Yakult Swallows hit a clean double, and Murakami had a thought that surprised him: *I could write a novel.* He'd never written fiction before in his life. Within a year he had, and Japan's own literary establishment told him, in print, that his prose read like something in translation. This book is an attempt to find out whether they were right, why, and what that actually meant for the writer he became. It isn't a ranked list of which Murakami novel to read first — plenty of other guides already do that. It's a close look at how one particular voice got built, sentence by sentence, and why the people closest to it, his own country's most serious literary judges, kept mistaking it for foreign.
 
 ---

@@ -10,6 +10,8 @@
 
 ## How to Read This Book
 
+A note on who this is for: you don't need Volume One in hand to follow this one — the parts of the earlier argument that matter get recapped as they come up — but if you've read it, you'll see exactly where this book picks up the thread. Either way, you're in the right place.
+
 Volume One left Murakami in 1987: newly famous at home, and privately unsettled by what that fame actually felt like. This volume picks up from there and follows the stretch of his career that made him strange in a new way — formally ambitious, historically serious, willing to sit for months across a table from survivors of a sarin gas attack and just listen. Two national catastrophes reshape what his fiction is for. A private, particular kind of loneliness, his own at first, spreads out until it's something closer to a generation's default emotional weather, in Japan and then well beyond it. That's the arc this volume traces: not a bigger Murakami, exactly, but a Murakami whose smallest, most personal instinct turned out to scale.
 
 ---
