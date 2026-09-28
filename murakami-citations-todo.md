@@ -171,6 +171,48 @@ title in favor of #6/#7.
   Commendatore*'s Menshiki/Nanjing scene, and *Hard-Boiled Wonderland*'s
   English translation.
 
+## Zero-quote chapters — close-reading expansion (2026-09-28)
+
+User's own observation: several chapters discuss a single major novel
+at full chapter length but currently quote nothing from it at all —
+plot summary and interpretation only, no textual grounding. Nothing
+here is wrong (nothing quoted, nothing to misquote), but it's thin for
+serious criticism. Audited all three manuscripts for this; the real
+list (excluding chapters that are legitimately not about one novel —
+Nobel odds, Murakami Studies institutions, the Drive My Car adaptation,
+verdict/synthesis chapters):
+
+1. **Vol.1, Ch.5, *A Wild Sheep Chase* [羊をめぐる冒険]** — user has a
+   copy. Candidate scene: the ending (the narrator alone on the beach
+   after the Rat's death/disappearance) — this is the emotional
+   payoff *Dance Dance Dance*'s own opening chapter (Vol.2 Ch.1)
+   already references ("the narrator's closest friend dead").
+2. **Vol.2, Ch.1, *Dance Dance Dance* [ダンス・ダンス・ダンス]** —
+   user has a copy. Candidate scene: the Sheep Man's "keep dancing"
+   speech — already paraphrased in the current text ("telling the
+   narrator, in effect, to keep dancing... because stopping is the
+   actual danger"); a real quote here would upgrade a paraphrase to a
+   citation, the same move made elsewhere in the trilogy.
+3. **Vol.2, Ch.4, *Kafka on the Shore* [海辺のカフカ]** — user has a
+   copy. This chapter is entirely reception history (8,000 reader
+   questions to a publisher-run website, Philip Gabriel's translation,
+   the World Fantasy Award) — zero textual engagement so far. Strong
+   candidate: Crow's "sometimes fate is like a small sandstorm"
+   monologue from the opening chapter, probably the novel's most
+   quoted single passage.
+4. **Vol.3, Ch.3, *The City and Its Uncertain Walls* [街とその不確かな
+   壁]** — user has a copy. This chapter is entirely origin-story
+   (1980 novella → 1985's *Hard-Boiled Wonderland* → this 2023 novel)
+   — no quotes yet from the actual 2023 text. Candidate: an opening or
+   Wall/Gatekeeper passage that shows how this version's walled town
+   echoes or diverges from *Hard-Boiled Wonderland*'s — ask the user
+   what stands out on a skim, since this book hasn't been discussed in
+   detail yet.
+5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **user does NOT have
+   this one.** Leave open; don't ask for it until they do.
+
+No fixed order requested yet — user hasn't picked which to start with.
+
 ## Follow-up audit: other named-critic claims (2026-09-28)
 
 Prompted by the Ōe finding, checked two other named-critic claims that
