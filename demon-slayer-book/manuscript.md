@@ -29,6 +29,8 @@ Let's get into it.
 
 ---
 
+![Introduction](images/chapter-openers/intro.png)
+
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
 
 *[Manga/Anime-safe — no spoilers]*
@@ -42,6 +44,8 @@ None of that happens by accident, and none of it happens for just one reason. A 
 This book spends the chapters ahead taking that machine apart, piece by piece. Not to diminish it. If anything, the individual pieces turn out to be more interesting than the headline number. But by the time you reach the chapter that tries to answer the question directly, you'll have everything you need to argue with my answer, which is honestly the outcome I'm hoping for.
 
 ---
+
+![Chapter 1](images/chapter-openers/ch01.png)
 
 ## CHAPTER 1: THE MANGA EVERYONE ALREADY KNOWS HOW IT ENDS
 
@@ -58,6 +62,8 @@ I'm not going to spend this book dangling that gap over you cruelly. Chapters ma
 So: why does a story whose ending has been public information since 2020 still have the entire world waiting, white-knuckled, for a movie trilogy to catch up to it? That's the question the next chapter starts answering, from the ground up, with the premise itself.
 
 ---
+
+![Chapter 2](images/chapter-openers/ch02.png)
 
 ## CHAPTER 2: A TEENAGER WHO WANTED TO KEEP HIS SISTER
 
@@ -87,6 +93,8 @@ I'll offer a reading here, clearly marked as mine rather than anything sourced t
 
 ---
 
+![Chapter 3](images/chapter-openers/ch03.png)
+
 ## CHAPTER 3: THE WOMAN WHO REFUSES TO BE KNOWN
 
 *[Manga-known]*
@@ -113,6 +121,8 @@ The parallel isn't exact, and it's worth being honest about where it breaks down
 
 ---
 
+![Chapter 4](images/chapter-openers/ch04.png)
+
 ## CHAPTER 4: THE PITCH MEETING THAT ALMOST KILLED IT
 
 *[Manga-known]*
@@ -138,6 +148,8 @@ It's worth explaining why an editor's early skepticism about a new pitch carries
 That's the actual, structural stakes underneath the "almost killed it" framing of the pitch meeting, and it's why the editorial reshaping described above wasn't a leisurely creative conversation with no real cost attached. A manga this dark and this unrelieved, launched into an unforgiving, fast, numbers-driven cancellation system with no guaranteed runway to find its audience, had a real, specific chance of surviving three weeks of reader postcards and then quietly disappearing before most of the story it eventually told had a chance to exist at all. The editor pushing for a gentler, more accessible opening wasn't being cautious for its own sake. He was trying to get a story he believed in past the exact mechanism that has ended plenty of other promising series before they had the chance to become anything.
 
 ---
+
+![Chapter 5](images/chapter-openers/ch05.png)
 
 ## CHAPTER 5: THE STUDIO THAT BROKE ITS OWN RECORD
 
@@ -171,6 +183,8 @@ That consistency is worth taking seriously as its own kind of craft decision, no
 
 ---
 
+![Chapter 6](images/chapter-openers/ch06.png)
+
 ## CHAPTER 6: WHY ADULTS WHO NEVER WATCH ANIME CRIED AT THIS ONE
 
 *[Anime/Movie-current]*
@@ -188,6 +202,8 @@ Here's a pattern worth naming directly, because it's one of the more consistent 
 I think that criticism is fair, and I'd rather say so plainly than pretend this story is flawless. But I'd also push back on the implied conclusion, that this is a structural failure. Every demon Tanjiro kills gets a backstory built to make you grieve someone the story just told you to fear, and by the time you've watched that device run a dozen times, it's reasonable to feel its machinery a little, to notice the formula: cruelty, tragedy, a death rendered with more sympathy than the violence that preceded it earned. That repetition is a real cost. What it buys, though, is the exact thing this chapter has spent itself describing: an audience that cries, reliably, on cue, at the death of characters they met an episode ago. Muzan staying comparatively hollow isn't a mistake the story stumbled into. It's the one place the formula doesn't apply, on purpose, because a story that made you grieve its own final boss would be telling you something it doesn't actually believe: that cruelty, at the very top, deserves the same understanding it hands out to everyone cruelty already broke on the way down.
 
 ---
+
+![Chapter 7](images/chapter-openers/ch07.png)
 
 ## CHAPTER 7: THE SOUND OF A SWORD YOU'VE NEVER HEARD
 
@@ -229,6 +245,8 @@ Feudal Japan's swordsmithing culture also shows up structurally, not just visual
 
 ---
 
+![Chapter 8](images/chapter-openers/ch08.png)
+
 ## CHAPTER 8: THE WORLD THAT MAKES THE SECRECY MAKE SENSE
 
 *[Manga-known]*
@@ -260,6 +278,8 @@ The word the original title uses, oni, translated across the franchise simply as
 Oni also have a real, ongoing presence in Japanese life that has nothing to do with fiction: the Setsubun festival, held every February to mark the change of season, involves throwing roasted soybeans while shouting "oni wa soto, fuku wa uchi," demons out, good fortune in, a ritual inherited from an older Chinese court tradition for driving off plague spirits and still practiced in households and temples across the country today. A story about a boy fighting oni to save his sister isn't drawing on an invented threat built for the plot. It's drawing on a figure Japanese children learn to symbolically chase out of their own homes every year, made literal, made personal, and given a face.
 
 ---
+
+![Chapter 9](images/chapter-openers/ch09.png)
 
 ## CHAPTER 9: WHAT THE BOX OFFICE NUMBERS ACTUALLY MEAN
 
@@ -293,6 +313,8 @@ That's worth sitting with rather than smoothing over. The single highest-grossin
 
 ---
 
+![Chapter 10](images/chapter-openers/ch10.png)
+
 ## CHAPTER 10: THE YEAR ONE MANGA HELD UP AN INDUSTRY
 
 *[Manga-known]*
@@ -313,6 +335,8 @@ The finale itself is worth a specific number too, because it's an unusually clea
 
 ---
 
+![Chapter 11](images/chapter-openers/ch11.png)
+
 ## CHAPTER 11: WHAT ALREADY HAPPENED, WAITING TO BE SEEN
 
 *[Beyond Part 1 — manga spoilers for content the movie trilogy hasn't reached yet]*
@@ -330,6 +354,8 @@ Manga readers have had six years to argue about whether that epilogue earns its 
 I'm not going to spend more paragraphs interpreting a finale most of this book's readers haven't watched unfold yet in its intended, animated form. What I want to leave you with instead is this: knowing where a story ends and watching it actually arrive there are two different experiences, and this franchise, for the next several years at minimum, is asking an enormous global audience to sit inside that gap deliberately. That's a strange, interesting position for a completed story to occupy. Most finished stories don't get to still be suspenseful for anyone. This one does, for as long as ufotable needs to finish the job.
 
 ---
+
+![Chapter 12](images/chapter-openers/ch12.png)
 
 ## CHAPTER 12: WAITING FOR PARTS 2 AND 3
 
@@ -363,6 +389,8 @@ There's also a whole comedic corner of the franchise that most anime-only viewer
 
 ---
 
+![Chapter 13](images/chapter-openers/ch13.png)
+
 ## CHAPTER 13: SO WHY DID IT BREAK EVERY RECORD
 
 *[Anime/Movie-current]*
@@ -380,6 +408,8 @@ That's my answer. I'd rather you argue with it than accept it outright, but I di
 Go back through the twelve chapters above and see which piece you think is actually doing the most work. I've made my case. I'd still rather you land on your own.
 
 ---
+
+![Chapter 14](images/chapter-openers/ch14.png)
 
 ## CHAPTER 14: WHERE THIS LEAVES ANIME GLOBALLY
 

@@ -23,6 +23,8 @@ Let's get into it.
 
 ---
 
+![Introduction](images/chapter-openers/intro.png)
+
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
 
 In 2009, a manga began with a simple, almost primal horror premise: humanity lives behind massive walls because giant, mindless creatures eat people whole, for no apparent reason, and nobody remembers why. Twelve years and 139 chapters later, that same manga ended as a sprawling, morally exhausting meditation on genocide, generational hatred, and whether freedom is worth the atrocity it costs to secure. Its final act was one of the most contested endings any major manga has ever produced.
@@ -32,6 +34,8 @@ Something happened between chapter 1 and chapter 139 that turned a horror story 
 I'm not going to pretend that's a comfortable question. *Attack on Titan* draws directly on real genocide, real ethnic persecution, and real historical grievance between real nations, and it has been accused, by serious critics in multiple countries, of doing that irresponsibly. This book takes that accusation seriously enough to actually examine it, rather than either dismissing it reflexively or accepting it reflexively. By the end, I'll tell you where I land. I'd rather you argue with it than take my word for it.
 
 ---
+
+![Chapter 1](images/chapter-openers/ch01.png)
 
 ## CHAPTER 1: A HORROR MANGA, OR SO IT SEEMED
 
@@ -64,6 +68,8 @@ Isayama has been unusually open, across interviews given over the years, about w
 None of that makes *Attack on Titan* a copy of either series. It makes it a work built the way most long-running manga actually get built: not from nothing, but from a specific, nameable stack of things one artist loved enough to fold into something new.
 
 ---
+
+![Chapter 2](images/chapter-openers/ch02.png)
 
 ## CHAPTER 2: THE REVEAL THAT REWROTE THE WHOLE STORY
 
@@ -105,6 +111,8 @@ The story adds one more twist to that already-brutal history that this book's la
 
 ---
 
+![Chapter 3](images/chapter-openers/ch03.png)
+
 ## CHAPTER 3: THE HISTORY UNDERNEATH THE FICTION
 
 Once the story reveals that Titans are weaponized humans, it also reveals who those humans are and how they got that way, and this is where *Attack on Titan* stops being loosely historical and starts being specifically, uncomfortably historical. The people who can be turned into Titans are called Eldians, and Eldians who live inside Marley, the powerful nation across the sea that considers itself the story's "normal" outside world, are required to wear a visible armband in public identifying them as Eldian. Marley segregates its Eldian population into internment zones. The most prominent one, where a large portion of the story's second half takes place, is called Liberio, where families live under armed watch, and where a rotating population of interned Eldians is selected, generation after generation, to be turned into living Titan weapons and sent to the front lines of Marley's wars.
@@ -141,6 +149,8 @@ That's not a subtle metaphor buried in subtext. It's the literal load-bearing ar
 
 ---
 
+![Chapter 4](images/chapter-openers/ch04.png)
+
 ## CHAPTER 4: A CREATOR WHO ACTUALLY TALKS
 
 Every other book in this series has had to work around a specific kind of silence. Koyoharu Gotouge, the creator of *Demon Slayer*, has never given an on-camera interview and has never confirmed even their own gender on the record. Tatsuki Fujimoto, of *Chainsaw Man*, is famously guarded in the same general direction. Hajime Isayama is the opposite kind of creator entirely, and it's worth naming that difference directly, because it changes what kind of book this chapter, and this book generally, is able to be.
@@ -173,6 +183,8 @@ It's worth updating the record here rather than leaving Isayama frozen at the mo
 
 ---
 
+![Chapter 5](images/chapter-openers/ch05.png)
+
 ## CHAPTER 5: THE NATIONALISM CONTROVERSY, AS PRECISELY AS IT CAN BE STATED
 
 *A note on this chapter and the two that follow: they discuss real historical atrocities, including genocide and ethnic persecution, in the context of analyzing how a work of fiction draws on them, and a real, ongoing political controversy involving accusations of nationalism directed at the work and its author. Where a claim is disputed or unconfirmed, that is said directly rather than presented as settled fact.*
@@ -198,6 +210,8 @@ That the story's own in-fiction badge is legible as a Star of David reference is
 It's worth knowing that the nationalism question this chapter has been picking apart isn't confined to op-eds, message boards, and this book's own analysis. It's become a subject of actual peer-reviewed academic study. Communication scholars Fielding Montgomery and Megu Itoh published a paper on the series in *Critical Studies in Media Communication* in 2023, examining how a single text's political meaning can shift dramatically as it crosses borders and gets picked up by audiences the creator never wrote for, using *Attack on Titan* as their central case study specifically because of how differently the story reads depending on who's doing the reading and where. That a shonen manga about giants eating people has generated serious academic attention from media-studies scholars, not just entertainment journalism, is itself a marker of how far past "just a controversial cartoon" this argument has traveled. Scholars don't build peer-reviewed case studies around texts that aren't saying something worth the trouble of studying carefully.
 
 ---
+
+![Chapter 6](images/chapter-openers/ch06.png)
 
 ## CHAPTER 6: HOW THIS LANDED AT HOME
 
@@ -226,6 +240,8 @@ It's worth contrasting that domestic-versus-overseas gap with a different contro
 Whatever individual readers felt about how the story ended, it's worth putting one hard number next to all that argument: Volume 34, the manga's final collected volume, sold roughly 820,000 copies in its first week on sale in Japan, according to Oricon's weekly sales tracking, enough to take the number-one spot on Oricon's weekly comics ranking outright. That's not the number of a fanbase quietly souring on its own series. Whatever the ending controversy did to individual readers' feelings about the last stretch of the story, it didn't translate into Japanese readers declining to buy the book that contained it.
 
 ---
+
+![Chapter 7](images/chapter-openers/ch07.png)
 
 ## CHAPTER 7: THE FANDOM THAT READS ITSELF INTO BOTH SIDES
 
@@ -257,6 +273,8 @@ That's worth including for balance as much as for scale: not every market's stor
 
 ---
 
+![Chapter 8](images/chapter-openers/ch08.png)
+
 ## CHAPTER 8: BANNED IN CHINA, AND STILL BANNED
 
 In 2015, China's Ministry of Culture placed *Attack on Titan* on a blacklist of foreign manga and anime titles, alongside other violent, high-profile titles like *Death Note* and *Claymore*, citing scenes of excessive violence and content the ministry considered a threat to public morality. That official framing was about gore, not politics, and the gore complaint is genuine: the series is graphically violent even by seinen manga standards, especially in its early Titan-eating-people sequences. But the ban landed inside a broader context that made it read as more than a content-rating decision to a lot of observers: *Attack on Titan* had, around the same period, become an unofficial symbol adopted by some protesters during Hong Kong's Umbrella Movement, who found resonance in its imagery of people fighting for freedom against an overwhelming, wall-enclosing power structure, which put the franchise uncomfortably close to a live political flashpoint from the Chinese government's perspective, whatever the ministry's official stated reasoning.
@@ -280,6 +298,8 @@ Worth being fair about the scale here, since it would be easy to make this sound
 It's also worth being precise about exactly where the ban applies, since "China" gets used loosely to describe several distinct markets with very different politics and very different outcomes for this franchise. The ban is specific to mainland China. In Taiwan and Hong Kong, both Chinese-speaking markets with their own separate media regulators, *Attack on Titan* was never blacklisted at all: it streamed legally through licensed platforms like iQIYI and Muse Asia's official YouTube channel, and its 2024 theatrical recompilation received a confirmed regional release across Taiwan, Hong Kong, and several other Southeast Asian markets. The same story that a mainland Chinese regulator has kept off approved platforms for a decade played, openly and legally, in Hong Kong, the one Chinese-speaking city whose own residents had turned its Titan imagery into protest art against Beijing in the first place.
 
 ---
+
+![Chapter 9](images/chapter-openers/ch09.png)
 
 ## CHAPTER 9: NAMES THAT WERE ARGUING WITH EACH OTHER FROM PAGE ONE
 
@@ -323,6 +343,8 @@ That's a genuinely unusual thing to build, on purpose, into a mainstream shonen-
 
 ---
 
+![Chapter 10](images/chapter-openers/ch10.png)
+
 ## CHAPTER 10: WHAT ACTUALLY HAPPENS AT THE END — FULL SPOILERS
 
 Everything in this chapter is a direct, complete account of how *Attack on Titan* ends. If you haven't finished the story and want to experience the ending unspoiled, skip to the next chapter now.
@@ -347,6 +369,8 @@ The final anime episode, which aired as part of a special released after the man
 
 ---
 
+![Chapter 11](images/chapter-openers/ch11.png)
+
 ## CHAPTER 11: WHY THAT ENDING SPLIT THE FANDOM IN HALF
 
 *Attack on Titan* finished its twelve-year run in April 2021, and the reaction split so cleanly and so immediately that it's worth treating as its own subject rather than a footnote to the plot summary above. This wasn't a quiet, simmering disagreement that built over months. Twitter, Reddit, and MyAnimeList lit up within hours of the final chapter's release, and the split has held: user review scores for the ending on sites like MyAnimeList and IMDb cluster at two opposite extremes rather than settling somewhere in the middle, with large numbers of ratings near the top of the scale and large numbers near the bottom, and comparatively few in between. That bimodal pattern is itself informative. A mediocre ending usually produces a lot of shrugging 6s and 7s. This produced a fandom arguing, essentially, about whether the same twelve pages were a masterpiece or a betrayal.
@@ -370,6 +394,8 @@ The fate-and-determinism complaint deserves a more precise explanation than "the
 That's philosophically closer to a real, named position, compatibilism, the idea that determinism and free will aren't actually in conflict and that a choice can be both foreknown and genuinely chosen, than to a simple predestination cop-out, and it's a more sophisticated piece of narrative machinery than the "it was all fate, so nothing was his fault" reading that a lot of casual criticism reduces it to. The trouble, and the reason the criticism persisted anyway, is that the story doesn't spell this distinction out with total clarity in the actual chapters where it matters most, leaving enough interpretive space that both readings — Eren freely choosing a future he foresaw, and Eren being railroaded into a future the plot had already decided — remain defensible from the same handful of ambiguous panels. A cleaner, more explicit statement of the mechanic in-text probably would have blunted a real portion of this specific complaint. Instead, the story left it as one more thing readers had to argue about rather than settle, which, by this point in the book, should read as entirely in character for how this story handles almost everything it touches.
 
 ---
+
+![Chapter 12](images/chapter-openers/ch12.png)
 
 ## CHAPTER 12: THE STUDIO SWITCH NOBODY WANTED, THEN EVERYONE THANKED
 
@@ -402,6 +428,8 @@ Sawano's score wasn't the only piece of this franchise's music to break out on i
 The Wit-to-MAPPA handoff wasn't the production's only scheduling headache. MAPPA announced in January 2023 that the already-final Part 3 of the anime's Final Season would itself be split into two further pieces, with the first half arriving as an hour-long special in March 2023 and the actual conclusion following later that year. The stated reason, reported across ComicBook.com, Siliconera, and CBR, wasn't a story problem. It was raw production math: the studio's own workload estimate for finishing the material properly ran longer than the original single-broadcast plan could accommodate, compounded by MAPPA simultaneously producing several of the era's other biggest hits, *Jujutsu Kaisen*, *Chainsaw Man*, and *Vinland Saga* among them, across the same overlapping stretch of years. A franchise this large finishing on schedule turned out to be less a guarantee than a genuine logistical challenge, even for a studio with MAPPA's resources and even after it had already proven, season by season, that it could handle the material well.
 
 ---
+
+![Chapter 13](images/chapter-openers/ch13.png)
 
 ## CHAPTER 13: THE SCALE OF THE THING, IN NUMBERS
 
@@ -449,6 +477,8 @@ Where *Attack on Titan* did convert its scale into something notable was press c
 
 ---
 
+![Chapter 14](images/chapter-openers/ch14.png)
+
 ## CHAPTER 14: A CURSE PASSED DOWN, ON PURPOSE
 
 One thematic thread runs underneath almost everything this book has already covered, and it deserves its own chapter rather than staying scattered across the others: *Attack on Titan* is, at its core, a story about hatred that outlives the people who first felt it, passed down mechanically, generation after generation, to people who never made the original choices that caused it.
@@ -484,6 +514,8 @@ The speech Erwin gives immediately before that charge is worth naming specifical
 
 ---
 
+![Chapter 15](images/chapter-openers/ch15.png)
+
 ## CHAPTER 15: DID THE STORY EARN ITS OWN ARGUMENT?
 
 Time to actually answer the question this book opened with: did *Attack on Titan* earn the argument its ending made, or betray the one it spent twelve years building?
@@ -509,6 +541,8 @@ It's worth knowing that Isayama didn't wait for critics to make this case before
 The backlash behind that apology had gotten ugly enough that Isayama and his staff reportedly received death threats over how the story ended, and ahead of a public appearance at Anime NYC that year, he posted a message asking fans to be kind to him in person. What actually happened at that convention went the other way: the crowd responded to his vulnerability with sustained applause and shouted support, a reception fans and press covering the event described as nearly bringing him to tears. It's a strange, oddly moving footnote to a franchise that spent its entire run arguing that people are usually more capable of choosing understanding over cruelty than the story's own bleakest chapters gave them credit for — and for one night, in one room, that argument held.
 
 ---
+
+![Chapter 16](images/chapter-openers/ch16.png)
 
 ## CHAPTER 16: WHAT ATTACK ON TITAN LEFT BEHIND
 

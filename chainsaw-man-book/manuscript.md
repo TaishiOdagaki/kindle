@@ -9,6 +9,10 @@ by Jiro Naozane
 
 ---
 
+![What's inside](images/charts/whats_inside.png)
+
+---
+
 ## HOW TO READ THIS BOOK
 
 *Chainsaw Man* finished in March 2026. Twenty-four volumes, two parts, one very strange ending. This book is written for people who already know that, or who are about to.
@@ -29,6 +33,8 @@ There's a Spoiler Map in the back matter that lists every chapter's coverage at 
 
 ---
 
+![Introduction](images/chapter-openers/intro.png)
+
 ## INTRODUCTION: WHY WRITE ABOUT AN ENDING
 
 *[Anime-safe]*
@@ -46,6 +52,8 @@ So: this is a companion for people who finished the series and want the "why" be
 One more thing before we start, and I'll be quick about it. I'm writing this as a Japanese fan who followed the series in something close to real time, and I want that perspective to actually show up on the page rather than get sanded down into a generic, universal "fan voice" that could belong to anyone. That means I'll sometimes reach for a comparison to a different Japanese manga instead of a Western one, or use a piece of fan slang without over-explaining it past what the glossary in the back gives you, or just tell you plainly when I think a choice didn't work instead of finding a polite, hedged way around saying so. I'd rather write the book I'd actually want to read than the one that's safest to write. Let's get into it.
 
 ---
+
+![Chapter 1](images/chapter-openers/ch01.png)
 
 ## CHAPTER 1: THE MANGA THAT WASN'T SUPPOSED TO WORK
 
@@ -73,7 +81,11 @@ There's also a generational timing element worth naming. *Chainsaw Man* launched
 
 Here's the part that surprises people who only learn the Weekly Jump history after the fact: Part 1 succeeded there, by the magazine's own weekly-poll standard, for two full years. And then, when Part 2 was announced, Fujimoto moved it off print Weekly Jump entirely and back onto *Shonen Jump+*, the same app that had carried *Fire Punch*. That's not a demotion. By most reporting on the decision, it was closer to Fujimoto cashing in the leverage Part 1's success had earned him. Working conditions on Weekly Jump's schedule are famously unsustainable, tight weekly deadlines with little room for a creator to breathe, and Fujimoto has been fairly candid that the move bought him more creative freedom, more recurring breaks, and a pace he could actually sustain, at some cost to the sheer scale of readership and sales a print Weekly Jump slot guarantees. He'd already proven, with Part 1, that he could win on the industry's biggest and least forgiving stage. Part 2 reads like a creator deciding he didn't have to keep proving it twice.
 
+![Publication timeline](images/charts/publication_timeline.png)
+
 ---
+
+![Chapter 2](images/chapter-openers/ch02.png)
 
 ## CHAPTER 2: DEVILS ARE JUST OUR FEARS WEARING A COSTUME
 
@@ -101,7 +113,11 @@ Save one more mechanical detail from this system for later, because this book co
 
 There's also a cleaner emotional logic underneath the mechanic, one that explains why Denji, of all people, ends up able to merge with and control a devil that most hunters can barely survive fighting. Pochita is the Chainsaw Devil: born from the fear of chainsaws specifically, a comparatively minor, oddly domestic terror next to guns or death itself. He's weak by the story's own stated rules. What makes him matter isn't raw power. It's the relationship. Fear, in this world, is a resource devils are built from — but the story spends its entire runtime arguing that what actually saves anyone isn't power at all. It's who's willing to stay.
 
+![A census of collective fear](images/charts/fear_spectrum.png)
+
 ---
+
+![Chapter 3](images/chapter-openers/ch03.png)
 
 ## CHAPTER 3: DENJI AND THE DEATH OF THE SHONEN DREAM
 
@@ -137,7 +153,11 @@ Sit with the title for a second, because it's doing more work than a cool-soundi
 
 I want to end this chapter defending something that gets treated, even by fans, as a punchline more than a thesis statement: the bread with jam on it, specifically, as opposed to some more narratively "elevated" want. It would have been easy, and safer, for Fujimoto to give Denji a slightly more dignified want to hold onto across two hundred chapters. A found family. A home. Something a reader can nod at solemnly. Instead the series commits, repeatedly and without flinching, to a piece of toast with jam as a genuine emotional through-line, and refuses to let that be embarrassing. That refusal is, in its own small way, as radical as anything else this book has pointed at. Most fiction is a little bit ashamed of small wants, treats them as a stepping stone toward bigger, more legible ones. *Chainsaw Man* just isn't, and I think that's a braver piece of writing than it usually gets credit for.
 
+![The shonen dream, downsized](images/charts/shonen_dream_downsized.png)
+
 ---
+
+![Chapter 4](images/chapter-openers/ch04.png)
 
 ## CHAPTER 4: AKI HAYAKAWA AND THE COST OF REVENGE
 
@@ -160,6 +180,8 @@ Read against Denji's arc, Aki's death lands as an argument rather than just a tr
 It's worth remembering Aki wasn't only a cautionary tale. Before any of the above, he's the closest thing to an older brother Denji ever gets in this story, and their small, prickly domestic scenes together, arguing over cigarettes, over chores, over Power's latest disaster, are doing real emotional groundwork the tragedy later cashes in. Aki teaches Denji things nobody else in his life bothered to: how to behave at a funeral, what basic decency toward a roommate looks like, the unglamorous choreography of just being a person around other people, past pure survival. None of that gets undone by how the arc ends. If anything, it's the reason the ending costs what it costs. You don't mourn a mentor you were never shown mentoring. This series makes sure you were.
 
 ---
+
+![Chapter 5](images/chapter-openers/ch05.png)
 
 ## CHAPTER 5: FUJIMOTO'S CAMERA — THE DIRECTOR WHO DRAWS MANGA
 
@@ -185,6 +207,8 @@ Manga sound effects, *onomatopoeia* rendered as hand-lettered art within the pan
 
 ---
 
+![Chapter 6](images/chapter-openers/ch06.png)
+
 ## CHAPTER 6: THE ANIME'S OWN ARGUMENT WITH THE PAGE
 
 *[Anime-safe]*
@@ -200,6 +224,8 @@ MAPPA's response was telling. *Chainsaw Man – The Movie: Reze Arc* brought in 
 With an anime sequel covering the Assassins Arc now announced, the studio and whoever ends up directing it are inheriting a genuinely difficult brief: win back a portion of the audience Season 1 lost, without simply overcorrecting into the louder, more conventionally "anime" register the original direction was consciously trying to avoid in the first place. The *Reze Arc* film's warmer reception suggests the fix isn't as simple as more exaggeration for its own sake. It's closer to finding the specific register the manga itself lives in, tonal whiplash played completely straight, and trusting that register to carry across mediums without either flattening it into naturalism or inflating it into spectacle. That's a narrower needle to thread than either extreme, and it's the real test still ahead of this franchise on screen. The manga already solved this problem once, on the page. The anime is still working out its own answer.
 
 ---
+
+![Chapter 7](images/chapter-openers/ch07.png)
 
 ## CHAPTER 7: MAKIMA AND THE GRAMMAR OF CONTROL
 
@@ -225,7 +251,11 @@ Read that way, the entire arc isn't really about good triumphing over evil. It's
 
 One last note on this arc, because the specific mechanism, eating rather than simply killing, is easy to read as shock value if you don't clock how deliberately it's been seeded. Devouring is this series' central metaphor for intimacy from its very first chapters: Denji and Pochita's original bond is built literally around Pochita offering himself to be eaten, a gesture the story frames as the deepest possible expression of love available in this world's specific rules. By the time Makima's arc resolves the same way, the act isn't a random grotesque flourish. It's the series returning to the one gesture it has already told you, at the very start, means everything. Denji eating Makima isn't him doing something alien to how he loves. It's him doing the only thing he knows how to do, the same thing Pochita did for him, pointed at someone who spent the whole story doing the opposite of what love is supposed to look like. That's what makes the scene so hard to sit with. It's not violence dressed up as love. It's the real thing, aimed at someone who never deserved to receive it that honestly.
 
+![The grammar of control](images/charts/grammar_of_control.png)
+
 ---
+
+![Chapter 8](images/chapter-openers/ch08.png)
 
 ## CHAPTER 8: THE WOMEN WHO REFUSE TO BE SAVED
 
@@ -257,6 +287,8 @@ Asa and Yoru's specific arrangement, one body, two wills, constantly negotiating
 
 ---
 
+![Chapter 9](images/chapter-openers/ch09.png)
+
 ## CHAPTER 9: VIOLENCE AS PUNCHLINE
 
 *[Anime-safe]*
@@ -282,6 +314,8 @@ This is also, worth flagging for anyone comparing the manga to its anime adaptat
 Take one of the series' most reliable comic engines: Power taking credit for something she had no part in, immediately, shamelessly, in front of people who clearly know better. On the page, that beat usually lands in a single panel or two, Power's face rendered with maximum smugness, the other characters' exhausted reactions squeezed into the same small space, the whole exchange over before you've fully processed it. The joke's speed is part of the joke. Slow that same exchange down into three seconds of animated screen time with a voice performance layered on top, and you either have to trust the performance to carry the same speed the page did, or the joke risks landing softer than it did in your head when you first read it. This isn't a knock on any particular adaptation choice. It's just a genuinely difficult translation problem, comedic timing built for a medium where the reader controls the pace being handed to a medium where the studio does, and it's one of the more interesting, under-discussed challenges baked into adapting this specific manga's specific sense of humor.
 
 ---
+
+![Chapter 10](images/chapter-openers/ch10.png)
 
 ## CHAPTER 10: PART 2 AND THE DEVIL OF FAME
 
@@ -313,6 +347,8 @@ It's worth spending a moment on the structural irony of where Part 2 physically 
 
 ---
 
+![Chapter 11](images/chapter-openers/ch11.png)
+
 ## CHAPTER 11: THE PACING WAR — WHY PART 2 SPLIT THE FANDOM
 
 *[Manga-only, spoilers ahead]*
@@ -326,6 +362,8 @@ Here's the complicating twist, and it's one worth sitting with rather than resol
 I don't think that fully absolves the pacing issues. A story serialized weekly has some obligation to also work weekly, and Part 2 often didn't, especially through its middle stretch. But I do think it's worth naming plainly, in a book written specifically for people encountering this as a finished object rather than a live weekly release: you are, structurally, reading this the way it may have worked best all along. If Part 2 disappointed you the first time through and you're considering a reread, that disappointment might not survive a second, uninterrupted pass. Mine mostly didn't.
 
 ---
+
+![Chapter 12](images/chapter-openers/ch12.png)
 
 ## CHAPTER 12: HOW IT ENDS — POCHITA'S CHOICE
 
@@ -359,6 +397,8 @@ I've talked myself into both readings on different days since the chapter came o
 
 ---
 
+![Chapter 13](images/chapter-openers/ch13.png)
+
 ## CHAPTER 13: WHAT GETS LOST IN TRANSLATION
 
 *[Anime-safe]*
@@ -380,6 +420,8 @@ One more small thing worth flagging, because it's easy to get backward: the devi
 What does shift, devil to devil, is the noun describing what each one is the devil of. Some of those are old, native words, a gun, a shape, a name with centuries of Japanese vocabulary behind it. Others, tellingly, aren't, and get rendered in katakana precisely because Japanese has no traditional word for what they're naming: no old-language term exists for a zombie, so the devil of that fear has to reach for a borrowed one. Read that way, the series' vocabulary is itself doing the fear-mapping this book's Chapter 2 already described: the oldest, most universal fears get named in the language's oldest words, and the newer, more imported anxieties show up wearing imported vocabulary, right down to the noun.
 
 ---
+
+![Chapter 14](images/chapter-openers/ch14.png)
 
 ## CHAPTER 14: WHERE THIS LEAVES SHONEN MANGA
 
@@ -417,49 +459,13 @@ This book doesn't have a publisher or a marketing budget behind it — just an i
 
 A quick reference for what each chapter covers, matched against where the anime currently stands (Season 1 + *Reze Arc* movie, as of this writing).
 
-| Chapter | Anime-safe? | Notes |
-|---|---|---|
-| Intro | Yes | No plot-specific spoilers |
-| 1. The Manga That Wasn't Supposed to Work | Yes | Industry/career context only |
-| 2. Devils Are Just Our Fears | Yes | Worldbuilding mechanics, no major reveals |
-| 3. Denji and the Death of the Shonen Dream | Yes | Character analysis, early-series material |
-| 4. Aki Hayakawa and the Cost of Revenge | Partial | Setup is anime-safe; his fate is not |
-| 5. Fujimoto's Camera | Yes | Craft/style discussion |
-| 6. The Anime's Own Argument With the Page | Yes | About the adaptation itself |
-| 7. Makima and the Grammar of Control | Partial | Setup is anime-safe; the arc's ending is not |
-| 8. The Women Who Refuse to Be Saved | Mostly | Reze section assumes the *Reze Arc* movie |
-| 9. Violence as Punchline | Yes | Tone/craft discussion |
-| 10. Part 2 and the Devil of Fame | **No** | Fully unadapted material |
-| 11. The Pacing War | **No** | Discusses Part 2 in full, including its ending |
-| 12. How It Ends | **No** | The manga's ending, discussed directly |
-| 13. What Gets Lost in Translation | Yes | Language and craft discussion |
-| 14. Where This Leaves Shonen Manga | Yes | Framed around industry and legacy |
+![Spoiler map](images/charts/spoiler_map.png)
 
 ---
 
 ## GLOSSARY
 
-**Devil** — a being born from and empowered by human fear, the series' core antagonist category.
-
-**Fiend** — a corpse possessed and reanimated by a devil; distinct from a devil in its original form.
-
-**Hybrid** — a human merged with a devil, gaining its powers while retaining human identity; Denji's classification as Chainsaw Man.
-
-**Jump+** — Shonen Jump+, Shueisha's newer digital-first manga app, distinct from print Weekly Shonen Jump. *Chainsaw Man* Part 1 ran in print Weekly Shonen Jump; Part 2 moved to Jump+.
-
-**Kousatsu-zei** (考察勢) — "theory-crafting faction," fans who focus on close analysis and prediction.
-
-**Manzai** — a fast-paced Japanese stand-up comedy format built on a straight-man/funny-man exchange.
-
-**Numaochi** (沼落ち) — literally "falling into the swamp," fan slang for becoming completely obsessed with a series.
-
-**Sakuga** (作画) — unusually fluid, technically impressive animation that departs from a show's normal budget baseline.
-
-**Seiyuu** (声優) — a Japanese voice actor; vocal direction choices are a major part of how an anime adaptation reinterprets its source material.
-
-**Simulpub** — simultaneous or near-simultaneous official digital publication of a manga chapter across multiple regions and languages.
-
-**Toutoi** (尊い) — literally "precious" or "noble," fan slang expressing overwhelmed affection for a character or relationship.
+![Glossary, at a glance](images/charts/glossary_visual.png)
 
 ---
 
