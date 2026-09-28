@@ -14,11 +14,13 @@ A note on who this is for: readers finishing the series, and readers who've only
 
 Volume Two left off in 2010, with Murakami's private alienation fully converted into a generation's shared vocabulary, and one novel treated like a scheduled national event. This volume covers the last decade and a half. A late return to the plain, realist register he first tried with *Norwegian Wood*. A single sentence about the Nanjing Massacre that cost him real goodwill in his own country, and that he wrote anyway. A seventy-four-year-old novelist walking back into a walled town he'd first imagined at thirty-one, because two earlier attempts still hadn't gotten it right. A quarter-century of Nobel Prize speculation built almost entirely on betting odds nobody in Stockholm has ever confirmed. And a film adaptation, made by someone else entirely, that reached more people in three hours than most of his own novels have in decades.
 
+Let's get into it.
+
 ---
 
 ## THE QUESTION THIS VOLUME IS TRYING TO ANSWER
 
-Twenty years after Japan's own literary establishment decided his prose sounded too foreign to belong to its tradition, and a full career after he turned that same not-quite-belonging into an international reputation: is there anything left for a writer this large, this studied, this translated, to actually risk? Or has "Murakami" simply gotten too big a name to ever sound like an outsider again?
+Twenty years after Japan's own literary establishment decided his prose sounded too foreign to belong to its tradition, and a full career after he turned that same not-quite-belonging into an international reputation: is there anything left for a writer this large, this studied, this translated, to actually risk? Or has "Murakami" simply gotten too big a name to ever sound like an outsider again? Chapter by chapter, this volume hands over the evidence for both answers before the verdict chapter picks one.
 
 ---
 

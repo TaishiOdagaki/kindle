@@ -14,11 +14,13 @@ A note on who this is for: readers who already love Murakami and want the argume
 
 In April 1978, a twenty-nine-year-old jazz-bar owner named Haruki Murakami was watching a baseball game at Jingū Stadium when an American import batting leadoff for the Yakult Swallows hit a clean double, and Murakami had a thought that surprised him: *I could write a novel.* He'd never written fiction before in his life. Within a year he had, and Japan's own literary establishment told him, in print, that his prose read like something in translation. This book is an attempt to find out whether they were right, why, and what that actually meant for the writer he became. It isn't a ranked list of which Murakami novel to read first — plenty of other guides already do that. It's a close look at how one particular voice got built, sentence by sentence, and why the people closest to it, his own country's most serious literary judges, kept mistaking it for foreign.
 
+Let's get into it.
+
 ---
 
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
 
-Here's the question this volume keeps circling back to: is the flat, understated, faintly foreign-sounding "Murakami voice" that English-language readers know something his translators built, or something Murakami built into the Japanese himself, on purpose, as a way of refusing to sound fully Japanese at all? Short answer, worked out over the next nine chapters: he built it. Deliberately. Years before a translator ever touched a page.
+Here's the question this volume keeps circling back to: is the flat, understated, faintly foreign-sounding "Murakami voice" that English-language readers know something his translators built, or something Murakami built into the Japanese himself, on purpose, as a way of refusing to sound fully Japanese at all? Short answer, worked out over the next nine chapters: he built it. Deliberately. Years before a translator ever touched a page. By the time you reach the verdict chapter, you should have everything you need to argue with that answer yourself. That's the point.
 
 ---
 

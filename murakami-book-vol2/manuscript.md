@@ -14,11 +14,13 @@ A note on who this is for: you don't need Volume One in hand to follow this one 
 
 Volume One left Murakami in 1987: newly famous at home, and privately unsettled by what that fame actually felt like. This volume picks up from there and follows the stretch of his career that made him strange in a new way — formally ambitious, historically serious, willing to sit for months across a table from survivors of a sarin gas attack and just listen. Two national catastrophes reshape what his fiction is for. A private, particular kind of loneliness, his own at first, spreads out until it's something closer to a generation's default emotional weather, in Japan and then well beyond it. That's the arc this volume traces: not a bigger Murakami, exactly, but a Murakami whose smallest, most personal instinct turned out to scale.
 
+Let's get into it.
+
 ---
 
 ## THE QUESTION THIS VOLUME IS TRYING TO ANSWER
 
-How does one writer's private, specific loneliness end up as an entire generation's emotional shorthand, in Japan first and then well beyond it? And what did he actually have to do, as a novelist and not as a phenomenon, to make that happen? This volume answers both, in order.
+How does one writer's private, specific loneliness end up as an entire generation's emotional shorthand, in Japan first and then well beyond it? And what did he actually have to do, as a novelist and not as a phenomenon, to make that happen? This volume answers both, in order — and leaves enough of the argument exposed, chapter by chapter, that you can push back on it before the verdict chapter tries to close it.
 
 ---
 
