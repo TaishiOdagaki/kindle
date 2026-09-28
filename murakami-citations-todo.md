@@ -23,10 +23,36 @@ now on. Status annotations added 2026-09-28.
    translation edition not yet obtained — open if the user finds a
    copy, but not blocking.**
 2. Jury remarks (選評) for the 81st and 82nd Akutagawa Prizes (1979,
-   1980) — likely only in back issues of *Bungei Shunjū* or an
-   Akutagawa-Prize anthology, may not be at an ordinary public library.
-   **STATUS: not started. User was told it's fine to give up on this
-   one if unavailable — low priority.**
+   1980). **STATUS: done — and this one mattered far more than its
+   "low priority" label suggested.** User found the full remarks on
+   prizesworld.com (sourced to *Akutagawa-shō Zenshū* vol. 12, 1983).
+   Checking them uncovered a real error, not just a missing citation:
+   Vol.1 Ch.3 had Kenzaburō Ōe reviewing *Hear the Wind Sing* and
+   calling it a "dead end" — he's recorded with **zero lines** on that
+   candidate in the actual 81st-round remarks. His only documented
+   comment on either Akutagawa round is on *Pinball, 1973* (82nd
+   round), and it's a qualified compliment ("that can only be called
+   clear talent"), not a dismissal. Ch.3's claim that Saiichi Maruya
+   named "Vonnegut and Brautigan" was also unsupported by his actual
+   remarks. Fixed across three chapters:
+   - **Vol.1 Ch.1**: replaced an unverified "外国翻訳小説の読み過ぎ"
+     characterization with Mitsuo Nakamura's actual, verified 82nd-round
+     comment.
+   - **Vol.1 Ch.3** ("What 'Light' Meant as an Insult"): replaced the
+     false Ōe/Maruya-Vonnegut-Brautigan paragraph with the four jurors
+     who actually commented on *Hear the Wind Sing* (Maruya, Takii,
+     Yoshiyuki, Endō), quoted directly, and an explicit note that Ōe
+     didn't comment on this round at all.
+   - **Vol.1 Ch.4**: retitled from "The Critics Who Changed Their Minds
+     — In Both Directions" to "What the Critical Record Actually Shows,"
+     since the Ōe "dismissal to respect" arc doesn't hold up — rewrote
+     as a myth-correction (Ōe was never the hostile early critic the
+     popular story claims) sitting alongside Kawamoto's real, still-
+     documented reversal.
+   This is exactly the kind of error the verify-nonfiction-claims skill
+   exists to catch — confidently written, specific, and wrong. Audit
+   the rest of the trilogy's named-critic claims the same way if
+   sourcing for them ever turns up.
 
 **② For expanding close readings**
 3. *The Wind-Up Bird Chronicle* Part 1 — (a) the opening
