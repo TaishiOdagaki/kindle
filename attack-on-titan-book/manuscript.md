@@ -13,7 +13,7 @@ by Jiro Naozane
 
 ## ABOUT THE AUTHOR
 
-Jiro Naozane is a Japanese researcher and critic who reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. This book is that same care turned toward *Attack on Titan*.
+Jiro Naozane is a Japanese researcher and critic who has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth. Still buys the physical volumes after reading the digital release first, still gets pulled into arguments about an ending months after everyone else has moved on, and still finds the question of why a story works more interesting than whether it did. This book is that same instinct, turned toward *Attack on Titan*.
 
 ---
 
