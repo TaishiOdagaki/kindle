@@ -11,11 +11,9 @@ In 2025, a movie about a teenager fighting demons to save his sister became the 
 
 ---
 
-![What's inside](images/charts/whats_inside.png)
-
----
-
 ## HOW TO READ THIS BOOK
+
+![What's inside](images/charts/whats_inside.png)
 
 Here is the question this whole book is trying to answer: why did *Demon Slayer: Infinity Castle* become the highest-grossing Japanese film ever made, by a margin large enough to make the previous record holder, a movie from the same franchise, look modest by comparison?
 
@@ -35,9 +33,9 @@ Let's get into it.
 
 ---
 
-![Introduction](images/chapter-openers/intro.jpg)
-
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
+
+![Introduction](images/chapter-openers/intro.jpg)
 
 *[Manga/Anime-safe — no spoilers]*
 
@@ -51,9 +49,9 @@ This book spends the chapters ahead taking that machine apart, piece by piece. N
 
 ---
 
-![Chapter 1](images/chapter-openers/ch01.jpg)
-
 ## CHAPTER 1: THE MANGA EVERYONE ALREADY KNOWS HOW IT ENDS
+
+![Chapter 1](images/chapter-openers/ch01.jpg)
 
 *[Manga-known]*
 
@@ -69,9 +67,9 @@ So: why does a story whose ending has been public information since 2020 still h
 
 ---
 
-![Chapter 2](images/chapter-openers/ch02.jpg)
-
 ## CHAPTER 2: A TEENAGER WHO WANTED TO KEEP HIS SISTER
+
+![Chapter 2](images/chapter-openers/ch02.jpg)
 
 *[Anime/Movie-current]*
 
@@ -101,9 +99,9 @@ I'll offer a reading here, clearly marked as mine rather than anything sourced t
 
 ---
 
-![Chapter 3](images/chapter-openers/ch03.jpg)
-
 ## CHAPTER 3: THE WOMAN WHO REFUSES TO BE KNOWN
+
+![Chapter 3](images/chapter-openers/ch03.jpg)
 
 *[Manga-known]*
 
@@ -129,9 +127,9 @@ The parallel isn't exact, and it's worth being honest about where it breaks down
 
 ---
 
-![Chapter 4](images/chapter-openers/ch04.jpg)
-
 ## CHAPTER 4: THE PITCH MEETING THAT ALMOST KILLED IT
+
+![Chapter 4](images/chapter-openers/ch04.jpg)
 
 *[Manga-known]*
 
@@ -157,9 +155,9 @@ That's the actual, structural stakes underneath the "almost killed it" framing o
 
 ---
 
-![Chapter 5](images/chapter-openers/ch05.jpg)
-
 ## CHAPTER 5: THE STUDIO THAT BROKE ITS OWN RECORD
+
+![Chapter 5](images/chapter-openers/ch05.jpg)
 
 *[Anime/Movie-current]*
 
@@ -191,9 +189,9 @@ That consistency is worth taking seriously as its own kind of craft decision, no
 
 ---
 
-![Chapter 6](images/chapter-openers/ch06.jpg)
-
 ## CHAPTER 6: WHY ADULTS WHO NEVER WATCH ANIME CRIED AT THIS ONE
+
+![Chapter 6](images/chapter-openers/ch06.jpg)
 
 *[Anime/Movie-current]*
 
@@ -211,9 +209,9 @@ I think that criticism is fair, and I'd rather say so plainly than pretend this 
 
 ---
 
-![Chapter 7](images/chapter-openers/ch07.jpg)
-
 ## CHAPTER 7: THE SOUND OF A SWORD YOU'VE NEVER HEARD
+
+![Chapter 7](images/chapter-openers/ch07.jpg)
 
 *[Anime/Movie-current]*
 
@@ -253,9 +251,9 @@ Feudal Japan's swordsmithing culture also shows up structurally, not just visual
 
 ---
 
-![Chapter 8](images/chapter-openers/ch08.jpg)
-
 ## CHAPTER 8: THE WORLD THAT MAKES THE SECRECY MAKE SENSE
+
+![Chapter 8](images/chapter-openers/ch08.jpg)
 
 *[Manga-known]*
 
@@ -287,9 +285,9 @@ Oni also have a real, ongoing presence in Japanese life that has nothing to do w
 
 ---
 
-![Chapter 9](images/chapter-openers/ch09.jpg)
-
 ## CHAPTER 9: WHAT THE BOX OFFICE NUMBERS ACTUALLY MEAN
+
+![Chapter 9](images/chapter-openers/ch09.jpg)
 
 *[Anime/Movie-current]*
 
@@ -323,9 +321,9 @@ That's worth sitting with rather than smoothing over. The single highest-grossin
 
 ---
 
-![Chapter 10](images/chapter-openers/ch10.jpg)
-
 ## CHAPTER 10: THE YEAR ONE MANGA HELD UP AN INDUSTRY
+
+![Chapter 10](images/chapter-openers/ch10.jpg)
 
 *[Manga-known]*
 
@@ -345,9 +343,9 @@ The finale itself is worth a specific number too, because it's an unusually clea
 
 ---
 
-![Chapter 11](images/chapter-openers/ch11.jpg)
-
 ## CHAPTER 11: WHAT ALREADY HAPPENED, WAITING TO BE SEEN
+
+![Chapter 11](images/chapter-openers/ch11.jpg)
 
 *[Beyond Part 1 — manga spoilers for content the movie trilogy hasn't reached yet]*
 
@@ -365,9 +363,9 @@ I'm not going to spend more paragraphs interpreting a finale most of this book's
 
 ---
 
-![Chapter 12](images/chapter-openers/ch12.jpg)
-
 ## CHAPTER 12: WAITING FOR PARTS 2 AND 3
+
+![Chapter 12](images/chapter-openers/ch12.jpg)
 
 *[Anime/Movie-current]*
 
@@ -401,9 +399,9 @@ There's also a whole comedic corner of the franchise that most anime-only viewer
 
 ---
 
-![Chapter 13](images/chapter-openers/ch13.jpg)
-
 ## CHAPTER 13: SO WHY DID IT BREAK EVERY RECORD
+
+![Chapter 13](images/chapter-openers/ch13.jpg)
 
 *[Anime/Movie-current]*
 
@@ -421,9 +419,9 @@ Go back through the twelve chapters above and see which piece you think is actua
 
 ---
 
-![Chapter 14](images/chapter-openers/ch14.jpg)
-
 ## CHAPTER 14: WHERE THIS LEAVES ANIME GLOBALLY
+
+![Chapter 14](images/chapter-openers/ch14.jpg)
 
 *[Anime/Movie-current]*
 
