@@ -8,6 +8,37 @@ This file is the only thing that survives between sessions; a prior
 session's library-borrowing plan (below) was never written here and
 almost got lost as a result — don't repeat that mistake.
 
+## Prose polish pass (2026-09-28) — not a citation task, logged for continuity
+
+Vol.1 and Vol.2 got a readability/craft pass using the `humanize-writing-en`
+skill from the anime-criticism sibling project, plus a read-through of
+that project's three companion books (Chainsaw Man, Attack on Titan,
+Demon Slayer) for concrete technique. Vol.3 is deliberately excluded —
+the user will add a Nobel Prize result section once it's announced, so
+Vol.3 gets its own polish pass then, not now. Applied, in order:
+1. Front matter: replaced the "isn't X, isn't Y" opener pattern with
+   concrete hooks (Vol.1's Jingū Stadium/Dave Hilton anecdote, verified
+   by web search); varied the three volumes' "How to Read"/"Question"
+   sections so they don't read as structural clones of each other.
+2. Added a direct "who this is for" line to each volume's opening,
+   modeled on Chainsaw Man's "A Note Before You Begin."
+3. Added the anime series' recurring "Let's get into it." transition
+   and an invitation to disagree with the book's own answer — adapted
+   to this series' third-person voice (no first-person "I" introduced,
+   unlike the anime books' persona-driven voice).
+4. Chapter-level pass across all 17 chapters in Vol.1 and Vol.2: varied
+   opening sentences (numbers, fragments — every chapter previously
+   opened "Subject + verb + exposition"), shortened several closing
+   sentences that were long dependent-clause "bows," and split the
+   densest paragraphs (250–350 words) at natural pivot points for
+   Kindle readability.
+5. Bonus find while close-reading Vol.1: Chapter 3 was titled "What
+   'Light' Meant as an Insult" but the word "light" never actually
+   appeared in the chapter — retitled to "The Line the Jury Was
+   Actually Defending," which matches the chapter's real content (the
+   junbungaku/taishū bungaku split). Worth spot-checking Vol.3's
+   chapter titles against their bodies the same way at some point.
+
 ## Master library list (prioritized, from a prior session)
 
 The user got this list from a different Claude Code session/thread. It
