@@ -20,6 +20,14 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   Part 1 [ねじまき鳥クロニクル 第1部 泥棒かささぎ編] (Tokyo:
   Shinchōsha, 1994), Chapter 13 "Lieutenant Mamiya's Long Story, Part 2"
   (間宮中尉の長い話２), p. 263.
+- **Vol.1, Ch.2 (*Novelist as a Vocation*)** — footnote [^2] and its
+  Sources entry now cite the exact chapter (第二章「小説家になった頃」)
+  and quote his own description of the process directly: typing in
+  English, then sitting back down with manuscript paper and a fountain
+  pen to "translate" (his scare quotes) that chapter into Japanese —
+  "not a rigid literal translation... something closer to a free
+  'transplantation'" (「移植」に近いもの). No page number was visible in
+  the photos, so the citation is chapter-level only.
 
 ## Open / candidates
 
@@ -31,12 +39,27 @@ requested, fulfilled, or corrected — don't rely on chat history alone.
   Photographing the opening of Ch.12 would let us cite the start of
   the Nomonhan narration directly instead of only its bloodiest
   moment.
+- **Vol.2, Ch.2** — Kano Creta's introduction: confirmed as **Chapter 8**,
+  「加納クレタの長い話、苦痛についての考察」(user-photographed, p.
+  159/161 visible) — her birth date, decision to end her life at 20,
+  family background. This one happened to match an earlier guess of
+  mine, but treat that as coincidence, not as license to trust
+  title-based guessing going forward. Not yet confirmed: whether her
+  specific characterization as a "prostitute" (娼婦) — which is what the
+  manuscript's "psychic prostitute" line actually asserts — appears in
+  this chapter or a later one; the two photographed pages only cover
+  her biographical backstory.
 - **Vol.2, Ch.2** — the dry-well scene (Toru Okada sitting at the
-  bottom of a dry well) and Kano Creta's introduction / backstory.
-  Earlier I guessed Ch.5 and Ch.7–8 for these from a web search of the
-  table of contents — **unverified against the physical book, treat as
-  unconfirmed** given the Ch.4 mistake above. Ask the user to confirm
-  the actual chapter numbers before citing them.
+  bottom of a dry well). User has confirmed it is **not** Chapter 4.
+  Chapter number still unknown — do not guess again; ask directly.
+- **Vol.2/3, *The Wind-Up Bird Chronicle* Parts 2–3** — the user only
+  owns Part 1 (第一巻) of the novel. Chapter 2 of Vol.2's manuscript only
+  makes claims about the novel as a whole that are already confirmable
+  within Part 1 (Mamiya's account, the well, Kano Creta), so nothing
+  currently blocks on this. If a future claim turns out to depend on
+  Part 2 or 3 specifically, don't ask the user to source it from Part 1
+  — flag it as unverified/needs Parts 2–3 and wait until they have those
+  volumes (they'll follow up once they do).
 - **Vol.3** — no specific pages requested yet. Likely candidates once
   we get there: the Nanjing Massacre passage (*Killing Commendatore*)
   and the *Drive My Car* / *Men Without Women* chapter. Nothing to

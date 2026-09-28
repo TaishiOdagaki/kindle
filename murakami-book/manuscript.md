@@ -60,7 +60,7 @@ That rhythm, a statement, then a short, blunt sentence fragment that either rest
 
 There's a grammatical detail worth noting too, easy to miss without seeing the actual sentences: whenever other people are doing something in this opening page, the narrator is the object, not the subject. People arrive, talk at him, and pass over him. The text's own image is of them crossing him the way traffic crosses a bridge, with sound and motion, and then gone for good. He becomes the grammatical subject of his own sentence again only once, at the very end of that same passage, and the action he's finally the active agent of is closing his mouth and saying nothing. His one moment of grammatical agency is an act of refusal. That's a sharper detail than simple passivity would be, and it's the same narrow, withholding kind of agency critics and readers would spend the next four decades describing as the defining emotional register of nearly every Murakami protagonist who came after him: someone who mostly has things happen to him, and whose rare moments of choosing anything are choices to hold back.
 
-[^2]: Murakami has described his own composition process for *Hear the Wind Sing*, including writing a portion in English before translating it back into Japanese, most substantially in his nonfiction essay collection on his development as a writer, *Novelist as a Vocation* [職業としての小説家] (Tokyo: Switch Publishing, 2015).
+[^2]: Murakami Haruki, *Novelist as a Vocation* [職業としての小説家] (Tokyo: Switch Publishing, 2015), Chapter 2, "小説家になった頃" ("The Time I Became a Novelist"). In his own words: he put the English typewriter back in the closet and pulled out manuscript paper and a fountain pen again, then sat at his desk and "translated" (「翻訳」していきました) the roughly one chapter's worth of English he'd written into Japanese — not a rigid, literal translation, he specifies, but something closer to a free "transplantation" (「移植」に近いもの), out of which a new Japanese prose style of his own emerged.
 
 ---
 
@@ -232,7 +232,7 @@ This volume draws on Murakami's own novels and essays, on the published jury com
 - Jury remarks (選評) for the 81st Akutagawa Prize (1979).
 
 **Chapter 2: The Novel Written Backward**
-- Murakami Haruki, *Novelist as a Vocation* [職業としての小説家] (Tokyo: Switch Publishing, 2015), on his own account of the English-drafting technique behind *Hear the Wind Sing*.
+- Murakami Haruki, *Novelist as a Vocation* [職業としての小説家] (Tokyo: Switch Publishing, 2015), Chapter 2 ("小説家になった頃"); text consulted directly for his own account of the English-drafting technique behind *Hear the Wind Sing*.
 
 **Chapter 3: What "Light" Meant as an Insult**
 - Jury remarks (選評) for the 81st and 82nd Akutagawa Prizes (1979, 1980), including Kenzaburō Ōe's and Saiichi Maruya's commentary on *Hear the Wind Sing* and *Pinball, 1973*.
