@@ -35,7 +35,12 @@ now on. Status annotations added 2026-09-28.
    rang while I was boiling spaghetti in the kitchen" quoted directly
    in Vol.2 Ch.2 with footnote 6; (b) Ch.12 opening, p.245, cited.**
 4. *1Q84* BOOK 1 — opening scene, taxi with Janáček's *Sinfonietta*
-   playing. **STATUS: not started.** (This is Vol.2 material.)
+   playing. **STATUS: done.** User photographed Shinchōsha's own
+   online preview (試し読み) rather than a physical copy — same 2009
+   edition either way. Now quoted directly in Vol.2 Ch.5 (a new
+   subsection, since the chapter previously only covered the release
+   as a sales phenomenon, not the opening's craft), cited to BOOK 1,
+   Chapter 1, p. 11.
 5. *Killing Commendatore* [騎士団長殺し] — the scene where Menshiki
    talks on the phone about Amada Tomohiko's brother Tsuguhiko, and
    the Nanjing death-toll line ("some say 400,000, others say
