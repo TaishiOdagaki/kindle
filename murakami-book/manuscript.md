@@ -6,11 +6,21 @@
 
 ---
 
+In April 1978, a jazz-bar owner named Haruki Murakami watched a batter hit a double at Jingū Stadium and had a thought that surprised him: *I could write a novel.* He'd never written fiction before. This is the story of the voice that decision built, sentence by sentence, and why his own country's most serious literary judges spent years insisting it sounded foreign.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+
+---
+
 ## How to Read This Book
 
 A note on who this is for: readers who already love Murakami and want the argument underneath the reputation, and readers who've never read a word of him and just want to know what the fuss is actually about. Either one works. Start here.
 
-In April 1978, a twenty-nine-year-old jazz-bar owner named Haruki Murakami was watching a baseball game at Jingū Stadium when an American import batting leadoff for the Yakult Swallows hit a clean double, and Murakami had a thought that surprised him: *I could write a novel.* He'd never written fiction before in his life. Within a year he had, and Japan's own literary establishment told him, in print, that his prose read like something in translation. This book is an attempt to find out whether they were right, why, and what that actually meant for the writer he became. It isn't a ranked list of which Murakami novel to read first — plenty of other guides already do that. It's a close look at how one particular voice got built, sentence by sentence, and why the people closest to it, his own country's most serious literary judges, kept mistaking it for foreign.
+Within a year of that afternoon at the ballpark, Murakami had written *Hear the Wind Sing*, and Japan's own literary establishment told him, in print, that his prose read like something in translation. This book is an attempt to find out whether they were right, why, and what that actually meant for the writer he became. It isn't a ranked list of which Murakami novel to read first — plenty of other guides already do that. It's a close look at how one particular voice got built.
 
 Let's get into it.
 
@@ -281,12 +291,6 @@ This volume draws on Murakami's own novels and essays, on the published jury com
 - Murakami's own published accounts of his time in Greece and Italy, 1986–1989.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here.
-
----
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ---
 

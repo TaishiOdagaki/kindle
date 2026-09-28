@@ -6,11 +6,21 @@
 
 ---
 
+The phone rings while he's boiling spaghetti — and somewhere inside that same six-hundred-page novel, a soldier explains why he kept fighting for land that was worth nothing at all. This volume follows the decade Murakami's fiction stopped being only about his own head: two national catastrophes, one novel treated like a national event, and a private loneliness that somehow became everyone's.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+
+---
+
 ## How to Read This Book
 
 A note on who this is for: you don't need Volume One in hand to follow this one — the parts of the earlier argument that matter get recapped as they come up — but if you've read it, you'll see exactly where this book picks up the thread. Either way, you're in the right place.
 
-Volume One left Murakami in 1987: newly famous at home, and privately unsettled by what that fame actually felt like. This volume picks up from there and follows the stretch of his career that made him strange in a new way — formally ambitious, historically serious, willing to sit for months across a table from survivors of a sarin gas attack and just listen. Two national catastrophes reshape what his fiction is for. A private, particular kind of loneliness, his own at first, spreads out until it's something closer to a generation's default emotional weather, in Japan and then well beyond it. That's the arc this volume traces: not a bigger Murakami, exactly, but a Murakami whose smallest, most personal instinct turned out to scale.
+Volume One left Murakami in 1987: newly famous at home, and privately unsettled by what that fame actually felt like. This volume picks up from there and follows the stretch of his career that made him strange in a new way — formally ambitious, historically serious, willing to sit for months across a table from survivors of a sarin gas attack and just listen. That's the arc this volume traces: not a bigger Murakami, exactly, but a Murakami whose smallest, most personal instinct turned out to scale.
 
 Let's get into it.
 
@@ -237,12 +247,6 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Katō Norihiro, *Murakami Haruki no Sekai* [村上春樹の世界] (Tokyo: Kōdansha) and *Murakami Haruki wa, Muzukashii* [村上春樹は、むずかしい] (Tokyo: Iwanami Shoten, 2015), on his objection to the "detachment" framing.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here.
-
----
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, historical scholarship on the events Murakami's fiction engages with, and Murakami's own essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ---
 

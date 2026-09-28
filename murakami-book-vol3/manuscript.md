@@ -6,11 +6,21 @@
 
 ---
 
+A single sentence about the Nanjing Massacre cost him real goodwill at home, and he wrote it anyway. A seventy-four-year-old novelist went back to fix a walled town he'd first gotten wrong at thirty-one. This volume follows the last stretch of a career built on never quite fitting in, right up to the question of whether that's still true.
+
+---
+
+## About the Author
+
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first two, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+
+---
+
 ## How to Read This Book
 
 A note on who this is for: readers finishing the series, and readers who've only ever read one or two Murakami novels and want to know how the rest of the story goes. This is the last volume either way — the one where the argument this series has been building finally gets tested against Murakami at his largest and most recent.
 
-Volume Two left off in 2010, with Murakami's private alienation fully converted into a generation's shared vocabulary, and one novel treated like a scheduled national event. This volume covers the last decade and a half. A late return to the plain, realist register he first tried with *Norwegian Wood*. A single sentence about the Nanjing Massacre that cost him real goodwill in his own country, and that he wrote anyway. A seventy-four-year-old novelist walking back into a walled town he'd first imagined at thirty-one, because two earlier attempts still hadn't gotten it right. A quarter-century of Nobel Prize speculation built almost entirely on betting odds nobody in Stockholm has ever confirmed. And a film adaptation, made by someone else entirely, that reached more people in three hours than most of his own novels have in decades.
+Volume Two left off in 2010, with Murakami's private alienation fully converted into a generation's shared vocabulary, and one novel treated like a scheduled national event. This volume covers the last decade and a half: a late return to the plain, realist register he first tried with *Norwegian Wood*, a quarter-century of Nobel Prize speculation built almost entirely on betting odds nobody in Stockholm has ever confirmed, and a film adaptation, made by someone else entirely, that reached more people in three hours than most of his own novels have in decades.
 
 Let's get into it.
 
@@ -243,12 +253,6 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 - Tamkang University Murakami Haruki Research Center, program materials for the 14th International Murakami Haruki Symposium, Kyoto University, July 5–6, 2025.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here. Given the sensitivity of the material in Chapter 2, that chapter in particular was checked against multiple independent sources before publication.
-
----
-
-## About the Author
-
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first two, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
 
 ---
 

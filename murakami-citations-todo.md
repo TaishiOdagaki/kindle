@@ -39,22 +39,56 @@ Vol.3 gets its own polish pass then, not now. Applied, in order:
    junbungaku/taishū bungaku split). Worth spot-checking Vol.3's
    chapter titles against their bodies the same way at some point.
 
-**Front-matter convention change, all three volumes:** the general
-rights disclaimer ("This is an independent, unauthorized work of
-literary criticism...") used to sit right after the "A Japanese
-Culture Press Book" imprint line, before "How to Read This Book." The
-user asked for it moved to the very back of each book instead (after
-"About the Author," as the book's last lines) so every volume's front
-matter goes straight from title/imprint into the hook, no legal
-throat-clearing first. Done for Vol.1, Vol.2, and Vol.3. Note this is
-a step further than the sibling anime-book series' own convention,
-which keeps a single italic disclaimer line near the front and only
-moves the fuller stuff and "About the Author" to the back — this is a
-deliberate deviation for this series specifically, not a mistake to
-"fix" back toward the anime books' pattern. Vol.3's chapter-2-specific
-sensitivity note (on discussing the Nanjing Massacre) is a different,
-content-specific warning and stays where it is, directly before that
-chapter.
+**Front-matter convention, all three volumes — updated twice, current
+shape below:**
+
+1st pass: moved the rights disclaimer to the very back of each book
+(after "About the Author").
+
+2nd pass (superseding "About the Author"'s placement from the 1st
+pass): user asked for an even shorter, more immediate hook right at
+the very top — before any explanatory material — and for "About the
+Author" to move from the back to the front, positioned before "How to
+Read This Book." Current final shape, all three volumes:
+
+```
+Title / subtitle / imprint
+---
+[2-3 sentence hook, no heading — immediate, concrete, no scaffolding]
+---
+## About the Author
+[existing bio, unchanged]
+---
+## How to Read This Book
+[existing "who this is for" note + trimmed framing paragraph,
+ with the material now covered by the top hook removed so it's not
+ repeated twice]
+---
+## THE QUESTION...
+---
+Chapter 1...
+...
+[back matter: Glossary, A Note on What Comes Next, Sources, then the
+ rights disclaimer as the very last lines — About the Author no
+ longer appears in the back matter, only at the front]
+```
+
+Each volume's top hook reuses material already established elsewhere
+in that book (Vol.1: the Jingū Stadium/Dave Hilton anecdote, trimmed
+down further since the fuller version still lives in "How to Read
+This Book"; Vol.2: the Wind-Up Bird Chronicle phone/spaghetti opening
++ Nomonhan; Vol.3: the Nanjing passage + the seventy-four-year-old
+return to the walled town) rather than introducing new claims — no
+new fact-checking needed for these hooks.
+
+This is now a bigger deviation from the sibling anime-book series'
+own convention (which keeps About the Author at the very back, past
+even the Sources section) — that's a deliberate choice for this
+series specifically, not a mistake to "fix" back toward the anime
+books' pattern. Vol.3's chapter-2-specific sensitivity note (on
+discussing the Nanjing Massacre) is a different, content-specific
+warning and stays where it is, directly before that chapter — it was
+never part of this front-matter reshuffling.
 
 ## Master library list (prioritized, from a prior session)
 
