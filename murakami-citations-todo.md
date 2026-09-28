@@ -50,17 +50,15 @@ original and the English translation**
 7. *Hard-Boiled Wonderland and the End of the World* — Japanese
    passages (the elevator scene, the golden beast scene) already in
    hand; needed the English translation (Alfred Birnbaum) to compare.
-   **STATUS: partial.** Elevator scene done — Birnbaum's actual
-   translation ("The elevator continued its impossibly slow ascent...")
-   now quoted in Vol.1 Ch.6, cited to the Vintage International
-   edition, Ch.1 "Elevator, Silence, Overweight," p. 3. Also caught and
-   fixed: the manuscript's own English gloss of the chapter title
-   (肥満) had said "Obesity" — Birnbaum's actual published title is
-   "Overweight." Publication year not yet confirmed (not visible in
-   the photographed pages) — ask if the copyright page turns up.
-   Still open: the golden beasts chapter opening, for the second
-   quote ("When autumn came, their bodies became covered in long
-   golden fur...").
+   **STATUS: done.** Both quotes now use Birnbaum's actual wording,
+   cited to Vintage International, 2003 (year confirmed by the user):
+   Ch.1 "Elevator, Silence, Overweight" (p. 3, "The elevator continued
+   its impossibly slow ascent...") and Ch.2 "Golden Beasts" ("With the
+   approach of autumn, a layer of long golden fur grows over their
+   bodies..." — opening page number not visible/confirmed, noted as
+   such in the footnote rather than guessed). Also caught and fixed:
+   the manuscript's own English gloss of the chapter title (肥満) had
+   said "Obesity" — Birnbaum's actual published title is "Overweight."
 
 *Hear the Wind Sing*'s English translation (Birnbaum) only exists in
 the bilingual Kodansha English Library edition, unlikely to be at a
