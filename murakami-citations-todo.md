@@ -31,8 +31,9 @@ now on. Status annotations added 2026-09-28.
 **② For expanding close readings**
 3. *The Wind-Up Bird Chronicle* Part 1 — (a) the opening
    spaghetti-boiling scene, (b) the start of Mamiya's Nomonhan
-   monologue. **STATUS: (b) done — Ch.12 opening, p.245, confirmed and
-   cited. (a) the spaghetti-cooking opening is still open.**
+   monologue. **STATUS: done — (a) Ch.1, p.7, opening line "The phone
+   rang while I was boiling spaghetti in the kitchen" quoted directly
+   in Vol.2 Ch.2 with footnote 6; (b) Ch.12 opening, p.245, cited.**
 4. *1Q84* BOOK 1 — opening scene, taxi with Janáček's *Sinfonietta*
    playing. **STATUS: not started.** (This is Vol.2 material.)
 5. *Killing Commendatore* [騎士団長殺し] — the scene where Menshiki
