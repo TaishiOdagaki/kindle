@@ -143,7 +143,7 @@ Murakami has his own name for the emotional stance running through his early and
 That stance is exactly what this volume has already traced turning, somewhere around 1995, into something Murakami and his critics both started calling "commitment" (コミットメント) instead: a shift he's connected partly to his own years living abroad, and one this book's own Chapter 3 locates precisely at the two national catastrophes that pulled *Underground* and *after the quake* out of him. It's worth being honest that this reframing isn't universally accepted even among Murakami's most serious readers. The critic Norihiro Katō has specifically pushed back on calling Murakami "a writer of detachment" at all, arguing the label oversimplifies even his earliest work.[^16] This book doesn't need to resolve that specific critical dispute to make its own point, which is narrower: whatever the most precise label, an entire generation of readers, in Japan first and increasingly outside it, learned to recognize their own drift, alienation, and quiet refusal to fully buy into any available system of meaning in Murakami's characters, well before most of them had ever heard the words *detachment* or *commitment* used to describe it critically. The private vocabulary of one writer's disillusionment with a failed 1960s political movement became, somehow, the default emotional register an entire later generation reached for, largely without knowing where it had actually come from.
 
 [^15]: Kawai Hayao and Murakami Haruki, *Murakami Haruki, Kawai Hayao ni Ai ni Iku* [村上春樹、河合隼雄に会いにいく, "Haruki Murakami Goes to Meet Hayao Kawai"] (Tokyo: Iwanami Shoten, 1996), a dialogue conducted over two evenings in Kyoto in November 1995 and first serialized in the journal *Sekai*.
-[^16]: Norihiro Katō's critique of the "detachment" framing appears across his published literary criticism of Murakami's work.
+[^16]: Katō Norihiro's argument that Murakami was never straightforwardly a "detachment" writer, even in his earliest fiction, runs through his critical books on Murakami, including *Murakami Haruki no Sekai* [村上春樹の世界, "The World of Murakami Haruki"] (Tokyo: Kōdansha) and, later, *Murakami Haruki wa, Muzukashii* [村上春樹は、むずかしい, "Murakami Haruki Is Difficult"] (Tokyo: Iwanami Shoten, 2015).
 
 ---
 
@@ -216,7 +216,7 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 
 **Chapter 7: A Generation's Default Mode**
 - Kawai Hayao and Murakami Haruki, *Murakami Haruki, Kawai Hayao ni Ai ni Iku* [村上春樹、河合隼雄に会いにいく] (Tokyo: Iwanami Shoten, 1996), originally serialized in *Sekai*.
-- Norihiro Katō's published critical writing on Murakami, cited for his objection to the "detachment" framing.
+- Katō Norihiro, *Murakami Haruki no Sekai* [村上春樹の世界] (Tokyo: Kōdansha) and *Murakami Haruki wa, Muzukashii* [村上春樹は、むずかしい] (Tokyo: Iwanami Shoten, 2015), on his objection to the "detachment" framing.
 
 This list reflects sources consulted during research and does not claim to be exhaustive; where a specific claim in the text could plausibly be characterized differently elsewhere, that uncertainty is noted directly in the chapter itself rather than smoothed over here.
 

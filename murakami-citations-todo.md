@@ -171,6 +171,37 @@ title in favor of #6/#7.
   Commendatore*'s Menshiki/Nanjing scene, and *Hard-Boiled Wonderland*'s
   English translation.
 
+## Follow-up audit: other named-critic claims (2026-09-28)
+
+Prompted by the Ōe finding, checked two other named-critic claims that
+had the same vague-citation pattern ("appears across his published
+criticism," "is documented in contemporary reporting" with no actual
+article named). Both held up as substantively accurate, unlike Ōe, but
+both got upgraded to real, specific citations since a vague footnote
+is itself a risk even when the underlying claim turns out true:
+
+- **Vol.2, Katō Norihiro's "detachment" pushback** — confirmed via web
+  search. His argument runs through *Murakami Haruki no Sekai*
+  (Kōdansha) and *Murakami Haruki wa, Muzukashii* (Iwanami Shoten,
+  2015). Footnote and Sources entry now name both books instead of
+  gesturing at "his published criticism" generally.
+- **Vol.3, Hyakuta/Sakurai/Sankei criticism of the Nanjing passage** —
+  confirmed and enriched via web search. Real, specific detail found
+  that wasn't in the manuscript before: Hyakuta's actual complaint was
+  that Murakami was currying favor with China (and Nobel momentum) by
+  including the passage; Sakurai quoted the passage's actual content
+  back at his followers rather than objecting in the abstract; *Lite-Ra*
+  published a rebuttal arguing the novel as a whole argues against
+  historical revisionism. Footnote and Sources now cite the actual
+  *Lite-Ra* and People's Daily Online articles instead of a vague
+  gesture at "contemporary reporting."
+
+No more Akutagawa 選評 exist to check — Murakami was only ever
+nominated twice (81st and 82nd), both already covered in Vol.1. If
+further named-critic claims turn up elsewhere in the trilogy with this
+same "vague citation, no real title/quote" pattern, check those too —
+it's a reasonable general audit heuristic now, not just a one-off.
+
 ## Notes
 
 - Don't trust a chapter-title match from a web search as confirmation
