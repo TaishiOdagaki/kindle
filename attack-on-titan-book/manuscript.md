@@ -9,7 +9,11 @@ by Jiro Naozane
 
 *Attack on Titan* began as a horror manga about giants eating people behind a wall. It ended as one of the most politically contested, most passionately argued-over stories in modern manga. This book traces exactly what happened between chapter one and the finale — the real history the story borrowed from, the controversy it earned, and an honest answer to whether it earned the argument it ended up making. Written for people who love this story enough to still be arguing about it.
 
-Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Attack on Titan*.
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is a Japanese researcher and critic who reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. This book is that same care turned toward *Attack on Titan*.
 
 ---
 

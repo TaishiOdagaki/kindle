@@ -9,7 +9,11 @@ by Jiro Naozane
 
 *Chainsaw Man* asked its readers to want almost nothing — bread, a bed that isn't a van floor, someone who'd stay — and somehow that turned into one of the strangest, most talked-about endings of its decade. This book is about why that worked: the craft hiding underneath the shock value, the small human wants tucked inside the apocalypse, and what it actually felt like to follow this story chapter by weekly chapter, half-panicking about who'd die next. Written for people who already finished it, and for people who are about to.
 
-Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Chainsaw Man*.
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is a Japanese researcher and critic who reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. This book is that same care turned toward *Chainsaw Man*.
 
 ---
 

@@ -9,7 +9,11 @@ by Jiro Naozane
 
 In 2025, a movie about a teenager fighting demons to save his sister became the highest-grossing Japanese film ever made — passing *Spirited Away*, passing *Your Name*, passing a movie from its own franchise set five years earlier. This book is about how a story built on something that simple did something that big: the craft, the timing, and the strange six-year gap between a manga that already ended and a global audience still holding its breath for the finish. Written for people who've already read it, and people still catching up.
 
-Jiro Naozane reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize — and this book is that same care turned toward *Demon Slayer*.
+---
+
+## ABOUT THE AUTHOR
+
+Jiro Naozane is a Japanese researcher and critic who reads manga the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. This book is that same care turned toward *Demon Slayer*.
 
 ---
 
