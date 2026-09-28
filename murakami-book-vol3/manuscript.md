@@ -10,13 +10,13 @@
 
 ## How to Read This Book
 
-Volume Two ended in 2010, with Murakami's earlier private alienation turned into a generation's shared vocabulary and a single novel treated as a scheduled national event. This volume follows him through the past decade and more: a return to the deliberately realist register he first tried with *Norwegian Wood*, a direct and politically costly engagement with a disputed chapter of Japan's own wartime history, a late-career return to unfinished business from his own earliest writing, the strange, ongoing spectacle of being literature's most reliable Nobel Prize bridesmaid, and an Oscar-winning film adaptation that reached further than any of his own books ever had.
+Volume Two left off in 2010, with Murakami's private alienation fully converted into a generation's shared vocabulary, and one novel treated like a scheduled national event. This volume covers the last decade and a half. A late return to the plain, realist register he first tried with *Norwegian Wood*. A single sentence about the Nanjing Massacre that cost him real goodwill in his own country, and that he wrote anyway. A seventy-four-year-old novelist walking back into a walled town he'd first imagined at thirty-one, because two earlier attempts still hadn't gotten it right. A quarter-century of Nobel Prize speculation built almost entirely on betting odds nobody in Stockholm has ever confirmed. And a film adaptation, made by someone else entirely, that reached more people in three hours than most of his own novels have in decades.
 
 ---
 
 ## THE QUESTION THIS VOLUME IS TRYING TO ANSWER
 
-Twenty years after Japan's literary establishment decided Murakami's prose sounded too foreign to belong to its own tradition, and a full career after he built an entire international reputation out of that same not-quite-belonging: is there anything left for a writer this large, this studied, this translated, to actually risk, or has "Murakami" become too big a name to ever sound like an outsider again?
+Twenty years after Japan's own literary establishment decided his prose sounded too foreign to belong to its tradition, and a full career after he turned that same not-quite-belonging into an international reputation: is there anything left for a writer this large, this studied, this translated, to actually risk? Or has "Murakami" simply gotten too big a name to ever sound like an outsider again?
 
 ---
 
