@@ -47,11 +47,16 @@ now on. Status annotations added 2026-09-28.
    what real difference that gap actually makes" — the quoted text
    only confirmed as far as "the killing is an undeniable fact
    regardless of the exact count," so the stronger rhetorical-question
-   framing was walked back to what's actually verified. A note.com
-   article the user linked (by Sasaki Atsushi, discussing how
-   contentious this passage is) could deepen this chapter further, but
-   note.com is blocked by this session's network egress — ask the user
-   to paste the relevant content directly if they want it incorporated.
+   framing was walked back to what's actually verified.
+   **Follow-up, done:** note.com is blocked by this session's network
+   egress, so WebFetch couldn't reach the Sasaki Atsushi essay the
+   user linked — the user pasted its full text directly instead. Its
+   thesis (the novel's "portrait of nothing" structure, and its final
+   chapter's timeline reveal placing the story in 2007-08, ending on
+   the day of the March 2011 disaster) is now incorporated into Vol.3
+   Ch.2 as three new subsections, cross-referenced to Vol.2 Ch.3's
+   *after the quake* material, with Sasaki's own hedges on the Vienna/
+   Amada-brothers backstory preserved rather than flattened into fact.
 
 **③ For translation side-by-side comparisons — need BOTH the Japanese
 original and the English translation**
