@@ -11,6 +11,12 @@ by Jiro Naozane
 
 ---
 
+## ABOUT THE AUTHOR
+
+Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
+
+---
+
 ## HOW TO READ THIS BOOK
 
 ![What's inside](images/charts/whats_inside.png)
@@ -613,12 +619,6 @@ If you came to this book already certain the ending was a masterpiece, I hope th
 The world in this story is cruel. Whether it's also beautiful is a line this book was careful not to put in anyone's mouth without being sure who actually said it first. Read it yourself, and decide.
 
 If you made it this far and it was worth your time, a quick rating or review helps far more than you'd guess for a book like this one. Thank you for reading.
-
----
-
-## ABOUT THE AUTHOR
-
-Jiro Naozane has spent a career reading stories the way a translator reads a sentence — for what's actually being said, not just what's easy to summarize. That combination of real affection for Japanese pop culture and formal training in narrative analysis is what this book is built from: precise about the text, generous about why it's worth loving, and written to reach readers whether this is their first manga or their five-hundredth.
 
 ---
 
