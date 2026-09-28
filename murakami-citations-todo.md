@@ -196,13 +196,13 @@ verdict/synthesis chapters):
    Added as a new subsection with two direct quotes (the "don't think
    about meaning" passage and the closing line), replacing what had
    been only a paraphrase.
-3. **Vol.2, Ch.4, *Kafka on the Shore* [海辺のカフカ]** — user has a
-   copy. This chapter is entirely reception history (8,000 reader
-   questions to a publisher-run website, Philip Gabriel's translation,
-   the World Fantasy Award) — zero textual engagement so far. Strong
-   candidate: Crow's "sometimes fate is like a small sandstorm"
-   monologue from the opening chapter, probably the novel's most
-   quoted single passage.
+3. **Vol.2, Ch.4, *Kafka on the Shore* [海辺のカフカ]** — **STATUS:
+   done.** User typed out the sandstorm monologue directly (Shinchōsha
+   Bunko, 2002). Added as a new subsection ("A Storm That Turns Out to
+   Be Yourself") before the reception-history material, tying the
+   "fate as a storm that's actually you" passage to the chapter's own
+   point about the novel staying mysterious even to devoted domestic
+   readers.
 4. **Vol.3, Ch.3, *The City and Its Uncertain Walls* [街とその不確かな
    壁]** — user has a copy. This chapter is entirely origin-story
    (1980 novella → 1985's *Hard-Boiled Wonderland* → this 2023 novel)
