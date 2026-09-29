@@ -69,11 +69,14 @@ The research underneath that section was real, not simply invented from atmosphe
 
 There's a specific, almost uncanny detail worth sitting with here. Shiba Ryōtarō, one of the most respected historical novelists in modern Japanese literature, spent years researching the Nomonhan Incident himself, hoping to turn it into a major work, before ultimately abandoning the project: by his own account, the deeper he went into the material, the more despairing and directionless it left him, to the point of saying the research made him feel he couldn't understand his own country.[^5] He never published a novel out of that research. Murakami, a writer whose own literary establishment had spent fifteen years treating him as insufficiently serious to be trusted with exactly this kind of material, went ahead and wrote it anyway, folding it into a novel that also features a psychic prostitute, a man who skins another man alive, and a protagonist who spends long stretches of the book sitting at the bottom of a dry well. *The Wind-Up Bird Chronicle* didn't resolve the *junbungaku* question by abandoning the surreal, private, interior fiction that had drawn suspicion in the first place. It resolved it by proving that register could hold real historical weight without setting any of its strangeness aside.
 
+That resolution wasn't only critical, in hindsight — it was institutional too. *The Wind-Up Bird Chronicle* won the 47th Yomiuri Prize for Literature in early 1996, one of Japan's most respected awards for an established writer's completed work, a category of recognition the Akutagawa's own narrower new-writer mandate had never been able to extend to him seventeen years earlier.[^19] The specific 1979 and 1980 verdicts on *Hear the Wind Sing* and *Pinball, 1973* were never revisited by anyone, and Volume One of this series doesn't claim otherwise. What changed was simply that a different, more senior institution within the same literary establishment eventually looked at what that argument-starting voice had grown into, and gave it one of the country's most respected prizes for it.
+
 [^3]: The Nomonhan Incident (also known as the Battles of Khalkhin Gol) was a 1939 border conflict between Japanese and Soviet-Mongolian forces in Manchuria, one of the least-discussed episodes of Japan's prewar military history.
 [^4]: Murakami Haruki, *Henkyō, Kinkyō* [辺境・近境, "Borderland and Nearby"] (Tokyo: Shinchōsha, 1998), which collects his account of the June 1994 Nomonhan battlefield trip, including a chapter titled "ノモンハンの鉄の墓場" ("Nomonhan's Iron Graveyard").
 [^5]: Shiba Ryōtarō's abandoned Nomonhan research and his own account of the despair it produced are discussed in retrospectives on his career, including Keio University's "The 100th Anniversary of Shiba Ryōtarō's Birth."
 [^7]: Murakami Haruki, *The Wind-Up Bird Chronicle*, Part 1: *Dorobō Kasasagi-hen* [ねじまき鳥クロニクル 第1部 泥棒かささぎ編] (Tokyo: Shinchōsha, 1994), Chapter 1, "火曜日のねじまき鳥、六本の指と四つの乳房について," p. 7.
 [^6]: Murakami Haruki, *The Wind-Up Bird Chronicle*, Part 1: *Dorobō Kasasagi-hen* [ねじまき鳥クロニクル 第1部 泥棒かささぎ編] (Tokyo: Shinchōsha, 1994), Chapter 13, "Lieutenant Mamiya's Long Story, Part 2" (間宮中尉の長い話２), p. 263; Mamiya's reflection appears in the original Japanese as 「どうしてこんな価値のない土地を守るために……戦わなくてはならないのか……まったく馬鹿げたことです」.
+[^19]: *The Wind-Up Bird Chronicle* won the 47th Yomiuri Prize for Literature (読売文学賞), awarded February 1996 for works published in 1995.
 
 ---
 
@@ -219,6 +222,7 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Same edition, Chapter 1 ("火曜日のねじまき鳥、六本の指と四つの乳房について"), p. 7 — source of the novel's opening line, quoted directly.
 - Murakami Haruki, *Henkyō, Kinkyō* [辺境・近境] (Tokyo: Shinchōsha, 1998), including the chapter "Nomonhan's Iron Graveyard" (ノモンハンの鉄の墓場), drawn from his June 1994 trip to the Nomonhan battlefield.
 - On Shiba Ryōtarō's abandoned Nomonhan research: Keio University, "The 100th Anniversary of Shiba Ryōtarō's Birth," *Mita Hyōron* (2023).
+- Records of the 47th Yomiuri Prize for Literature (読売文学賞), awarded February 1996.
 
 **Chapter 3: Two Catastrophes, Ten Weeks Apart**
 - Murakami Haruki, *Underground* [アンダーグラウンド] (Tokyo: Kōdansha, 1997).

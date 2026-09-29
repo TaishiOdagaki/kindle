@@ -8,6 +8,44 @@ This file is the only thing that survives between sessions; a prior
 session's library-borrowing plan (below) was never written here and
 almost got lost as a result — don't repeat that mistake.
 
+## Missing prizes caught by the user, added (2026-09-29 night)
+
+User caught a real gap while reviewing the Vol.1 KDP description draft:
+the "Zero...Akutagawa Prize" hook is accurate but Murakami *did* win
+other major, prestigious Japanese literary prizes, and neither Vol.1
+nor Vol.2 mentioned them anywhere. Verified via web search (careful
+not to repeat the earlier Ōe-fabrication mistake — a claim that Ōe
+personally presented the Yomiuri Prize turned up in one search
+synthesis but couldn't be corroborated against a real source, so it
+was NOT added anywhere):
+- **Tanizaki Jun'ichirō Prize (谷崎潤一郎賞), 21st, 1985** — for *Hard-
+  Boiled Wonderland and the End of the World*. Added to Vol.1 Ch.6
+  ("Two Worlds, One Skull") as a new closing paragraph + footnote
+  [^11] (footnotes 11–14 renumbered to 12–15 to make room), plus a
+  Sources entry. Framed carefully: doesn't claim this reverses the
+  Akutagawa jury's specific 1979/1980 verdicts, just that a different,
+  more senior institution recognized the same instinct later.
+- **Yomiuri Prize for Literature (読売文学賞), 47th, Feb. 1996** — for
+  *The Wind-Up Bird Chronicle*. Added to Vol.2 Ch.2 ("The Novel That
+  Convinced the Skeptics") as a new closing paragraph + new footnote
+  [^19] (next available number, chapter's existing footnotes are
+  non-sequential in the text — 7 appears before 3–6 — which predates
+  this session and wasn't touched), plus a Sources entry.
+- **Also fixed the KDP description's opening hook** (`murakami-book/
+  kdp-book-description.txt`): "Zero. That's how many times Japan's
+  most prestigious literary prize..." was ambiguous enough to misread
+  as "never won anything." Changed to name the Akutagawa specifically
+  and its new-writer-only scope, matching the manuscript's own
+  phrasing, so the two Tanizaki/Yomiuri wins don't contradict it.
+
+**Not yet done as of this entry**: both manuscripts were edited but
+**EPUBs were NOT rebuilt** — user said to hold off, publishing
+tomorrow instead of tonight. Rebuild both EPUBs (pandoc + epubcheck,
+recipe logged below) before that publish happens. Footnote integrity
+verified in both files (Vol.1: 1–15 sequential; Vol.2: 1–19, non-
+sequential order in Ch.2 is pre-existing and fine) but the .epub files
+in the repo are now stale relative to manuscript.md until rebuilt.
+
 ## Pre-publish audit, Vol.1 + Vol.2 (2026-09-29)
 
 **Plan confirmed by user: Vol.1 and Vol.2 publish together; Vol.3 waits
