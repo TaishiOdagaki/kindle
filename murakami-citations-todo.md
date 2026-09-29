@@ -89,19 +89,22 @@ pass on both volumes, per the `verify-nonfiction-claims` discipline.
 
 Unlike the sibling anime-book project, which has these as separate
 assets: EPUB build + epubcheck validation, KDP book description,
-category/keyword selection. **Cover art does exist** (seen directly by
-the user, not yet in this repo) but got flagged in a separate
-`pro-ui-director` design review (2026-09-29) for a register mismatch
-(reads as self-help/lifestyle rather than literary criticism), AI-slop
-stock-photo imagery unrelated to Murakami's actual themes, a possible
-trademark issue (Vol.2's cover features headphones that closely
-resemble Apple AirPods Max), and inconsistent styling across the three
-covers. User paused that redesign work (dismissed the question asking
-how to proceed) — revisit if/when they want to pick it back up. EPUB
-build, book description, and category/keyword selection remain fully
-unstarted for all three volumes — worth flagging before treating Vol.1
-+ Vol.2 as fully publish-ready, since the manuscript text is only one
-part of what KDP actually needs.
+category/keyword selection. **Cover art: finalized, 2026-09-29.** Got
+flagged in a separate `pro-ui-director` design review (2026-09-29) for
+a register mismatch (reads as self-help/lifestyle rather than literary
+criticism), AI-slop stock-photo imagery unrelated to Murakami's actual
+themes, a possible trademark issue (Vol.2's cover originally featured
+headphones closely resembling Apple AirPods Max), and inconsistent
+styling across the three covers. User's final call: keep the overall
+look as-is (register/stock-photo concerns acknowledged, not acted on —
+their creative decision to make), but fixed the one non-aesthetic
+issue — Vol.2's headphones were redesigned to no longer resemble
+AirPods Max, resolving the trademark risk. All three covers (Vol.1
+blue-sky, Vol.2 train-platform, Vol.3 night-sky silhouette) are
+confirmed final. Not yet added to this repo as files. EPUB build, book
+description, and category/keyword selection remain fully unstarted for
+all three volumes — next up before Vol.1 + Vol.2 are fully
+publish-ready.
 
 ## Prose polish pass (2026-09-28) — not a citation task, logged for continuity
 
