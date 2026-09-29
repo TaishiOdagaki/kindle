@@ -8,6 +8,62 @@ This file is the only thing that survives between sessions; a prior
 session's library-borrowing plan (below) was never written here and
 almost got lost as a result — don't repeat that mistake.
 
+## Pre-publish audit, Vol.1 only (2026-09-29)
+
+User plans to publish Vol.1 alone first (Vol.2/3 later). Did a
+publish-readiness pass specific to Vol.1, per the `verify-nonfiction-claims`
+discipline:
+
+- **Footnotes**: all 14 sequential, no orphans — clean.
+- **Chapter title/content match**: spot-checked all 9 chapter titles
+  against their bodies (the way Ch.3's "Light" mismatch was caught
+  earlier). All 9 hold up, including Ch.6 ("Two Worlds, One Skull,"
+  which literally quotes "one skull" in its own text). No further
+  Ch.3-style bugs found in Vol.1.
+- **Front matter / back matter structure**: matches the documented
+  convention exactly — hook, About the Author, How to Read This Book,
+  the Question, chapters, Glossary, A Note on What Comes Next,
+  Sources, disclaimer as the very last lines. Clean.
+- **Opening-hook fact-check** (highest-visibility text in the book —
+  first thing a Look Inside browser sees): the Jingū Stadium/Dave
+  Hilton anecdote (April 1978, a batter hitting a double, the thought
+  "I could write a novel") checked against multiple sources (Lit Hub's
+  own translation of Murakami's *Novelist as a Vocation* essay on
+  this, PRX/WBEZ, murakami.club) — accurate as written.
+- **Found and fixed a real numeric error**: Ch.8's *Norwegian Wood*
+  sales footnote [^11] had the domestic/international split backward.
+  Manuscript said "ten million copies worldwide, including roughly
+  four million in Japan alone." The actual widely-reported figure
+  (multiple sources, consistent with Wikipedia's sourcing, tied to the
+  2010 English-language/film release) is the reverse: **over ten
+  million in Japan alone**, plus roughly 2.6 million more across 33
+  other languages internationally. Fixed both the inline text (line
+  ~198) and the footnote. This isn't just a correction — the right
+  number actually makes Ch.9's "inescapable at home" argument land
+  harder than the wrong one did, since the wrong version implied more
+  copies sold abroad than domestically.
+- **Judgment call, not fixed, flagged for the user:** Ch.9's closing
+  line ("That argument... is where the next volume picks up") and the
+  "A Note on What Comes Next" back-matter section both describe Vol.2
+  as if it's the natural next read. This is completely normal
+  first-in-series framing and not misleading on its own, but worth
+  knowing going in: readers who finish Vol.1 and go looking for Vol.2
+  won't find it yet, and Vol.3 depends on the Nobel result, so there's
+  no fixed timeline to promise even informally. Left as-is since it's
+  a tone/expectations choice, not a factual error — flag if the user
+  wants it softened before Vol.1 goes live.
+- **Not blocking, not done**: the English-translation edition of
+  *Novelist as a Vocation* (only the Japanese text is quoted in Ch.2)
+  — open per the master library list above, optional enrichment, not
+  a publish blocker.
+- **Outside this repo, not yet started for this trilogy** (unlike the
+  sibling anime-book project, which has these as separate assets):
+  cover art, EPUB build + epubcheck validation, KDP book description,
+  category/keyword selection. None of these exist yet for any of the
+  three Murakami volumes — worth flagging before treating Vol.1 as
+  publish-ready, since the manuscript text is only one part of what
+  KDP actually needs.
+
 ## Prose polish pass (2026-09-28) — not a citation task, logged for continuity
 
 Vol.1 and Vol.2 got a readability/craft pass using the `humanize-writing-en`
