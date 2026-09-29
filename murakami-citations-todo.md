@@ -8,11 +8,13 @@ This file is the only thing that survives between sessions; a prior
 session's library-borrowing plan (below) was never written here and
 almost got lost as a result — don't repeat that mistake.
 
-## Pre-publish audit, Vol.1 only (2026-09-29)
+## Pre-publish audit, Vol.1 + Vol.2 (2026-09-29)
 
-User plans to publish Vol.1 alone first (Vol.2/3 later). Did a
-publish-readiness pass specific to Vol.1, per the `verify-nonfiction-claims`
-discipline:
+**Plan confirmed by user: Vol.1 and Vol.2 publish together; Vol.3 waits
+until after the Nobel Prize result is announced.** Did a publish-readiness
+pass on both volumes, per the `verify-nonfiction-claims` discipline.
+
+### Vol.1
 
 - **Footnotes**: all 14 sequential, no orphans — clean.
 - **Chapter title/content match**: spot-checked all 9 chapter titles
@@ -42,27 +44,69 @@ discipline:
   number actually makes Ch.9's "inescapable at home" argument land
   harder than the wrong one did, since the wrong version implied more
   copies sold abroad than domestically.
-- **Judgment call, not fixed, flagged for the user:** Ch.9's closing
-  line ("That argument... is where the next volume picks up") and the
-  "A Note on What Comes Next" back-matter section both describe Vol.2
-  as if it's the natural next read. This is completely normal
-  first-in-series framing and not misleading on its own, but worth
-  knowing going in: readers who finish Vol.1 and go looking for Vol.2
-  won't find it yet, and Vol.3 depends on the Nobel result, so there's
-  no fixed timeline to promise even informally. Left as-is since it's
-  a tone/expectations choice, not a factual error — flag if the user
-  wants it softened before Vol.1 goes live.
+- **Previously flagged, now resolved:** Ch.9's "next volume picks up"
+  line was flagged as a risk when Vol.1 might publish alone. Now that
+  Vol.1 and Vol.2 are confirmed to launch together, this is accurate
+  and needs no change.
 - **Not blocking, not done**: the English-translation edition of
   *Novelist as a Vocation* (only the Japanese text is quoted in Ch.2)
   — open per the master library list above, optional enrichment, not
   a publish blocker.
-- **Outside this repo, not yet started for this trilogy** (unlike the
-  sibling anime-book project, which has these as separate assets):
-  cover art, EPUB build + epubcheck validation, KDP book description,
-  category/keyword selection. None of these exist yet for any of the
-  three Murakami volumes — worth flagging before treating Vol.1 as
-  publish-ready, since the manuscript text is only one part of what
-  KDP actually needs.
+
+### Vol.2
+
+- **Footnotes**: all 18 sequential, no orphans — clean.
+- **Chapter title/content match**: spot-checked all 8 chapter titles.
+  **Found and fixed a real mismatch**: Ch.3 was titled "Two
+  Earthquakes," but the chapter actually covers one earthquake (the
+  Great Hanshin earthquake) and one terrorist attack (the Aum
+  Shinrikyo sarin gas attack) — only one of the two events is
+  literally an earthquake. Same category of bug as Vol.1 Ch.3's
+  "Light" mismatch. Retitled to "Two Catastrophes, Ten Weeks Apart,"
+  reusing the chapter's own opening subsection heading (which also had
+  to be retitled to avoid exact duplication — now "A Country He'd
+  Started Watching from a Distance"). Updated the Sources section
+  entry to match. Confirmed no other reference to the old title
+  anywhere in the trilogy. Other 7 chapter titles all hold up.
+- **Front matter / back matter structure**: matches the documented
+  convention. Clean.
+- **Numeric fact-check**: *1Q84*'s launch figures (680,000 combined
+  initial print run, ~100,000 advance sales in Tokyo/Kansai over the
+  two days before the nationwide May 29, 2009 release) verified
+  against multiple sources (The Millions' "1Q84 Revealed," contemporary
+  Japanese press coverage) — accurate as written, no fix needed.
+- **Judgment call, flagged for the user, not yet resolved:** the "A
+  Note on What Comes Next" back-matter section describes Vol.3 as
+  covering "his decades-long status as literature's most reliable
+  Nobel Prize non-winner." This is accurate today, but Vol.1/Vol.2 are
+  about to go live and stay live for an indeterminate stretch while
+  Vol.3 waits on the actual Nobel result — if he wins while this
+  phrasing is sitting in an already-published, purchasable Vol.2, it
+  reads as a wrong prediction baked into a shipped book (KDP content
+  updates can fix it after the fact, but that's a reactive fix, not a
+  preventive one). Left as-is pending the user's call — a soften-now
+  option would be something like "his decades-long history as
+  literature's most closely watched Nobel Prize contender" instead of
+  "non-winner," which stays accurate regardless of how the Nobel
+  result eventually lands.
+
+### Outside this repo, not yet started for this trilogy
+
+Unlike the sibling anime-book project, which has these as separate
+assets: EPUB build + epubcheck validation, KDP book description,
+category/keyword selection. **Cover art does exist** (seen directly by
+the user, not yet in this repo) but got flagged in a separate
+`pro-ui-director` design review (2026-09-29) for a register mismatch
+(reads as self-help/lifestyle rather than literary criticism), AI-slop
+stock-photo imagery unrelated to Murakami's actual themes, a possible
+trademark issue (Vol.2's cover features headphones that closely
+resemble Apple AirPods Max), and inconsistent styling across the three
+covers. User paused that redesign work (dismissed the question asking
+how to proceed) — revisit if/when they want to pick it back up. EPUB
+build, book description, and category/keyword selection remain fully
+unstarted for all three volumes — worth flagging before treating Vol.1
++ Vol.2 as fully publish-ready, since the manuscript text is only one
+part of what KDP actually needs.
 
 ## Prose polish pass (2026-09-28) — not a citation task, logged for continuity
 

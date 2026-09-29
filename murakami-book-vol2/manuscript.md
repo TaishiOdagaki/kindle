@@ -77,9 +77,9 @@ There's a specific, almost uncanny detail worth sitting with here. Shiba Ryōtar
 
 ---
 
-## CHAPTER 3: TWO EARTHQUAKES
+## CHAPTER 3: TWO CATASTROPHES, TEN WEEKS APART
 
-**Two Catastrophes, Ten Weeks Apart**
+**A Country He'd Started Watching from a Distance**
 
 Japan absorbed two catastrophes within ten weeks of each other in 1995. On January 17, the Great Hanshin earthquake killed more than six thousand people in and around Kobe. On March 20, members of the Aum Shinrikyo cult released sarin gas on five separate Tokyo subway trains during the morning rush hour, killing thirteen and injuring thousands more.[^8] Murakami, still living partly abroad at the time, has described a growing pull back toward wanting to understand "Japan as a country" after years of what he's called his own exile, and it was the second of these two events that pulled him into the most sustained piece of nonfiction he'd ever attempt.
 
@@ -220,7 +220,7 @@ This volume draws on Murakami's own novels, essays, and interviews, on Japanese-
 - Murakami Haruki, *Henkyō, Kinkyō* [辺境・近境] (Tokyo: Shinchōsha, 1998), including the chapter "Nomonhan's Iron Graveyard" (ノモンハンの鉄の墓場), drawn from his June 1994 trip to the Nomonhan battlefield.
 - On Shiba Ryōtarō's abandoned Nomonhan research: Keio University, "The 100th Anniversary of Shiba Ryōtarō's Birth," *Mita Hyōron* (2023).
 
-**Chapter 3: Two Earthquakes**
+**Chapter 3: Two Catastrophes, Ten Weeks Apart**
 - Murakami Haruki, *Underground* [アンダーグラウンド] (Tokyo: Kōdansha, 1997).
 - Murakami Haruki, *after the quake* [神の子どもたちはみな踊る] (Tokyo: Shinchōsha, 2000), serialized in *Shinchō*.
 - Historical background on the January 17, 1995 Great Hanshin earthquake and the March 20, 1995 Aum Shinrikyo subway sarin attack, from standard contemporary news accounts of both events.
