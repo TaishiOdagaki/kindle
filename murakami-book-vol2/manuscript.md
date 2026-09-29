@@ -198,7 +198,7 @@ Whether that trade was worth it, from the inside, isn't a question this volume c
 
 ## A NOTE ON WHAT COMES NEXT
 
-This is the second of three volumes on Murakami's work. It ends in 2010, with *1Q84* still reverberating and a writer whose private vocabulary of alienation had become, somewhat against his own control, a generation's shared shorthand. The third and final volume covers his more recent novels, a real controversy over a passage touching on the Nanjing Massacre, his decades-long status as literature's most reliable Nobel Prize non-winner, and the globalized, simultaneously released, heavily academically studied phenomenon "Murakami" has become in the years since this volume ends.
+This is the second of three volumes on Murakami's work. It ends in 2010, with *1Q84* still reverberating and a writer whose private vocabulary of alienation had become, somewhat against his own control, a generation's shared shorthand. The third and final volume covers his more recent novels, a real controversy over a passage touching on the Nanjing Massacre, his decades-long status as one of literature's most closely watched Nobel Prize contenders, and the globalized, simultaneously released, heavily academically studied phenomenon "Murakami" has become in the years since this volume ends.
 
 ---
 

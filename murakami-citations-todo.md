@@ -75,20 +75,15 @@ pass on both volumes, per the `verify-nonfiction-claims` discipline.
   two days before the nationwide May 29, 2009 release) verified
   against multiple sources (The Millions' "1Q84 Revealed," contemporary
   Japanese press coverage) — accurate as written, no fix needed.
-- **Judgment call, flagged for the user, not yet resolved:** the "A
-  Note on What Comes Next" back-matter section describes Vol.3 as
-  covering "his decades-long status as literature's most reliable
-  Nobel Prize non-winner." This is accurate today, but Vol.1/Vol.2 are
-  about to go live and stay live for an indeterminate stretch while
-  Vol.3 waits on the actual Nobel result — if he wins while this
-  phrasing is sitting in an already-published, purchasable Vol.2, it
-  reads as a wrong prediction baked into a shipped book (KDP content
-  updates can fix it after the fact, but that's a reactive fix, not a
-  preventive one). Left as-is pending the user's call — a soften-now
-  option would be something like "his decades-long history as
-  literature's most closely watched Nobel Prize contender" instead of
-  "non-winner," which stays accurate regardless of how the Nobel
-  result eventually lands.
+- **Judgment call, resolved, 2026-09-29:** the "A Note on What Comes
+  Next" back-matter section described Vol.3 as covering "his
+  decades-long status as literature's most reliable Nobel Prize
+  non-winner" — accurate today, but risky to leave sitting in an
+  already-published Vol.2 for an indeterminate stretch while Vol.3
+  waits on the actual Nobel result. User asked for the softened
+  version; changed to "his decades-long status as one of literature's
+  most closely watched Nobel Prize contenders," which stays accurate
+  regardless of how the Nobel result eventually lands.
 
 ### Outside this repo, not yet started for this trilogy
 
