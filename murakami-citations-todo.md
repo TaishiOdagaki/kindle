@@ -262,7 +262,9 @@ here is wrong (nothing quoted, nothing to misquote), but it's thin for
 serious criticism. Audited all three manuscripts for this; the real
 list (excluding chapters that are legitimately not about one novel —
 Nobel odds, Murakami Studies institutions, the Drive My Car adaptation,
-verdict/synthesis chapters):
+verdict/synthesis chapters). **All five items below are now done as of
+2026-09-29** — this was the whole list; no further zero-quote chapters
+remain open in any of the three volumes.
 
 1. **Vol.1, Ch.5, *A Wild Sheep Chase* [羊をめぐる冒険]** — **STATUS:
    done.** User photographed p. 230, the actual final scene: the J's
@@ -294,31 +296,31 @@ verdict/synthesis chapters):
    as a new subsection ("What Carried Over, and What Got Built Out")
    comparing this version directly to the *Hard-Boiled Wonderland*
    material Vol.1 already quoted.
-5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **user does NOT have
-   this one yet; borrowing from the library 2026-09-29.** Prepped
-   2026-09-28 while waiting: verified the chapter's only hard factual
-   claim (13th novel, published April 12, 2013, by Bungeishunjū) via
-   web search — already correct in the manuscript, no fix needed.
-   Chapter 1's current argument is a direct comparison to *Norwegian
-   Wood*: same wound-and-reckoning structure, but read as building
-   toward *recovery* rather than staying inside loss. Two candidate
-   passages identified (by scene, not exact wording — don't have the
-   text to quote yet, and didn't want to guess/fabricate it):
-   1. **First choice — the ending.** The final pages: Tsukuru turns
-      out the light the night before Sara is due to give him her
-      answer. Falls directly out of the chapter's existing "recovery,
-      not resolution" argument — an irresolute ending is itself the
-      textual evidence for that claim.
-   2. **Second choice — the swimming-pool passages.** Tsukuru's
-      recurring swimming ritual, used through the novel as a physical/
-      interior-life motif (emptiness, self-image). A good backup if
-      the ending doesn't work well pulled out as a standalone quote.
-   Once the user has the book: ask for a photo/typed excerpt of
-   whichever passage(s) they land on, then add a new subsection to
-   Vol.3 Ch.1 the same way Vol.1 Ch.5 (*A Wild Sheep Chase*) and Vol.2
-   Ch.1 (*Dance Dance Dance*) were handled.
+5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **STATUS: done,
+   2026-09-29.** User got the book a day early and photographed the
+   closing pages (366–369) rather than the swimming-pool backup
+   option. Added a new subsection ("Twelve Rings, and a Light Going
+   Out") with two direct quotes: the phone ringing twelve times while
+   Tsukuru hesitates to answer Sara's call, and the novel's actual
+   final paragraph (Tsukuru falling asleep without knowing her answer,
+   ending on "the sound of wind moving through a stand of white birch
+   trees"). Both tie directly into the chapter's existing "recovery,
+   not resolution" argument — new footnote [^2], all later footnotes
+   in the volume renumbered up by one (was 2–11, now 3–12; verified no
+   orphans). **Caveat logged in the footnote itself:** the English
+   wording used is a working translation, not Philip Gabriel's
+   published one — a websearch surfaced what claims to be his wording
+   for the closing line, but it added imagery ("sucked into the depths
+   of the night") not present in the photographed Japanese, so it
+   wasn't trusted and a plainer literal gloss was used instead. Worth
+   a side-by-side check against the actual Gabriel translation if an
+   English copy turns up later, same as Vol.1/Vol.2 did for other
+   novels. Edition/printing of the user's physical copy also not yet
+   confirmed (page numbers 366–369 suggest the single-volume Bunshun
+   Bunko paperback, but that's an inference, not confirmed) — update
+   the Sources citation once known.
 
-No fixed order requested yet — user hasn't picked which to start with.
+(All five done — see status notes above.)
 
 ## Follow-up audit: other named-critic claims (2026-09-28)
 
