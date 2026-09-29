@@ -88,8 +88,29 @@ pass on both volumes, per the `verify-nonfiction-claims` discipline.
 ### Outside this repo, not yet started for this trilogy
 
 Unlike the sibling anime-book project, which has these as separate
-assets: EPUB build + epubcheck validation, KDP book description,
-category/keyword selection. **Cover art: finalized, 2026-09-29.** Got
+assets: KDP book description, category/keyword selection.
+
+**EPUB build + validation: done, 2026-09-29.** Installed `pandoc`
+3.1.3 and `epubcheck` 4.2.6 (via apt; epubcheck's apt-installed
+wrapper script is broken — invoke `java -jar
+/usr/share/java/epubcheck.jar` directly instead). Built both volumes
+with the same recipe the sibling anime-book project's READMEs
+document (`pandoc manuscript.md -o "<title>.epub" --metadata
+title=... --metadata author="Tyler Atsumori" --metadata
+publisher="Japanese Culture Press" --metadata lang=en-US --toc
+--toc-depth=2 --split-level=2`). Both pass epubcheck clean: 0 errors,
+0 warnings. Spot-checked: TOC structure (all front-matter sections,
+all chapters, glossary, note, sources — correctly ordered), the
+unheaded front-of-book hook and the rights disclaimer both land in the
+right files, footnotes render as proper EPUB3 popup noterefs. Files:
+`murakami-book/Murakami, Untranslated.epub`,
+`murakami-book-vol2/Murakami, Everywhere.epub` — committed to the
+repo and sent to the user. **Cover is intentionally NOT embedded in
+the EPUB** — matches the sibling project's own documented practice:
+upload the cover separately in KDP's dedicated Cover step, never as a
+page inside the interior file.
+
+**Cover art: finalized, 2026-09-29.** Got
 flagged in a separate `pro-ui-director` design review (2026-09-29) for
 a register mismatch (reads as self-help/lifestyle rather than literary
 criticism), AI-slop stock-photo imagery unrelated to Murakami's actual
@@ -101,9 +122,10 @@ their creative decision to make), but fixed the one non-aesthetic
 issue — Vol.2's headphones were redesigned to no longer resemble
 AirPods Max, resolving the trademark risk. All three covers (Vol.1
 blue-sky, Vol.2 train-platform, Vol.3 night-sky silhouette) are
-confirmed final. Not yet added to this repo as files. EPUB build, book
-description, and category/keyword selection remain fully unstarted for
-all three volumes — next up before Vol.1 + Vol.2 are fully
+confirmed final. Not yet added to this repo as files.
+
+Book description and category/keyword selection remain fully
+unstarted for both volumes — next up before Vol.1 + Vol.2 are fully
 publish-ready.
 
 ## Prose polish pass (2026-09-28) — not a citation task, logged for continuity
