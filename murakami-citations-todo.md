@@ -297,28 +297,38 @@ remain open in any of the three volumes.
    comparing this version directly to the *Hard-Boiled Wonderland*
    material Vol.1 already quoted.
 5. **Vol.3, Ch.1, *Colorless Tsukuru Tazaki*** — **STATUS: done,
-   2026-09-29.** User got the book a day early and photographed the
-   closing pages (366–369) rather than the swimming-pool backup
-   option. Added a new subsection ("Twelve Rings, and a Light Going
-   Out") with two direct quotes: the phone ringing twelve times while
-   Tsukuru hesitates to answer Sara's call, and the novel's actual
-   final paragraph (Tsukuru falling asleep without knowing her answer,
-   ending on "the sound of wind moving through a stand of white birch
-   trees"). Both tie directly into the chapter's existing "recovery,
-   not resolution" argument — new footnote [^2], all later footnotes
-   in the volume renumbered up by one (was 2–11, now 3–12; verified no
-   orphans). **Caveat logged in the footnote itself:** the English
-   wording used is a working translation, not Philip Gabriel's
-   published one — a websearch surfaced what claims to be his wording
-   for the closing line, but it added imagery ("sucked into the depths
-   of the night") not present in the photographed Japanese, so it
-   wasn't trusted and a plainer literal gloss was used instead. Worth
-   a side-by-side check against the actual Gabriel translation if an
-   English copy turns up later, same as Vol.1/Vol.2 did for other
-   novels. Edition/printing of the user's physical copy also not yet
-   confirmed (page numbers 366–369 suggest the single-volume Bunshun
-   Bunko paperback, but that's an inference, not confirmed) — update
-   the Sources citation once known.
+   2026-09-29.** User got the book a day early and ended up
+   photographing both candidate passages, not just one. Added two new
+   subsections to Chapter 1:
+   - **"A Blankness That, For Once, Doesn't Hurt"** (p. 121) — the
+     university-pool scene with Haida, quoted directly: Tsukuru
+     watching Haida's kick stir bubbles through the water, and the
+     "light paralysis of consciousness" it brings him. Tied to the
+     novel's recurring 空っぽ/"empty" self-description — the one place
+     that blankness reads as restful rather than a wound.
+   - **"Twelve Rings, and a Light Going Out"** (pp. 366–369) — the
+     phone ringing twelve times while Tsukuru hesitates to answer
+     Sara's call, and the novel's actual final paragraph (Tsukuru
+     falling asleep without knowing her answer, ending on "the sound
+     of wind moving through a stand of white birch trees"). Ties into
+     the chapter's "recovery, not resolution" argument.
+   New footnotes [^2] (pool scene) and [^3] (ending), in that order to
+   match where they appear in the text — all later footnotes in the
+   volume renumbered twice in the process (originally 2–11; briefly
+   3–12 after the first addition; now 4–13 after the second). Verified
+   sequential, no orphans, each round. **Caveat logged in footnote
+   [^3] itself:** the ending's English wording is a working
+   translation, not Philip Gabriel's published one — a websearch
+   surfaced what claims to be his wording for the closing line, but it
+   added imagery ("sucked into the depths of the night") not present
+   in the photographed Japanese, so it wasn't trusted and a plainer
+   literal gloss was used instead. Worth a side-by-side check against
+   the actual Gabriel translation if an English copy turns up later,
+   same as Vol.1/Vol.2 did for other novels. Edition/printing of the
+   user's physical copy also not yet confirmed (page numbers 121 and
+   366–369 suggest the single-volume Bunshun Bunko paperback, but
+   that's an inference, not confirmed) — update the Sources citation
+   once known.
 
 (All five done — see status notes above.)
 
