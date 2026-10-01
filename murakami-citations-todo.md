@@ -162,6 +162,28 @@ AirPods Max, resolving the trademark risk. All three covers (Vol.1
 blue-sky, Vol.2 train-platform, Vol.3 night-sky silhouette) are
 confirmed final. Not yet added to this repo as files.
 
+**User's own design rationale, given 2026-10-01 (not a reversal of the
+above — context for why the critique wasn't acted on beyond the
+trademark fix):**
+- Wants the covers "pop" and catchy/flashy on purpose — register
+  mismatch with the literary-criticism genre was a deliberate
+  trade-off, not an oversight.
+- The young woman isn't meant to represent Murakami's narrators
+  (who are overwhelmingly male, "boku"/"watashi") — she's meant to
+  evoke the recurring "woman who guides the protagonist" figure that
+  actually runs through the novels (Naoko/Midori in *Norwegian Wood*,
+  Kano Creta in *The Wind-Up Bird Chronicle*, Sara in *Colorless
+  Tsukuru Tazaki*, etc.). A real thematic throughline, not an
+  arbitrary stock-photo choice, even if it still reads as genre-coded
+  differently than literary criticism to a browsing shopper.
+- Draws a line between "AI slop" and the workflow actually used here:
+  slop, in the user's own definition, is a single AI pass that
+  generates image+text together in one shot; this project's covers
+  are AI-generated illustration + manual Canva layout, text added
+  separately, art-directed by the user. A real methodological
+  difference, even though it doesn't resolve the separate "does this
+  read as literary criticism" concern raised in the design review.
+
 Book description and category/keyword selection remain fully
 unstarted for both volumes — next up before Vol.1 + Vol.2 are fully
 publish-ready.
