@@ -73,3 +73,7 @@ Price rule for the whole Murakami series: $5.99 per volume. Ads for Vol.1: undec
 ## Vol.3 status snapshot (2026-10-02, later)
 
 `vol3-manuscript.md` copied from the loving-volta branch for work (7,900 words; 8 chapters; old-style front matter with "How to Read" and "The Question"; 30 em dashes, 23 tic words, 31 negations, 4 "worth ..."; one "the user's copy" leak; Ch.4 is titled and written as if the Nobel never comes). To do: front-matter redo, new hook, third persona story (ask the user), whole-book humanize pass, Nobel-dependent text prepared in two versions, description, keywords, categories, cover file, price $5.99, EPUB.
+
+## KDP series name (2026-10-02, later)
+
+Series title decided by the user: **Murakami in Three Acts** (Vol.1 *Murakami, Untranslated*; Vol.2 *Murakami, Everywhere*; Vol.3 *Murakami, Unfinished*). Set the series in KDP when submitting Vol.2 (after Sunday 2026-10-04 9:00 JST) and attach Vol.1 to it. The text already uses the "act" language (Vol.1 Ch.9 speaks of the end of Act One).
