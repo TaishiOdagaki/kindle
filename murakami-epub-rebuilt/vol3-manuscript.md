@@ -6,29 +6,19 @@
 
 ---
 
-A single sentence about the Nanjing Massacre cost him real goodwill at home, and he wrote it anyway. A seventy-four-year-old novelist went back to fix a walled town he'd first gotten wrong at thirty-one. This volume follows the last stretch of a career built on never quite fitting in, right up to the question of whether that's still true.
+When the producer of *Drive My Car* first asked Ryūsuke Hamaguchi to adapt a Murakami story, he proposed a different one. The producer, Akihisa Yamamoto, is someone Hamaguchi calls practically a Harukist. Hamaguchi thought it over and found that story too hard. Then he remembered "Drive My Car," a story in which only real things happen. No otherworld. For a film without an enormous budget, that mattered.[^brutus-hook]
+
+But Hamaguchi knew what the choice left out. Murakami's charm, he says, especially in the long novels, is the feeling of digging a well down through reality into a world underneath. So he borrowed motifs from two other stories in the same collection, "Scheherazade" and "Kino," to bring some of that depth back. The film that won the Oscar for Best International Feature in 2022 is three Murakami stories braided together and held in place by a red car.
+
+That is the Murakami of 2013 to 2025, the years this volume covers. He is big enough that a film director has to decide how much of him can be put on a screen, and he is still going back to the same walled town. This book asks whether there is anything left for a writer this large to risk. You do not need the earlier volumes to follow it.
+
+[^brutus-hook]: *BRUTUS* (brutus.jp), 「『ドライブ・マイ・カー』映画監督・濱口竜介にインタビュー。村上春樹の小説を映画化する時に最も困難なこと」, February 25, 2022; Hamaguchi's account of how the project began and why the film borrows from "Scheherazade" and "Kino" is paraphrased from that interview (see Chapter 5).
 
 ---
 
 ## About the Author
 
 Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, studied modern and contemporary Japanese literature at a university in the Kansai region, and reads the Japanese-language criticism and recent scholarship that English-language writing on Murakami tends to skip. His morning jog is serious business in Kyoto, where summers keep getting hotter and the humidity in the mountain-ringed basin is said to be among the highest in Japan. When his lungs reach their limit, he repeats a mantra Murakami once borrowed from a newspaper article on marathon runners: "Pain is inevitable. Suffering is optional."
-
----
-
-## How to Read This Book
-
-A note on who this is for: readers finishing the series, and readers who've only ever read one or two Murakami novels and want to know how the rest of the story goes. This is the last volume either way — the one where the argument this series has been building finally gets tested against Murakami at his largest and most recent.
-
-Volume Two left off in 2010, with Murakami's private alienation fully converted into a generation's shared vocabulary, and one novel treated like a scheduled national event. This volume covers the last decade and a half: a late return to the plain, realist register he first tried with *Norwegian Wood*, a quarter-century of Nobel Prize speculation built almost entirely on betting odds nobody in Stockholm has ever confirmed, and a film adaptation, made by someone else entirely, that reached more people in three hours than most of his own novels have in decades.
-
-Let's get into it.
-
----
-
-## THE QUESTION THIS VOLUME IS TRYING TO ANSWER
-
-Twenty years after Japan's own literary establishment decided his prose sounded too foreign to belong to its tradition, and a full career after he turned that same not-quite-belonging into an international reputation: is there anything left for a writer this large, this studied, this translated, to actually risk? Or has "Murakami" simply gotten too big a name to ever sound like an outsider again? Chapter by chapter, this volume hands over the evidence for both answers before the verdict chapter picks one.
 
 ---
 
@@ -57,8 +47,8 @@ The novel's closing pages make the recovery-not-resolution distinction literal r
 The book's actual last words don't give Tsukuru, or the reader, Sara's answer at all. He goes to bed still not knowing, and the final paragraph describes nothing more than him falling asleep: 「彼は心を静め、目を閉じて眠りについた。意識の最後尾の明かりが、遠ざかっていく最終の特急列車のように、徐々にスピードを増しながら小さくなり、あとには白樺の木立を抜ける風の音だけが残った」— he calmed himself, closed his eyes, and fell asleep; the last light of his consciousness receded like a departing night express, picking up speed as it shrank, until all that remained was the sound of wind moving through a stand of white birch trees.[^3] Not Sara's decision, not Tsukuru's — a man asleep, and wind through trees. If *Norwegian Wood* closes on a narrator who still doesn't know where he is, *Colorless Tsukuru Tazaki* closes on one who's stopped needing an answer before he can rest. That's the actual shape of the recovery this chapter has been pointing to: not a wound that gets resolved, but one its owner can finally sleep on without resolving it first.
 
 [^1]: *Colorless Tsukuru Tazaki and His Years of Pilgrimage* was published in Japan by Bungeishunjū on April 12, 2013.
-[^2]: Murakami Haruki, *Colorless Tsukuru Tazaki and His Years of Pilgrimage* [色彩を持たない多崎つくると、彼の巡礼の年] (Tokyo: Bungeishunjū, 2013), p. 121; the pool scene with Haida quoted directly from the user's copy.
-[^3]: Murakami Haruki, *Colorless Tsukuru Tazaki and His Years of Pilgrimage* [色彩を持たない多崎つくると、彼の巡礼の年] (Tokyo: Bungeishunjū, 2013), pp. 366–369; the twelve-ring phone call and the novel's closing paragraph quoted directly from the user's copy. English renderings above are a working translation rather than Philip Gabriel's published one, which hasn't been checked against this passage yet — worth a side-by-side pass if an English copy turns up later in this series' research, the way Vol.1 and Vol.2 did for other novels.
+[^2]: Murakami Haruki, *Colorless Tsukuru Tazaki and His Years of Pilgrimage* [色彩を持たない多崎つくると、彼の巡礼の年] (Tokyo: Bungeishunjū, 2013), p. 121; the pool scene with Haida quoted directly from the author's copy.
+[^3]: Murakami Haruki, *Colorless Tsukuru Tazaki and His Years of Pilgrimage* [色彩を持たない多崎つくると、彼の巡礼の年] (Tokyo: Bungeishunjū, 2013), pp. 366–369; the twelve-ring phone call and the novel's closing paragraph quoted directly from the author's copy. English renderings above are a working translation rather than Philip Gabriel's published one, which hasn't been checked against this passage yet — worth a side-by-side pass if an English copy turns up later in this series' research, the way Vol.1 and Vol.2 did for other novels.
 
 ---
 
@@ -97,7 +87,7 @@ That's not the first time Murakami has built a book this way. Volume Two of this
 This is worth placing against everything the earlier volumes of this series have already traced. A writer whose 1979 debut was dismissed as too imitative of foreign fiction to count as serious Japanese literature, who spent the 1990s proving, through *The Wind-Up Bird Chronicle*'s Nomonhan material, that his surreal register could hold real historical weight, and who worked out, well before 2017, an oblique method for approaching disaster sideways rather than head-on in *after the quake*, built a supporting character's family tragedy in a 2017 bestseller around a historical fact a meaningful share of his own domestic readership still found genuinely difficult to hear stated at all, regardless of which specific casualty figure was attached to it, and then, on one plausible critical reading, used that same novel's entire architecture to approach a second, more recent catastrophe he still hadn't found a direct way to write about at all. It just wasn't a small thing to write down and publish under his own name, at that particular moment, in that particular country, and, at nearly seventy years old and three decades past his own literary establishment's harshest early verdicts, he did it anyway, on more than one register at once.
 
 [^4]: *Killing Commendatore* [騎士団長殺し] was published by Shinchōsha on February 24, 2017, with an initial combined print run of 1.3 million copies.
-[^5]: Murakami Haruki, *Killing Commendatore*, Part 2: *Utsurou Metafā-hen* [騎士団長殺し 第2部 遷ろうメタファー編] (Tokyo: Shinchōsha, 2017); Menshiki's line on the death toll, quoted directly from the user's copy.
+[^5]: Murakami Haruki, *Killing Commendatore*, Part 2: *Utsurou Metafā-hen* [騎士団長殺し 第2部 遷ろうメタファー編] (Tokyo: Shinchōsha, 2017); Menshiki's line on the death toll, quoted directly from the author's copy.
 [^6]: MCLC Resource Center, "Murakami novel acknowledges Nanjing Massacre" (2017); *People's Daily Online*, "Murakami novel acknowledges Nanjing Massacre, sets off online frenzy" (March 3, 2017), both reporting the Nanjing Massacre Memorial Hall's official Weibo response.
 [^7]: Naoki Hyakuta's and Makoto Sakurai's public objections to the passage, and coverage of the wider controversy including the *Sankei Shimbun*'s criticism, are documented in contemporary Japanese reporting and commentary, including *Lite-Ra*, "村上春樹『騎士団長殺し』の南京虐殺「40万人説」紹介に百田尚樹と産経が言いがかり！" (March 2017) and "村上春樹『騎士団長殺し』は歴史修正主義と対決する小説だった！ 百田尚樹も気づいてない南京虐殺の生々しい描写" (May 2017); People's Daily Online (Japanese edition), "日本の右翼勢力が村上春樹の新作を批判する理由" (March 2017).
 [^8]: Sasaki Atsushi, "村上春樹『騎士団長殺し』論" ["On Murakami Haruki's *Killing Commendatore*"], published on note.com. This chapter's account of the "portrait of nothing" structure, the Vienna/Amada-brothers backstory (flagged there, and here, as Sasaki's own inference rather than anything the novel states outright), and the final chapter's 3/11 timeline reveal all draw on this essay; see also Volume Two, Chapter 3, on *after the quake*'s comparable structure around the Kobe earthquake and the Aum Shinrikyo sarin attack. The direct quotation from the novel itself ("なにしろそこにあるのはただの無なのだ。何もないものをいったいどのように造形すればいいのだろう？") is reproduced as it appears within Sasaki's essay rather than checked independently against a physical copy of Part 1.
@@ -125,7 +115,7 @@ What's different is how much more the 2023 version builds around that image. The
 The 2023 novel is the third attempt at the same underlying material, more than four decades after the first one, and it's worth pausing on what that persistence actually says. This isn't a writer returning to old material because he's run out of new ideas this late in his career; everything else in this volume argues the opposite, a writer still willing to take on real historical risk and real formal experiment well into his seventies. It's something closer to unfinished business in the most literal sense available to a novelist: a walled town he first imagined at thirty-one, rebuilt at thirty-six inside one of his most acclaimed early novels, and still didn't feel he'd gotten right until he came back a third time, at seventy-four, to finish it properly. Few writers get handed the chance to revise the same founding image of their own career three separate times, decades apart, in full public view. Fewer still would have the nerve to call the first two attempts failures on the way to the third.
 
 [^9]: *The City and Its Uncertain Walls* [街とその不確かな壁] was published by Shinchōsha on April 13, 2023. Murakami began writing it in March 2020, completing the roughly 1,200-manuscript-page novel over approximately three years.
-[^10]: Murakami Haruki, *The City and Its Uncertain Walls* [街とその不確かな壁] (Tokyo: Shinchōsha, 2023); the golden beasts, the Gatekeeper's razor and horn, and the spring mating-week violence all quoted directly from the user's copy.
+[^10]: Murakami Haruki, *The City and Its Uncertain Walls* [街とその不確かな壁] (Tokyo: Shinchōsha, 2023); the golden beasts, the Gatekeeper's razor and horn, and the spring mating-week violence all quoted directly from the author's copy.
 
 ---
 
@@ -261,12 +251,12 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 
 **Chapter 1: The Return to Realism, Again**
 - Murakami Haruki, *Colorless Tsukuru Tazaki and His Years of Pilgrimage* [色彩を持たない多崎つくると、彼の巡礼の年] (Tokyo: Bungeishunjū, April 12, 2013).
-- Same work, p. 121 (the university-pool scene with Haida), quoted directly from the user's copy.
-- Same work, pp. 366–369 (the twelve-ring phone call, the novel's closing paragraph), quoted directly from the user's copy.
+- Same work, p. 121 (the university-pool scene with Haida), quoted directly from the author's copy.
+- Same work, pp. 366–369 (the twelve-ring phone call, the novel's closing paragraph), quoted directly from the author's copy.
 
 **Chapter 2: Painting Over the Past**
 - Murakami Haruki, *Killing Commendatore* [騎士団長殺し] (Tokyo: Shinchōsha, February 24, 2017).
-- Same work, Part 2: *Utsurou Metafā-hen* [第2部 遷ろうメタファー編] (Shinchōsha, 2017) — Menshiki's death-toll line consulted directly from the user's copy.
+- Same work, Part 2: *Utsurou Metafā-hen* [第2部 遷ろうメタファー編] (Shinchōsha, 2017) — Menshiki's death-toll line consulted directly from the author's copy.
 - MCLC (Modern Chinese Literature and Culture) Resource Center, Ohio State University, "Murakami novel acknowledges Nanjing Massacre" (2017).
 - *People's Daily Online*, "Murakami novel acknowledges Nanjing Massacre, sets off online frenzy" (March 3, 2017).
 - *Lite-Ra*, "村上春樹『騎士団長殺し』の南京虐殺「40万人説」紹介に百田尚樹と産経が言いがかり！" (March 2017) and "村上春樹『騎士団長殺し』は歴史修正主義と対決する小説だった！ 百田尚樹も気づいてない南京虐殺の生々しい描写" (May 2017); People's Daily Online (Japanese edition), "日本の右翼勢力が村上春樹の新作を批判する理由" (March 2017) — domestic criticism from Naoki Hyakuta, Makoto Sakurai, and the *Sankei Shimbun*.
@@ -275,7 +265,7 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 **Chapter 3: The Book He Went Back to Finish, Twice**
 - Murakami Haruki, *The City and Its Uncertain Walls* [街とその不確かな壁] (Tokyo: Shinchōsha, April 13, 2023).
 - Murakami Haruki, *The Town, and Its Uncertain Wall* [街と、その不確かな壁] (1980) and *Hard-Boiled Wonderland and the End of the World* (1985), on the novel's two earlier attempts at the same material.
-- *The City and Its Uncertain Walls*, pp. 18–20 (the golden beasts, the Gatekeeper, the spring mating week), quoted directly from the user's copy.
+- *The City and Its Uncertain Walls*, pp. 18–20 (the golden beasts, the Gatekeeper, the spring mating week), quoted directly from the author's copy.
 
 **Chapter 4: The Nobel Bet That Never Pays Off**
 - Nobel Prize official records on the nomination and selection process for the Nobel Prize in Literature, including its fifty-year confidentiality rule (nobelprize.org).

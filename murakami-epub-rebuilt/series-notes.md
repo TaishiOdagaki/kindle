@@ -89,3 +89,7 @@ User chose the *Drive My Car* hook for Vol.3 but not framed as "little of the or
 ## Vol.3 Ch.5 rewrite (2026-10-02, later)
 
 Chapter 5 rewritten from the BRUTUS interview with Hamaguchi (brutus.jp/post-71697, 2022-02-25, text pasted by the user): new title "Three Stories and a Red Car"; the old claim that the Uncle Vanya material "barely exists in the source" and that the film worked loosely was wrong per Hamaguchi (the Vanya/Sonya correspondences are in the story; Takatsuki's speech is nearly verbatim) and was replaced. User confirmed the mother-dies-in-a-car-accident (story) versus landslide (film) detail. Glossary entry and Sources updated. Still to do in Vol.3: the hook (the Hamaguchi opening drafted in chat, not yet in the manuscript), front-matter cuts, whole-book humanize pass, "the user's copy" leak in fn 10, and the two-version Nobel text.
+
+## Vol.3 front matter done (2026-10-02, later)
+
+Vol.3 now opens on the Hamaguchi/*Drive My Car* hook (BRUTUS interview, footnote [^brutus-hook]); "How to Read This Book" and "The Question" removed; five "the user's copy" leaks fixed (footnotes and sources). Still to do: whole-book humanize pass (Vol.3 had 30 em dashes, 23 tic words, 31 negations), the two-version Nobel text (Ch.4 is titled and written as if he never wins), description, keywords, categories, cover file, EPUB. Check that the hook's numbers and Hamaguchi paraphrases match the interview wording.
