@@ -20,7 +20,7 @@ What came out of that chemistry was a short, strange novel that Japan's most ser
 
 ## About the Author
 
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region, where a graduate reading group's slow work through the postwar canon turned into a longer-running project of tracking how Japanese novelists are actually read and argued about at home, as against how they're received once translated abroad. That bilingual upbringing shapes this book directly: it draws on Japanese-language sources most English-language criticism doesn't reach, literary-magazine criticism, prize-jury commentary, and Murakami's own Japanese-language essays, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region. Every morning he goes for a run with Murakami's novels playing in his ears, in Japanese, on audiobook, listening again and again for the rhythm of the sentences. Sometimes he listens harder than he runs, and has put a brand-new, much-loved pair of Asics straight into a puddle. His research draws on Japanese-language sources most English-language criticism never reaches: literary-magazine criticism, prize-jury commentary, and Murakami's own essays.
 
 ---
 
