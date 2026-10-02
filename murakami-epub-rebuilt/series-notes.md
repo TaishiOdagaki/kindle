@@ -57,3 +57,7 @@ Manuscript opening reworked, description and metadata plan written (`vol2-manusc
 ## Vol.2 humanize pass and bio (2026-10-02, later)
 
 Whole-book tic pass done on `vol2-manuscript.md` (em dashes 27 to 12, tic words 15 to 0, negations 19 to 11, no facts changed). Vol.2 bio now tells the twenty-years-of-jogging story (see `author-persona-tyler-atsumori`). Still blocked before the EPUB: verify the Kafka email story, cover file, price, new-title limit (resets Sunday 00:00 UTC). Vol.1 is published and has not had the whole-book pass.
+
+## Vol.1 humanize pass (2026-10-02, evening)
+
+Whole-book pass applied to `vol1-manuscript.md` (em dashes 35 to 11, tic words 30 to 0, "worth ..." 17 to 0). Also corrected three content problems found while editing (Nakamura paraphrase, Ch.9 vs Ch.4 Oe contradiction, "disowned"). The published Vol.1 EPUB does NOT yet include these; a rebuild (only when the user asks) and a KDP "Edit eBook Content" re-upload are needed.
