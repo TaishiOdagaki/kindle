@@ -97,3 +97,7 @@ Vol.3 now opens on the Hamaguchi/*Drive My Car* hook (BRUTUS interview, footnote
 ## Vol.3 Nobel branches prepared (2026-10-02, later)
 
 `murakami-epub-rebuilt/vol3-nobel-branches/` holds `ch4-no-win.md`, `ch4-win.md`, `swap-checklist.md`, and `apply_ch4.py` (replaces Chapter 4 in `vol3-manuscript.md`; refuses to run while any `[[FILL: ...]]` marker remains). The manuscript still carries the old Chapter 4 until the result is known (expected Thursday 2026-10-08 about 20:00 JST; confirm the date). The shared sections (annual ritual, sealed records, betting odds) were rewritten past-tense so they hold on both branches.
+
+## Vol.3 humanize pass done outside Ch.4 (2026-10-02, later)
+
+Chapters 1-3, 5-8 cleaned (em dashes 0 outside glossary/sources, tic words and "worth ..." gone). Chapter 4 is replaced on the Nobel branch (new text then needs its own pass). Remaining for Vol.3: Ch.4 swap on 2026-10-08, Ch.7/Ch.8/back-matter Nobel wording, description, keywords, categories, cover file, EPUB (only when asked).
