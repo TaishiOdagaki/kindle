@@ -82,3 +82,7 @@ Open item: user to check the page (or the original 2017 press report) and report
 Sources entry in `vol1-manuscript.md` if needed.
 
 **Resolved later the same day:** the user supplied the BBC News Japan article (2017-10-06), which confirms the shrine / ~200 fans / party poppers / Ishiguro / Kinokuniya-display episode; Ch.1 and footnote [^fans] were rewritten to match it exactly. The 2024 Kinokuniya event page was not needed as a source.
+
+## Description: AI-assistance sentence removed (2026-10-02)
+
+User decided to drop the sentence disclosing AI assistance from the public KDP description. The disclosure is still to be made in KDP's submission form (the in-form AI-content question; the user should confirm the exact requirement in KDP help). Description file: `vol1-kdp-description.html` (about 3,100 characters with tags).
