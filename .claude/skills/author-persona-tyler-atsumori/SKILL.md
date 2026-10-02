@@ -19,9 +19,17 @@ description: Use when writing or updating the author bio, About the Author secti
 
 The description version is shorter (see `vol1-kdp-description.html`). For Vol.2 and Vol.3 keep the two running-and-puddle sentences; change only the sentence about sources (Vol.2: historical scholarship on the events Murakami's fiction engages with; Vol.3: recent criticism and the debate over the Nanjing passage).
 
+## Vol.2 story (user-supplied 2026-10-02; use in Vol.2's bio instead of the audiobook/Asics story)
+
+User's wording (Japanese): 2007年に出版された村上春樹『走ることについて語るときに僕の語ること』にインスパイアを受け、ジョギングの習慣を続けて20年近くになる。彼のようにトライアスロンのためのハードなワークアウトではないが、言葉を生み出すことと、自分のペースを守り、最後まで歩かずに走り抜くことの関係性について、毎朝考えながら汗を流している。
+
+Bio wording in use (Vol.2): "He took up running after reading Murakami's *What I Talk About When I Talk About Running* (2007) and has kept at it for nearly twenty years. It is not Murakami's version, which comes with triathlon training. It is a jog. Every morning he sweats through the same question: what does making sentences have to do with holding your own pace and getting to the end without walking?"
+
+So each volume gets its own running story, consistent with the same runner: Vol.1 audiobooks-and-Asics; Vol.2 twenty years of jogging and the question about pace and not walking. Vol.3: ask the user for a third story rather than inventing one.
+
 ## Rules for reuse
 
-- Keep this one running joke consistent across volumes. Do not invent new anecdotes about the author; ask the user.
+- Keep the running motif consistent across volumes, but each volume may carry its own story (see Vol.2 above). Do not invent new anecdotes about the author; ask the user.
 - Keep the bio to about three sentences. Front matter spends the free sample.
 - **End the bio on its best, funniest line** (the puddle), not on credentials or a "sources" sentence.
 - Do not claim credentials the user has not given (no degree names, employers, awards).
@@ -36,3 +44,4 @@ The description version is shorter (see `vol1-kdp-description.html`). For Vol.2 
 ## Dated log
 
 - **2026-10-02.** Detail supplied by the user and applied to Vol.1's manuscript bio and KDP description; recorded in `murakami-epub-rebuilt/series-notes.md` too.
+- **2026-10-02 (later).** User supplied a different story for Vol.2 (twenty years of jogging inspired by *What I Talk About When I Talk About Running*); applied to `vol2-manuscript.md` and `vol2-kdp-description.html`.

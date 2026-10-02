@@ -39,3 +39,7 @@ Proposal: same as Vol.1 ($5.99, 70% tier, royalty about $4.19). Vol.2 is shorter
 - Front matter reduced from about 412 to about 319 words: new unheaded hook, bio with the Asics detail, "How to Read" and "The Question" removed, "You do not need Volume One" folded into the hook.
 - Chapter 4's opening no longer repeats the email story; one dangling sentence fixed.
 - Whole-book counts to reduce in a later humanize pass: em dashes 27 (4.3 per 1,000 words), actually/genuinely/really/truly 15, negations 19, "worth noting/sitting with" 2.
+
+## Update (later 2026-10-02)
+
+Author bio changed to the twenty-years-of-jogging story (manuscript and description). Whole-book humanize pass completed: em dashes 12 (list separators only), tic words 0, negations 11. The Kafka email-story verification is still the main open item.

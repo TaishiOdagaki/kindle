@@ -53,3 +53,7 @@ Vol.1 (*Murakami, Untranslated*) submitted and published to KDP on 2026-10-02, e
 ## Vol.2 status (2026-10-02, evening)
 
 Manuscript opening reworked, description and metadata plan written (`vol2-manuscript.md`, `vol2-kdp-description.html`, `vol2-kdp-metadata.md`). Stopped before the EPUB build, per the standing rule. Blocking items: verify the Kafka email story and its figures; cover file; price decision; weekly new-title limit resets Sunday 00:00 UTC.
+
+## Vol.2 humanize pass and bio (2026-10-02, later)
+
+Whole-book tic pass done on `vol2-manuscript.md` (em dashes 27 to 12, tic words 15 to 0, negations 19 to 11, no facts changed). Vol.2 bio now tells the twenty-years-of-jogging story (see `author-persona-tyler-atsumori`). Still blocked before the EPUB: verify the Kafka email story, cover file, price, new-title limit (resets Sunday 00:00 UTC). Vol.1 is published and has not had the whole-book pass.
