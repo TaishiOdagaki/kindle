@@ -53,3 +53,9 @@ The user checked the Shinchosha site and could not find the 8,000-email story, s
 ## Hook decision (2026-10-02, later): case 1, the Sinfonietta
 
 Vol.2 now opens on 1Q84's taxi-radio Sinfonietta line and Japan buying the record (Cleveland Orchestra: about 6,000 orders for its 1990 CD; Sony: as many copies shipped after the book as in all the years since the CD's release), then on fans writing like Murakami (a tweet-to-Murakami-prose web tool, Gigazine 2015-02-17; symbolic phrasing on note and similar sites; amateur men's essays carrying his voice down to *yare yare*; AI imitation, with the line "the best of the fans still do it better"). **Unverified, to check or own:** the orchestra and Sony figures and the League of American Orchestras item (search lead only); the Gigazine tool and its Frappuccino sample sentence (search lead only); the claims about note, men's amateur essays, and fans beating AI, which are the user's own observations with no source. Delete or soften any the user cannot stand behind. The earlier 8,000-email hook was dropped because the user could not find it on Shinchosha's site.
+
+## Verification log (2026-10-02, later)
+
+- Gigazine item (tweet-to-Murakami-prose tool, 2015-02-17, Frappuccino sample sentence): **confirmed by the user** against the article. Footnote [^tweet] stands.
+- Still open: the Cleveland Orchestra and Sony figures (League of American Orchestras item); the manuscript's "680,000 combined first printing" in Ch.5 and in the description's bold bullet (a search lead says Book 1 alone was raised to 480,000); the user's own observations about note, men's amateur essays, and fans beating AI (user owns these).
+- Japanese translation of the hook was shown to the user for review; no manuscript change requested. EPUB not built yet.
