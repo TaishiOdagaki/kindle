@@ -90,3 +90,7 @@ User decided to drop the sentence disclosing AI assistance from the public KDP d
 ## Published (2026-10-02)
 
 Vol.1 published to KDP and enrolled in KDP Select. To check after about 72 hours: live page (logged-out) first three lines and formatting, keyword rejections or email from KDP (slots 3 to 5 are the title-name experiment; fallbacks above), category placement and ranks.
+
+## On sale and re-uploaded (2026-10-02, later)
+
+Vol.1 went on sale; the user then re-uploaded the new EPUB (humanize pass, Nakamura/Ch.9/wordplay corrections, BBC-sourced Ch.1 opening). Price stays $5.99. To check after KDP finishes processing the new version (up to about 72 hours): that the live sample shows the Ch.1 "Party Poppers at the Ready" opening and the Asics bio; first three lines of the description and formatting (logged-out); keyword or category notices from KDP; whether sales or KENP move around the Nobel announcement (about 10/8).

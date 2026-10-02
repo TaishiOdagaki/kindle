@@ -61,3 +61,7 @@ Whole-book tic pass done on `vol2-manuscript.md` (em dashes 27 to 12, tic words 
 ## Vol.1 humanize pass (2026-10-02, evening)
 
 Whole-book pass applied to `vol1-manuscript.md` (em dashes 35 to 11, tic words 30 to 0, "worth ..." 17 to 0). Also corrected three content problems found while editing (Nakamura paraphrase, Ch.9 vs Ch.4 Oe contradiction, "disowned"). The published Vol.1 EPUB does NOT yet include these; a rebuild (only when the user asks) and a KDP "Edit eBook Content" re-upload are needed.
+
+## Status (2026-10-02, later)
+
+Vol.1: on sale, new EPUB re-uploaded, $5.99, KDP Select. Vol.2: EPUB built (`Murakami, Everywhere.epub`), cover chosen (`vol2-cover.jpg`), description ready; to submit on or after Sunday 2026-10-04 9:00 JST (weekly new-title limit resets). Vol.2 price still to confirm ($5.99 vs $4.99).
