@@ -55,3 +55,28 @@ well under $0.01) ≈ **$4.19 per sale**. For reference the anime companion book
 the 9/4–10/2 window. Vol.1 manuscript is ~9,000 words, a short read, so $5.99 is on the high side; price is changeable any time
 (takes effect within ~72h). Revisit if no sales by the end of Nobel week (~10/8–10/15).
 Ads break-even for reference: required click-to-purchase rate = CPC ÷ royalty ≈ $0.75 ÷ $4.19 ≈ 18% (still not a profitable ad target).
+
+## Keyword slots 6-7: final decision (2026-10-02)
+
+The user's own draft had `kafka on the shore dance dance dance` (6) and `the wind-Up bird chronicle` (7). Those works are not discussed in
+Vol.1 (0 mentions; they are in Vol.2), so they risk a KDP relevance rejection and mislead shoppers. User agreed to use the proposed
+replacements instead, so the final Vol.1 list is:
+
+1. japanese novels literature novelist author
+2. nobel prize literature award
+3. norwegian wood wild sheep chase
+4. hear the wind sing pinball 1973
+5. hard-boiled wonderland end of the world
+6. criticism analysis essays translation meaning
+7. contemporary modern postwar fiction explained
+
+Save `kafka on the shore`, `dance dance dance`, `the wind-up bird chronicle`, `1q84` for Vol.2's keyword field (all four are discussed there).
+Slots 3-5 remain the experiment (other works' titles); fallbacks are listed above.
+
+## Source check for the Nobel-night anecdote (Vol.1 Ch.1), 2026-10-02
+
+The user supplied https://store.kinokuniya.co.jp/event/1726982266/ as the source. That domain is blocked from this environment, so its contents
+were not read. A web search suggests Kinokuniya's Shinjuku store runs Murakami "Nobel support fairs" and midnight release events, which is
+consistent with the bookshop-display part, but nothing opened here confirms the shrine / ~200 fans / party poppers / Ishiguro-win sequence.
+Open item: user to check the page (or the original 2017 press report) and report what it says; then correct the footnote [^fans] and
+Sources entry in `vol1-manuscript.md` if needed.
