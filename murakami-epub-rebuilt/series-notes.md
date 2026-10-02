@@ -69,3 +69,7 @@ Vol.1: on sale, new EPUB re-uploaded, $5.99, KDP Select. Vol.2: EPUB built (`Mur
 ## Pricing and ads (2026-10-02, later)
 
 Price rule for the whole Murakami series: $5.99 per volume. Ads for Vol.1: undecided; the break-even math (CPC divided by a $4.19 royalty means about 18% of clicks must buy at a $0.75 CPC), this account's record on bare-name exact-match keywords (impressions, under 5% top-of-search share, zero conversions on the anime books) and the zero-review state all argue against paid ads for now. Ideas on the table instead: link Vol.1 and Vol.2 as a KDP series, and watch organic placement for the first 72 hours and through Nobel week.
+
+## Vol.3 status snapshot (2026-10-02, later)
+
+`vol3-manuscript.md` copied from the loving-volta branch for work (7,900 words; 8 chapters; old-style front matter with "How to Read" and "The Question"; 30 em dashes, 23 tic words, 31 negations, 4 "worth ..."; one "the user's copy" leak; Ch.4 is titled and written as if the Nobel never comes). To do: front-matter redo, new hook, third persona story (ask the user), whole-book humanize pass, Nobel-dependent text prepared in two versions, description, keywords, categories, cover file, price $5.99, EPUB.
