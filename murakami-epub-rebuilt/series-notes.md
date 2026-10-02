@@ -65,3 +65,7 @@ Whole-book pass applied to `vol1-manuscript.md` (em dashes 35 to 11, tic words 3
 ## Status (2026-10-02, later)
 
 Vol.1: on sale, new EPUB re-uploaded, $5.99, KDP Select. Vol.2: EPUB built (`Murakami, Everywhere.epub`), cover chosen (`vol2-cover.jpg`), description ready; to submit on or after Sunday 2026-10-04 9:00 JST (weekly new-title limit resets). Vol.2 price still to confirm ($5.99 vs $4.99).
+
+## Pricing and ads (2026-10-02, later)
+
+Price rule for the whole Murakami series: $5.99 per volume. Ads for Vol.1: undecided; the break-even math (CPC divided by a $4.19 royalty means about 18% of clicks must buy at a $0.75 CPC), this account's record on bare-name exact-match keywords (impressions, under 5% top-of-search share, zero conversions on the anime books) and the zero-review state all argue against paid ads for now. Ideas on the table instead: link Vol.1 and Vol.2 as a KDP series, and watch organic placement for the first 72 hours and through Nobel week.

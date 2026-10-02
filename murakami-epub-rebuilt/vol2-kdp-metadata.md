@@ -59,3 +59,7 @@ Vol.2 now opens on 1Q84's taxi-radio Sinfonietta line and Japan buying the recor
 - Gigazine item (tweet-to-Murakami-prose tool, 2015-02-17, Frappuccino sample sentence): **confirmed by the user** against the article. Footnote [^tweet] stands.
 - Still open: the Cleveland Orchestra and Sony figures (League of American Orchestras item); the manuscript's "680,000 combined first printing" in Ch.5 and in the description's bold bullet (a search lead says Book 1 alone was raised to 480,000); the user's own observations about note, men's amateur essays, and fans beating AI (user owns these).
 - Japanese translation of the hook was shown to the user for review; no manuscript change requested. EPUB not built yet.
+
+## Price decision (2026-10-02, later)
+
+User: all Murakami books are $5.99 (Vol.1, Vol.2, and Vol.3 when it comes). Vol.2 royalty at 70% is about $4.19 per sale.
