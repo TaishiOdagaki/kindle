@@ -43,3 +43,9 @@ Proposal: same as Vol.1 ($5.99, 70% tier, royalty about $4.19). Vol.2 is shorter
 ## Update (later 2026-10-02)
 
 Author bio changed to the twenty-years-of-jogging story (manuscript and description). Whole-book humanize pass completed: em dashes 12 (list separators only), tic words 0, negations 11. The Kafka email-story verification is still the main open item.
+
+## Cover and hook update (2026-10-02, later)
+
+Cover chosen by the user: `vol2-cover.jpg` (title, subtitle, Tyler Atsumori, Japanese Culture Press; young woman in red over-ear headphones on a station platform). Check the headphones once more: the earlier log says the design was changed to avoid resembling a well-known brand's over-ear headphones; these red over-ear headphones with an oval cup and metal slider could still be read as similar.
+
+The user checked the Shinchosha site and could not find the 8,000-email story, so it is dropped as the hook (the 1,220/8,000 figures came from a search summary only). Replacement hook candidates are being chosen: the Janacek Sinfonietta sales spike after 1Q84 (leads: League of American Orchestras article "New book spurs sales of Cleveland Orchestra CD"; Cleveland Orchestra said about 6,000 orders, Sony said it shipped as many copies as in all the years since the 1990 CD release), the 1Q84 secrecy (leads: CBC and CSMonitor, May 2009: only author and title public; first printing of Book 1 raised from 380,000 to 480,000), the Nomonhan research done in the wrong order (in manuscript, footnote 4), Shiba Ryotaro's abandoned Nomonhan research against the dry well (footnote 5). All search-lead figures need the user's check against an opened source. Also check the manuscript's 680,000 combined first printing against a source (a search lead says Book 1 alone was raised to 480,000).
