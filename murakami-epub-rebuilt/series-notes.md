@@ -81,3 +81,7 @@ Series title decided by the user: **Murakami in Three Acts** (Vol.1 *Murakami, U
 ## Vol.3 bio (2026-10-02, later)
 
 Vol.3 bio now uses the Kyoto-summer-jog and mantra story (see `author-persona-tyler-atsumori`); applied to `vol3-manuscript.md`. The rest of Vol.3's front matter is still the old form.
+
+## Vol.3 hook decision in progress (2026-10-02, later)
+
+User chose the *Drive My Car* hook for Vol.3 but not framed as "little of the original, big success"; the framing should come from director Hamaguchi's own view of the adaptation, per a Brutus article (https://brutus.jp/post-71697/). brutus.jp is blocked from this environment and a search did not surface it, so the hook cannot be written until the user pastes the relevant passages. Search leads (not the Brutus article; unverified): a producer reported Hamaguchi wanting to "dig his own well" and reach the same underground water vein Murakami found; Hamaguchi also reportedly used the methods of Murakami's long novels as a reference (moviewalker.jp articles 1047487 and 1008992; an Osaka University comparative study of the story and the film). Chapter 5 facts already in the manuscript (fn 12): Oscar for Best International Feature at the 94th Academy Awards (2022), Best Picture nomination (first for a Japanese production), Cannes 2021 Best Screenplay.
