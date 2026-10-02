@@ -80,3 +80,5 @@ were not read. A web search suggests Kinokuniya's Shinjuku store runs Murakami "
 consistent with the bookshop-display part, but nothing opened here confirms the shrine / ~200 fans / party poppers / Ishiguro-win sequence.
 Open item: user to check the page (or the original 2017 press report) and report what it says; then correct the footnote [^fans] and
 Sources entry in `vol1-manuscript.md` if needed.
+
+**Resolved later the same day:** the user supplied the BBC News Japan article (2017-10-06), which confirms the shrine / ~200 fans / party poppers / Ishiguro / Kinokuniya-display episode; Ch.1 and footnote [^fans] were rewritten to match it exactly. The 2024 Kinokuniya event page was not needed as a source.
