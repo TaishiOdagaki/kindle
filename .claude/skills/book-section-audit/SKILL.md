@@ -5,6 +5,8 @@ description: Use before presenting or finalizing any reader-facing copy for this
 
 # Book Section Audit (self-review before presenting)
 
+Related skills: `book-opening-design` (how to choose and build a book's opening), `kdp-description-writing`, `kdp-listing-setup` (keywords, categories, price, Select), `author-persona-tyler-atsumori`, `humanize-writing-en`. This skill is the checklist; those hold the design guidance and worked examples.
+
 Why this exists: on 2026-10-02 the user had to ask, section by section, "is this needed? is it interesting?" ("How to Read This Book", then "The Question") and both turned out to be cuttable. Other problems only surfaced on a later close read: Chapter 1 opened with the same "how many times did the prize go to him" framing the user had already rejected in the description; the published text said "the user's copy"; the description said "Volume Two is available now" after Vol.2 failed to save. Run this audit *before* showing a draft, and report its verdicts unprompted.
 
 ## Procedure

@@ -41,3 +41,11 @@ Vol.2 / Vol.3: same two running-and-puddle sentences; keep the closing sentence 
 - Standing process rule: do not rebuild or send an EPUB until the user explicitly asks.
 - No living creator's name in the KDP keyword field; other works' titles in the keyword field are an experiment on Vol.1 only (see `vol1-kdp-metadata.md`).
 - The Akutagawa Prize is awarded to a writer at most once, so avoid "how many times it went to X" framing (fixed in the Vol.1 description; Vol.1 Ch.1 opening still to fix).
+
+## Skills holding the lessons (2026-10-02)
+
+`book-opening-design`, `kdp-description-writing`, `kdp-listing-setup`, `author-persona-tyler-atsumori` (persona facts now live there too), `book-section-audit`, `humanize-writing-en`, all under `.claude/skills/`.
+
+## Status
+
+Vol.1 (*Murakami, Untranslated*) submitted and published to KDP on 2026-10-02, enrolled in KDP Select, $5.99. Vol.2 could not be saved that day (weekly new-title limit; resets Sunday 00:00 UTC = Sunday 9:00 JST) and is still to do: description (same structure as Vol.1, see `vol2-kdp-description.html`, needs the same human-voice and bold pass), categories, keywords (use `kafka on the shore`, `dance dance dance`, `the wind-up bird chronicle`, `1q84`), price, EPUB.

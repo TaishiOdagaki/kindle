@@ -86,3 +86,7 @@ Sources entry in `vol1-manuscript.md` if needed.
 ## Description: AI-assistance sentence removed (2026-10-02)
 
 User decided to drop the sentence disclosing AI assistance from the public KDP description. The disclosure is still to be made in KDP's submission form (the in-form AI-content question; the user should confirm the exact requirement in KDP help). Description file: `vol1-kdp-description.html` (about 3,100 characters with tags).
+
+## Published (2026-10-02)
+
+Vol.1 published to KDP and enrolled in KDP Select. To check after about 72 hours: live page (logged-out) first three lines and formatting, keyword rejections or email from KDP (slots 3 to 5 are the title-name experiment; fallbacks above), category placement and ranks.
