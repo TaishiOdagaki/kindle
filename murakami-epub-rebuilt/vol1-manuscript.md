@@ -6,7 +6,15 @@
 
 ---
 
-In April 1978, a jazz-bar owner named Haruki Murakami watched a batter hit a double at Jingū Stadium and had a thought that surprised him: *I could write a novel.* He'd never written fiction before. This is the story of the voice that decision built, sentence by sentence, and why his own country's most serious literary judges spent years insisting it sounded foreign.
+On the afternoon of April 1, 1978, a jazz-bar owner named Haruki Murakami lay down on the grass of the outfield seats at Jingū Stadium in Tokyo, sipped a cold beer, glanced up at the sky now and then, and watched the Yakult Swallows play at about the speed of a man with nowhere else to be. The Swallows' leadoff batter, Dave Hilton, sent a ball down the left-field line, rounded first, and glided into second base. A double. A perfectly good one, and not remotely historic.
+
+It was at that exact moment, Murakami has written, that the thought arrived: *That's it — I'll try writing a novel.* Something drifted down quietly from the sky, he says, and he caught it.[^hook]
+
+He had never written fiction. That didn't slow him down. Before the day was out he had bought a two-thousand-yen Sailor fountain pen in Shinjuku, and that night he sat down at a stack of manuscript paper. By autumn he had finished his debut novel, *Hear the Wind Sing*. A Yakult fan interviewed by the Tokyo Shimbun, decades later, saw no mystery in any of this: anyone who had watched Hilton play from those outfield seats, he said, shouldn't be surprised if something chemical happened in the heart.
+
+What came out of that chemistry was a short, strange novel that Japan's most serious literary judges would spend years insisting sounded foreign. They weren't entirely wrong. This book is about how it came to sound that way, and why that was the point.
+
+[^hook]: Murakami's own account of the ballpark afternoon appears in his essay collection *Hashiru koto ni tsuite kataru toki ni boku no kataru koto* [走ることについて語るときに僕の語ること] (Tokyo: Bungeishunjū, 2007), as quoted in *Tokyo Shimbun*, May 10, 2024. The details here (the grass seats and cold beer, Hilton's hit and quick run to second, the thought that came "in that instant," the something that "quietly drifted down from the sky") paraphrase that quotation in the author's own words. The two-thousand-yen Sailor fountain pen bought in Shinjuku that day, the start at manuscript paper that night, the autumn completion of *Hear the Wind Sing*, and the Yakult fan's remark come from the same *Tokyo Shimbun* article.
 
 ---
 
@@ -259,6 +267,7 @@ This is the first of three volumes on Murakami's work. This one ends in 1987, at
 This volume draws on Murakami's own novels and essays, on the published jury commentary and criticism of Japan's literary establishment, and on English-language reporting, organized here by chapter. Numbered notes in the text correspond to the sources below; this list also includes works referenced more generally that aren't tied to a single footnote.
 
 **Chapter 1: The Prize He Never Won**
+- Opening: Murakami Haruki, *Hashiru koto ni tsuite kataru toki ni boku no kataru koto* [走ることについて語るときに僕の語ること] (Tokyo: Bungeishunjū, 2007), the Jingū Stadium passage, as quoted in *Tokyo Shimbun*, May 10, 2024 (article on the 1978 Yakult season and Murakami's decision to write).
 - Murakami Haruki, *Hear the Wind Sing* [風の歌を聴け] (Tokyo: Kōdansha, 1979), winner of the 22nd Gunzō Prize for New Writers.
 - Jury remarks (選評) for the 81st and 82nd Akutagawa Prizes (1979, 1980), full text consulted directly via prizesworld.com's archive of the remarks as collected in *Akutagawa-shō Zenshū*, vol. 12 (Bungeishunjū, 1983); Mitsuo Nakamura's 82nd-round remarks on *Pinball, 1973* quoted directly.
 
