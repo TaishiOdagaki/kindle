@@ -93,3 +93,7 @@ Chapter 5 rewritten from the BRUTUS interview with Hamaguchi (brutus.jp/post-716
 ## Vol.3 front matter done (2026-10-02, later)
 
 Vol.3 now opens on the Hamaguchi/*Drive My Car* hook (BRUTUS interview, footnote [^brutus-hook]); "How to Read This Book" and "The Question" removed; five "the user's copy" leaks fixed (footnotes and sources). Still to do: whole-book humanize pass (Vol.3 had 30 em dashes, 23 tic words, 31 negations), the two-version Nobel text (Ch.4 is titled and written as if he never wins), description, keywords, categories, cover file, EPUB. Check that the hook's numbers and Hamaguchi paraphrases match the interview wording.
+
+## Vol.3 Nobel branches prepared (2026-10-02, later)
+
+`murakami-epub-rebuilt/vol3-nobel-branches/` holds `ch4-no-win.md`, `ch4-win.md`, `swap-checklist.md`, and `apply_ch4.py` (replaces Chapter 4 in `vol3-manuscript.md`; refuses to run while any `[[FILL: ...]]` marker remains). The manuscript still carries the old Chapter 4 until the result is known (expected Thursday 2026-10-08 about 20:00 JST; confirm the date). The shared sections (annual ritual, sealed records, betting odds) were rewritten past-tense so they hold on both branches.
