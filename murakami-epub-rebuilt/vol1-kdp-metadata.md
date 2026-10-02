@@ -47,3 +47,11 @@ Also watch: "nobel prize" in slot 2 could be flagged as a trademark; fallback `l
 
 Search Amazon.com for "murakami nobel prize", "murakami criticism", "murakami translation", "murakami wild sheep chase" and see whether the
 book appears. Note that title searches mostly come from people wanting the novels themselves, so conversion may be low.
+
+## Price (decided 2026-10-02)
+
+User set **$5.99** (Amazon.com, 70% royalty tier, which covers $2.99–$9.99). Royalty ≈ 70% × ($5.99 − delivery fee; a ~44 KB file costs
+well under $0.01) ≈ **$4.19 per sale**. For reference the anime companion books are $2.99 (≈$2.01/sale) and had 0 paid orders in
+the 9/4–10/2 window. Vol.1 manuscript is ~9,000 words, a short read, so $5.99 is on the high side; price is changeable any time
+(takes effect within ~72h). Revisit if no sales by the end of Nobel week (~10/8–10/15).
+Ads break-even for reference: required click-to-purchase rate = CPC ÷ royalty ≈ $0.75 ÷ $4.19 ≈ 18% (still not a profitable ad target).
