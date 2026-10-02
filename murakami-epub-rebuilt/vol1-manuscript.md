@@ -6,13 +6,13 @@
 
 ---
 
-On the afternoon of April 1, 1978, a jazz-bar owner named Haruki Murakami lay down on the grass of the outfield seats at Jingū Stadium in Tokyo, sipped a cold beer, glanced up at the sky now and then, and watched the Yakult Swallows play at about the speed of a man with nowhere else to be. The Swallows' leadoff batter, a Texan named Dave Hilton, sent a ball down the left-field line, rounded first, and glided into second base. A double. A perfectly good one, and not remotely historic.
+On the afternoon of April 1, 1978, a jazz-bar owner named Haruki Murakami lay down on the grass of the outfield seats at Jingū Stadium in Tokyo with a cold beer. He watched the Yakult Swallows play at about the speed of a man with nowhere else to be, glancing up at the sky now and then. The Swallows' leadoff batter, a Texan named Dave Hilton, sent a ball down the left-field line and reached second base easily. A double. A perfectly good one, and not remotely historic.
 
-It was at that exact moment, Murakami has written, that the thought arrived: *That's it — I'll try writing a novel.* Something drifted down quietly from the sky, he says, and he caught it.[^hook]
+It was at that exact moment, Murakami has written, that the thought arrived: *That's it, I'll try writing a novel.* Something drifted down quietly from the sky, he says, and he caught it.[^hook]
 
 He had never written fiction. That didn't slow him down. Before the day was out he had bought a two-thousand-yen Sailor fountain pen in Shinjuku, and that night he sat down at a stack of manuscript paper. By autumn he had finished his debut novel, *Hear the Wind Sing*. A Yakult fan interviewed by the Tokyo Shimbun, decades later, saw no mystery in any of this: anyone who had watched Hilton play from those outfield seats, he said, shouldn't be surprised if something chemical happened in the heart.
 
-What came out of that chemistry was a short, strange novel that Japan's most serious literary judges would spend years insisting sounded foreign, and, in a detail it is hard to resist, sounded too American, which is a fair complaint to make about a book that began with a Texan's double. They weren't entirely wrong. He built that sound himself, on purpose, years before any translator touched a page.
+What came out of that was a short, strange novel. Within a year, Japan's most serious literary judges were saying it sounded foreign. A few said it sounded too American, which seems fair for a book that started with a Texan's double. They weren't entirely wrong. By Murakami's own account, he built that sound himself, on purpose, before any translator touched a page.
 
 [^hook]: Murakami's own account of the ballpark afternoon appears in his essay collection *Hashiru koto ni tsuite kataru toki ni boku no kataru koto* [走ることについて語るときに僕の語ること] (Tokyo: Bungeishunjū, 2007), as quoted in *Tokyo Shimbun*, May 10, 2024. The details here (the grass seats and cold beer, Hilton's hit and quick run to second, the thought that came "in that instant," the something that "quietly drifted down from the sky") paraphrase that quotation in the author's own words. The two-thousand-yen Sailor fountain pen bought in Shinjuku that day, the start at manuscript paper that night, the autumn completion of *Hear the Wind Sing*, and the Yakult fan's remark come from the same *Tokyo Shimbun* article.
 
@@ -20,7 +20,7 @@ What came out of that chemistry was a short, strange novel that Japan's most ser
 
 ## About the Author
 
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region. Every morning he goes for a run with Murakami's novels playing in his ears, in Japanese, on audiobook, listening again and again for the rhythm of the sentences. Sometimes he listens harder than he runs, and has put a brand-new, much-loved pair of Asics straight into a puddle. His research draws on Japanese-language sources most English-language criticism never reaches: literary-magazine criticism, prize-jury commentary, and Murakami's own essays.
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, studied modern and contemporary Japanese literature at a university in the Kansai region, and reads the Japanese-language criticism and prize-jury remarks that English-language writing on Murakami tends to skip. Every morning he goes for a run with Murakami's novels playing in his ears, in Japanese, on audiobook, listening again and again for the rhythm of the sentences. Sometimes he listens harder than he runs, and has put a brand-new, much-loved pair of Asics straight into a puddle.
 
 ---
 
@@ -30,7 +30,7 @@ Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese
 
 On the night of the 2017 Nobel announcement, about two hundred Haruki Murakami fans packed into a Tokyo shrine to watch the livestream. They had brought party poppers. The prize went to Kazuo Ishiguro. A sigh rolled through the room, and then, after a beat, polite applause. Elsewhere in the city, the flagship Kinokuniya bookstore, which had set out a display of more than thirty Murakami titles, took the whole thing down and put out its handful of Ishiguro copies instead.[^fans]
 
-That is what being loved looks like: strangers in a shrine, party poppers in hand, clapping politely for someone else. Nobody throws a watch party for a writer people merely respect. It is easy to assume that devotion was there from the start. It wasn't. In 1979 and 1980, his first two novels were both nominated for the Akutagawa Prize, Japan's top award for new writers, and both times the jury passed.
+Those are the fans. The first judges to read him were less excited. In 1979 and 1980, his first two novels were both nominated for the Akutagawa Prize, Japan's top award for new writers, and both times the jury passed.
 
 **One Prize Won, One Prize Denied Twice**
 
