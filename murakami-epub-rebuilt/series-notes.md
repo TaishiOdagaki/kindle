@@ -49,3 +49,7 @@ Vol.2 / Vol.3: same two running-and-puddle sentences; keep the closing sentence 
 ## Status
 
 Vol.1 (*Murakami, Untranslated*) submitted and published to KDP on 2026-10-02, enrolled in KDP Select, $5.99. Vol.2 could not be saved that day (weekly new-title limit; resets Sunday 00:00 UTC = Sunday 9:00 JST) and is still to do: description (same structure as Vol.1, see `vol2-kdp-description.html`, needs the same human-voice and bold pass), categories, keywords (use `kafka on the shore`, `dance dance dance`, `the wind-up bird chronicle`, `1q84`), price, EPUB.
+
+## Vol.2 status (2026-10-02, evening)
+
+Manuscript opening reworked, description and metadata plan written (`vol2-manuscript.md`, `vol2-kdp-description.html`, `vol2-kdp-metadata.md`). Stopped before the EPUB build, per the standing rule. Blocking items: verify the Kafka email story and its figures; cover file; price decision; weekly new-title limit resets Sunday 00:00 UTC.
