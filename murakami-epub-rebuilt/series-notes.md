@@ -105,3 +105,7 @@ Chapters 1-3, 5-8 cleaned (em dashes 0 outside glossary/sources, tic words and "
 ## Vol.3 description and metadata drafted (2026-10-02, later)
 
 `vol3-kdp-description.html` (result-neutral, Hamaguchi opening, five bold spots at most) and `vol3-kdp-metadata.md` (categories, keywords with fallbacks, price $5.99, series Murakami in Three Acts vol.3, hold-until-result note) are written. Open: Nobel swap on 2026-10-08, cover file, EPUB (only when asked).
+
+## Vol.3 reorder and trims (2026-10-02, later)
+
+New order: 1 Three Stories and a Red Car (was 5), 2 The Return to Realism, Again (was 1), 3 Painting Over the Past (was 2, cut from about 2,000 to about 1,500 words including footnotes, Nanjing passage first), 4 The Nobel Bet (unchanged, still swapped by `apply_ch4.py`), 5 The Book He Went Back to Finish, Twice (was 3), 6-8 unchanged. Cross-references, glossary and Sources renumbered; the Drive My Car chapter no longer repeats the hook. Book is now about 7,770 words (was 8,320). Still planned: merge Chapters 7 and 8 together with the Nobel swap.
