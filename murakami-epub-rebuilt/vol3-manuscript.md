@@ -147,21 +147,46 @@ None of which means the underlying question, why hasn't he won, isn't worth aski
 
 ---
 
-## CHAPTER 5: THE ADAPTATION THAT WENT FURTHER THAN THE OSCARS EVER HAD
+## CHAPTER 5: THREE STORIES AND A RED CAR
 
-**An Adaptation That Outran Its Source**
+**An Oscar for a Short Story**
 
-The single biggest jump in Murakami's international visibility this century didn't come from a novel at all. It came from a three-hour film based on one short story from his 2014 collection *Men Without Women* (女のいない男たち). *Drive My Car*, directed by Ryūsuke Hamaguchi and co-written with Takamasa Oe, premiered in 2021 and went on to a run at the 94th Academy Awards that no Japanese film had ever managed before it: nominations for Best Picture and Best International Feature Film, the first time a Japanese production had ever been nominated for Best Picture, alongside nods for Best Director and Best Adapted Screenplay. It won Best International Feature outright, becoming only the second Japanese film to do so competitively, after *Departures* in 2009. Months earlier, at Cannes, it had already taken the festival's Best Screenplay award, making Hamaguchi and Oe the first Japanese winners of that prize in the festival's history.[^12]
+The biggest jump in Murakami's international visibility this century did not come from a novel. It came from a three-hour film based on stories from his 2014 collection *Men Without Women* (女のいない男たち). *Drive My Car*, directed by Ryūsuke Hamaguchi and co-written with Takamasa Oe, premiered in 2021 and went on to a run at the 94th Academy Awards that no Japanese film had managed before: nominations for Best Picture and Best International Feature Film, the first time a Japanese production had been nominated for Best Picture, along with nods for Best Director and Best Adapted Screenplay. It won Best International Feature, only the second Japanese film to do so competitively, after *Departures* in 2009. Months earlier, at Cannes, it had won the festival's Best Screenplay prize, the first time a Japanese screenwriter had won it.[^12]
 
-**How Much of the Film Isn't Murakami's At All**
+**A Story He Had Carried Since His Thirties**
 
-What makes the film worth a chapter of its own, rather than a footnote to Murakami's growing international footprint, is how much of it isn't Murakami's at all. Hamaguchi and Oe didn't simply film the short story; they built an entire additional layer around it, a subplot following the stage production of Chekhov's *Uncle Vanya* that barely exists in the source material, full backstories and interconnections for supporting characters who are comparatively minor in Murakami's own prose, and specific plot details changed outright. In the original story, a key character's mother dies in a driving accident; in the film, she dies in a landslide. This isn't a faithful, illustrated version of a Murakami text. It's a substantially independent piece of filmmaking that used one of his shorter, more contained stories as a foundation and then built something considerably larger and more structurally ambitious on top of it, in a medium and by a director entirely outside Murakami's own control.
+Hamaguchi first read "Drive My Car" in his mid-thirties, in its original magazine appearance in *Bungeishunjū*, on someone's recommendation.[^brutus] What struck him was how close it ran to his own work: a story about acting, told largely through conversations in a car. Filming Murakami felt unrealistic to him then, he says, but he remembers thinking that this might be one he could approach.
+
+**Why Three Stories**
+
+Filmed as written, the story would not have given a feature-length audience a clear resolution, Hamaguchi says, and that would have been frustrating. He found the answer in the same collection. Rereading *Men Without Women*, he realized that "Kino" already held it. The bar where "Kino" takes place even appears in "Drive My Car." Hamaguchi read "Kino" as the place where something had changed in Murakami himself while he wrote the collection, and made it the place where his protagonist, Kafuku, ends up.
+
+"Scheherazade" did other work. It fills out Kafuku's wife, and it supplied what she leaves behind: stories, tied up with sex, that the younger actor Takatsuki carries.
+
+There was a larger reason too. "Drive My Car" suits a film without an enormous budget because only real things happen in it. But Murakami's pull, in the long novels especially, is the feeling of digging like a well down through reality to a world underneath. "Scheherazade" and "Kino" carry some of that, and borrowing their motifs was a way to move closer to the world of the novels. By the time Hamaguchi wrote to ask Murakami's permission, he says, the film's structure was already close to the one that reached the screen.
+
+**What Was Already in the Story**
+
+The Chekhov was not an addition. In Murakami's story Kafuku is an actor who plays Vanya in *Uncle Vanya*, and the story already ties Kafuku to Vanya, and the young driver Misaki to Vanya's niece Sonya. Hamaguchi points to Sonya's lament about being born so plain, which Misaki takes as her own, and to Vanya's arithmetic of the years he still has to live if he dies at sixty, which Kafuku hears as his. The film widened what the story had planted.
+
+Misaki grew for another reason. Hamaguchi calls her one of the most attractive characters Murakami has written, and wanting to keep her mystery intact led him to what he does with every actor: writing the character a backstory. That backstory swelled, and on revision it flowed back into the film itself. One influence he names is a book Volume Two of this series has already used, *Murakami Haruki, Kawai Hayao ni Ai ni Iku*, the dialogues in which Murakami and the psychologist Hayao Kawai talk about stories as never cleanly separate from reality, a shape in which repressed material from the unconscious appears.
+
+**Small Changes, Large Reasons**
+
+The smaller changes had reasons too. Kafuku's yellow Saab 900 convertible became a red Saab 900 Turbo with a sunroof, because the landscape is mostly green and red stands out against it. In the story Kafuku sits in the passenger seat. In the film he sits mostly in the back, because a passenger in the back is less in the driver's line of sight and so more at ease, and the passenger seat, which suggests a closer relationship, could be saved for later. One plot detail changed outright: in the story a key character's mother dies in a driving accident, and in the film she dies in a landslide.
+
+**The Speech He Left Alone**
+
+One passage hardly changed. In the long speech where Takatsuki tells Kafuku that anyone who truly wants to see another person has no choice but to look deeply and straight at himself, the film follows the story almost word for word. It was the part that stayed clearest for Hamaguchi when he first read it. In the story, Kafuku hears the words as rising from some deep, special place in Takatsuki, and Hamaguchi thinks Murakami wrote them by diving to a place like that himself. The words carry an unclouded ring, he says, and a line like that works on the actor who has to say it. He gives the credit to Masaki Okada, who plays Takatsuki. The film moves the speech from a bar to the car, so that Misaki hears it too, as the ending requires, and so that it sits with the title.
+
+**What He Left Out on Purpose**
+
+Asked what makes Murakami hard to film, Hamaguchi points to the otherworldly parts, and says he began by removing the ones he found difficult. The trouble is that Murakami's prose has a realism of description that makes you believe something that does not exist surely does. Adding fantasy to the screen, he says, will never reach the strength of conviction that it is all happening inside our own hearts.
+
+So the film that won the Oscar is a version of Murakami's realist side, with some of the depth borrowed back from two other stories. In a volume about a writer who keeps returning to the same walled town, it shows what a careful reader could carry out of Murakami's world and what he chose to leave behind.
 
 [^12]: *Drive My Car* was nominated for Best Picture, Best International Feature Film, Best Director, and Best Adapted Screenplay at the 94th Academy Awards (2022), winning Best International Feature; it was the first Japanese production nominated for Best Picture and only the second Japanese film to win Best International Feature competitively, after *Departures* (2009). At the 2021 Cannes Film Festival it won the Best Screenplay prize, the first time a Japanese screenwriter had won that award.
-
-**What the Liberties Say About His Reputation**
-
-That distinction matters for what it says about the nature of Murakami's international reach by this point in his career. His name and his prose style built the reputation this whole series has traced. But the single most decorated, most internationally celebrated adaptation of any of his work, one that reached Oscar and Cannes audiences who may never read a word of his actual fiction, was made by someone else entirely, working loosely enough from the source material to essentially write his own new story out of Murakami's smaller one. The writer who spent his own early career being told his prose imitated other people's work too closely had, by 2022, become raw material other artists were confident enough to substantially rework into something of their own; that a Japanese filmmaker could take those liberties with a Murakami story and be rewarded for it at the highest level international cinema offers says as much about how secure Murakami's reputation had become as any sales figure in this series could.
+[^brutus]: *BRUTUS* (brutus.jp), 「『ドライブ・マイ・カー』映画監督・濱口竜介にインタビュー。村上春樹の小説を映画化する時に最も困難なこと」 ("Interview with *Drive My Car* director Ryūsuke Hamaguchi: the hardest thing about adapting a Murakami novel"), February 25, 2022. Hamaguchi's statements in this chapter are paraphrased from that interview.
 
 ---
 
@@ -220,7 +245,7 @@ English-language readers who fell for the flat, displaced voice of the translate
 - **Zaitokukai (在特会)** — A real, documented Japanese ultranationalist organization whose name translates roughly to "citizens against special privileges for [ethnic] Koreans in Japan," centered on anti-Korean-resident rhetoric. Its former leader publicly criticized *Killing Commendatore*'s Nanjing passage. See Chapter 2.
 - **The 50-year rule** — The Nobel Prize's own policy of sealing nomination records for fifty years, meaning no public, official confirmation exists of whether a living author (Murakami included) has ever actually been nominated. See Chapter 4.
 - **The Haruki Murakami Library** — The public name paired with Waseda University's International House of Literature, holding Murakami's own donated manuscripts and archives and hosting ongoing academic programming. See Chapter 6.
-- **Drive My Car** — Ryūsuke Hamaguchi's 2021 film, adapted loosely from a short story in *Men Without Women*, and the first Japanese production ever nominated for the Best Picture Oscar (also nominated for and winning Best International Feature, only the second Japanese film to do so competitively), alongside the first Best Screenplay win for a Japanese writer in Cannes's history. See Chapter 5.
+- **Drive My Car** — Ryūsuke Hamaguchi's 2021 film, adapted from three short stories in *Men Without Women* ("Drive My Car," "Scheherazade," and "Kino"), and the first Japanese production ever nominated for the Best Picture Oscar (also nominated for and winning Best International Feature, only the second Japanese film to do so competitively), alongside the first Best Screenplay win for a Japanese writer in Cannes's history. See Chapter 5.
 
 ## A NOTE ON THIS SERIES
 
@@ -257,10 +282,11 @@ This volume draws on Murakami's own novels, on Japanese and English-language new
 - Nippon.com, "Champions and Candidates: Japan and the Nobel Prize in Literature," on Kōbō Abe's standing as a Nobel contender at the time of his death in 1993.
 - Contemporary press coverage of Ladbrokes' Nobel Prize in Literature odds on Murakami across multiple years, including *Time* (2014) and reporting on the 2024 and 2025 betting markets, cited for the actual range those odds have covered.
 
-**Chapter 5: The Adaptation That Went Further Than the Oscars Ever Had**
+**Chapter 5: Three Stories and a Red Car**
 - Murakami Haruki, *Men Without Women* [女のいない男たち] (Tokyo: Bungeishunjū, 2014), source collection for *Drive My Car*.
 - Academy of Motion Picture Arts and Sciences, official record of 94th Academy Awards nominees and winners (2022).
 - Festival de Cannes, official 2021 awards record.
+- *BRUTUS* (brutus.jp), interview with Ryūsuke Hamaguchi on adapting *Drive My Car*, February 25, 2022.
 
 **Chapter 6: Murakami Studies, Abroad**
 - Waseda University International House of Literature (Haruki Murakami Library), public institutional information.
