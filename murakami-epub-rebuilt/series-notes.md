@@ -101,3 +101,7 @@ Vol.3 now opens on the Hamaguchi/*Drive My Car* hook (BRUTUS interview, footnote
 ## Vol.3 humanize pass done outside Ch.4 (2026-10-02, later)
 
 Chapters 1-3, 5-8 cleaned (em dashes 0 outside glossary/sources, tic words and "worth ..." gone). Chapter 4 is replaced on the Nobel branch (new text then needs its own pass). Remaining for Vol.3: Ch.4 swap on 2026-10-08, Ch.7/Ch.8/back-matter Nobel wording, description, keywords, categories, cover file, EPUB (only when asked).
+
+## Vol.3 description and metadata drafted (2026-10-02, later)
+
+`vol3-kdp-description.html` (result-neutral, Hamaguchi opening, five bold spots at most) and `vol3-kdp-metadata.md` (categories, keywords with fallbacks, price $5.99, series Murakami in Three Acts vol.3, hold-until-result note) are written. Open: Nobel swap on 2026-10-08, cover file, EPUB (only when asked).
