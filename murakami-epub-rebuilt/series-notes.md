@@ -77,3 +77,7 @@ Price rule for the whole Murakami series: $5.99 per volume. Ads for Vol.1: undec
 ## KDP series name (2026-10-02, later)
 
 Series title decided by the user: **Murakami in Three Acts** (Vol.1 *Murakami, Untranslated*; Vol.2 *Murakami, Everywhere*; Vol.3 *Murakami, Unfinished*). Set the series in KDP when submitting Vol.2 (after Sunday 2026-10-04 9:00 JST) and attach Vol.1 to it. The text already uses the "act" language (Vol.1 Ch.9 speaks of the end of Act One).
+
+## Vol.3 bio (2026-10-02, later)
+
+Vol.3 bio now uses the Kyoto-summer-jog and mantra story (see `author-persona-tyler-atsumori`); applied to `vol3-manuscript.md`. The rest of Vol.3's front matter is still the old form.

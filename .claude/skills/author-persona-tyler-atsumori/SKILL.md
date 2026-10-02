@@ -27,6 +27,16 @@ Bio wording in use (Vol.2): "He took up running after reading Murakami's *What I
 
 So each volume gets its own running story, consistent with the same runner: Vol.1 audiobooks-and-Asics; Vol.2 twenty years of jogging and the question about pace and not walking. Vol.3: ask the user for a third story rather than inventing one.
 
+## Vol.3 story (user-supplied 2026-10-02)
+
+User's wording (Japanese): 日課であるモーニング・ジョグは、温暖化が進む近年の京都の夏において熾烈なものとなる（京都は山に囲まれた盆地であるため、湿度の高さは日本でも有数のものとされる）。心肺機能の限界に達した時、彼はお気に入りのマントラをとなえる。「Pain is inevitable, Suffering is optional.」
+
+The mantra comes from Murakami's *What I Talk About When I Talk About Running*: Murakami says he read it in a newspaper feature (the International Herald Tribune) on marathon runners' mantras; the runner had it from his older brother. Do not reproduce the long passage in the book; the short phrase and the attribution suffice.
+
+Bio wording in use (Vol.3): "His morning jog is serious business in Kyoto, where summers keep getting hotter and the humidity in the mountain-ringed basin is said to be among the highest in Japan. When his lungs reach their limit, he repeats a mantra Murakami once borrowed from a newspaper article on marathon runners: "Pain is inevitable. Suffering is optional."" The bio ends on the mantra. The Kyoto humidity claim is the user's, hedged with "is said to be."
+
+Running thread across the series: Vol.1 audiobooks and the Asics in a puddle; Vol.2 twenty years of jogging and the question about pace and not walking; Vol.3 Kyoto summer heat and the mantra. Keep the same runner and do not contradict earlier volumes.
+
 ## Rules for reuse
 
 - Keep the running motif consistent across volumes, but each volume may carry its own story (see Vol.2 above). Do not invent new anecdotes about the author; ask the user.
@@ -45,3 +55,4 @@ So each volume gets its own running story, consistent with the same runner: Vol.
 
 - **2026-10-02.** Detail supplied by the user and applied to Vol.1's manuscript bio and KDP description; recorded in `murakami-epub-rebuilt/series-notes.md` too.
 - **2026-10-02 (later).** User supplied a different story for Vol.2 (twenty years of jogging inspired by *What I Talk About When I Talk About Running*); applied to `vol2-manuscript.md` and `vol2-kdp-description.html`.
+- **2026-10-02 (later).** User supplied the Vol.3 story (Kyoto summer jog, the "Pain is inevitable, Suffering is optional" mantra); applied to `vol3-manuscript.md`.

@@ -12,7 +12,7 @@ A single sentence about the Nanjing Massacre cost him real goodwill at home, and
 
 ## About the Author
 
-Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, and studied modern and contemporary Japanese literature at a university in the Kansai region before continuing an ongoing research focus on Murakami's fiction specifically. This volume, like the first two, draws directly on Japanese-language sources most English-language criticism doesn't reach: literary criticism, contemporary news coverage of the events discussed, and Murakami's own public statements, read the way they were actually written, alongside the English-language reception more familiar to this book's readers.
+Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese father, studied modern and contemporary Japanese literature at a university in the Kansai region, and reads the Japanese-language criticism and recent scholarship that English-language writing on Murakami tends to skip. His morning jog is serious business in Kyoto, where summers keep getting hotter and the humidity in the mountain-ringed basin is said to be among the highest in Japan. When his lungs reach their limit, he repeats a mantra Murakami once borrowed from a newspaper article on marathon runners: "Pain is inevitable. Suffering is optional."
 
 ---
 
