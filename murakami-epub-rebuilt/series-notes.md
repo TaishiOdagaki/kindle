@@ -36,7 +36,8 @@ Vol.2 / Vol.3: same two running-and-puddle sentences; keep the closing sentence 
 
 ## Other series decisions
 
-- Front matter order: unheaded hook (Jingū Stadium scene in Vol.1, from *Tokyo Shimbun* 2024-05-10) -> About the Author -> How to Read This Book -> The Question -> chapters.
+- Front matter order (Vol.1, as of 2026-10-02): unheaded hook (Jingū Stadium scene, from *Tokyo Shimbun* 2024-05-10) -> About the Author (with the running/Asics detail) -> The Question (opens with a one-line "works whether or not you've read him" audience sentence) -> chapters. "How to Read This Book" was removed: its three points (audience, premise, "not a ranked list") were duplicated by the hook, the Question, and Ch.1, and it cost ~140 words of the free sample. Consider the same cut for Vol.2/Vol.3.
+- Vol.1 Ch.1 now opens with the 2017 Nobel-night anecdote (about 200 "Harukists" with party poppers at a Tokyo shrine, Ishiguro wins, Kinokuniya swaps its 30+ title Murakami display), then pivots to the two Akutagawa nominations. **Source not yet verified first-hand**: details came from web-search summaries of a press report (reprinted in the Sunday Times, Sri Lanka, 2017-10-08); the pages themselves were not openable. Verify against the original (likely AFP) and correct the footnote [^fans] / Sources entry if the attribution or details differ. Chapter 1's title is still "The Prize He Never Won" (sub-heading changed to "Party Poppers at the Ready").
 - Standing process rule: do not rebuild or send an EPUB until the user explicitly asks.
 - No living creator's name in the KDP keyword field; other works' titles in the keyword field are an experiment on Vol.1 only (see `vol1-kdp-metadata.md`).
 - The Akutagawa Prize is awarded to a writer at most once, so avoid "how many times it went to X" framing (fixed in the Vol.1 description; Vol.1 Ch.1 opening still to fix).

@@ -24,15 +24,9 @@ Tyler Atsumori was born and raised in Kyoto to an American mother and a Japanese
 
 ---
 
-## How to Read This Book
-
-A note on who this is for: readers who already love Murakami and want the argument underneath the reputation, and readers who've never read a word of him and just want to know what the fuss is actually about. Either one works. Start here.
-
-Within a year of that afternoon at the ballpark, Murakami had written *Hear the Wind Sing*, and Japan's own literary establishment told him, in print, that his prose read like something in translation. This book is an attempt to find out whether they were right, why, and what that actually meant for the writer he became. It isn't a ranked list of which Murakami novel to read first — plenty of other guides already do that. It's a close look at how one particular voice got built.
-
----
-
 ## THE QUESTION THIS WHOLE BOOK IS TRYING TO ANSWER
+
+Whether you love Murakami or have never read a word of him, this book works the same way. Here is the question it follows.
 
 Here's the question this volume keeps circling back to: is the flat, understated, faintly foreign-sounding "Murakami voice" that English-language readers know something his translators built, or something Murakami built into the Japanese himself, on purpose, as a way of refusing to sound fully Japanese at all? Short answer, worked out over the next nine chapters: he built it. Deliberately. Years before a translator ever touched a page. By the time you reach the verdict chapter, you should have everything you need to argue with that answer yourself. That's the point.
 
@@ -40,9 +34,11 @@ Here's the question this volume keeps circling back to: is the flat, understated
 
 ## CHAPTER 1: THE PRIZE HE NEVER WON
 
-**A Career That Wasn't Decorated From the Start**
+**Party Poppers at the Ready**
 
-Zero. That's how many times Japan's most prestigious literary prize ever went to Haruki Murakami, across two separate nominations, at the very start of a career that would go on to sell in the millions of copies, in dozens of languages, with his own name now functioning as something close to a synonym for "contemporary Japanese literature" itself. It's easy to assume a career like that was decorated from the beginning. It wasn't.
+On the night of the 2017 Nobel announcement, about two hundred Haruki Murakami fans packed into a Tokyo shrine to watch the livestream. They had brought party poppers. The prize went to Kazuo Ishiguro. A sigh rolled through the room, and then, after a beat, polite applause. Elsewhere in the city, the flagship Kinokuniya bookstore, which had set out a display of more than thirty Murakami titles, took the whole thing down and put out its handful of Ishiguro copies instead.[^fans]
+
+That is what being loved looks like: strangers in a shrine, party poppers in hand, clapping politely for someone else. Nobody throws a watch party for a writer people merely respect. It is easy to assume that devotion was there from the start. It wasn't. In 1979 and 1980, his first two novels were both nominated for the Akutagawa Prize, Japan's top award for new writers, and both times the jury passed.
 
 **One Prize Won, One Prize Denied Twice**
 
@@ -54,6 +50,7 @@ The following year, his second novel, *Pinball, 1973* (1973年のピンボール
 
 It's worth sitting with how strange that specific complaint looks in hindsight. The jury wasn't wrong about what they were hearing. They just read it as a flaw instead of a method. As later chapters in this book will get into in some detail, they were reacting to something closer to a genuine technique than they realized: prose that had, in a very literal sense, been passed through English on its way to the page. What Japan's most influential literary prize committee flagged as a young writer's failure to sound sufficiently like himself turned out, decades later, to be one of the more accurate readings anyone gave *Hear the Wind Sing* on its first pass. They just didn't mean it as praise, and Murakami didn't win.
 
+[^fans]: Press accounts of the night of October 5, 2017, when the Nobel Prize in Literature went to Kazuo Ishiguro, including a report reprinted in the *Sunday Times* (Sri Lanka), October 8, 2017: about two hundred fans ("Harukists") gathered at a Tokyo shrine with party poppers to watch the announcement, and the flagship Kinokuniya bookstore in Tokyo replaced its Murakami display of more than thirty titles with Ishiguro's books.
 [^1]: *Hear the Wind Sing* won the 22nd Gunzō Prize for New Writers (群像新人文学賞), announced in the June 1979 issue of *Gunzō*, decided unanimously by that year's five-member selection committee. It was submitted under the working title "Happy Birthday, and White Christmas" before *Gunzō*'s editors requested the title be changed.
 [^2]: Mitsuo Nakamura, jury remarks (選評) for the 82nd Akutagawa Prize (1980), on *Pinball, 1973*: 「ひとりでハイカラぶってふざけてゐる青年を、彼と同じやうに、いい気で安易な筆づかひで描いても、彼の内面の挙止は一向に伝達されません。現代のアメリカ化した風俗を風俗しか見えぬ浅薄な眼で捕へてゐては、文学は生れ得ない、才能はある人らしいが惜しいことだと思ひます。」 English rendering: "Even if one portrays a young man who plays the fool, putting on fashionable airs all by himself, with the same complacent, facile touch that he himself has, nothing of his inner bearing is communicated at all. If one captures today's Americanized manners with a shallow eye that sees only manners, literature cannot be born. He seems to be a person of talent, which makes it a pity, I think."
 
@@ -265,6 +262,7 @@ This is the first of three volumes on Murakami's work. This one ends in 1987, at
 This volume draws on Murakami's own novels and essays, on the published jury commentary and criticism of Japan's literary establishment, and on English-language reporting, organized here by chapter. Numbered notes in the text correspond to the sources below; this list also includes works referenced more generally that aren't tied to a single footnote.
 
 **Chapter 1: The Prize He Never Won**
+- Press coverage of the October 5, 2017 Nobel Prize in Literature announcement, including a report reprinted in the *Sunday Times* (Sri Lanka), October 8, 2017 (Murakami fans at a Tokyo shrine; Kinokuniya display).
 - Opening: Murakami Haruki, *Hashiru koto ni tsuite kataru toki ni boku no kataru koto* [走ることについて語るときに僕の語ること] (Tokyo: Bungeishunjū, 2007), the Jingū Stadium passage, as quoted in *Tokyo Shimbun*, May 10, 2024 (article on the 1978 Yakult season and Murakami's decision to write).
 - Murakami Haruki, *Hear the Wind Sing* [風の歌を聴け] (Tokyo: Kōdansha, 1979), winner of the 22nd Gunzō Prize for New Writers.
 - Jury remarks (選評) for the 81st and 82nd Akutagawa Prizes (1979, 1980), full text consulted directly via prizesworld.com's archive of the remarks as collected in *Akutagawa-shō Zenshū*, vol. 12 (Bungeishunjū, 1983); Mitsuo Nakamura's 82nd-round remarks on *Pinball, 1973* quoted directly.
