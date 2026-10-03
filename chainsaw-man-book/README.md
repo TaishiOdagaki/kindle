@@ -6,6 +6,10 @@ Draft manuscript for a ~14,000-word Kindle companion book of critical analysis o
 2. **A Spoiler Map** (see the back matter) tracking which chapters are safe for anime-only viewers (Season 1 + the *Reze Arc* movie) versus which require having read the completed manga.
 3. **A specific authorial voice** — critical, not purely promotional, written as a Japanese fan who followed the series in near-real time, with untranslated fan terminology (glossed in the back-matter glossary) and blunt opinions where the text calls for them (see Chapter 11, on Part 2's divisive pacing).
 
+## Status (2026-10-03)
+
+**Re-uploaded as a 2nd edition, live on KDP** — the 2026-09-28 interior redesign (chapter-opener images, original charts, front-matter "WHAT'S INSIDE" roadmap; see "Before Publishing" point 4 below) is now the live listing, per the user's confirmation. This is this project's one deliberate, concentrated bet right now: the user has chosen to focus marketing/ad effort on this title alone going forward, rather than spreading it across the series — *Demon Slayer* and *Attack on Titan* are intentionally being left as-is (paused ad campaigns, pre-redesign listing content, no further investment for now). Don't treat those two books' stale state as an oversight if it comes up again; it's a deliberate resource-allocation choice. See `kdp-ads-strategy`'s dated log for the reasoning that led here (the 2nd edition exists specifically to test whether the reviews/trust-driven conversion problem improves once a better-looking listing is actually live, which hadn't been tested as of the 09-28 entries).
+
 ## Files
 
 - `manuscript.md` — full manuscript (~14,000 words, 14 chapters + front/back matter). Source of truth — edit this, then regenerate the EPUB.
