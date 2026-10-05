@@ -2,8 +2,8 @@ id,file,volume,part,title,title_ja,words_target,chars_target_ja,tier,update_sens
 fm0,00-copyright.md,1|2|3,Front,Copyright & Non-Affiliation Notice,奥付・非提携の表示,150,300,A,no,stub,todo,draft,奥付,0
 fm1,01-how-to-read.md,1|2|3,Front,How to Read This Book,本書の読み方,3000,6000,A,no,draft,todo,stub,証拠3階層・版(Version)表記・ネタバレ・3つの読み方,3
 fm2,02-primer.md,1|2|3,Front,Quick Primer (spoiler-free),クイック・プライマー(ネタバレなし),3000,6000,A,yes,stub,todo,stub,新作の扱いは更新対象,2
-c01,10-ch01-1995.md,1,I. Context and Creator,"1995: Japan, the Anime Industry, and Gainax",1995年——日本、アニメ産業、ガイナックス,6000,12000,A,no,stub,todo,stub,,4
-c02,11-ch02-anno.md,1,I. Context and Creator,Hideaki Anno Before Evangelion,庵野秀明——エヴァ以前,6000,12000,B,no,stub,todo,stub,経歴は一次資料で検証,4
+c01,10-ch01-1995.md,1,I. Context and Creator,"1995: Japan, the Anime Industry, and Gainax",1995年——日本、アニメ産業、ガイナックス,6000,12000,A,no,draft,todo,stub,,4
+c02,11-ch02-anno.md,1,I. Context and Creator,Hideaki Anno Before Evangelion,庵野秀明——エヴァ以前,6000,12000,A,no,draft,todo,stub,経歴は一次資料で検証,4
 c03,12-ch03-production.md,1,I. Context and Creator,Making the TV Series,TVシリーズの制作,9000,18000,A,no,stub,todo,stub,制作体制・スケジュール・最終2話の事情,6
 c04,13-ch04-phenomenon.md,1,I. Context and Creator,"The Evangelion Phenomenon in Japan, 1995–1997",エヴァンゲリオン現象——1995〜1997年の日本,6000,12000,B,no,stub,todo,stub,放映中の反響と社会現象,4
 c05,20-ch05-eps-a.md,1,II. The Television Series,Episode Guide: Episodes 1–7,各話ガイド 第1〜7話,9000,18000,A,no,draft,todo,stub,,10

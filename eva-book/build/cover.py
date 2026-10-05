@@ -39,6 +39,7 @@ def draw_cover(vol, th, lang, dpi=200):
     ax.text(0.8, 12.6, "エヴァンゲリオン\n決定版" if ja else "EVANGELION\nThe Complete\nCritical Guide", color=on, fontsize=44 if ja else 40, va="top", linespacing=1.25)
     ax.text(0.8, 8.9, f"第{vol}巻" if ja else f"VOL. {vol}", color=on, fontsize=34, va="top")
     ax.text(0.8, 7.8, th["title_ja"] if ja else th["title_en"], color=on, fontsize=19, va="top", alpha=0.95)
+    ax.text(0.8, 1.2, "Jiro Naozane", color=on, fontsize=20, alpha=0.95)
     ax.text(9.2, 0.5, "(仮表紙)" if ja else "WORKING COVER", color=on, fontsize=11, ha="right", alpha=0.7)
     return fig
 
