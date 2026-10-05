@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
-"""Progress dashboard. Default: Japanese (primary). Use --lang=en for English."""
-import csv, re, sys, pathlib
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+"""Progress dashboard. Default: Japanese, all volumes. Options: --lang=en  --vol=1|2|3"""
+import re, sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import lib
+ROOT = lib.ROOT
 lang = "en" if "--lang=en" in sys.argv else "ja"
-rows = list(csv.DictReader(open(ROOT / "chapters.csv", newline="")))
+vol = next((a.split("=")[1] for a in sys.argv if a.startswith("--vol=")), "all")
+rows = [r for r in lib.load_rows() if lib.in_volume(r, vol)]
+nums = lib.chapter_numbers(lib.load_rows(), vol)
 def size(t):
     t = re.sub(r"<!--.*?-->", "", t, flags=re.S)
     t = re.sub(r"\[\[CHECK.*?\]\]", "", t, flags=re.S)
     return len(re.sub(r"[\s#|>*\-]", "", t)) if lang == "ja" else len(re.findall(r"\w+", t))
 unit = "字" if lang == "ja" else "words"
 tot_t = tot_n = 0
-print(f'{"id":4} {"tier":4} {"status":8} {"fact":6} {"now":>7}/{"target":<7} title')
+print(f'{"id":4} {"vol":5} {"ch":>3} {"tier":4} {"status":8} {"fact":6} {"now":>7}/{"target":<7} title')
 for r in rows:
     t = (ROOT / "manuscript" / lang / r["file"]).read_text()
     n = size(t)
@@ -20,5 +24,6 @@ for r in rows:
     flag = " *UPDATE*" if r["update_sensitive"].lower() == "yes" else ""
     chk = t.count("[[CHECK")
     title = r["title_ja"] if lang == "ja" else r["title"]
-    print(f'{r["id"]:4} {r["tier"]:4} {st:8} {r["fact_check"]:6} {n:>7}/{target:<7} {title[:40]}{flag}{f"  [{chk} checks]" if chk else ""}')
-print(f"\nTOTAL {tot_n}/{tot_t} {unit} ({100*tot_n//tot_t}%)  [lang={lang}]")
+    ch = nums.get(r["id"], "")
+    print(f'{r["id"]:4} {r["volume"]:5} {ch!s:>3} {r["tier"]:4} {st:8} {r["fact_check"]:6} {n:>7}/{target:<7} {title[:36]}{flag}{f"  [{chk} checks]" if chk else ""}')
+print(f"\nTOTAL {tot_n}/{tot_t} {unit} ({100*tot_n//tot_t}%)  [lang={lang}, vol={vol}]")

@@ -17,6 +17,17 @@ python3 build/build.py               # 日本語の下書きEPUB
 python3 build/build.py --lang=en     # 英語の下書きEPUB
 ```
 
+## 分冊構成(2026-10-05 決定)
+三冊に分ける。第1巻「背景とTVシリーズ」/ 第2巻「旧劇場版と新劇場版」/ 第3巻「解釈・英語圏・FAQ」。詳細は [`OUTLINE.md`](OUTLINE.md)。
+`chapters.csv` の `volume` 列が各章の所属(共通の章は `1|2|3`)。
+
+```bash
+python3 build/build.py --vol=1       # 第1巻のみ(--vol=2, --vol=3 も同様)
+python3 build/build.py               # 全巻を1冊にした編集用コピー
+python3 build/status.py --vol=2      # 第2巻の進捗
+python3 build/build.py --vol=1 --release   # 第1巻のリリースゲート
+```
+
 ## 全体像: 「正本」はテキスト、本とWebはその出力
 ```
 atlas/(項目ごとのデータ) ─┬→ 本(Kindle EPUB)
