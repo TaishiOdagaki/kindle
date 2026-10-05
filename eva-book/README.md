@@ -3,6 +3,14 @@
 **目的**: これまでのエヴァの情報を網羅した決定版を、**いつでも出版できる状態**で保つ。
 完全新作(2026-02-23 制作発表済み・公開時期未発表)が海外展開を強めた時点で、すぐ刊行できるようにする。
 
+## 全体像: 「正本」はテキスト、本とWebはその出力
+```
+atlas/(項目ごとのデータ) ─┬→ 本(Kindle EPUB)
+manuscript/(章の原稿)  ───┤→ Webサイト「Evangelion Atlas」
+                          └→ JSON(アプリ・動画・SNS等の素材)
+```
+GitHub上のテキストが正本。形式(本/Web/その他)は後から増やせる。
+
 ## 設計の核心: 「完成した本体」+「差し替えモジュール」
 - 本体(第1〜15章+巻末)は**新作に左右されない**。先に完成・検証しておく。
 - 新作に左右される部分は**3か所だけ**に隔離: `c19`(The New Era)、`fm2`(Primer)、`b01`/`b03`(年表・観る順)。`chapters.csv` の `update_sensitive` で管理。
@@ -28,13 +36,15 @@ pip install pypandoc_binary          # 初回のみ
 python3 build/status.py              # 進捗表
 python3 build/build.py               # 下書きEPUB(build/draft.epub)
 python3 build/build.py --release     # リリースゲート(未完成なら失敗)
+python3 build/validate.py            # atlas の検査
+python3 build/atlas_site.py          # Webサイト(build/site/)とJSON(build/atlas.json)
 ```
 **リリースゲート**: 全章が `status=final` かつ `fact_check=done` で、`TODO` が残っていないと、リリース用EPUBは作られない。
 
 ## 出版可能状態のチェックリスト
 **原稿**
 - [ ] 全章 `final` / `fact_check=done`
-- [ ] 事実DB(`data/facts/`)の全行が `verified=yes`
+- [ ] atlas の本に使う項目がすべて `status: verified`
 - [ ] 全引用が STYLE_GUIDE の基準内
 - [ ] 奥付の文言を確定(PROJECT_BRIEF §5)
 - [ ] 英語ネイティブ校閲済み

@@ -1,2 +1,4 @@
 build/*.epub
 __pycache__/
+build/site/
+build/atlas.json
