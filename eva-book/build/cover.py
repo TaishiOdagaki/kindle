@@ -28,21 +28,25 @@ def motif(ax, vol, th):
                 ax.plot([p[0], q[0]], [p[1], q[1]], color=tint, lw=1.6, alpha=0.45)
         for p in pts: ax.add_patch(Circle(p, 0.16, fc=tint, ec="none", alpha=0.7))
 
+def draw_cover(vol, th, lang, dpi=200):
+    ja = lang == "ja"
+    fig = plt.figure(figsize=(8, 12.8), dpi=dpi, facecolor=th["accent"])
+    ax = fig.add_axes([0, 0, 1, 1]); ax.set_xlim(0, 10); ax.set_ylim(0, 16); ax.axis("off"); ax.set_facecolor(th["accent"])
+    mot = fig.add_axes([0, 0, 1, 0.45]); mot.set_xlim(0, 10); mot.set_ylim(0, 7.2); mot.axis("off"); mot.patch.set_alpha(0)
+    motif(mot, vol, th)
+    on = th["on_accent"]
+    ax.text(0.8, 15.0, "Japanese Culture Press", color=on, fontsize=15, alpha=0.85)
+    ax.text(0.8, 12.6, "エヴァンゲリオン\n決定版" if ja else "EVANGELION\nThe Complete\nCritical Guide", color=on, fontsize=44 if ja else 40, va="top", linespacing=1.25)
+    ax.text(0.8, 8.9, f"第{vol}巻" if ja else f"VOL. {vol}", color=on, fontsize=34, va="top")
+    ax.text(0.8, 7.8, th["title_ja"] if ja else th["title_en"], color=on, fontsize=19, va="top", alpha=0.95)
+    ax.text(9.2, 0.5, "(仮表紙)" if ja else "WORKING COVER", color=on, fontsize=11, ha="right", alpha=0.7)
+    return fig
+
 def render(lang):
     matplotlib_fontja.japanize()
     for vol in "123":
-        th = design.theme(vol); ja = lang == "ja"
-        fig = plt.figure(figsize=(8, 12.8), dpi=200, facecolor=th["accent"])
-        ax = fig.add_axes([0, 0, 1, 1]); ax.set_xlim(0, 10); ax.set_ylim(0, 16); ax.axis("off"); ax.set_facecolor(th["accent"])
-        sub = ax.inset_axes([0, 0, 1, 0.55], transform=ax.transData) if False else None
-        mot = fig.add_axes([0, 0, 1, 0.45]); mot.set_xlim(0, 10); mot.set_ylim(0, 7.2); mot.axis("off"); mot.patch.set_alpha(0)
-        motif(mot, vol, th)
-        on = th["on_accent"]
-        ax.text(0.8, 15.0, "Japanese Culture Press", color=on, fontsize=15, alpha=0.85)
-        ax.text(0.8, 12.6, "エヴァンゲリオン\n決定版" if ja else "EVANGELION\nThe Complete\nCritical Guide", color=on, fontsize=44 if ja else 40, va="top", linespacing=1.25)
-        ax.text(0.8, 8.9, f"第{vol}巻" if ja else f"VOL. {vol}", color=on, fontsize=34, va="top")
-        ax.text(0.8, 7.8, th["title_ja"] if ja else th["title_en"], color=on, fontsize=19, va="top", alpha=0.95)
-        ax.text(9.2, 0.5, "(仮表紙)" if ja else "WORKING COVER", color=on, fontsize=11, ha="right", alpha=0.7)
+        th = design.theme(vol)
+        fig = draw_cover(vol, th, lang)
         fig.savefig(OUT / f"cover.v{vol}.{lang}.png", dpi=200, facecolor=th["accent"]); plt.close(fig)
 
 if __name__ == "__main__":

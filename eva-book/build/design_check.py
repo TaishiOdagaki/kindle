@@ -13,17 +13,21 @@ def lum(h):
 def ratio(a, b):
     la, lb = sorted((lum(a), lum(b)), reverse=True); return (la + 0.05) / (lb + 0.05)
 
-ok = True
-print(f'{"vol":4} {"name":6} {"on/accent":>10} {"ink/tint":>9} {"accent L":>9} {"tint L":>7}  gray(accent)')
-for v in "123":
-    t = design.theme(v)
-    r1, r2 = ratio(t["on_accent"], t["accent"]), ratio(t["ink"], t["tint"])
-    g = round(lum(t["accent"]) ** (1 / 2.2) * 255)
-    print(f'{v:4} {t["name_ja"]:6} {r1:10.2f} {r2:9.2f} {lum(t["accent"]):9.3f} {lum(t["tint"]):7.3f}  #{g:02x}{g:02x}{g:02x}')
-    if r1 < 4.5 or r2 < 4.5: ok = False
-Ls = sorted(lum(design.theme(v)["accent"]) for v in "123")
-steps_ok = all(b - a >= 0.03 for a, b in zip(Ls, Ls[1:]))
-print("grayscale luminance steps >= 0.03:", "OK" if steps_ok else "FAIL (volumes collapse to one gray on e-ink)")
-ok = ok and steps_ok
-print("OK" if ok else "FAIL")
-sys.exit(0 if ok else 1)
+def main():
+    ok = True
+    print(f'{"vol":4} {"name":6} {"on/accent":>10} {"ink/tint":>9} {"accent L":>9} {"tint L":>7}  gray(accent)')
+    for v in "123":
+        t = design.theme(v)
+        r1, r2 = ratio(t["on_accent"], t["accent"]), ratio(t["ink"], t["tint"])
+        g = round(lum(t["accent"]) ** (1 / 2.2) * 255)
+        print(f'{v:4} {t["name_ja"]:6} {r1:10.2f} {r2:9.2f} {lum(t["accent"]):9.3f} {lum(t["tint"]):7.3f}  #{g:02x}{g:02x}{g:02x}')
+        if r1 < 4.5 or r2 < 4.5: ok = False
+    Ls = sorted(lum(design.theme(v)["accent"]) for v in "123")
+    steps_ok = all(b - a >= 0.03 for a, b in zip(Ls, Ls[1:]))
+    print("grayscale luminance steps >= 0.03:", "OK" if steps_ok else "FAIL (volumes collapse to one gray on e-ink)")
+    ok = ok and steps_ok
+    print("OK" if ok else "FAIL")
+    sys.exit(0 if ok else 1)
+
+if __name__ == "__main__":
+    main()
