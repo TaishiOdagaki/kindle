@@ -13,6 +13,7 @@ figs.render("ja", vols=(vol,))
 sel = [r for r in rows if lib.in_volume(r, vol) and r["status"] != "stub" and r["id"] not in ("fm0",) and (ROOT/"manuscript"/"ja"/r["file"]).read_text().count("TODO: 執筆") < 3]
 EXTRA_CSS = """
 body { max-width: 46em; margin: 2em auto; padding: 0 1em; font-family: 'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif; line-height: 1.85; color: #111; }
+.memo { background: #d8ecff; border-bottom: 1px dotted #1b3f7a; font-size: 0.85em; padding: 0 0.3em; color: #12305c; }
 .check { background: #fff3b0; border-bottom: 1px dotted #a07800; font-size: 0.78em; padding: 0 0.25em; color: #5a4300; }
 h1 { page-break-before: always; }
 nav#TOC { background: #f6f6f6; padding: 1em 1.5em; border-radius: 6px; }
@@ -24,6 +25,7 @@ def make(with_checks):
         t = (ROOT / "manuscript" / "ja" / r["file"]).read_text()
         t = lib.apply_volume_fences(t, vol); t = lib.resolve_refs(t, rows, vol)
         t = lib.resolve_figs(t, r, nums, "ja", figreg, problems, vol)
+        t = re.sub(r"\[\[著者の記憶:?\s*(.*?)\]\]", lambda m: '<span class="memo">【著者の記憶(書き手が自分の言葉で): ' + m.group(1).replace('"', "'") + '】</span>', t, flags=re.S)
         if with_checks:
             t = re.sub(r"\[\[CHECK:?\s*(.*?)\]\]", lambda m: '<span class="check">【要確認: ' + m.group(1).replace('"', "'") + '】</span>', t, flags=re.S)
         else:

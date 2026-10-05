@@ -37,6 +37,7 @@ for r in sel:
         if r["fact_check"] != "done": problems.append(f'{r["id"]}: fact_check={r["fact_check"]} (need done)')
         if "TODO" in text: problems.append(f'{r["id"]}: contains TODO')
         if "[[CHECK" in text: problems.append(f'{r["id"]}: {text.count("[[CHECK")} unresolved [[CHECK]] marks')
+        if "[[著者の記憶" in text: problems.append(f'{r["id"]}: {text.count("[[著者の記憶")} unfilled [[著者の記憶]] slots (author must write these)')
     text = lib.apply_volume_fences(text, vol)
     text = lib.resolve_refs(text, rows, vol)
     used_figs |= set(re.findall(r"\{\{fig:([\w\-]+)\}\}", text))

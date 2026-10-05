@@ -23,6 +23,10 @@ for p in sorted((ROOT/'atlas').rglob('*.md')):
 for r in csv.DictReader(open(ROOT/'figures.csv', newline='', encoding='utf-8-sig')):
     if r['verified'] != 'yes':
         items.append((r['chapter'], '図', f"図 {r['id']} の内容を作品・資料で確認し、figures.csv の verified を yes にする", r['caption_ja']))
+for r in csv.DictReader(open(ROOT/'chapters.csv', newline='')):
+    t = (ROOT/'manuscript'/lang/r['file']).read_text()
+    for m in re.finditer(r'\[\[著者の記憶:?\s*(.*?)\]\]', t, re.S):
+        items.append((r['id'], '著者の記憶', '著者が自分の言葉で書く: ' + m.group(1).strip(), ''))
 out = ROOT/'data'/'verification'; out.mkdir(parents=True, exist_ok=True)
 lines = ['# 検証チェックリスト(自動生成: `python3 build/checks.py`)', '',
          '各項目を**作品の視聴または一次資料**で確認し、原稿の `[[CHECK]]` を消す。',
