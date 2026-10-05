@@ -127,6 +127,53 @@ def f_evidence_levels(lang, E):
         ax.text(0.4, y, m, fontsize=22, va="center", color=c("accent_dark")); ax.text(1.3, y, a, fontsize=15, va="center"); ax.text(3.3, y, b, fontsize=12.5, va="center")
     return fig
 
+def f_mother_eva(lang, E):
+    t = T(lang); fig, ax = canvas(5.2)
+    rows = [(t("ユイ", "Yui"), t("初号機", "Unit-01"), t("シンジ", "Shinji"), "-"),
+            (t("キョウコ", "Kyoko"), t("弐号機", "Unit-02"), t("アスカ", "Asuka"), "-"),
+            (t("ナオコ", "Naoko"), "MAGI", t("リツコ", "Ritsuko"), "--")]
+    heads = [t("母", "Mother"), t("宿る先", "Where she dwells"), t("子", "Child")]
+    for x, h in zip((0.5, 4.1, 7.7), heads): ax.text(x + 0.9, 4.45, h, ha="center", fontsize=12, color=c("mid"))
+    for i, (m, k, ch, ls) in enumerate(rows):
+        y = 3.5 - i * 1.55
+        box(ax, 0.5, y, 1.8, 0.95, m, fc=c("tint"), ls="--" if i == 2 else "-")
+        box(ax, 4.1, y, 1.8, 0.95, k, fc=c("accent"), color=c("on_accent"))
+        box(ax, 7.7, y, 1.8, 0.95, ch, fc=c("paper"))
+        arrow(ax, (2.3, y + 0.47), (4.1, y + 0.47), t("魂が宿る" if i < 2 else "人格を移植", "soul dwells" if i < 2 else "personality copied"), ls=ls, fs=10.5, off=(0, 0.06))
+        arrow(ax, (5.9, y + 0.47), (7.7, y + 0.47), t("搭乗" if i < 2 else "同僚として扱う", "pilots" if i < 2 else "works with"), ls="-", fs=10.5, off=(0, 0.06))
+    ax.text(5.0, 0.12, t("※概念図(筆者の整理)。各対応は作品との照合が必要", "Conceptual sketch (author's reading). Each pairing needs verification."), ha="center", fontsize=11, color=c("mid"))
+    return fig
+
+def _graph(ax, N, edges, t):
+    for a, b, lab, ls in edges:
+        (_, x1, y1, _), (_, x2, y2, _) = N[a], N[b]
+        ax.plot([x1, x2], [y1, y2], color=c("ink"), lw=1.3, ls=ls, zorder=1)
+        ax.text((x1 + x2) / 2, (y1 + y2) / 2, lab, ha="center", va="center", fontsize=10.5, color=c("mid"), zorder=3, bbox=dict(fc="white", ec="none", pad=1.5))
+    for k, (name, x, y, kind) in N.items():
+        box(ax, x - 0.8, y - 0.34, 1.6, 0.68, name, fc=c("accent") if kind == "hub" else c("tint") if kind == "absent" else c("paper"),
+            color=c("on_accent") if kind == "hub" else None, ls="--" if kind == "absent" else "-", fs=12.5)
+        ax.patches[-1].set_zorder(2); ax.texts[-1].set_zorder(4)
+
+def f_relations_family(lang, E):
+    t = T(lang); fig, ax = canvas(6.2)
+    N = {"yui": (t("ユイ", "Yui"), 1.3, 5.0, "absent"), "gendo": (t("ゲンドウ", "Gendo"), 4.4, 5.0, "plain"), "keel": (t("キール", "Keel"), 7.9, 5.0, "plain"),
+         "shinji": (t("シンジ", "Shinji"), 1.3, 2.0, "hub"), "rei": (t("レイ", "Rei"), 4.4, 2.0, "plain"), "fuyu": (t("冬月", "Fuyutsuki"), 7.9, 2.0, "plain")}
+    edges = [("yui", "gendo", t("夫婦", "spouses"), "-"), ("gendo", "keel", t("同盟(?)", "allies(?)"), "--"), ("yui", "shinji", t("親子", "mother-son"), "--"), ("gendo", "shinji", t("親子", "father-son"), "-"),
+             ("gendo", "rei", t("後見(?)", "guardian(?)"), "--"), ("gendo", "fuyu", t("補佐", "deputy"), "-"), ("shinji", "rei", t("同僚", "fellow pilot"), "-")]
+    _graph(ax, N, edges, t)
+    ax.text(5.0, 0.55, t("※点線の枠=作中に姿を見せない人物 / 点線=解釈を含む関係。線の意味は概念的な整理で、作品との照合が必要", "Dashed box: not seen on screen. Dashed line: interpretive. Conceptual; needs verification."), ha="center", fontsize=10.5, color=c("mid"))
+    return fig
+
+def f_relations_daily(lang, E):
+    t = T(lang); fig, ax = canvas(6.2)
+    N = {"shinji": (t("シンジ", "Shinji"), 5.0, 3.6, "hub"), "rei": (t("レイ", "Rei"), 1.6, 3.6, "plain"), "asuka": (t("アスカ", "Asuka"), 8.4, 3.6, "plain"), "kaworu": (t("カヲル", "Kaworu"), 8.4, 5.4, "plain"),
+         "ritsuko": (t("リツコ", "Ritsuko"), 1.6, 1.2, "plain"), "misato": (t("ミサト", "Misato"), 5.0, 1.2, "plain"), "kaji": (t("加持", "Kaji"), 8.4, 1.2, "plain")}
+    edges = [("shinji", "misato", t("同居", "lives with"), "-"), ("misato", "asuka", t("同居", "lives with"), "-"), ("shinji", "asuka", t("同僚", "fellow pilot"), "-"), ("shinji", "rei", t("同僚", "fellow pilot"), "-"),
+             ("shinji", "kaworu", t("友情", "friendship"), "-"), ("misato", "kaji", t("元恋人", "ex-partner"), "-"), ("misato", "ritsuko", t("旧友", "old friend"), "-")]
+    _graph(ax, N, edges, t)
+    ax.text(5.0, 0.3, t("※線の意味は概念的な整理で、関係の性格は作品との照合が必要", "Conceptual reading; relationship types need verification."), ha="center", fontsize=10.5, color=c("mid"))
+    return fig
+
 # ---------------------------------------------------------------- episode card
 def ep_card(lang, E, n):
     t = T(lang); e = E[f"ep-{n:02d}"]
@@ -173,7 +220,8 @@ def ep_card(lang, E, n):
 
 # ---------------------------------------------------------------- registry
 FIGS = {"f-angels-episodes": f_angels_episodes, "f-eva-system": f_eva_system, "f-nerv-org": f_nerv_org,
-        "f-two-plans": f_two_plans, "f-reveal-order": f_reveal_order, "f-evidence-levels": f_evidence_levels}
+        "f-two-plans": f_two_plans, "f-reveal-order": f_reveal_order, "f-evidence-levels": f_evidence_levels,
+        "f-mother-eva": f_mother_eva, "f-relations-family": f_relations_family, "f-relations-daily": f_relations_daily}
 for _n in range(1, 27):
     FIGS[f"f-ep-{_n:02d}"] = functools.partial(lambda lang, E, n=_n: ep_card(lang, E, n))
 

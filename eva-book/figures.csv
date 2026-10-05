@@ -31,3 +31,6 @@ f-ep-23,c08,card,第23話カード,Episode 23 card,第23話の題名、登場す
 f-ep-24,c08,card,第24話カード,Episode 24 card,第24話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 24: title, Angel, sortie, focus, new setting information, version notes",ep-24,no
 f-ep-25,c09,card,第25話カード,Episode 25 card,第25話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 25: title, Angel, sortie, focus, new setting information, version notes",ep-25,no
 f-ep-26,c09,card,第26話カード,Episode 26 card,第26話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 26: title, Angel, sortie, focus, new setting information, version notes",ep-26,no
+f-mother-eva,c11,diagram,母が宿る機体と、その子(概念図),"Mothers, the machines they dwell in, and their children (schematic)",ユイと初号機とシンジ、キョウコと弐号機とアスカ、ナオコとMAGIとリツコの対応を示す概念図,"Schematic pairing Yui-Unit-01-Shinji, Kyoko-Unit-02-Asuka, Naoko-MAGI-Ritsuko",,no
+f-relations-family,c11,diagram,碇家とネルフ上層の関係(概念図),Ties around the Ikari family and NERV leadership (schematic),ユイ、ゲンドウ、シンジ、レイ、冬月、キールの関係を結んだ関係図,"Relationship map of Yui, Gendo, Shinji, Rei, Fuyutsuki, and Keel",,no
+f-relations-daily,c11,diagram,シンジをめぐる日常の関係(概念図),Everyday ties around Shinji (schematic),シンジを中心に、同居、同僚、友情、旧友などの関係で結んだ関係図,"Relationship map around Shinji: cohabitation, fellow pilots, friendship, old friends",,no
