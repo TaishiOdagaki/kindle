@@ -1,6 +1,7 @@
 # デザイントークン(v0.1)。図・話数カード・表紙・EPUBのCSSは、すべてここから生成する。
 # 色は「巻の識別」に使う。色だけに意味を持たせない(グレースケールでも、ラベル・線種・パターンで区別できる)。
-# 作品固有の配色(初号機の紫×緑、弐号機の赤橙、黒白のタイトルカード等)に寄せない。
+# 作品固有の配色(機体色、黒白のタイトルカード等)に寄せない。三原色(赤・黄・青)は特定の作品の配色ではない中立の色。
+# accent=塗り(その上に on_accent の文字)/ accent_dark=白地の上の文字・線・グラフ。
 
 neutrals:
   ink: "#111111"       # 本文・枠線
@@ -11,35 +12,38 @@ neutrals:
 
 volumes:
   "1":
-    name_ja: 藍
-    name_en: Indigo
-    accent: "#1F3A5F"    # 濃い藍。白文字を載せられる
-    tint: "#DCE4EE"      # 淡い藍(塗り)
+    name_ja: 赤
+    name_en: Red
+    accent: "#B5282E"        # 塗り用。白文字を載せる
+    accent_dark: "#B5282E"   # 白地の上の文字・線・グラフ用(コントラスト3:1以上)
+    tint: "#F2D8D9"          # 淡色(塗り)
     on_accent: "#FFFFFF"
-    pattern: solid        # 巻タグの塗り(グレースケールでの識別)
+    pattern: solid
     title_ja: 背景とTVシリーズ
     title_en: Context and the Television Series
-    rationale: "1995年という起点と、記録・背景の巻。落ち着いた暗色。"
+    rationale: "三原色の最初。入口の巻。作品固有の配色(機体色等)に寄らない中立の色。"
   "2":
-    name_ja: 琥珀
-    name_en: Amber
-    accent: "#70480A"    # 暗い琥珀。白文字を載せられる(グレースケールで第1・第3巻と明度が離れる)
-    tint: "#F3E6CC"
-    on_accent: "#FFFFFF"
-    pattern: hatch        # 斜線
+    name_ja: 黄
+    name_en: Yellow
+    accent: "#E3B100"        # 塗り用。黒文字を載せる(白文字は不可)
+    accent_dark: "#8A6500"   # 白地の上の文字・線・グラフ用。黄色は白地で視認しにくいため、濃い黄を使う
+    tint: "#FAF1D1"
+    on_accent: "#111111"
+    pattern: hatch
     title_ja: 旧劇場版と新劇場版
     title_en: The 1997 Films and Rebuild
-    rationale: "二つの終わりと再始動の巻。琥珀は時間を閉じ込める素材で、反復・やり直しの主題と響く。"
+    rationale: "三原色の二番目。グレースケールで第1・第3巻と明度が大きく離れる(明るい灰色)。"
   "3":
-    name_ja: 納戸
-    name_en: Teal
-    accent: "#2F7F83"    # 納戸色(青緑)。白文字のコントラスト 4.5 以上を保つ上限に近い明るさ
-    tint: "#D9E8E9"
+    name_ja: 青
+    name_en: Blue
+    accent: "#1B3F7A"
+    accent_dark: "#1B3F7A"
+    tint: "#D6DCE7"
     on_accent: "#FFFFFF"
-    pattern: dots         # 点
+    pattern: dots
     title_ja: 解釈・英語圏・FAQ
     title_en: Interpretation, the English-Speaking World, and FAQ
-    rationale: "解釈と議論の巻。冷静で、分析的な印象の色。"
+    rationale: "三原色の三番目。落ち着いた濃い青で、解釈と議論の巻に合う。"
 
 figure:
   width_px: 1600

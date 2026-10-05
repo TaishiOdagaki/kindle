@@ -24,7 +24,7 @@ def setup():
     plt.rcParams.update({"font.size": 13, "axes.unicode_minus": False, "figure.dpi": 200})
 
 def c(name): return TH[name]
-def acc2(): return design.mix(TH["accent"], "#ffffff", 0.45)  # secondary tone of the accent
+def acc2(): return design.mix(TH["accent_dark"], "#ffffff", 0.45)  # secondary tone of the accent (for marks on white)
 
 def box(ax, x, y, w, h, text, fc=None, ec=None, lw=1.4, fs=13, ls="-", color=None):
     fc = fc or c("pale"); ec = ec or c("ink")
@@ -49,7 +49,7 @@ def f_angels_episodes(lang, E):
     for i, a in enumerate(angels):
         y = len(angels) - 1 - i
         for ep in a["episodes"]:
-            ax.barh(y, 0.84, left=ep - 0.42, height=0.62, color=c("accent"))
+            ax.barh(y, 0.84, left=ep - 0.42, height=0.62, color=c("accent_dark"))
     ax.set_yticks(range(len(angels)))
     ax.set_yticklabels([("第%d使徒 %s" % (a["number"], a["name_jp"])) if lang == "ja" else ("#%d %s" % (a["number"], a["name_en"])) for a in reversed(angels)], fontsize=12)
     ax.set_xticks(range(1, 27)); ax.set_xticklabels([str(i) if i % 5 == 0 or i == 1 else "" for i in range(1, 27)])
@@ -110,7 +110,7 @@ def f_reveal_order(lang, E):
     fig, ax = plt.subplots(figsize=(W, 0.5 * len(items) + 1.3))
     for i, (ja, en, a, b) in enumerate(items):
         y = len(items) - 1 - i
-        ax.barh(y, b - a + 0.84, left=a - 0.42, height=0.55, color=c("accent") if a == b else acc2())
+        ax.barh(y, b - a + 0.84, left=a - 0.42, height=0.55, color=c("accent_dark") if a == b else acc2())
     ax.set_yticks(range(len(items))); ax.set_yticklabels([(i[0] if lang == "ja" else i[1]) for i in reversed(items)], fontsize=12)
     ax.set_xticks(range(1, 27)); ax.set_xticklabels([str(i) if i % 5 == 0 or i == 1 else "" for i in range(1, 27)]); ax.set_xlim(0.4, 26.6)
     ax.set_xlabel("話数(概観)" if lang == "ja" else "Episode (overview)"); ax.grid(axis="x", color=c("light"), lw=0.6); ax.set_axisbelow(True)
@@ -124,7 +124,7 @@ def f_evidence_levels(lang, E):
             ("▲", t("解釈", "Interpreted"), t("筆者・批評家の読み(異説は併記する)", "A reading by the author or critics (rival views are listed)"))]
     for i, (m, a, b) in enumerate(rows):
         y = 2.3 - i * 0.85
-        ax.text(0.4, y, m, fontsize=22, va="center", color=c("accent")); ax.text(1.3, y, a, fontsize=15, va="center"); ax.text(3.3, y, b, fontsize=12.5, va="center")
+        ax.text(0.4, y, m, fontsize=22, va="center", color=c("accent_dark")); ax.text(1.3, y, a, fontsize=15, va="center"); ax.text(3.3, y, b, fontsize=12.5, va="center")
     return fig
 
 # ---------------------------------------------------------------- episode card

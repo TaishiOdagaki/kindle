@@ -29,7 +29,7 @@ python3 build/build.py --vol=1 --release   # 第1巻のリリースゲート
 ```
 
 ## デザイン(巻のイメージカラー)
-第1巻=藍 / 第2巻=琥珀 / 第3巻=納戸。仕様は [`design/DESIGN.md`](design/DESIGN.md)、図表の方針は [`FIGURES.md`](FIGURES.md)。
+第1巻=赤 / 第2巻=黄 / 第3巻=青(2026-10-05 決定)。仕様は [`design/DESIGN.md`](design/DESIGN.md)、図表の方針は [`FIGURES.md`](FIGURES.md)。
 
 ```bash
 python3 build/design_check.py        # 色のコントラスト・グレースケールの段差を検査

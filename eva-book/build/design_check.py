@@ -19,6 +19,8 @@ def main():
     for v in "123":
         t = design.theme(v)
         r1, r2 = ratio(t["on_accent"], t["accent"]), ratio(t["ink"], t["tint"])
+        r3 = ratio(t["paper"], t["accent_dark"])
+        if r3 < 4.5: ok = False; print(f"  FAIL: accent_dark on white = {r3:.2f} (<4.5) in volume {v}")
         g = round(lum(t["accent"]) ** (1 / 2.2) * 255)
         print(f'{v:4} {t["name_ja"]:6} {r1:10.2f} {r2:9.2f} {lum(t["accent"]):9.3f} {lum(t["tint"]):7.3f}  #{g:02x}{g:02x}{g:02x}')
         if r1 < 4.5 or r2 < 4.5: ok = False
