@@ -1,0 +1,27 @@
+id,file,part,title,words_target,update_sensitive,status,fact_check,notes
+fm0,00-copyright.md,Front,Copyright & Non-Affiliation Notice,150,no,stub,todo,奥付。非提携の表示を含む
+fm1,01-how-to-read.md,Front,How to Read This Book,1500,no,stub,todo,ネタバレ方針/証拠3階層(Shown/Stated/Interpreted)/表記規則
+fm2,02-primer.md,Front,Quick Primer (spoiler-free),2500,yes,stub,todo,作品の全体像と観る順。新作の扱いを更新
+c01,10-ch01-1995.md,I. Context,"1995: Japan, Gainax, and Hideaki Anno",5000,no,stub,todo,時代背景と制作母体
+c02,11-ch02-production.md,I. Context,How the Series Was Made,6000,no,stub,todo,企画〜放映、最終2話の事情
+c03,20-ch03-episodes-a.md,II. Television,Episode Guide: Episodes 1–6,6000,no,stub,todo,各話: 要約/見どころ/重要設定
+c04,21-ch03-episodes-b.md,II. Television,Episode Guide: Episodes 7–13,7000,no,stub,todo,
+c05,22-ch03-episodes-c.md,II. Television,Episode Guide: Episodes 14–20,7000,no,stub,todo,
+c06,23-ch03-episodes-d.md,II. Television,Episode Guide: Episodes 21–26,7000,no,stub,todo,
+c07,24-ch04-world.md,II. Television,"The World: Angels, Evas, NERV, SEELE, Instrumentality",8000,no,stub,todo,『確定事項』と『推測』を分離
+c08,25-ch05-characters.md,II. Television,The Characters,9000,no,stub,todo,
+c09,26-ch06-final-episodes.md,II. Television,Reading the Last Two Episodes,5000,no,stub,todo,
+c10,30-ch07-films-1997.md,III. The 1997 Films,Death & Rebirth and The End of Evangelion,8000,no,stub,todo,
+c11,31-ch08-reception.md,III. The 1997 Films,Reception: Japan and the West,5000,no,stub,todo,受容史。一次資料(当時の雑誌等)で検証
+c12,40-ch09-rebuild.md,IV. Rebuild,"The Rebuild Films: 1.0, 2.0, 3.0, 3.0+1.0",10000,no,stub,todo,
+c13,41-ch10-compare.md,IV. Rebuild,"Same Story, Different Answers: A Comparison",5000,no,stub,todo,TV/旧劇/新劇の比較表
+c14,42-ch11-thrice.md,IV. Rebuild,Reading Thrice Upon a Time,5000,no,stub,todo,
+c15,50-ch12-themes.md,V. Interpretation,"Themes: Others, Parents, Bodies, Care, Growing Up",8000,no,stub,todo,本書の『背骨』を展開
+c16,51-ch13-myth.md,V. Interpretation,Religion and Myth: Structure or Ornament?,5000,no,stub,todo,
+c17,52-ch14-criticism.md,V. Interpretation,Critical Perspectives,6000,no,stub,todo,ジェンダー表象、反復への批判
+c18,60-ch15-legacy.md,VI. Legacy,Legacy and Influence,5000,no,stub,todo,
+c19,61-ch16-new-era.md,VI. Legacy,The New Era (update module),3000,YES,stub,todo,完全新作。**続報で差し替える唯一の章**。確定情報のみ記載
+b01,90-timeline.md,Back matter,Timeline,2000,yes,stub,todo,
+b02,91-glossary.md,Back matter,Glossary,4000,no,stub,todo,
+b03,92-viewing-order.md,Back matter,Viewing Order Guide,1500,yes,stub,todo,
+b04,93-bibliography.md,Back matter,Bibliography and Further Reading,3000,no,stub,todo,日本語一次資料を含む
