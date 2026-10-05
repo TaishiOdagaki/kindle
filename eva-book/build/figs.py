@@ -131,8 +131,16 @@ def f_evidence_levels(lang, E):
 def ep_card(lang, E, n):
     t = T(lang); e = E[f"ep-{n:02d}"]
     angels = sorted([a for a in E.values() if a["type"] == "angel" and n in (a.get("episodes") or [])], key=lambda a: a["number"])
-    def names(ids): return [E[i].get("name_jp" if lang == "ja" else "name_en", i) for i in ids if i in E]
     dash = "—"
+    def show(items, ids=False):
+        out = []
+        for x in items or []:
+            if x == "-": continue
+            out.append(E[x].get("name_jp" if lang == "ja" else "name_en", x) if ids and x in E else x)
+        return "、".join(out)
+    def val(items, ids=False):
+        if items == ["-"]: return "なし" if lang == "ja" else "none"
+        return show(items, ids) or dash
     fig, ax = canvas(3.9)
     ax.add_patch(Rectangle((0, 0), 2.1, 3.9, fc=c("accent"), ec="none"))
     ax.text(1.05, 3.1, t("第", "EP."), ha="center", va="center", fontsize=15, color=c("on_accent"))
@@ -144,14 +152,21 @@ def ep_card(lang, E, n):
     sub = (e.get("title_en") or "") if lang == "ja" else ""
     if sub: ax.text(2.5, 3.1, sub, fontsize=11, va="center", color=c("mid"))
     ax.plot([2.5, 9.8], [2.85, 2.85], color=c("light"), lw=1)
+    vn = e.get("version_note") or ""
     rows = [(t("使徒", "Angel"), ("、".join(("第%d使徒 %s" % (a["number"], a["name_jp"])) if lang == "ja" else ("#%d %s" % (a["number"], a["name_en"])) for a in angels) or dash)),
-            (t("出撃", "Sortie"), ("、".join(e.get("sorties") or []) or dash)),
-            (t("中心人物", "Focus"), ("、".join(names(e.get("focus") or [])) or dash)),
-            (t("明かされる設定", "New in this ep."), ("、".join(e.get("reveals") or []) or dash)),
-            (t("版による差", "Version notes"), (e.get("version_note") or dash))]
+            (t("出撃", "Sortie"), val(e.get("sorties"))),
+            (t("中心人物", "Focus"), val(e.get("focus"), ids=True)),
+            (t("明かされる設定", "New in this ep."), val(e.get("reveals"))),
+            (t("版による差", "Version notes"), ("なし" if vn == "-" and lang == "ja" else "none" if vn == "-" else vn or dash))]
+    def wrap(text, width=26, maxlines=2):
+        lines = [text[i:i + width] for i in range(0, len(text), width)] or [""]
+        if len(lines) > maxlines: lines = lines[:maxlines]; lines[-1] = lines[-1][:-1] + "…"
+        return lines
     y = 2.45
-    for lab, val in rows:
-        ax.text(2.5, y, lab, fontsize=11, color=c("mid"), va="center"); ax.text(4.6, y, val, fontsize=13, va="center")
+    for lab, v in rows:
+        lines = wrap(v)
+        ax.text(2.5, y, lab, fontsize=11, color=c("mid"), va="center")
+        ax.text(4.6, y, "\n".join(lines), fontsize=13 if len(lines) == 1 else 11, va="center", linespacing=1.15)
         ax.plot([2.5, 9.8], [y - 0.3, y - 0.3], color=c("pale"), lw=0.8); y -= 0.52
     ax.text(9.8, 0.12, f"ep-{n:02d} · {e.get('status','')}", ha="right", fontsize=9, color=c("mid"))
     return fig
@@ -163,7 +178,7 @@ for _n in range(1, 27):
     FIGS[f"f-ep-{_n:02d}"] = functools.partial(lambda lang, E, n=_n: ep_card(lang, E, n))
 
 def load_registry():
-    return {r["id"]: r for r in csv.DictReader(open(ROOT / "figures.csv", newline=""))}
+    return {r["id"]: r for r in csv.DictReader(open(ROOT / "figures.csv", newline="", encoding="utf-8-sig"))}
 
 def render(lang, vols=("1", "2", "3"), only=None):
     global TH

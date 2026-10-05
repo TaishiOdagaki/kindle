@@ -61,7 +61,7 @@ def apply_volume_fences(text, vol):
 
 
 def load_figs():
-    return {r["id"]: r for r in csv.DictReader(open(ROOT / "figures.csv", newline=""))}
+    return {r["id"]: r for r in csv.DictReader(open(ROOT / "figures.csv", newline="", encoding="utf-8-sig"))}
 
 def fig_prefix(row, nums):
     i = row["id"]
