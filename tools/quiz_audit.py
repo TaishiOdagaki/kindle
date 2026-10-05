@@ -168,6 +168,15 @@ def stats(Q, A):
     longest = sum(1 for k, q in Q.items() if 'A_'+k[2:] in A and len(q['opts']) == 4 and
                   max(range(4), key=lambda i: len(q['opts'][i])) == int(A['A_'+k[2:]]['ans'])-1)
     out['正解が最長の選択肢'] = f'{longest}/{len(Q)} ({longest/len(Q):.0%}) 無作為なら25%'
+    rk = {0: 0, 1: 0, 2: 0, 3: 0}
+    for k, q in Q.items():
+        a = A.get('A_' + k[2:])
+        if not a: continue
+        try: ai = int(a['ans']) - 1
+        except (ValueError, TypeError): continue
+        L = [len(o) for o in q['opts']]
+        if len(L) == 4: rk[sum(1 for j in range(4) if L[j] > L[ai])] += 1
+    out['正解の長さ順位(0=最長)'] = {k: f'{v} ({v/len(Q):.0%})' for k, v in rk.items()}  # 各25%前後が目安。2番目に偏ると別の手がかりになる
     return out
 
 if __name__ == '__main__':
