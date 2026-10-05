@@ -10,6 +10,7 @@ def load():
     ents = {}
     errs = []
     for p in sorted((ROOT/'atlas').rglob('*.md')):
+        if p.name == 'SCHEMA.md': continue
         t = p.read_text()
         m = re.match(r'---\n(.*?)\n---\n(.*)', t, re.S)
         if not m: errs.append(f'{p.name}: missing front matter'); continue

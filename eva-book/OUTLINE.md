@@ -58,7 +58,7 @@
 年表(b01・更新対象)/ 用語集(b02)/ 観る順ガイド(b03・更新対象)/ 参考文献(b04)
 
 ## 新作の続報があったときの更新手順
-1. 公式発表を `data/facts/works.csv` に日付つきで追加(`verified=yes`)
+1. 公式発表を `atlas/events/` に日付つきで追加し、`atlas/works/work-new.md` を更新(`status: verified`)
 2. c19 を更新(確定情報のみ。推測は **Interpreted** と明記)
 3. fm2 / b01 / b03 の該当箇所を更新
 4. `python3 build/build.py --release` → KDPで更新版を公開

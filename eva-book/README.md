@@ -25,7 +25,8 @@ GitHub上のテキストが正本。形式(本/Web/その他)は後から増や�
 | [`STYLE_GUIDE.md`](STYLE_GUIDE.md) | 文体・引用ルール・証拠の3階層 |
 | [`SOURCES.md`](SOURCES.md) | 資料の優先順位と検証手順 |
 | [`COMPETITOR_RESEARCH.md`](COMPETITOR_RESEARCH.md) | 競合調査 |
-| [`data/`](data/) | 需要データ、競合データ、**事実DB(`data/facts/`)** |
+| [`atlas/`](atlas/SCHEMA.md) | **正本**。項目ごとのデータ(各話・作品・人物・用語・テーマ・出来事・出典) |
+| [`data/`](data/) | 需要データ、競合データ |
 | `manuscript/` | 原稿(1章1ファイル) |
 | `chapters.csv` | 章の進捗管理(status / fact_check / update_sensitive) |
 | `build/` | EPUBビルドと進捗表示 |
