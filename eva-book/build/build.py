@@ -28,6 +28,9 @@ for r in rows:
             problems.append(f'{r["id"]}: fact_check={r["fact_check"]} (need done)')
         if "TODO" in text:
             problems.append(f'{r["id"]}: contains TODO')
+        n_chk = text.count("[[CHECK")
+        if n_chk:
+            problems.append(f'{r["id"]}: {n_chk} unresolved [[CHECK]] marks')
     parts.append(text.strip() + "\n")
 
 if release and problems:

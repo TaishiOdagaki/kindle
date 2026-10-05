@@ -35,6 +35,7 @@ def main():
         if e.get('status') == 'verified':
             if not e.get('sources'): errs.append(f'{n}: verified but no sources')
             if 'TODO' in e['_body']: errs.append(f'{n}: verified but body has TODO')
+            if '[[CHECK' in e['_body']: errs.append(f'{n}: verified but has unresolved [[CHECK]]')
     from collections import Counter
     c = Counter((e['type'], e['status']) for e in ents.values())
     print(f'{len(ents)} entities'); [print(f'  {t:10} {s:9} {n}') for (t,s),n in sorted(c.items())]
