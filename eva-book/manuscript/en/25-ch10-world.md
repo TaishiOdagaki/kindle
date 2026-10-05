@@ -1,6 +1,6 @@
 # The World: Facts, Statements, and Speculation
 
-<!-- STATUS: draft v0 | target: ~14000 words | update-sensitive: no | written from secondary sources and general knowledge; NOT yet checked against the work. Every unresolved [[CHECK]] must be cleared before release. -->
+<!-- STALE: Japanese (manuscript/ja) is now the primary text. Re-translate from ja after the Japanese check. | STATUS: draft v0 | target: ~14000 words | update-sensitive: no | written from secondary sources and general knowledge; NOT yet checked against the work. Every unresolved [[CHECK]] must be cleared before release. -->
 
 > **At a glance**
 > - *Evangelion* looks like a giant-robot-versus-monster story, but its setting rests on a few interlocking secrets: what the Angels are, what the Evas are, and what two organizations, SEELE and NERV, each want from them.

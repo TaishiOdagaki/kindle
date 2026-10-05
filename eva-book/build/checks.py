@@ -5,15 +5,16 @@ Marks look like:  ... claim text. [[CHECK: ep.19 / confirm Zeruel's number]]
 Resolve a mark by verifying against the work or a primary source, then delete the mark
 (and note the verification in the commit message or the atlas entry's `sources`).
 """
-import re, csv, pathlib
+import re, csv, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+lang = 'en' if '--lang=en' in sys.argv else 'ja'
 items = []
 for r in csv.DictReader(open(ROOT/'chapters.csv', newline='')):
-    t = (ROOT/'manuscript'/r['file']).read_text()
+    t = (ROOT/'manuscript'/lang/r['file']).read_text()
     for m in re.finditer(r'\[\[CHECK:?\s*(.*?)\]\]', t, re.S):
         a = t.rfind('\n', 0, m.start()); line = t[a+1:t.find('\n', m.end()) if t.find('\n', m.end()) != -1 else len(t)]
         ctx = re.sub(r'\[\[CHECK.*?\]\]', '', line).strip()[:140]
-        items.append((r['id'], r['title'], m.group(1).strip() or '(verify)', ctx))
+        items.append((r['id'], (r['title_ja'] if lang=='ja' else r['title']), m.group(1).strip() or '(verify)', ctx))
 for p in sorted((ROOT/'atlas').rglob('*.md')):
     if p.name == 'SCHEMA.md': continue
     t = p.read_text()

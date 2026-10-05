@@ -4,140 +4,398 @@
 確認できなかった・誤りだった場合は、原稿を直してから消す。
 
 
-## c10 — The World: Facts, Statements, and Speculation
+## c10 — 世界設定——確定事項・公式発言・推測
 - [ ] **(verify)**  
-      > <!-- STATUS: draft v0 | target: ~14000 words | update-sensitive: no | written from secondary sources and general knowledge; NOT yet checked 
-- [ ] **confirm the on-screen/official setting year and where it is first given**  
-      > The series begins in the year **2015** . The world it describes has already been broken once.
-- [ ] **date and the "meteorite" cover story: where each is given**  
-      > | **Second Impact**, 13 September 2000 | The public account is that a meteorite struck Antarctica.  | Shown |
-- [ ] **where this is revealed and who says it**  
-      > | The real cause | Second Impact was triggered by a contact experiment on the first Angel, **Adam**, carried out by a research party known a
-- [ ] **the exact figure the series gives, if any**  
-      > | Aftermath | Rising seas, climate disruption, war, and the loss of a large part of the world's population.  | Shown |
-- [ ] **year construction begins**  
-      > | Construction of **Tokyo-3** | The fortified city built to host NERV's headquarters, begun in the years after Second Impact.  | Shown / Sta
-- [ ] **where this is shown or stated**  
-      > Second, **Misato Katsuragi is tied to Second Impact personally**; she survived it . The series uses the world's history to explain its chara
-- [ ] **confirm 使徒 as the on-screen term; note how official English subtitles render it**  
-      > In Japanese the enemies are *shito* (使徒), a word that means "apostle" or "disciple" in a religious sense. The English-language releases rend
-- [ ] **confirm Adam = First and Lilith = Second in an official source, and that the fought Angels are Third–Seventeenth**  
-      > The Angels are numbered. **Adam** is the First Angel and **Lilith** the Second; the creatures NERV fights in the television series run from 
-- [ ] **confirm which names are shown on screen and which appear only in official materials**  
-      > The Angels are numbered. **Adam** is the First Angel and **Lilith** the Second; the creatures NERV fights in the television series run from 
-- [ ] **verify every row of this table against the episodes. Episodes 1 (Sachiel), 2 (Shamshel), 5 (Ramiel's attack begins) and 19 (Zeruel) agree with secondary sources; the rest are from memory and must be confirmed.**
+      > <!-- STATUS: draft v0(日本語・初稿) | 目標: 約28,000字 | 更新対象: no | 作品との照合は未了。 をすべて解消するまでリリース不可 | 文体: だ・である調 -->
+- [ ] **2015年という設定年が作中・公式のどこで示されるか(1話の画面表示等)**  
+      > 物語の開始時点は **西暦2015年** である 。その世界は、すでに一度、壊れている。
+- [ ] **日付と「隕石」という公式発表が作中のどこで語られるか**  
+      > | 西暦2000年9月13日 | **セカンドインパクト**。公式には南極への大質量隕石の衝突とされる  | 描写 |
+- [ ] **真相が明かされる話数と、誰が何を語るか**  
+      > | 同上 | 真相は、葛城調査隊による使徒(アダム)との接触実験が引き起こしたもの。背後にゼーレがいる  | 描写 |
+- [ ] **作中で示される被害の具体的な数字・描写(人口の減少幅等)**  
+      > | その後 | 海面上昇、気候の激変、紛争、人口の大幅な減少  | 描写 |
+- [ ] **建設開始の年が作中・公式で示されるか**  
+      > | 2000年代半ば〜 | 第3新東京市の建設  | 描写/発言 |
+- [ ] **一般市民への説明(隕石)が示される話数。真相が視聴者に明かされる順序(どの話で何が分かるか)**  
+      > 【描写】 作中の一般の人々にとって、セカンドインパクトは隕石の衝突である。真相(使徒との接触実験の暴走)は、視聴者にも、物語が進むにつれて少しずつ明かされる。 セカンドインパクトの際に現れた「光の巨人」についても、作中で触れられる。
+- [ ] **「光の巨人」への言及の有無と話数**  
+      > 【描写】 作中の一般の人々にとって、セカンドインパクトは隕石の衝突である。真相(使徒との接触実験の暴走)は、視聴者にも、物語が進むにつれて少しずつ明かされる。 セカンドインパクトの際に現れた「光の巨人」についても、作中で触れられる。
+- [ ] **一次資料(当時の雑誌インタビュー等)での、情報の段階的開示に関する制作者の発言。なければこの段落を「未確認」と明記**  
+      > 【発言】 この二重構造について、制作者が「意図的な語りの設計である」と述べた発言があるかは、本稿執筆時点では確認できていない。
+- [ ] **「常夏」が作中で説明される話数と台詞。夏の描写(蝉の声等)が全編でどう一貫しているか**  
+      > - **常夏の日本**: 作中の日本は季節が夏のまま固定されているように見える。
+- [ ] **水没した旧東京の描写が出る話数**  
+      > - **水没した旧都市**: 海面上昇により、かつての都市部は水没している。
+- [ ] **初出の話数(1話)。兵装ビルの描写**  
+      > - **要塞都市としての第3新東京市**: 使徒を迎え撃つため、街の建物が地下に格納され、兵装ビルとして出現する。
+- [ ] **箱根・芦ノ湖という場所が作中・公式で示される箇所**  
+      > - **第3新東京市の所在**: 神奈川県の箱根周辺に置かれている。芦ノ湖の描写が出る。
+- [ ] **ミサトの経歴が明かされる話数と、父・調査隊との関係の描写。加持との関わり**  
+      > セカンドインパクトは、人物の側からも語られる。**葛城ミサト**は、葛城調査隊に参加していた父を持つ。彼女自身が、セカンドインパクトの生存者である。
+- [ ] **「ファーストインパクト」という語が作中・公式で出るか。出る場合の文脈**  
+      > セカンドインパクトという名称は、ファースト、サードを予告する。**サードインパクト**は、後に起こるべき(あるいは阻止されるべき)出来事として語られる。「ファーストインパクト」への言及は、作中でごくわずかである。
+- [ ] **新劇場版での用法と、どの作品の何が該当するか**  
+      > 【版の違い】 新劇場版では、「フォースインパクト」という語が現れる。(→ 第21〜24章)
+- [ ] **第1話の描写。避難警報の演出。ビルの格納・出現の描写**  
+      > 【描写】 使徒が接近すると、街の住民は避難し、ビルが地下に格納される。代わりに、兵装ビルや射出口が地表に現れる。 エヴァは、地下の**ケイジ**から射出され、街の各所に設けられた**射出口**から地上に出る。 第6話の**ヤシマ作戦**では、日本全国の電力を集めて陽電子砲を撃つ、
+- [ ] **射出口の描写と、エヴァの発進手順の初出話数**  
+      > 【描写】 使徒が接近すると、街の住民は避難し、ビルが地下に格納される。代わりに、兵装ビルや射出口が地表に現れる。 エヴァは、地下の**ケイジ**から射出され、街の各所に設けられた**射出口**から地上に出る。 第6話の**ヤシマ作戦**では、日本全国の電力を集めて陽電子砲を撃つ、
+- [ ] **第6話の作戦の経緯と描写。電力の集約という設定**  
+      > 【描写】 使徒が接近すると、街の住民は避難し、ビルが地下に格納される。代わりに、兵装ビルや射出口が地表に現れる。 エヴァは、地下の**ケイジ**から射出され、街の各所に設けられた**射出口**から地上に出る。 第6話の**ヤシマ作戦**では、日本全国の電力を集めて陽電子砲を撃つ、
+- [ ] **作中の表記(使徒/Angel)と、画面上の英語表記の有無**  
+      > 作中の敵は **使徒(しと)** と呼ばれる。「使徒」は宗教的な文脈では、特別な使命を帯びて遣わされた弟子を指す語である。英語版では **Angel(天使)** と訳され、画面表示も英語圏の資料でもそう書かれることが多い。「天使」と「使徒」は別の語であり、前者が「神の使い」という
+- [ ] **「使徒」という呼称の選択についての制作者の発言の有無(出典:雑誌・公式資料)**  
+      > 【解釈・論点】 敵の呼び名が、「侵略者」でも「怪獣」でもなく、**誰かに遣わされた者**を意味する語であることは、作品が使徒を「正体不明の怪物」としてだけ扱っていないことを示唆する。ただし、この語の選択が何を意図したものかについては、制作者の説明を確認する必要がある。
+- [ ] **アダム=第1、リリス=第2という番号づけがどこで示されるか(作中か、公式資料のみか)**  
+      > 使徒には番号が振られている。**アダム**が第1使徒、**リリス**が第2使徒とされ、TVシリーズでネルフが戦うのは **第3使徒から第17使徒** までである。 個々の使徒の名前は、ユダヤ教・キリスト教の天使学に由来する名が用いられている。
+- [ ] **名前が作中の画面表示で示されるか、公式資料でのみ示されるか(使徒ごとに)**  
+      > 使徒には番号が振られている。**アダム**が第1使徒、**リリス**が第2使徒とされ、TVシリーズでネルフが戦うのは **第3使徒から第17使徒** までである。 個々の使徒の名前は、ユダヤ教・キリスト教の天使学に由来する名が用いられている。
+- [ ] **この表のすべての行を作品と照合する。特に、(1)各使徒の登場話数(複数話にまたがるもの)、(2)備考欄の描写の正確さ、(3)使徒の呼称・番号が画面で示されるか。二次資料の要約と一致が確認できたのは、サキエル=第1話、シャムシエル=第2話に登場、ラミエル=第5話から攻撃開始、ゼルエル=第19話の四点のみ。ほかは記憶に基づく**
+- [ ] **各使徒の形態の描写が「共通設計を持たない」と言えるか。例外(人型のタブリス等)**  
+      > 【描写】 使徒は、外見がまちまちである。人型に近いもの、幾何学的な形のもの、海中に潜むもの、複数に分裂するものなど、共通の身体の設計はない。 一方で、次の性質は多くの使徒に共通する。
+- [ ] **コアの描写が各使徒でどうなっているか。コアを持たない/破壊されない使徒の例外**  
+      > 1. **コア**: 多くの使徒は、赤い球体状のコアを持ち、これを破壊することで倒される。
+- [ ] **ATフィールドが最初に説明される話数と、その説明の内容**  
+      > 2. **ATフィールド**: 使徒は強力な ATフィールドを持ち、これを中和・侵食しなければ攻撃が通らない。
+- [ ] **「パターン青」という語の初出話数と、各使徒でそれが示されるか**  
+      > 3. **波長パターン**: ネルフは使徒を解析し、固有のパターンとして分類する。使徒の識別には「パターン青」と呼ばれる解析結果が示される。
+- [ ] **誰が・どの話で、使徒の目的を語るか。言葉遣い(「アダム」を目指すのか、「リリス」を目指すのか)**  
+      > 【描写】 ネルフの幹部は、使徒が **ターミナルドグマ** に向かうと語る。そこには、ネルフ本部の最深部に拘束された存在があり、使徒との接触が重大な事態(サードインパクト)につながると説明される。
+- [ ] **一次資料での制作者発言の有無**  
+      > 【発言】 使徒の目的について、制作者が作中の説明以上のことを語った発言があるかは、本稿の時点では確認できていない。
+- [ ] **カヲルが「リリン」と呼ぶ台詞の正確な文言と話数**  
+      > 第24話で、渚カヲルは人類を **リリン** と呼ぶ。 ここから読み取れるのは、使徒が **アダム**から生まれた生命であり、人類が **リリス**から生まれた生命であるという関係である。
+- [ ] **アダム=使徒の祖、リリス=人類の祖という関係が作中のどこで語られるか。台詞の根拠**  
+      > 第24話で、渚カヲルは人類を **リリン** と呼ぶ。 ここから読み取れるのは、使徒が **アダム**から生まれた生命であり、人類が **リリス**から生まれた生命であるという関係である。
+- [ ] **各項目の対応づけを作品と照合する。特に、(1)各使徒が「どの人物の問題」と結びつくという読みが作品に即しているか、(2)話数、(3)「内面が前面に出る」といった描写の正確さ。これは本書の解釈(Interpreted)であり、作中の説明ではない**
 - [ ] **(verify)**  
-      > - **They are alien in form and varied in shape.** There is no standard body plan.
-- [ ] **confirm for each Angel, and note exceptions**  
-      > - **Each has a core.** Most Angels are defeated by destroying a red sphere-like core.
-- [ ] **first episode where this is explained**  
-      > - **They carry an AT Field**, the barrier discussed in section 10.5, which must be neutralized before they can be hurt.
-- [ ] **the term shown on screen, often given as "Pattern Blue"**  
-      > - **Their signature is detected by NERV's analysis.** NERV's computers classify them by a pattern readout.
-- [ ] **who says this, and in which episode**  
-      > - **They are drawn to the depths beneath NERV headquarters.** NERV's leadership says the Angels are trying to reach the being held there.
+      > | **サキエル**(第3、第1話) | 人型に近い姿。仮面のような顔を持つ  | 物語の最初の敵。シンジが初めてエヴァに乗る。初号機が**暴走**し、使徒を倒す  |
+- [ ] **暴走の描写と、使徒の最期(自爆の有無)**  
+      > | **サキエル**(第3、第1話) | 人型に近い姿。仮面のような顔を持つ  | 物語の最初の敵。シンジが初めてエヴァに乗る。初号機が**暴走**し、使徒を倒す  |
 - [ ] **(verify)**  
-      > The work's answer, given piecemeal, is that the Angels are **offspring of Adam**, the First Angel, and that humanity descends from **Lilith*
-- [ ] **first on-screen appearance and how it is named at that point**  
-      > Beneath NERV headquarters, in a region called the **Terminal Dogma**, a huge pale figure hangs crucified, pierced by a spear.  Viewers meeti
-- [ ] **the exact episode(s) and wording of the reveal; confirm whether the TV series or The End of Evangelion carries it**  
-      > Beneath NERV headquarters, in a region called the **Terminal Dogma**, a huge pale figure hangs crucified, pierced by a spear.  Viewers meeti
-- [ ] **where the embryo is shown and described**  
-      > 2. the "Adam" that Gendo Ikari holds is a **separate** object, an embryo-like form kept in his possession ; and
-- [ ] **whether any character states the target is Adam, Lilith, or both**  
-      > 3. the Angels' target, which the staff describe as Adam, is a statement about what NERV *believes* at a given point in the story.
-- [ ] **where it is shown, how it is named, and its role in the finale**  
-      > The **Lance of Longinus** is a spear associated with the crucified figure.  Its function in the plot is covered in sections 10.7 and 10.10.
-- [ ] **exact on-screen text in episode 1**  
-      > The Evangelion units ("Evas") are enormous biomechanical combat machines. The title card of episode 1 labels them as a "general-purpose huma
-- [ ] **first episode where an Eva acts without its pilot**  
-      > The Evangelion units ("Evas") are enormous biomechanical combat machines. The title card of episode 1 labels them as a "general-purpose huma
-- [ ] **who says this and in which episode**  
-      > The Eva's armor is described within the series as **restraint** rather than protection.
+      > | **シャムシエル**(第4、第2・3話) | 光る鞭状の腕を持つ  | シンジが、自分の意志で戦うことを選ぶ戦闘  |
+- [ ] **第3話の戦闘と、シンジの決意の描写**  
+      > | **シャムシエル**(第4、第2・3話) | 光る鞭状の腕を持つ  | シンジが、自分の意志で戦うことを選ぶ戦闘  |
 - [ ] **(verify)**  
-      > | Unit-00 (prototype) | Rei Ayanami |  |
+      > | **ラミエル**(第5、第5・6話) | 正八面体の姿。遠距離から攻撃する  | **ヤシマ作戦**。レイが盾を持ち、シンジを守る  |
+- [ ] **第6話の描写**  
+      > | **ラミエル**(第5、第5・6話) | 正八面体の姿。遠距離から攻撃する  | **ヤシマ作戦**。レイが盾を持ち、シンジを守る  |
 - [ ] **(verify)**  
-      > | Unit-02 | Asuka Langley Soryu |  |
+      > | **ガギエル**(第6、第8話) | 海中・海上で活動する  | アスカの初戦。弐号機が登場する。加持が現れる  |
 - [ ] **(verify)**  
-      > | Unit-03 | Toji Suzuhara |  |
+      > | **ガギエル**(第6、第8話) | 海中・海上で活動する  | アスカの初戦。弐号機が登場する。加持が現れる  |
 - [ ] **(verify)**  
-      > | Mass Production Evas | (unmanned) | The End of Evangelion  |
-- [ ] **confirm the order and each introduction. Confirm the "Marduk Institute" as the selection body and where it is named.**  
-      > The pilots are called **Children**: Rei is the First Child, Asuka the Second, Shinji the Third, Toji the Fourth, Kaworu Nagisa the Fifth.  T
-- [ ] **Stated or Shown for each character**  
-      > The pilots are called **Children**: Rei is the First Child, Asuka the Second, Shinji the Third, Toji the Fourth, Kaworu Nagisa the Fifth.  T
+      > | **イスラフェル**(第7、第9話) | 二体に分裂する  | シンジとアスカの**ユニゾン**(同時攻撃)の訓練と戦闘  |
 - [ ] **(verify)**  
-      > - The pilot sits in an **entry plug** inserted into the Eva.
+      > | **イスラフェル**(第7、第9話) | 二体に分裂する  | シンジとアスカの**ユニゾン**(同時攻撃)の訓練と戦闘  |
 - [ ] **(verify)**  
-      > - The plug is filled with **LCL**, an oxygenated liquid the pilot breathes.
-- [ ] **first on-screen use**  
-      > - The pilot's mind is connected to the Eva's. The measure of how well it works is the **synchronization ratio**; low ratio means poor contro
-- [ ] **the relevant scene, and which episode shows it**  
-      > - If synchronization is extreme, the pilot's boundary with the Eva can blur.
-- [ ] **the battery duration given in the series. Secondary sources say five minutes; confirm**  
-      > Evas run on external power through an **umbilical cable**; cut it and they fall back on an **internal battery** for a very limited time.  So
-- [ ] **exact name, how it is explained, which units have it**  
-      > Evas run on external power through an **umbilical cable**; cut it and they fall back on an **internal battery** for a very limited time.  So
-- [ ] **the two episodes. Secondary sources point to 4 and 19.**  
-      > At least twice, Unit-01 acts without its pilot's control, defeating an Angel with ferocity the staff cannot explain.  The series treats this
-- [ ] **where this is revealed and how**  
-      > The Evas contain **souls**, in a sense the series never fully defines. Unit-01 holds the soul of **Yui Ikari**, Shinji's mother.  This is **
-- [ ] **first explanation and the source of the expansion**  
-      > The **AT Field** is a barrier that all Angels and Evas can produce. "AT" is explained as "Absolute Terror."  Within the story, it has two me
+      > | **サンダルフォン**(第8、第10話) | 火山の溶岩内にいる、孵化前の使徒  | 弐号機が溶岩に潜る作戦。使徒の**孵化前の捕獲**という発想  |
 - [ ] **(verify)**  
-      > - **Physical:** it is a defensive wall that must be neutralized before damage can be done.
-- [ ] **exact wording in episode 24, and in episodes 25–26**  
-      > - **Psychological:** it is described as the wall of the self, the boundary that separates one mind from another. Kaworu describes it this wa
-- [ ] **the UN relationship and the "Geofront" term**  
-      > NERV is a special agency operating under the United Nations. Its headquarters sit beneath Tokyo-3, in a vast underground space called the **
-- [ ] **titles as given on screen and in official materials**
-- [ ] **where Gehirn is named and what it is said to have done**  
-      > **Gehirn** is NERV's predecessor organization, responsible for building the first Evangelion and the facilities under Tokyo-3.  ("Gehirn" is
+      > | **サンダルフォン**(第8、第10話) | 火山の溶岩内にいる、孵化前の使徒  | 弐号機が溶岩に潜る作戦。使徒の**孵化前の捕獲**という発想  |
 - [ ] **(verify)**  
-      > **Gehirn** is NERV's predecessor organization, responsible for building the first Evangelion and the facilities under Tokyo-3.  ("Gehirn" is
-- [ ] **names as shown on screen; where the personality design is revealed; which episode**  
-      > The **MAGI** are a trio of supercomputers that run NERV's systems. They are named **Melchior, Balthasar, and Casper**. The series reveals th
-- [ ] **the count; whether "twelve" is stated on screen or in official materials**  
-      > **SEELE** (German for "soul") is a secret council that stands above NERV. It is made of twelve members, who appear as black monoliths bearin
-- [ ] **how the series presents the Scrolls and who says what about their contents**  
-      > **SEELE** (German for "soul") is a secret council that stands above NERV. It is made of twelve members, who appear as black monoliths bearin
-- [ ] **where SEELE states this; wording**  
-      > SEELE's plan, as the series shows it, is to bring about **Third Impact** and **Human Instrumentality**: the dissolution of the boundaries be
+      > | **マトリエル**(第9、第11話) | 溶解液を使う  | 停電の回。ネルフの電力系統の弱さが示される  |
 - [ ] **(verify)**  
-      > SEELE's plan, as the series shows it, is to bring about **Third Impact** and **Human Instrumentality**: the dissolution of the boundaries be
-- [ ] **where it is revealed; confirm the exact content as shown**  
-      > Gendo Ikari's goal, as revealed late, is a different version of the same event: using Lilith and Adam to reunite with **Yui**.  This is a **
-- [ ] **the TV series' own definition**  
-      > In the television series, the **Human Instrumentality Project** is presented as a process that gathers human souls into a single whole.  In 
-- [ ] **where the term is defined**  
-      > **Third Impact** is the event that would trigger Instrumentality.  "First Impact" is mentioned only in passing in the series, and its nature
-- [ ] **whether and where "First Impact" is mentioned**  
-      > **Third Impact** is the event that would trigger Instrumentality.  "First Impact" is mentioned only in passing in the series, and its nature
-- [ ] **what the series says about the selection**  
-      > 5. **Why only children can pilot the Evas**, beyond the statement that they are selected.
-- [ ] **whether and where these are named**  
-      > 6. **The role of the Black Moon and the White Moon**, which are mentioned and never fully used.
-- [ ] **what the work shows or states about the origin of each Eva unit; this is a genuine open point**  
-      > A caution about secondary sources, drawn from the research for this chapter itself. One fan encyclopedia summary describes Unit-01 as a "dir
+      > | **マトリエル**(第9、第11話) | 溶解液を使う  | 停電の回。ネルフの電力系統の弱さが示される  |
 - [ ] **(verify)**  
-      > | Third Impact / Instrumentality | Largely depicted as an inner event (Eps. 25–26)  | Depicted as a physical event  | Different; see Ch. 21–
+      > | **サハクィエル**(第10、第12話) | 衛星軌道から落下してくる  | 三機のエヴァが使徒を受け止める。「奇跡」の回  |
 - [ ] **(verify)**  
-      > | Third Impact / Instrumentality | Largely depicted as an inner event (Eps. 25–26)  | Depicted as a physical event  | Different; see Ch. 21–
+      > | **サハクィエル**(第10、第12話) | 衛星軌道から落下してくる  | 三機のエヴァが使徒を受け止める。「奇跡」の回  |
 - [ ] **(verify)**  
-      > | Third Impact / Instrumentality | Largely depicted as an inner event (Eps. 25–26)  | Depicted as a physical event  | Different; see Ch. 21–
+      > | **イロウル**(第11、第13話) | ごく微小で、コンピュータに侵入する  | MAGIへの侵入。ネルフ本部の機能への攻撃  |
 - [ ] **(verify)**  
-      > | Identity of the figure in the depths | Presented as Adam, later revealed  | Revealed  | Differs in detail  |
+      > | **イロウル**(第11、第13話) | ごく微小で、コンピュータに侵入する  | MAGIへの侵入。ネルフ本部の機能への攻撃  |
 - [ ] **(verify)**  
-      > | Identity of the figure in the depths | Presented as Adam, later revealed  | Revealed  | Differs in detail  |
+      > | **レリエル**(第12、第16話) | 球体と、影のような空間  | 初号機が飲み込まれる。シンジの内面が前面に出る  |
 - [ ] **(verify)**  
-      > | Identity of the figure in the depths | Presented as Adam, later revealed  | Revealed  | Differs in detail  |
+      > | **レリエル**(第12、第16話) | 球体と、影のような空間  | 初号機が飲み込まれる。シンジの内面が前面に出る  |
 - [ ] **(verify)**  
-      > | The Angels | Third to Seventeenth fought | n/a | Different designs and sequence in places  |
+      > | **バルディエル**(第13、第17・18話) | 参号機に寄生する  | **トウジの負傷**。シンジが戦いを拒み、ダミーシステムが使われる  |
 - [ ] **(verify)**  
-      > | Organizations | NERV, SEELE | NERV, SEELE | New organizations appear; see Ch. 21  |
+      > | **バルディエル**(第13、第17・18話) | 参号機に寄生する  | **トウジの負傷**。シンジが戦いを拒み、ダミーシステムが使われる  |
+- [ ] **(verify)**  
+      > | **ゼルエル**(第14、第19話) | 強力な使徒  | 初号機が**暴走**し、使徒を倒す。シンジの失踪につながる  |
+- [ ] **(verify)**  
+      > | **ゼルエル**(第14、第19話) | 強力な使徒  | 初号機が**暴走**し、使徒を倒す。シンジの失踪につながる  |
+- [ ] **(verify)**  
+      > | **アラエル**(第15、第22話) | 衛星軌道から精神に作用する  | **アスカの精神が侵される**。レイが槍を投げる  |
+- [ ] **(verify)**  
+      > | **アラエル**(第15、第22話) | 衛星軌道から精神に作用する  | **アスカの精神が侵される**。レイが槍を投げる  |
+- [ ] **(verify)**  
+      > | **アルミサエル**(第16、第23話) | 零号機に侵入する  | **レイの自爆**。レイの出自が明かされる  |
+- [ ] **(verify)**  
+      > | **アルミサエル**(第16、第23話) | 零号機に侵入する  | **レイの自爆**。レイの出自が明かされる  |
+- [ ] **(verify)**  
+      > | **タブリス**(第17、第24話) | 人型。渚カヲルとして現れる  | **最後の使徒**。シンジは、友人となったカヲルを倒す  |
+- [ ] **(verify)**  
+      > | **タブリス**(第17、第24話) | 人型。渚カヲルとして現れる  | **最後の使徒**。シンジは、友人となったカヲルを倒す  |
+- [ ] **この表のすべての「主な描写」と「物語上の位置」を、各話と照合する。記憶に基づく記述であり、誤りが含まれている可能性がある**
+- [ ] **この転換を本書の解釈として示すか、作品の描写から示すか**  
+      > 【解釈・論点】 一覧にすると、**前半の使徒は戦術・技術の課題**を、**後半の使徒は人物の内面の課題**を突きつけていることが分かる。この転換点は、おおよそ第12〜16話あたりにある、という見方がある。
+- [ ] **新劇場版で登場する使徒の一覧と、TV版との対応。新たな使徒の有無。番号づけの変更**  
+      > 新劇場版では、使徒の登場順や形状、設定が変更されている。(→ 第19〜24章)
+- [ ] **命名の由来についての制作者・公式資料の記述の有無(出典)。以下は二次資料(解説記事)で指摘されている範囲であり、一次確認が必要**  
+      > 使徒の個別名は、ユダヤ教・キリスト教・イスラームなどの伝承に登場する天使の名に由来する、と一般に指摘される。
+- [ ] **(verify)**  
+      > | サキエル | 水を司る天使とされる  |
+- [ ] **(verify)**  
+      > | ラミエル | 「神の雷」を意味する天使とされる  |
+- [ ] **(verify)**  
+      > | イスラフェル | イスラームの「音楽」に関わる天使の別読みとされる  |
+- [ ] **(verify)**  
+      > | サンダルフォン | 胎児に関わる天使として語られる  |
+- [ ] **(verify)**  
+      > | レリエル | 夜を司る天使とされる  |
+- [ ] **一次・信頼できる二次の確認**  
+      > | アルミサエル | 胎(子宮)に関わる天使とされる  |
+- [ ] **一次・信頼できる二次の確認**  
+      > | タブリス | 「自由意志」に関わる天使とされる  |
+- [ ] **アダム・リリスが「使徒」として数えられることが、作中・公式でどう示されるか**  
+      > - **第1使徒(アダム)と第2使徒(リリス)**: 番号上は使徒に含まれるが、「戦う使徒」ではない。
+- [ ] **この数え方が作中の台詞にあるか、公式資料にのみあるか。旧劇場版での扱い**  
+      > - **第18使徒**: 人類(リリン)を、第18の使徒とする見方がある。
+- [ ] **初出の話数と、その描写。画面でどう呼称されるか**  
+      > ネルフ本部の最深部、**ターミナルドグマ**には、巨大な白い人型の存在が磔にされている。胸には槍が突き刺さっている。
+- [ ] **「アダム」と呼ばれる箇所と、「リリス」と明かされる箇所(TV版か旧劇場版か)。誰が何と言うか**  
+      > 視聴者は、この巨人をまず「アダム」として知る。後に、この巨人が **リリス** であることが明かされる。
+- [ ] **使徒の到達目標を、作中の人物が「アダム」「リリス」のどちらと呼ぶか**  
+      > 3. 使徒が目指す先は、作中の人物がどう呼ぶかによって「アダム」とも「リリス」とも語られうる。
+- [ ] **「アダム」と呼ばれる最後の場面と、「リリス」と呼ばれる最初の場面**  
+      > 【描写】 作中では、ターミナルドグマの巨人は、ある時点まで「アダム」として語られる。
+- [ ] **一次資料での制作者・スタッフの発言の有無。公式資料の記述**  
+      > 【発言】 この呼称の変化が、当初からの設計であったのか、制作途中の設定変更であったのかについて、制作者の発言があるかは確認できていない。
+- [ ] **初出の話数と描写(右手か左手か、手のひらか甲か)。「アダム」と呼ばれる箇所**  
+      > 【描写】 ゲンドウの手には、何かが埋め込まれている。 これは、アダムが **胚の形で** ゲンドウの手にあることを示すものとされる。
+- [ ] **「胚」という語が作中・公式で使われるか**  
+      > 【描写】 ゲンドウの手には、何かが埋め込まれている。 これは、アダムが **胚の形で** ゲンドウの手にあることを示すものとされる。
+- [ ] **「ロンギヌスの槍」という呼称の初出話数**  
+      > 【描写】 リリスの胸に突き刺さる槍が、**ロンギヌスの槍**と呼ばれる。 第22話では、綾波レイが零号機でこの槍を投げ、衛星軌道上の使徒(アラエル)を倒す。 旧劇場版では、槍が月に存在し、重要な役割を果たす。
+- [ ] **第22話の描写。槍がターミナルドグマから持ち出される経緯。投げられた槍がその後どこにあるか**  
+      > 【描写】 リリスの胸に突き刺さる槍が、**ロンギヌスの槍**と呼ばれる。 第22話では、綾波レイが零号機でこの槍を投げ、衛星軌道上の使徒(アラエル)を倒す。 旧劇場版では、槍が月に存在し、重要な役割を果たす。
+- [ ] **旧劇場版での槍の描写(月にあること、ゼーレがそれを用いること)。TV版第22話の槍と同一のものとして描かれているか**  
+      > 【描写】 リリスの胸に突き刺さる槍が、**ロンギヌスの槍**と呼ばれる。 第22話では、綾波レイが零号機でこの槍を投げ、衛星軌道上の使徒(アラエル)を倒す。 旧劇場版では、槍が月に存在し、重要な役割を果たす。
+- [ ] **制作者による、宗教的モチーフの使い方についての発言(出典:雑誌インタビュー等)**  
+      > 【発言】 「ロンギヌス」という名は、キリスト教の伝承に登場する、十字架上のイエスを刺した槍(の持ち主)に由来する。この名が、作品内の設定にどの程度の意味を持つかについては、**装飾か構造か**で議論がある。(→ 第27章)
+- [ ] **両語の初出話数と、それぞれが何を指すと説明されるか。アダム・リリスとの対応(黒き月=リリス、白き月=アダム、という整理が作中・公式で示されるか)**  
+      > 作中には、**黒き月**と**白き月**と呼ばれるものが登場する。
+- [ ] **第1話の画面表示の正確な文言**  
+      > エヴァンゲリオン(エヴァ)は、第1話のタイトル表示で「汎用ヒト型決戦兵器 人造人間エヴァンゲリオン」と示される。
+- [ ] **エヴァが出血する描写、再生の描写、パイロットの操縦とは無関係に動く描写の初出話数**  
+      > 【描写】 エヴァは、単なる機械ではない。生体の要素を持ち、傷つけば出血し、再生し、パイロットの意志と無関係に動くことがある。
+- [ ] **誰が・どの話で、装甲を拘束具と説明するか。台詞の文言**  
+      > 【描写】 エヴァの装甲は、防御のための鎧ではなく、**拘束具**であると説明される。
+- [ ] **拘束を破る描写の話数**  
+      > 【解釈・論点】 この説明は、エヴァが「制御されている」のではなく、「制御されなければならない存在」であることを意味する。後に、初号機が拘束を破るかのように動く場面(暴走)が、この前提を裏づける。
+- [ ] **(verify)**  
+      > | 零号機 | 試作機  | 綾波レイ | |
+- [ ] **(verify)**  
+      > | 初号機 | 試験機  | 碇シンジ | 物語の中心 |
+- [ ] **(verify)**  
+      > | 弐号機 | 実戦用(量産前の機体) | 惣流・アスカ・ラングレー | 第8話から  |
+- [ ] **(verify)**  
+      > | 弐号機 | 実戦用(量産前の機体) | 惣流・アスカ・ラングレー | 第8話から  |
+- [ ] **話数**  
+      > | 参号機 | | 鈴原トウジ | 使徒に乗っ取られる  |
+- [ ] **話数と描写**  
+      > | 四号機 | | (不在) | 米国で消失  |
+- [ ] **台数と描写**  
+      > | 量産機 | | (無人) | 旧劇場版で登場  |
+- [ ] **機体の位置づけ(試作機・試験機・実戦用)を作中の画面表示・台詞で確認する。参号機・四号機の経緯。量産機の描写**
+- [ ] **新劇場版の機体一覧(マーク番号の機体等)**  
+      > 【版の違い】 新劇場版では、機体の構成・外観・名称に変更がある。(→ 第23章)
+- [ ] **番号づけの正確さ(特に、フォース・フィフスが示される話数)。「適格者」という語の用法**
+- [ ] **「マルドゥック機関」の初出話数と、説明の内容。選出の手続き**  
+      > 【描写】 チルドレンは、**マルドゥック機関**によって選ばれると説明される。 主要なパイロットは14歳である。
+- [ ] **シンジ・レイ・アスカの年齢が、作中・公式のどこで示されるか。各人物ごとに**  
+      > 【描写】 チルドレンは、**マルドゥック機関**によって選ばれると説明される。 主要なパイロットは14歳である。
+- [ ] **一次資料での制作者発言(雑誌・インタビュー)。なければ「未確認」と明記**  
+      > 【発言】 パイロットを少年少女としたことについての制作者の発言は、複数ある可能性があるが、本稿の時点では出典を確認できていない。
+- [ ] **エントリープラグ・LCLの初出話数(第1話)と、LCLの説明**  
+      > 【描写】 パイロットは、エヴァの背部に挿入される**エントリープラグ**に搭乗する。プラグ内は **LCL** という液体で満たされ、パイロットはそれを呼吸する。 パイロットの意識は、エヴァと**神経接続**で結ばれる。
+- [ ] **接続の方式の名称(A10神経等)が作中で示されるか**  
+      > 【描写】 パイロットは、エヴァの背部に挿入される**エントリープラグ**に搭乗する。プラグ内は **LCL** という液体で満たされ、パイロットはそれを呼吸する。 パイロットの意識は、エヴァと**神経接続**で結ばれる。
+- [ ] **シンクロ率が初めて画面に示される話数と、値が戦闘結果に影響する描写**  
+      > 操縦の成否は、**シンクロ率** で示される。シンクロ率が低ければ、エヴァは思うように動かない。
+- [ ] **話数と描写。原因(精神の状態)がどう示されるか**  
+      > 【描写】 アスカのシンクロ率は、ある時期に大きく低下し、弐号機は動かなくなる。 一方で、**ダミーシステム**(パイロットの代わりに機体を動かす仕組み)が登場する。
+- [ ] **ダミーシステム/ダミープラグの初出話数と説明**  
+      > 【描写】 アスカのシンクロ率は、ある時期に大きく低下し、弐号機は動かなくなる。 一方で、**ダミーシステム**(パイロットの代わりに機体を動かす仕組み)が登場する。
+- [ ] **「5分」という数字が示される話数(第1話)と、残り時間の画面表示の演出**  
+      > 【描写】 エヴァは、外部電源(**アンビリカルケーブル**)で動く。ケーブルが切断されると、**内部電源**で動くが、その活動時間はきわめて短く、**5分**と示される。
+- [ ] **S²機関(スーパーソレノイド機関)の初出話数と説明。それを持つ使徒・機体**  
+      > 【描写】 一部の使徒・エヴァは、**S²機関**を持つ。 S²機関は、外部電源に依存しない動力源として語られる。
+- [ ] **暴走が描かれるすべての話数(第1話の初戦、使徒に飲み込まれる回、参号機戦、ゼルエル戦など)と、各回の描写。「暴走」という語が作中で使われるか**  
+      > 【描写】 エヴァ(特に初号機)は、パイロットの制御を離れて動くことがある。これは**暴走**と呼ばれる。
+- [ ] **初号機にユイの魂があることが示される話数と、どの人物が何を語るか。弐号機にキョウコの魂があることが示される話数と描写。零号機・参号機・四号機の扱い**  
+      > 【描写】 エヴァには、**人の魂**が宿っていることが示される。**初号機**にはシンジの母、碇ユイ。**弐号機**にはアスカの母、惣流・キョウコ・ツェッペリン。
+- [ ] **「ATフィールド」という語の初出話数と、その説明**  
+      > **ATフィールド**は、エヴァと使徒が持つ障壁である。 ATは、英語で **Absolute Terror Field(絶対恐怖領域)** とされる。
+- [ ] **この展開が作中・公式のどこで示されるか**  
+      > **ATフィールド**は、エヴァと使徒が持つ障壁である。 ATは、英語で **Absolute Terror Field(絶対恐怖領域)** とされる。
+- [ ] **第24話のカヲルの台詞の正確な文言**  
+      > 2. **心の壁**: 渚カヲルは、ATフィールドを「誰もが持っている、心の壁」として語る。 第25・26話および旧劇場版では、ATフィールドが失われることと、人が個の形を保てなくなることが結びついて描かれる。
+- [ ] **第25・26話、旧劇場版での関連する場面と台詞**  
+      > 2. **心の壁**: 渚カヲルは、ATフィールドを「誰もが持っている、心の壁」として語る。 第25・26話および旧劇場版では、ATフィールドが失われることと、人が個の形を保てなくなることが結びついて描かれる。
+- [ ] **暴走の描写と話数**  
+      > 【描写】 起動実験での暴走が描かれる。 パイロットは綾波レイ。ヤシマ作戦では、盾を持って戦う。 第23話で、レイは零号機とともに自爆する。
+- [ ] **第5・6話の描写**  
+      > 【描写】 起動実験での暴走が描かれる。 パイロットは綾波レイ。ヤシマ作戦では、盾を持って戦う。 第23話で、レイは零号機とともに自爆する。
+- [ ] **描写**  
+      > 【描写】 起動実験での暴走が描かれる。 パイロットは綾波レイ。ヤシマ作戦では、盾を持って戦う。 第23話で、レイは零号機とともに自爆する。
+- [ ] **各場面の話数**  
+      > 【描写】 物語の中心となる機体。初戦で暴走し、以後も、暴走・拘束の破壊・使徒の捕食といった異様な振る舞いを見せる。 母・ユイの魂が宿る。
+- [ ] **10.4.8**  
+      > 【描写】 物語の中心となる機体。初戦で暴走し、以後も、暴走・拘束の破壊・使徒の捕食といった異様な振る舞いを見せる。 母・ユイの魂が宿る。
+- [ ] **(verify)**  
+      > 【描写】 アスカの機体。第8話から登場する。 弐号機は、**実戦用**の機体として紹介される。 第22話で、アスカの精神が崩れ、シンクロ率が落ちる。 母・キョウコの魂が宿る。
+- [ ] **台詞**  
+      > 【描写】 アスカの機体。第8話から登場する。 弐号機は、**実戦用**の機体として紹介される。 第22話で、アスカの精神が崩れ、シンクロ率が落ちる。 母・キョウコの魂が宿る。
+- [ ] **(verify)**  
+      > 【描写】 アスカの機体。第8話から登場する。 弐号機は、**実戦用**の機体として紹介される。 第22話で、アスカの精神が崩れ、シンクロ率が落ちる。 母・キョウコの魂が宿る。
+- [ ] **10.4.8**  
+      > 【描写】 アスカの機体。第8話から登場する。 弐号機は、**実戦用**の機体として紹介される。 第22話で、アスカの精神が崩れ、シンクロ率が落ちる。 母・キョウコの魂が宿る。
+- [ ] **作中の根拠**  
+      > 【解釈・論点】 アスカが「母に認められること」を求めている、という読みが提示される。(→ 第11章)
+- [ ] **経緯と話数**  
+      > 【描写】 参号機は、米国から運ばれ、起動実験で使徒に乗っ取られる。 四号機は、米国第2支部で事故により消失したとされる。
+- [ ] **描写・台詞の根拠**  
+      > 【描写】 参号機は、米国から運ばれ、起動実験で使徒に乗っ取られる。 四号機は、米国第2支部で事故により消失したとされる。
+- [ ] **台数と描写**  
+      > 【描写】 旧劇場版で、白い量産機が登場する。 量産機は、ゼーレの計画で重要な役割を果たす。
+- [ ] **(verify)**  
+      > 【描写】 旧劇場版で、白い量産機が登場する。 量産機は、ゼーレの計画で重要な役割を果たす。
+- [ ] **新劇場版での機体の位置づけ・名称。ATフィールドの扱いの変化**  
+      > 新劇場版では、エヴァの機体、パイロット、設定が変更されている。(→ 第23章)
+- [ ] **「国連直属」「非公開組織」という説明が示される話数(第1話)と、画面上の組織名の表示**  
+      > **ネルフ**は、使徒に対抗するために作られた**特務機関**である。国連直属の非公開組織として紹介される。
+- [ ] **「ジオフロント」という語の初出話数と、景観の描写**  
+      > 【描写】 本部は、第3新東京市の地下にある巨大な空洞**ジオフロント**の内部にある。 司令部は**発令所**と呼ばれ、エヴァの格納場所は**ケイジ**と呼ばれる。最深部には**ターミナルドグマ**がある。
+- [ ] **各施設名の初出話数**  
+      > 【描写】 本部は、第3新東京市の地下にある巨大な空洞**ジオフロント**の内部にある。 司令部は**発令所**と呼ばれ、エヴァの格納場所は**ケイジ**と呼ばれる。最深部には**ターミナルドグマ**がある。
+- [ ] **各人物の肩書を、作中の表示・台詞・公式資料で確認する。「E計画」という語の使われ方。オペレーター3名の担当部署**
+- [ ] **「ゲヒルン」の初出話数と、ネルフとの関係の説明。ゲンドウ・ナオコとの関わり**  
+      > 【描写】 **ゲヒルン**は、ネルフの前身にあたる組織である。 エヴァンゲリオンの開発、第3新東京市の建設、MAGIの開発に関わったとされる。
+- [ ] **ゲヒルンの活動内容が作中で示されるか、公式資料でのみか**  
+      > 【描写】 **ゲヒルン**は、ネルフの前身にあたる組織である。 エヴァンゲリオンの開発、第3新東京市の建設、MAGIの開発に関わったとされる。
+- [ ] **組織名の由来に関する制作者・公式資料の記述の有無**  
+      > 【発言】 「ゲヒルン(Gehirn)」はドイツ語で「脳」を意味する語、「ネルフ(Nerv)」は「神経」を意味する語である。組織名が人体のメタファーを持つことについて、制作者の説明があるかは未確認である。
+- [ ] **三基の名称と、画面表示。三基の合議(多数決)で判断する仕組みの描写**  
+      > **MAGI**は、ネルフ本部を運用するスーパーコンピュータの組で、**メルキオール、バルタザール、カスパー**の三基から成る。
+- [ ] **この設定が作中で語られる話数と、誰が語るか。三つの人格と三基の対応**  
+      > 【描写】 MAGIは、**赤木ナオコ**(リツコの母)が、自らの人格を三つの側面に分けて移植したものとされる。それぞれ、**科学者としての自分、母としての自分、女としての自分**を反映する。 第13話では、使徒がMAGIに侵入する。
+- [ ] **話数と描写**  
+      > 【描写】 MAGIは、**赤木ナオコ**(リツコの母)が、自らの人格を三つの側面に分けて移植したものとされる。それぞれ、**科学者としての自分、母としての自分、女としての自分**を反映する。 第13話では、使徒がMAGIに侵入する。
+- [ ] **リツコとMAGI・ナオコの関係を示す場面(TV版・旧劇)と台詞**  
+      > 【解釈・論点】 ナオコの人格がコンピュータに移されているという設定は、**母と娘(ナオコとリツコ)の関係**の問題を、設定の中に埋め込んでいる。リツコがMAGIを操作し、MAGIに裏切られる場面は、この関係の延長として読める。(→ 第11章)
+- [ ] **モノリスの数、番号の表示。キールの肩書(議長)が作中で示されるか**  
+      > **ゼーレ**は、ネルフの上に立つ秘密結社である。画面では、黒い**モノリス**状の姿で、数字を付けて現れる。議長は**キール・ローレンツ**である。
+- [ ] **「人類補完委員会」の初出話数と、ゼーレとの関係(同一か、一部か)。委員会の人数に関する記述**  
+      > 【描写】 ゼーレは、**人類補完委員会**として、ネルフに指示を出す。国連を介して世界を動かす、とされる。 彼らは、**死海文書**と呼ばれる文書を保有し、そこに書かれたシナリオに従って計画を進める。
+- [ ] **死海文書の扱われ方と、台詞の根拠**  
+      > 【描写】 ゼーレは、**人類補完委員会**として、ネルフに指示を出す。国連を介して世界を動かす、とされる。 彼らは、**死海文書**と呼ばれる文書を保有し、そこに書かれたシナリオに従って計画を進める。
+- [ ] **加持の立場(複数の組織との関係)が示される話数と、台詞の根拠**  
+      > **加持リョウジ**は、日本政府、ネルフ、ゼーレのそれぞれと関係を持つ人物として描かれる。 彼は、ネルフとゼーレの関係、セカンドインパクトの真相、アダムの所在を追う。
+- [ ] **ヤシマ作戦(第6話)等での協力の描写**  
+      > 【描写】 使徒迎撃の場面で、日本政府と**戦略自衛隊**がネルフに協力する(あるいは、協力しない)描写がある。 旧劇場版では、戦略自衛隊がネルフ本部を攻撃する。
+- [ ] **旧劇場版での描写と、発端**  
+      > 【描写】 使徒迎撃の場面で、日本政府と**戦略自衛隊**がネルフに協力する(あるいは、協力しない)描写がある。 旧劇場版では、戦略自衛隊がネルフ本部を攻撃する。
+- [ ] **手順の各要素が作中で示される話数と描写。順序の正確さ**  
+      > 【描写】 おおまかな流れは次のとおりである。
+- [ ] **米国の第2支部、松代、他の支部・施設の名称と、作中で示される話数**  
+      > 作中では、第3新東京市の本部だけでなく、国外・国内の他の拠点が言及される。
+- [ ] **描写**  
+      > 【描写】 たとえば、参号機・四号機は、米国の支部と関係して語られる。 MAGIには、複数の拠点があることが示される。
+- [ ] **描写と話数**  
+      > 【描写】 たとえば、参号機・四号機は、米国の支部と関係して語られる。 MAGIには、複数の拠点があることが示される。
+- [ ] **新劇場版での組織の構成と、TV版との対応**  
+      > 新劇場版では、ネルフに対立する組織(**ヴィレ**)が登場する。(→ 第21章)
+- [ ] **作中で死海文書が何を記述すると説明されるか。登場人物が引用する場面。「裏死海文書」という語が作中で出るか**  
+      > 【描写】 ゼーレが保有する**死海文書**は、使徒の襲来、サードインパクト、人類補完などの未来を記述した予言的な文書として扱われる。
+- [ ] **この点についての制作者の発言(名前を借りただけである旨等)の有無。出典**  
+      > 【発言】 現実の死海文書は、1947年以降に発見された、古代ユダヤ教に関わる文書群である。作中の死海文書は、その名を借りた**架空の文書**であり、現実の内容とは関係がない。
+- [ ] **ゼーレの計画の目的が語られる台詞と話数**  
+      > 【描写】 ゼーレの計画は、**サードインパクト**を起こし、**人類補完計画**を実行することである。 その手段として、ゼーレは**量産型のエヴァ**と**ロンギヌスの槍**を用いる。
+- [ ] **量産型エヴァ・槍が計画で果たす役割。旧劇場版の描写と台詞**  
+      > 【描写】 ゼーレの計画は、**サードインパクト**を起こし、**人類補完計画**を実行することである。 その手段として、ゼーレは**量産型のエヴァ**と**ロンギヌスの槍**を用いる。
+- [ ] **ゲンドウの目的が示される場面(TV版と旧劇場版)、台詞の根拠。誰が語るか(本人・冬月等)**  
+      > 【描写】 碇ゲンドウの目的は、**妻・ユイとの再会**である。 ゲンドウは、ゼーレのシナリオを利用しつつ、自らの計画を進める。
+- [ ] **ゼーレとの対立が表面化する場面と話数**  
+      > 【描写】 碇ゲンドウの目的は、**妻・ユイとの再会**である。 ゲンドウは、ゼーレのシナリオを利用しつつ、自らの計画を進める。
+- [ ] **サードインパクトが作中でどう定義されるか。台詞の根拠**  
+      > 【描写】 **サードインパクト**は、人類補完計画を実現するための引き金となる出来事である。
+- [ ] **TV版での人類補完計画の定義(台詞)。「補完」という語の意味の説明**  
+      > **人類補完計画**は、人類の魂を一つの全体に統合する計画として説明される。
+- [ ] **(verify)**  
+      > | 描写の主な舞台 | 主に**内面**(精神世界の場面)  | **物理的な事象**(世界の変貌)  |
+- [ ] **(verify)**  
+      > | 描写の主な舞台 | 主に**内面**(精神世界の場面)  | **物理的な事象**(世界の変貌)  |
+- [ ] **(verify)**  
+      > | ATフィールドの扱い | 心の壁として語られる  | 人が形を失う現象と結びつく  |
+- [ ] **(verify)**  
+      > | ATフィールドの扱い | 心の壁として語られる  | 人が形を失う現象と結びつく  |
+- [ ] **(verify)**  
+      > | 結末 | シンジの内面の変化  | 補完の拒否と、その後の世界  |
+- [ ] **(verify)**  
+      > | 結末 | シンジの内面の変化  | 補完の拒否と、その後の世界  |
+- [ ] **作中でパイロットの選抜基準がどこまで説明されるか**  
+      > 5. **子どもだけがエヴァに乗れる理由** — 「適格者として選ばれる」以上の説明。
+- [ ] **(verify)**  
+      > 6. **黒き月・白き月の運用** — 語は出るが、設定は深く説明されない。
+- [ ] **作中で語られる範囲(話数)**  
+      > 9. **ユイの消失の詳細** — 初号機の実験で何が起きたのか。
+- [ ] **作中・公式資料で、各機体の出自がどう示されるか。TV版と旧劇場版・新劇場版での違い。これは本当に未確定の論点である**  
+      > - **エヴァの出自**: ある百科事典サイトの要約は、初号機を「リリスの複製」と記述する。他の資料は、エヴァを「アダムの複製」と記述する。(→ 論点: `db-eva-origin`)
+- [ ] **シャムシエルの登場話数**  
+      > - **使徒の登場話数**: ある要約はシャムシエルを第2話に置き、別の記憶は第3話の戦闘に置く。実際には、第2話での登場と第3話での戦闘の両方がある可能性が高い。
+- [ ] **作中の描写(モノリスの数)と、公式資料の記述**  
+      > - **組織の構成**: ゼーレの人数や、人類補完委員会の人数について、資料ごとに記述が異なる。
+- [ ] **制作上の事情に関する制作者の発言(出典)。第3章で詳述**  
+      > 3. **制作上の制約**: 放映スケジュールや予算など、制作上の事情が、設定の説明を削った可能性がある。
+- [ ] **(verify)**  
+      > | サードインパクト/補完 | 主に内面の描写(第25・26話) | 物理的な描写  | 異なる扱い(第21〜24章) |
+- [ ] **(verify)**  
+      > | サードインパクト/補完 | 主に内面の描写(第25・26話) | 物理的な描写  | 異なる扱い(第21〜24章) |
+- [ ] **(verify)**  
+      > | サードインパクト/補完 | 主に内面の描写(第25・26話) | 物理的な描写  | 異なる扱い(第21〜24章) |
+- [ ] **(verify)**  
+      > | 最深部の巨人 | 「アダム」として提示、後に判明  | 判明  | 細部が異なる  |
+- [ ] **(verify)**  
+      > | 最深部の巨人 | 「アダム」として提示、後に判明  | 判明  | 細部が異なる  |
+- [ ] **(verify)**  
+      > | 最深部の巨人 | 「アダム」として提示、後に判明  | 判明  | 細部が異なる  |
+- [ ] **(verify)**  
+      > | 使徒 | 第3〜第17使徒 | — | 登場順・形状に違いあり  |
+- [ ] **(verify)**  
+      > | 組織 | ネルフ、ゼーレ | ネルフ、ゼーレ、戦自  | ヴィレなど新組織  |
+- [ ] **(verify)**  
+      > | 組織 | ネルフ、ゼーレ | ネルフ、ゼーレ、戦自  | ヴィレなど新組織  |
+- [ ] **(verify)**  
+      > | 使徒・エヴァ・ネルフの基本 | 第1話  | ここで、世界観の骨格が提示される |
+- [ ] **(verify)**  
+      > | ATフィールド | 第4〜6話あたり  | |
+- [ ] **(verify)**  
+      > | ダミーシステム・エヴァの出自の一部 | 第17〜19話あたり  | |
+- [ ] **(verify)**  
+      > | ユイとエヴァの関係 | 第20話前後  | |
+- [ ] **(verify)**  
+      > | 加持の立場、ゼーレの存在の濃化 | 第20話台以降  | |
+- [ ] **(verify)**  
+      > | 綾波レイの出自 | 第23話  | |
+- [ ] **(verify)**  
+      > | 使徒と人類の関係(リリン) | 第24話  | |
+- [ ] **(verify)**  
+      > | 補完計画の核心 | 第25・26話、旧劇場版  | |
+- [ ] **全項目の話数を作品と照合する。この表は「初見の視聴者の情報の流れ」を説明するための概観であり、厳密な初出話数ではない**
+- [ ] **英語表記は公式の英語表記と照合する(特に、Dummy System、S² organ、Marduk Institute の表記)。各用語の「ラベル」が適切かを確認する**
+- [ ] **一次資料での確認。発言の正確な文言、発言の日付、掲載媒体**  
+      > | 制作者が、エヴァについて作品外では多く語らない、趣旨の発言(ファンの想像や楽しみを尊重する、という趣旨)が報じられている | 二次報道(複数) | **未確認**。一次資料での文言・日付・媒体の確認が必要  |
+- [ ] **一次資料での確認。文言と出典**  
+      > | 主人公に作者自身の内面が投影されている、という趣旨(「私小説」という表現を含む)の発言が、複数の記事で言及されている | 二次報道(複数) | **未確認**。一次資料の確認が必要  |
+- [ ] **宗教モチーフの使用意図に関する制作者発言の有無**  
+      > | 宗教的モチーフ(キリスト教、死海文書等)の使用意図についての直接の発言 | — | 今回の調査では**見つけられなかった**。あるかどうか、一次資料の調査が必要  |
 
 ## db-eva-origin — atlas
 - [ ] **what the work shows or states, per unit and per version**
 
 ---
-合計 **67** 件
+合計 **199** 件
