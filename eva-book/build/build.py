@@ -4,6 +4,7 @@
 Usage:
   python3 build/build.py            # draft build (allows stubs/TODOs)
   python3 build/build.py --release  # release gate: fails if anything is unfinished
+  python3 build/build.py --tier-a   # only Tier A chapters (first edition)
 """
 import csv, re, sys, pathlib
 import pypandoc
@@ -11,6 +12,9 @@ import pypandoc
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 rows = list(csv.DictReader(open(ROOT / "chapters.csv", newline="")))
 release = "--release" in sys.argv
+tier = "A" if "--tier-a" in sys.argv else None
+if tier:
+    rows = [r for r in rows if r["tier"] == "A"]
 
 problems = []
 parts = []
@@ -31,7 +35,7 @@ if release and problems:
     print("\n".join(" - " + p for p in problems))
     sys.exit(1)
 
-out = ROOT / "build" / ("release.epub" if release else "draft.epub")
+out = ROOT / "build" / (("release" if release else "draft") + ("-tier-a" if tier else "") + ".epub")
 md = "\n\n".join(parts)
 pypandoc.convert_text(
     md, "epub3", format="markdown",

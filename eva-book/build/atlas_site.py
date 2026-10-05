@@ -7,7 +7,7 @@ import validate
 ents, errs = validate.load()
 assert not errs, errs
 OUT = ROOT/'build'/'site'; OUT.mkdir(parents=True, exist_ok=True)
-def name(e): return e.get('title_en') or e.get('name_en') or e.get('term_en') or e['id']
+def name(e): return e.get('title_en') or e.get('name_en') or e.get('term_en') or e.get('question') or e.get('title') or e['id']
 back = {i: [] for i in ents}
 for i,e in ents.items():
     for r in e.get('related') or []: back.setdefault(r,[]).append(i)

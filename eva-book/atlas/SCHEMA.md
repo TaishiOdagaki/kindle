@@ -13,7 +13,8 @@
 | theme | `themes/` | `theme-` | `theme-care` |
 | event | `events/` | `ev-` | `ev-2026-02-23-announcement` |
 | person(スタッフ等) | `people/` | `pe-` | (未作成) |
-| source(出典) | `sources/` | `src-` | (未作成。出典1件=1ファイル) |
+| source(出典) | `sources/` | `src-` | 出典1件=1ファイル(`title` `publisher` `url` `date` `kind` `accessed`) |
+| debate(論点) | `debates/` | `db-` | `db-kaworu-suki`。**ネット上の議論を、主張者・根拠・証拠レベルつきで整理する**(`question` を持つ) |
 
 ## 共通フィールド
 | フィールド | 必須 | 内容 |
