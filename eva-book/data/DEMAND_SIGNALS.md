@@ -47,6 +47,42 @@
 - **Neon Genesis Evangelion 本体の過去5年**(2021-09-05〜2026-10-04)。完結(2021)後の推移とスパイクの幅を見るため
 - Google Trends / YouTube / Amazon Best Sellers Rank(下記チェックリスト)
 
+## 出来事の年表(需要の変動要因)
+| 日付 | 出来事 | 出典 | 確度 |
+|---|---|---|---|
+| 2026-02-21〜23 | 「EVANGELION:30+; 30th ANNIVERSARY OF EVANGELION」(横浜アリーナ)。約13分の新作短編アニメ(企画・脚本・総監修: 庵野秀明、監督: 浅野直之)を上映 | [ORICON](https://www.oricon.co.jp/news/2425700/full/) | 高(複数報道) |
+| **2026-02-23** | **「エヴァンゲリオン」完全新作シリーズの制作を発表**。制作: スタジオカラー×CloverWorks、シリーズ構成・脚本: ヨコオタロウ、監督: 鶴巻和哉・谷田部透湖、音楽: 岡部啓一 | [ファミ通](https://www.famitsu.com/article/202602/66784) / [映画ナタリー](https://natalie.mu/eiga/news/661282) / [映画.com](https://eiga.com/l/LsSrk) / [4Gamer](https://www.4gamer.net/games/991/G999103/20260224013/) / [CBR](https://www.cbr.com/evangelion-new-anime-series-officially-confirmed/) | **高**(日英の複数媒体で一致) |
+| 2026-02-23 時点 | **公開時期・あらすじは未発表**(英語報道による) | [Hypebeast](https://hypebeast.com/2026/2/new-neon-genesis-evangelion-series-announcement-studio-khara-cloverworks) / [CBR](https://www.cbr.com/evangelion-new-anime-series-officially-confirmed/) | 中(発表時点の報道。その後の続報は未確認) |
+| 2026-02-23〜 | 「2027年後半以降」との予想が一部に出ているが、**公式情報ではない** | 検索結果の要約(出典の質は低い) | **低(推測)** |
+
+**突合**: Wikipedia(エヴァ本体)の過去1年のスパイク(最大約10,000、2026年2月下旬ごろ)は、この発表の日付と**一致する**。ただし因果は目測による推定。
+
+**意味**: 「完全新作が始動する」は事実(制作発表済み)。ただし公開時期は未発表のため、**刊行時期は「新作の公開日」ではなく「続報」を見て動的に決める**必要がある。
+
+## Google Trends / YouTube(2026-10-05 調査)
+**取得不可**: この環境から Google Trends と YouTube に直接アクセスできなかった(接続できず)。Web検索でも、**第三者の解説動画の再生数は取れなかった**(出てきたのは公式コンテンツのみ)。
+
+検索結果から確認できた**公式コンテンツ**の数字(参考。第三者の解説需要の指標ではない):
+| 内容 | 数値 | 出典 | 確度 |
+|---|---|---|---|
+| 『残酷な天使のテーゼ』YouTube再生 | 1億回に到達と報道 | [einerd](https://www.einerd.com/abertura-de-evangelion-atinge-marco-historico-no-youtube/) | 低〜中(検索要約のみ。取得日時点の数字ではない) |
+| 新劇場版3作のYouTube公開(14日間) | 合計約2,379万回と報道 | [LevelUp](https://www.levelup.com/noticias/mas-de-15-millones-de-visitas-acumulan-peliculas-de-evangelion-en-youtube/) | 低(検索要約のみ。公開地域は未確認) |
+
+→ **公式の動画・楽曲が世界規模で視聴されている**ことは示すが、「第三者が解説する需要」を直接は示さない。
+
+### 人力で取得してほしい指標(各5〜10分)
+**Google Trends**(trends.google.com)
+1. 比較: `Evangelion` / `Chainsaw Man` / `Demon Slayer`、期間「過去5年」、地域「全世界」→ スクリーンショット
+2. 単独: `evangelion explained` / `evangelion ending explained` / `evangelion meaning`、過去5年・全世界 → スクリーンショット
+3. 「関連キーワード」「関連トピック」の上位(何が検索されているかが分かる)
+4. 2026年2月のスパイクの大きさ(発表の効果)
+
+**YouTube**
+1. `evangelion explained` / `evangelion ending explained` / `evangelion analysis` で検索 → 「関連度」順の上位10件と、「視聴回数」順の上位10件
+2. 各動画の記録項目: タイトル、チャンネル、**再生数**、**投稿時期**、**長さ**、**コメント数**
+3. コメント欄で多い質問・不満(「結局どういう意味か分からない」といった声は、本の企画に直結する)
+4. 2026年2月以降に投稿された新作関連の動画の伸び方
+
 ## 取得を試みて失敗
 | 指標 | 理由 |
 |---|---|
