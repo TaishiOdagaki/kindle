@@ -11,7 +11,7 @@ Usage:
 import re, sys, pathlib
 import pypandoc
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-import lib, figs
+import lib, figs, design, cover
 
 ROOT = lib.ROOT
 args = sys.argv[1:]
@@ -24,6 +24,7 @@ rows = lib.load_rows()
 figreg = lib.load_figs()
 nums = lib.chapter_numbers(rows, vol)
 figs.render(lang)
+cover.OUT.mkdir(parents=True, exist_ok=True); cover.render(lang)
 used_figs = set()
 sel = [r for r in rows if lib.in_volume(r, vol) and (not tier_a or r["tier"] == "A")]
 
@@ -39,7 +40,8 @@ for r in sel:
     text = lib.apply_volume_fences(text, vol)
     text = lib.resolve_refs(text, rows, vol)
     used_figs |= set(re.findall(r"\{\{fig:([\w\-]+)\}\}", text))
-    text = lib.resolve_figs(text, r, nums, lang, figreg, problems)
+    vcol = vol if vol != "all" else lib.home_volume(rows, r["id"])
+    text = lib.resolve_figs(text, r, nums, lang, figreg, problems, vcol)
     left = re.findall(r"\{\{[^}]+\}\}", text)
     if left: problems.append(f'{r["id"]}: unresolved reference tokens {left[:3]}')
     parts.append(text.strip() + "\n")
@@ -57,10 +59,12 @@ tag = ("release" if release else "draft") + ("-tier-a" if tier_a else "") + f"-v
 meta = ROOT / "build" / f"metadata.{lang}.vol{vol}.yaml"
 if not meta.exists(): meta = ROOT / "build" / f"metadata.{lang}.yaml"
 out = ROOT / "build" / f"{tag}.epub"
+css_path = ROOT / "build" / "css" / f"v{vol if vol != 'all' else 1}.css"
+css_path.parent.mkdir(exist_ok=True); css_path.write_text(design.css(vol if vol != "all" else 1))
 import os; os.chdir(ROOT)
 md = "\n\n".join(parts)
 pypandoc.convert_text(md, "epub3", format="markdown", outputfile=str(out),
-                      extra_args=["--metadata-file", str(meta), "--split-level=1", "--resource-path", str(ROOT)])
+                      extra_args=["--metadata-file", str(meta), "--split-level=1", "--resource-path", str(ROOT), "--css", str(css_path)] + ([f"--epub-cover-image=build/img/cover.v{vol}.{lang}.png"] if vol != "all" else []))
 clean = re.sub(r"<!--.*?-->", "", md, flags=re.S)
 size = len(re.sub(r"[\s#|>*\-]", "", clean)) if lang == "ja" else len(re.findall(r"\w+", clean))
 print(f"built {out.name}: {len(sel)} chapters, {len(used_figs)} figures, ~{size} {'chars' if lang == 'ja' else 'words'}")

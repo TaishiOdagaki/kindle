@@ -5,3 +5,29 @@ f-eva-system,c10,diagram,エヴァの搭乗と動力の仕組み(概念図),How 
 f-nerv-org,c10,diagram,ネルフの組織(概念図),NERV's organization (schematic),国連、ゼーレ、ネルフと主要部署・人物の関係を示す組織図,Organization chart of the UN SEELE NERV and key departments and people,,no
 f-two-plans,c10,diagram,二つの計画——ゼーレのシナリオとゲンドウの計画(概念図),Two plans: SEELE's scenario and Gendo's plan (schematic),二つの計画の流れを並べた概念図,Schematic placing the two plans side by side,,no
 f-reveal-order,c10,chart,設定が明かされる話数(概観),When the setting is revealed (overview),主要な設定が明かされる話数の範囲を示す横棒グラフ,Bar chart of the episode ranges in which key settings are revealed,,no
+f-ep-01,c05,card,第1話カード,Episode 1 card,第1話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 1: title, Angel, sortie, focus, new setting information, version notes",ep-01,no
+f-ep-02,c05,card,第2話カード,Episode 2 card,第2話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 2: title, Angel, sortie, focus, new setting information, version notes",ep-02,no
+f-ep-03,c05,card,第3話カード,Episode 3 card,第3話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 3: title, Angel, sortie, focus, new setting information, version notes",ep-03,no
+f-ep-04,c05,card,第4話カード,Episode 4 card,第4話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 4: title, Angel, sortie, focus, new setting information, version notes",ep-04,no
+f-ep-05,c05,card,第5話カード,Episode 5 card,第5話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 5: title, Angel, sortie, focus, new setting information, version notes",ep-05,no
+f-ep-06,c05,card,第6話カード,Episode 6 card,第6話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 6: title, Angel, sortie, focus, new setting information, version notes",ep-06,no
+f-ep-07,c05,card,第7話カード,Episode 7 card,第7話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 7: title, Angel, sortie, focus, new setting information, version notes",ep-07,no
+f-ep-08,c06,card,第8話カード,Episode 8 card,第8話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 8: title, Angel, sortie, focus, new setting information, version notes",ep-08,no
+f-ep-09,c06,card,第9話カード,Episode 9 card,第9話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 9: title, Angel, sortie, focus, new setting information, version notes",ep-09,no
+f-ep-10,c06,card,第10話カード,Episode 10 card,第10話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 10: title, Angel, sortie, focus, new setting information, version notes",ep-10,no
+f-ep-11,c06,card,第11話カード,Episode 11 card,第11話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 11: title, Angel, sortie, focus, new setting information, version notes",ep-11,no
+f-ep-12,c06,card,第12話カード,Episode 12 card,第12話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 12: title, Angel, sortie, focus, new setting information, version notes",ep-12,no
+f-ep-13,c06,card,第13話カード,Episode 13 card,第13話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 13: title, Angel, sortie, focus, new setting information, version notes",ep-13,no
+f-ep-14,c07,card,第14話カード,Episode 14 card,第14話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 14: title, Angel, sortie, focus, new setting information, version notes",ep-14,no
+f-ep-15,c07,card,第15話カード,Episode 15 card,第15話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 15: title, Angel, sortie, focus, new setting information, version notes",ep-15,no
+f-ep-16,c07,card,第16話カード,Episode 16 card,第16話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 16: title, Angel, sortie, focus, new setting information, version notes",ep-16,no
+f-ep-17,c07,card,第17話カード,Episode 17 card,第17話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 17: title, Angel, sortie, focus, new setting information, version notes",ep-17,no
+f-ep-18,c07,card,第18話カード,Episode 18 card,第18話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 18: title, Angel, sortie, focus, new setting information, version notes",ep-18,no
+f-ep-19,c07,card,第19話カード,Episode 19 card,第19話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 19: title, Angel, sortie, focus, new setting information, version notes",ep-19,no
+f-ep-20,c07,card,第20話カード,Episode 20 card,第20話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 20: title, Angel, sortie, focus, new setting information, version notes",ep-20,no
+f-ep-21,c08,card,第21話カード,Episode 21 card,第21話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 21: title, Angel, sortie, focus, new setting information, version notes",ep-21,no
+f-ep-22,c08,card,第22話カード,Episode 22 card,第22話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 22: title, Angel, sortie, focus, new setting information, version notes",ep-22,no
+f-ep-23,c08,card,第23話カード,Episode 23 card,第23話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 23: title, Angel, sortie, focus, new setting information, version notes",ep-23,no
+f-ep-24,c08,card,第24話カード,Episode 24 card,第24話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 24: title, Angel, sortie, focus, new setting information, version notes",ep-24,no
+f-ep-25,c09,card,第25話カード,Episode 25 card,第25話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 25: title, Angel, sortie, focus, new setting information, version notes",ep-25,no
+f-ep-26,c09,card,第26話カード,Episode 26 card,第26話の題名、登場する使徒、出撃、中心人物、明かされる設定、版による差を示すカード,"Card summarizing episode 26: title, Angel, sortie, focus, new setting information, version notes",ep-26,no

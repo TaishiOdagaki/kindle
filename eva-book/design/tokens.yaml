@@ -1,0 +1,50 @@
+# デザイントークン(v0.1)。図・話数カード・表紙・EPUBのCSSは、すべてここから生成する。
+# 色は「巻の識別」に使う。色だけに意味を持たせない(グレースケールでも、ラベル・線種・パターンで区別できる)。
+# 作品固有の配色(初号機の紫×緑、弐号機の赤橙、黒白のタイトルカード等)に寄せない。
+
+neutrals:
+  ink: "#111111"       # 本文・枠線
+  mid: "#6b6b6b"       # 補助テキスト
+  light: "#c8c8c8"     # 罫線
+  pale: "#efefef"      # 弱い塗り
+  paper: "#ffffff"
+
+volumes:
+  "1":
+    name_ja: 藍
+    name_en: Indigo
+    accent: "#1F3A5F"    # 濃い藍。白文字を載せられる
+    tint: "#DCE4EE"      # 淡い藍(塗り)
+    on_accent: "#FFFFFF"
+    pattern: solid        # 巻タグの塗り(グレースケールでの識別)
+    title_ja: 背景とTVシリーズ
+    title_en: Context and the Television Series
+    rationale: "1995年という起点と、記録・背景の巻。落ち着いた暗色。"
+  "2":
+    name_ja: 琥珀
+    name_en: Amber
+    accent: "#70480A"    # 暗い琥珀。白文字を載せられる(グレースケールで第1・第3巻と明度が離れる)
+    tint: "#F3E6CC"
+    on_accent: "#FFFFFF"
+    pattern: hatch        # 斜線
+    title_ja: 旧劇場版と新劇場版
+    title_en: The 1997 Films and Rebuild
+    rationale: "二つの終わりと再始動の巻。琥珀は時間を閉じ込める素材で、反復・やり直しの主題と響く。"
+  "3":
+    name_ja: 納戸
+    name_en: Teal
+    accent: "#2F7F83"    # 納戸色(青緑)。白文字のコントラスト 4.5 以上を保つ上限に近い明るさ
+    tint: "#D9E8E9"
+    on_accent: "#FFFFFF"
+    pattern: dots         # 点
+    title_ja: 解釈・英語圏・FAQ
+    title_en: Interpretation, the English-Speaking World, and FAQ
+    rationale: "解釈と議論の巻。冷静で、分析的な印象の色。"
+
+figure:
+  width_px: 1600
+  min_font_pt: 11
+  corner_radius: 0.08
+
+typography:
+  image_font: IPAexGothic    # 図・カード・表紙の書体(作品のタイトルカード風の書体は使わない)

@@ -67,7 +67,7 @@ def fig_prefix(row, nums):
     i = row["id"]
     return "F" if i.startswith("fm") else "B" if i.startswith("b") else str(nums.get(i, 0))
 
-def resolve_figs(text, row, nums, lang, figs, errors):
+def resolve_figs(text, row, nums, lang, figs, errors, vol_color="1"):
     """{{fig:ID}} -> markdown image with numbered caption (図N-k / Fig. N-k)."""
     k = [0]
     def f(m):
@@ -78,5 +78,5 @@ def resolve_figs(text, row, nums, lang, figs, errors):
         cap = figs[fid]["caption_" + lang]; alt = figs[fid]["alt_" + lang]
         label = ("図" if lang == "ja" else "Fig. ") + f"{fig_prefix(row, nums)}-{k[0]}"
         sep = " " if lang == "ja" else ". "
-        return f'\n\n![{label}{sep}{cap}](build/img/{fid}.{lang}.png){{alt="{alt}"}}\n\n'
+        return f'\n\n![{label}{sep}{cap}](build/img/{fid}.v{vol_color}.{lang}.png){{alt="{alt}"}}\n\n'
     return re.sub(r"\{\{fig:([\w\-]+)\}\}", f, text)

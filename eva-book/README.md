@@ -28,6 +28,15 @@ python3 build/status.py --vol=2      # 第2巻の進捗
 python3 build/build.py --vol=1 --release   # 第1巻のリリースゲート
 ```
 
+## デザイン(巻のイメージカラー)
+第1巻=藍 / 第2巻=琥珀 / 第3巻=納戸。仕様は [`design/DESIGN.md`](design/DESIGN.md)、図表の方針は [`FIGURES.md`](FIGURES.md)。
+
+```bash
+python3 build/design_check.py        # 色のコントラスト・グレースケールの段差を検査
+python3 build/figs.py --lang=both    # 図・話数カードを再生成
+python3 build/cover.py --lang=both   # 表紙(仮)を再生成
+```
+
 ## 全体像: 「正本」はテキスト、本とWebはその出力
 ```
 atlas/(項目ごとのデータ) ─┬→ 本(Kindle EPUB)

@@ -3,3 +3,4 @@ __pycache__/
 build/site/
 build/atlas.json
 build/img/
+build/css/
