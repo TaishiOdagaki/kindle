@@ -14,6 +14,8 @@
 | event | `events/` | `ev-` | `ev-2026-02-23-announcement` |
 | person(スタッフ等) | `people/` | `pe-` | (未作成) |
 | source(出典) | `sources/` | `src-` | 出典1件=1ファイル(`title` `publisher` `url` `date` `kind` `accessed`) |
+| angel(使徒) | `angels/` | `an-` | `an-sachiel`。`number` `name_en` `name_jp` `episodes`(登場話のリスト)。**図の生成に使う** |
+| unit(エヴァ機体) | `units/` | `unit-` | `unit-01`。`name_jp` `name_en` `role` |
 | debate(論点) | `debates/` | `db-` | `db-kaworu-suki`。**ネット上の議論を、主張者・根拠・証拠レベルつきで整理する**(`question` を持つ) |
 
 ## 共通フィールド

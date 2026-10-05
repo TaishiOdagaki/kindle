@@ -20,6 +20,9 @@ for p in sorted((ROOT/'atlas').rglob('*.md')):
     t = p.read_text()
     for m in re.finditer(r'\[\[CHECK:?\s*(.*?)\]\]', t, re.S):
         items.append((p.stem, 'atlas', m.group(1).strip() or '(verify)', ''))
+for r in csv.DictReader(open(ROOT/'figures.csv', newline='')):
+    if r['verified'] != 'yes':
+        items.append((r['chapter'], '図', f"図 {r['id']} の内容を作品・資料で確認し、figures.csv の verified を yes にする", r['caption_ja']))
 out = ROOT/'data'/'verification'; out.mkdir(parents=True, exist_ok=True)
 lines = ['# 検証チェックリスト(自動生成: `python3 build/checks.py`)', '',
          '各項目を**作品の視聴または一次資料**で確認し、原稿の `[[CHECK]]` を消す。',

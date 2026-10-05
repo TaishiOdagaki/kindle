@@ -11,7 +11,7 @@ Usage:
 import re, sys, pathlib
 import pypandoc
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-import lib
+import lib, figs
 
 ROOT = lib.ROOT
 args = sys.argv[1:]
@@ -21,6 +21,10 @@ tier_a = "--tier-a" in args
 vol = next((a.split("=")[1] for a in args if a.startswith("--vol=")), "all")
 
 rows = lib.load_rows()
+figreg = lib.load_figs()
+nums = lib.chapter_numbers(rows, vol)
+figs.render(lang)
+used_figs = set()
 sel = [r for r in rows if lib.in_volume(r, vol) and (not tier_a or r["tier"] == "A")]
 
 problems, parts = [], []
@@ -34,11 +38,17 @@ for r in sel:
         if "[[CHECK" in text: problems.append(f'{r["id"]}: {text.count("[[CHECK")} unresolved [[CHECK]] marks')
     text = lib.apply_volume_fences(text, vol)
     text = lib.resolve_refs(text, rows, vol)
+    used_figs |= set(re.findall(r"\{\{fig:([\w\-]+)\}\}", text))
+    text = lib.resolve_figs(text, r, nums, lang, figreg, problems)
     left = re.findall(r"\{\{[^}]+\}\}", text)
     if left: problems.append(f'{r["id"]}: unresolved reference tokens {left[:3]}')
     parts.append(text.strip() + "\n")
 
-if problems and (release or any("unresolved reference" in p for p in problems)):
+if release:
+    for fid in sorted(used_figs):
+        if figreg.get(fid, {}).get("verified") != "yes":
+            problems.append(f"figure {fid}: verified != yes")
+if problems and (release or any(("unresolved reference" in p) or ("unknown figure" in p) for p in problems)):
     print("BUILD BLOCKED:" if not release else "RELEASE BLOCKED:")
     print("\n".join(" - " + p for p in problems))
     sys.exit(1)
@@ -47,9 +57,10 @@ tag = ("release" if release else "draft") + ("-tier-a" if tier_a else "") + f"-v
 meta = ROOT / "build" / f"metadata.{lang}.vol{vol}.yaml"
 if not meta.exists(): meta = ROOT / "build" / f"metadata.{lang}.yaml"
 out = ROOT / "build" / f"{tag}.epub"
+import os; os.chdir(ROOT)
 md = "\n\n".join(parts)
 pypandoc.convert_text(md, "epub3", format="markdown", outputfile=str(out),
-                      extra_args=["--metadata-file", str(meta), "--split-level=1"])
+                      extra_args=["--metadata-file", str(meta), "--split-level=1", "--resource-path", str(ROOT)])
 clean = re.sub(r"<!--.*?-->", "", md, flags=re.S)
 size = len(re.sub(r"[\s#|>*\-]", "", clean)) if lang == "ja" else len(re.findall(r"\w+", clean))
-print(f"built {out.name}: {len(sel)} chapters, ~{size} {'chars' if lang == 'ja' else 'words'}")
+print(f"built {out.name}: {len(sel)} chapters, {len(used_figs)} figures, ~{size} {'chars' if lang == 'ja' else 'words'}")

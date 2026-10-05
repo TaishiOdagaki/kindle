@@ -58,3 +58,25 @@ def apply_volume_fences(text, vol):
         keep = vol == "all" or vol in [x.strip() for x in m.group(1).split(",")]
         return m.group(2) if keep else ""
     return re.sub(r"<!--vol ([\d,\s]+)-->(.*?)<!--/vol-->", f, text, flags=re.S)
+
+
+def load_figs():
+    return {r["id"]: r for r in csv.DictReader(open(ROOT / "figures.csv", newline=""))}
+
+def fig_prefix(row, nums):
+    i = row["id"]
+    return "F" if i.startswith("fm") else "B" if i.startswith("b") else str(nums.get(i, 0))
+
+def resolve_figs(text, row, nums, lang, figs, errors):
+    """{{fig:ID}} -> markdown image with numbered caption (図N-k / Fig. N-k)."""
+    k = [0]
+    def f(m):
+        fid = m.group(1)
+        if fid not in figs:
+            errors.append(f"{row['id']}: unknown figure {fid}"); return ""
+        k[0] += 1
+        cap = figs[fid]["caption_" + lang]; alt = figs[fid]["alt_" + lang]
+        label = ("図" if lang == "ja" else "Fig. ") + f"{fig_prefix(row, nums)}-{k[0]}"
+        sep = " " if lang == "ja" else ". "
+        return f'\n\n![{label}{sep}{cap}](build/img/{fid}.{lang}.png){{alt="{alt}"}}\n\n'
+    return re.sub(r"\{\{fig:([\w\-]+)\}\}", f, text)

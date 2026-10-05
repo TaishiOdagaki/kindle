@@ -14,7 +14,8 @@ def size(t):
     return len(re.sub(r"[\s#|>*\-]", "", t)) if lang == "ja" else len(re.findall(r"\w+", t))
 unit = "字" if lang == "ja" else "words"
 tot_t = tot_n = 0
-print(f'{"id":4} {"vol":5} {"ch":>3} {"tier":4} {"status":8} {"fact":6} {"now":>7}/{"target":<7} title')
+print(f'{"id":4} {"vol":5} {"ch":>3} {"tier":4} {"status":8} {"fact":6} {"now":>7}/{"target":<7} {"figs":>6} title')
+fig_t = fig_n = 0
 for r in rows:
     t = (ROOT / "manuscript" / lang / r["file"]).read_text()
     n = size(t)
@@ -25,5 +26,6 @@ for r in rows:
     chk = t.count("[[CHECK")
     title = r["title_ja"] if lang == "ja" else r["title"]
     ch = nums.get(r["id"], "")
-    print(f'{r["id"]:4} {r["volume"]:5} {ch!s:>3} {r["tier"]:4} {st:8} {r["fact_check"]:6} {n:>7}/{target:<7} {title[:36]}{flag}{f"  [{chk} checks]" if chk else ""}')
-print(f"\nTOTAL {tot_n}/{tot_t} {unit} ({100*tot_n//tot_t}%)  [lang={lang}, vol={vol}]")
+    fn = len(re.findall(r"\{\{fig:", t)); ft = int(r["figs_target"]); fig_n += fn; fig_t += ft
+    print(f'{r["id"]:4} {r["volume"]:5} {ch!s:>3} {r["tier"]:4} {st:8} {r["fact_check"]:6} {n:>7}/{target:<7} {fn:>3}/{ft:<2} {title[:34]}{flag}{f"  [{chk} checks]" if chk else ""}')
+print(f"\nTOTAL {tot_n}/{tot_t} {unit} ({100*tot_n//tot_t}%)  figures {fig_n}/{fig_t}  [lang={lang}, vol={vol}]")

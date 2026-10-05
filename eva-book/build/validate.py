@@ -2,9 +2,9 @@
 """Validate atlas/ entities. Exits non-zero on errors."""
 import sys, re, pathlib, yaml
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-TYPES = {'episode','work','character','term','theme','event','person','source','debate'}
+TYPES = {'episode','work','character','term','theme','event','person','source','debate','angel','unit'}
 STATUS = {'stub','draft','reviewed','verified'}
-PREFIX = {'episode':'ep-','work':'work-','character':'ch-','term':'term-','theme':'theme-','event':'ev-','person':'pe-','source':'src-','debate':'db-'}
+PREFIX = {'episode':'ep-','work':'work-','character':'ch-','term':'term-','theme':'theme-','event':'ev-','person':'pe-','source':'src-','debate':'db-','angel':'an-','unit':'unit-'}
 
 def load():
     ents = {}

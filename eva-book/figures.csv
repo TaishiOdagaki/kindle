@@ -1,0 +1,7 @@
+id,chapter,type,caption_ja,caption_en,alt_ja,alt_en,uses,verified
+f-evidence-levels,fm1,legend,証拠の三つのラベル,The three evidence labels,「描写」「発言」「解釈」の三つのラベルの意味を示す凡例,Legend explaining the labels Shown / Stated / Interpreted,,yes
+f-angels-episodes,c10,chart,TVシリーズに登場する使徒と話数(未確認),Angels and the episodes in which they appear (unverified),第3〜第17使徒が登場する話数を示す横棒グラフ,Bar chart of the episodes in which the 3rd to 17th Angels appear,an-sachiel|an-tabris,no
+f-eva-system,c10,diagram,エヴァの搭乗と動力の仕組み(概念図),How an Eva is piloted and powered (schematic),パイロット、エントリープラグ、エヴァの接続と、三つの電源を示す概念図,Schematic of the pilot–entry plug–Eva link and the three power sources,,no
+f-nerv-org,c10,diagram,ネルフの組織(概念図),NERV's organization (schematic),国連、ゼーレ、ネルフと主要部署・人物の関係を示す組織図,Organization chart of the UN SEELE NERV and key departments and people,,no
+f-two-plans,c10,diagram,二つの計画——ゼーレのシナリオとゲンドウの計画(概念図),Two plans: SEELE's scenario and Gendo's plan (schematic),二つの計画の流れを並べた概念図,Schematic placing the two plans side by side,,no
+f-reveal-order,c10,chart,設定が明かされる話数(概観),When the setting is revealed (overview),主要な設定が明かされる話数の範囲を示す横棒グラフ,Bar chart of the episode ranges in which key settings are revealed,,no

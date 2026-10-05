@@ -1,46 +1,46 @@
-id,file,volume,part,title,title_ja,words_target,chars_target_ja,tier,update_sensitive,status,fact_check,status_en,notes
-fm0,00-copyright.md,1|2|3,Front,Copyright & Non-Affiliation Notice,奥付・非提携の表示,150,300,A,no,stub,todo,draft,奥付
-fm1,01-how-to-read.md,1|2|3,Front,How to Read This Book,本書の読み方,3000,6000,A,no,draft,todo,stub,証拠3階層・版(Version)表記・ネタバレ・3つの読み方
-fm2,02-primer.md,1|2|3,Front,Quick Primer (spoiler-free),クイック・プライマー(ネタバレなし),3000,6000,A,yes,stub,todo,stub,新作の扱いは更新対象
-c01,10-ch01-1995.md,1,I. Context and Creator,"1995: Japan, the Anime Industry, and Gainax",1995年——日本、アニメ産業、ガイナックス,6000,12000,A,no,stub,todo,stub,
-c02,11-ch02-anno.md,1,I. Context and Creator,Hideaki Anno Before Evangelion,庵野秀明——エヴァ以前,6000,12000,B,no,stub,todo,stub,経歴は一次資料で検証
-c03,12-ch03-production.md,1,I. Context and Creator,Making the TV Series,TVシリーズの制作,9000,18000,A,no,stub,todo,stub,制作体制・スケジュール・最終2話の事情
-c04,13-ch04-phenomenon.md,1,I. Context and Creator,"The Evangelion Phenomenon in Japan, 1995–1997",エヴァンゲリオン現象——1995〜1997年の日本,6000,12000,B,no,stub,todo,stub,放映中の反響と社会現象
-c05,20-ch05-eps-a.md,1,II. The Television Series,Episode Guide: Episodes 1–7,各話ガイド 第1〜7話,9000,18000,A,no,stub,todo,stub,
-c06,21-ch06-eps-b.md,1,II. The Television Series,Episode Guide: Episodes 8–13,各話ガイド 第8〜13話,9000,18000,A,no,stub,todo,stub,
-c07,22-ch07-eps-c.md,1,II. The Television Series,Episode Guide: Episodes 14–20,各話ガイド 第14〜20話,10000,20000,A,no,stub,todo,stub,
-c08,23-ch08-eps-d.md,1,II. The Television Series,Episode Guide: Episodes 21–24,各話ガイド 第21〜24話,9000,18000,A,no,stub,todo,stub,Director's Cut版との差異を含む(要検証)
-c09,24-ch09-eps-e.md,1,II. The Television Series,Episode Guide: Episodes 25–26,各話ガイド 第25・26話,8000,16000,A,no,stub,todo,stub,
-c10,25-ch10-world.md,1,II. The Television Series,"The World: Facts, Statements, and Speculation",世界設定——確定事項・公式発言・推測,14000,28000,A,no,draft,todo,stub,世界設定を Shown/Stated/Interpreted で分離
-c11,26-ch11-characters.md,1,II. The Television Series,The Characters,登場人物,16000,32000,A,no,stub,todo,stub,
-c12,27-ch12-style.md,1,II. The Television Series,"Direction, Style, and Music",演出・映像・音楽,8000,16000,A,no,stub,todo,stub,演出・音楽・映像言語
-c13,30-ch13-films-overview.md,2,III. The 1997 Films,The Films and Their Versions,旧劇場版——作品と各版,6000,12000,A,no,stub,todo,stub,Death & Rebirth/EoE/各版の関係(要検証)
-c14,31-ch14-eoe.md,2,III. The 1997 Films,The End of Evangelion: A Scene-by-Scene Guide,『劇場版 Air/まごころを、君に』場面ガイド,11000,22000,A,no,stub,todo,stub,
-c15,32-ch15-impact.md,2,III. The 1997 Films,Two Endings Compared: Episodes 25–26 and The End of Evangelion,二つの結末——第25・26話と旧劇場版の比較,7000,14000,A,no,stub,todo,stub,
-c16,33-ch16-reception97.md,2,III. The 1997 Films,"Reception and Aftermath, 1997–2006",旧劇場版の受容とその後(1997〜2006年),7000,14000,B,no,stub,todo,stub,一次資料で検証
-c17,40-ch17-mediamix.md,2,IV. Between Eras,"Evangelion After Evangelion: Manga, Games, Merchandise",エヴァ・アフター・エヴァ——漫画・ゲーム・商品展開,8000,16000,B,no,stub,todo,stub,漫画・ゲーム・商品展開
-c18,50-ch18-why-rebuild.md,2,V. Rebuild,Why Rebuild? Khara and the Return,なぜ作り直したのか——カラーと再始動,6000,12000,A,no,stub,todo,stub,
-c19,51-ch19-rb1.md,2,V. Rebuild,1.0 You Are (Not) Alone,新劇場版:序,7000,14000,A,no,stub,todo,stub,
-c20,52-ch20-rb2.md,2,V. Rebuild,2.0 You Can (Not) Advance,新劇場版:破,8000,16000,A,no,stub,todo,stub,
-c21,53-ch21-rb3.md,2,V. Rebuild,3.0 You Can (Not) Redo,新劇場版:Q,9000,18000,A,no,stub,todo,stub,受容が割れた作品。論点を整理
-c22,54-ch22-rb4.md,2,V. Rebuild,3.0+1.0 Thrice Upon a Time,シン・エヴァンゲリオン劇場版,11000,22000,A,no,stub,todo,stub,
-c23,55-ch23-compare.md,2,V. Rebuild,"TV, End of Evangelion, Rebuild: What Changed",何が変わったのか——TV版・旧劇・新劇の比較,9000,18000,A,no,stub,todo,stub,比較表中心
-c24,56-ch24-loop.md,2,V. Rebuild,The Loop Question and Other Rebuild Theories,ループ説とその他の新劇場版論,6000,12000,A,no,stub,todo,stub,論点整理
-c35,81-ch35-new-era.md,2,VIII. Legacy,The New Era (update module),完全新作(更新章),3000,6000,A,YES,stub,todo,stub,完全新作。**差し替え章**
-c25,60-ch25-map.md,3,VI. Interpretation and Debate,A Map of Interpretations,解釈の地図,8000,16000,B,no,stub,todo,stub,日本語・英語・学術の議論の地図
-c26,61-ch26-themes.md,3,VI. Interpretation and Debate,"Themes: Others, Parents, Bodies, Care, Growing Up",主題——他者・親子・身体・ケア・成熟,12000,24000,A,no,stub,todo,stub,本書の背骨
-c27,62-ch27-borrowed.md,3,VI. Interpretation and Debate,"Borrowed Symbols: Religion, Psychology, Myth",借りられた記号——宗教・心理学・神話,9000,18000,B,no,stub,todo,stub,構造か装飾か
-c28,63-ch28-gender.md,3,VI. Interpretation and Debate,"Gender, Sexuality, and Representation",ジェンダー・セクシュアリティ・表象,8000,16000,B,no,stub,todo,stub,カヲル台詞の翻訳論争を含む
-c29,64-ch29-anno.md,3,VI. Interpretation and Debate,The Author in the Work: Biographical Readings and Their Limits,作品の中の作者——伝記的読解とその限界,6000,12000,B,no,stub,todo,stub,慎重に扱う章
-c30,65-ch30-debates.md,3,VI. Interpretation and Debate,The Great Debates,大論争,14000,28000,A,no,stub,todo,stub,debate項目(atlas)を章に組み込む
-c31,70-ch31-release-history.md,3,VII. Evangelion in English,How Evangelion Reached the English-Speaking World,英語圏への流通史,7000,14000,A,no,stub,todo,stub,VHS・DVD・Netflix・Prime(要検証)
-c32,71-ch32-translation.md,3,VII. Evangelion in English,"Translation Problems: Titles, Terms, and Lines",翻訳の問題——題名・用語・台詞,7000,14000,A,no,stub,todo,stub,
-c33,72-ch33-western-fandom.md,3,VII. Evangelion in English,Western Fandom and Criticism,英語圏のファンと批評,6000,12000,B,no,stub,todo,stub,
-c34,80-ch34-legacy.md,3,VIII. Legacy,Legacy and Influence,影響と遺産,6000,12000,B,no,stub,todo,stub,憶測で影響関係を断定しない
-c36,90-ch36-faq.md,3,IX. Answers,Frequently Asked Questions,よくある質問,16000,32000,A,no,stub,todo,stub,短い答え+証拠レベル+章への導線
-b01,91-timeline.md,1|2|3,Back matter,Timeline,年表,3000,6000,A,yes,stub,todo,stub,
-b02,92-glossary.md,1|2|3,Back matter,Glossary,用語集,6000,12000,A,no,stub,todo,stub,
-b03,93-data-tables.md,1|2|3,Back matter,"Reference Tables: Characters, Units, Credits",資料表——人物・ユニット・スタッフ,6000,12000,A,no,stub,todo,stub,
-b04,94-viewing-order.md,1|2|3,Back matter,Viewing Order Guide,観る順ガイド,2000,4000,A,yes,stub,todo,stub,
-b05,95-bibliography.md,1|2|3,Back matter,Bibliography and Further Reading,参考文献,5000,10000,A,no,stub,todo,stub,日本語・英語の一次/二次資料
-b06,96-debate-index.md,1|2|3,Back matter,Index of Debates,論点索引,1500,3000,A,no,stub,todo,stub,論点の相互参照
+id,file,volume,part,title,title_ja,words_target,chars_target_ja,tier,update_sensitive,status,fact_check,status_en,notes,figs_target
+fm0,00-copyright.md,1|2|3,Front,Copyright & Non-Affiliation Notice,奥付・非提携の表示,150,300,A,no,stub,todo,draft,奥付,0
+fm1,01-how-to-read.md,1|2|3,Front,How to Read This Book,本書の読み方,3000,6000,A,no,draft,todo,stub,証拠3階層・版(Version)表記・ネタバレ・3つの読み方,3
+fm2,02-primer.md,1|2|3,Front,Quick Primer (spoiler-free),クイック・プライマー(ネタバレなし),3000,6000,A,yes,stub,todo,stub,新作の扱いは更新対象,2
+c01,10-ch01-1995.md,1,I. Context and Creator,"1995: Japan, the Anime Industry, and Gainax",1995年——日本、アニメ産業、ガイナックス,6000,12000,A,no,stub,todo,stub,,4
+c02,11-ch02-anno.md,1,I. Context and Creator,Hideaki Anno Before Evangelion,庵野秀明——エヴァ以前,6000,12000,B,no,stub,todo,stub,経歴は一次資料で検証,4
+c03,12-ch03-production.md,1,I. Context and Creator,Making the TV Series,TVシリーズの制作,9000,18000,A,no,stub,todo,stub,制作体制・スケジュール・最終2話の事情,6
+c04,13-ch04-phenomenon.md,1,I. Context and Creator,"The Evangelion Phenomenon in Japan, 1995–1997",エヴァンゲリオン現象——1995〜1997年の日本,6000,12000,B,no,stub,todo,stub,放映中の反響と社会現象,4
+c05,20-ch05-eps-a.md,1,II. The Television Series,Episode Guide: Episodes 1–7,各話ガイド 第1〜7話,9000,18000,A,no,stub,todo,stub,,10
+c06,21-ch06-eps-b.md,1,II. The Television Series,Episode Guide: Episodes 8–13,各話ガイド 第8〜13話,9000,18000,A,no,stub,todo,stub,,9
+c07,22-ch07-eps-c.md,1,II. The Television Series,Episode Guide: Episodes 14–20,各話ガイド 第14〜20話,10000,20000,A,no,stub,todo,stub,,10
+c08,23-ch08-eps-d.md,1,II. The Television Series,Episode Guide: Episodes 21–24,各話ガイド 第21〜24話,9000,18000,A,no,stub,todo,stub,Director's Cut版との差異を含む(要検証),8
+c09,24-ch09-eps-e.md,1,II. The Television Series,Episode Guide: Episodes 25–26,各話ガイド 第25・26話,8000,16000,A,no,stub,todo,stub,,6
+c10,25-ch10-world.md,1,II. The Television Series,"The World: Facts, Statements, and Speculation",世界設定——確定事項・公式発言・推測,14000,28000,A,no,draft,todo,stub,世界設定を Shown/Stated/Interpreted で分離,12
+c11,26-ch11-characters.md,1,II. The Television Series,The Characters,登場人物,16000,32000,A,no,stub,todo,stub,,14
+c12,27-ch12-style.md,1,II. The Television Series,"Direction, Style, and Music",演出・映像・音楽,8000,16000,A,no,stub,todo,stub,演出・音楽・映像言語,8
+c13,30-ch13-films-overview.md,2,III. The 1997 Films,The Films and Their Versions,旧劇場版——作品と各版,6000,12000,A,no,stub,todo,stub,Death & Rebirth/EoE/各版の関係(要検証),4
+c14,31-ch14-eoe.md,2,III. The 1997 Films,The End of Evangelion: A Scene-by-Scene Guide,『劇場版 Air/まごころを、君に』場面ガイド,11000,22000,A,no,stub,todo,stub,,10
+c15,32-ch15-impact.md,2,III. The 1997 Films,Two Endings Compared: Episodes 25–26 and The End of Evangelion,二つの結末——第25・26話と旧劇場版の比較,7000,14000,A,no,stub,todo,stub,,8
+c16,33-ch16-reception97.md,2,III. The 1997 Films,"Reception and Aftermath, 1997–2006",旧劇場版の受容とその後(1997〜2006年),7000,14000,B,no,stub,todo,stub,一次資料で検証,4
+c17,40-ch17-mediamix.md,2,IV. Between Eras,"Evangelion After Evangelion: Manga, Games, Merchandise",エヴァ・アフター・エヴァ——漫画・ゲーム・商品展開,8000,16000,B,no,stub,todo,stub,漫画・ゲーム・商品展開,6
+c18,50-ch18-why-rebuild.md,2,V. Rebuild,Why Rebuild? Khara and the Return,なぜ作り直したのか——カラーと再始動,6000,12000,A,no,stub,todo,stub,,4
+c19,51-ch19-rb1.md,2,V. Rebuild,1.0 You Are (Not) Alone,新劇場版:序,7000,14000,A,no,stub,todo,stub,,8
+c20,52-ch20-rb2.md,2,V. Rebuild,2.0 You Can (Not) Advance,新劇場版:破,8000,16000,A,no,stub,todo,stub,,8
+c21,53-ch21-rb3.md,2,V. Rebuild,3.0 You Can (Not) Redo,新劇場版:Q,9000,18000,A,no,stub,todo,stub,受容が割れた作品。論点を整理,9
+c22,54-ch22-rb4.md,2,V. Rebuild,3.0+1.0 Thrice Upon a Time,シン・エヴァンゲリオン劇場版,11000,22000,A,no,stub,todo,stub,,10
+c23,55-ch23-compare.md,2,V. Rebuild,"TV, End of Evangelion, Rebuild: What Changed",何が変わったのか——TV版・旧劇・新劇の比較,9000,18000,A,no,stub,todo,stub,比較表中心,10
+c24,56-ch24-loop.md,2,V. Rebuild,The Loop Question and Other Rebuild Theories,ループ説とその他の新劇場版論,6000,12000,A,no,stub,todo,stub,論点整理,5
+c35,81-ch35-new-era.md,2,VIII. Legacy,The New Era (update module),完全新作(更新章),3000,6000,A,YES,stub,todo,stub,完全新作。**差し替え章**,3
+c25,60-ch25-map.md,3,VI. Interpretation and Debate,A Map of Interpretations,解釈の地図,8000,16000,B,no,stub,todo,stub,日本語・英語・学術の議論の地図,6
+c26,61-ch26-themes.md,3,VI. Interpretation and Debate,"Themes: Others, Parents, Bodies, Care, Growing Up",主題——他者・親子・身体・ケア・成熟,12000,24000,A,no,stub,todo,stub,本書の背骨,8
+c27,62-ch27-borrowed.md,3,VI. Interpretation and Debate,"Borrowed Symbols: Religion, Psychology, Myth",借りられた記号——宗教・心理学・神話,9000,18000,B,no,stub,todo,stub,構造か装飾か,6
+c28,63-ch28-gender.md,3,VI. Interpretation and Debate,"Gender, Sexuality, and Representation",ジェンダー・セクシュアリティ・表象,8000,16000,B,no,stub,todo,stub,カヲル台詞の翻訳論争を含む,5
+c29,64-ch29-anno.md,3,VI. Interpretation and Debate,The Author in the Work: Biographical Readings and Their Limits,作品の中の作者——伝記的読解とその限界,6000,12000,B,no,stub,todo,stub,慎重に扱う章,3
+c30,65-ch30-debates.md,3,VI. Interpretation and Debate,The Great Debates,大論争,14000,28000,A,no,stub,todo,stub,debate項目(atlas)を章に組み込む,8
+c31,70-ch31-release-history.md,3,VII. Evangelion in English,How Evangelion Reached the English-Speaking World,英語圏への流通史,7000,14000,A,no,stub,todo,stub,VHS・DVD・Netflix・Prime(要検証),6
+c32,71-ch32-translation.md,3,VII. Evangelion in English,"Translation Problems: Titles, Terms, and Lines",翻訳の問題——題名・用語・台詞,7000,14000,A,no,stub,todo,stub,,5
+c33,72-ch33-western-fandom.md,3,VII. Evangelion in English,Western Fandom and Criticism,英語圏のファンと批評,6000,12000,B,no,stub,todo,stub,,4
+c34,80-ch34-legacy.md,3,VIII. Legacy,Legacy and Influence,影響と遺産,6000,12000,B,no,stub,todo,stub,憶測で影響関係を断定しない,5
+c36,90-ch36-faq.md,3,IX. Answers,Frequently Asked Questions,よくある質問,16000,32000,A,no,stub,todo,stub,短い答え+証拠レベル+章への導線,6
+b01,91-timeline.md,1|2|3,Back matter,Timeline,年表,3000,6000,A,yes,stub,todo,stub,,2
+b02,92-glossary.md,1|2|3,Back matter,Glossary,用語集,6000,12000,A,no,stub,todo,stub,,0
+b03,93-data-tables.md,1|2|3,Back matter,"Reference Tables: Characters, Units, Credits",資料表——人物・ユニット・スタッフ,6000,12000,A,no,stub,todo,stub,,6
+b04,94-viewing-order.md,1|2|3,Back matter,Viewing Order Guide,観る順ガイド,2000,4000,A,yes,stub,todo,stub,,2
+b05,95-bibliography.md,1|2|3,Back matter,Bibliography and Further Reading,参考文献,5000,10000,A,no,stub,todo,stub,日本語・英語の一次/二次資料,0
+b06,96-debate-index.md,1|2|3,Back matter,Index of Debates,論点索引,1500,3000,A,no,stub,todo,stub,論点の相互参照,1
