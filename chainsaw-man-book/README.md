@@ -76,3 +76,9 @@ java -jar /usr/share/java/epubcheck.jar "Chainsaw Man - The Devil in the Details
 ## Editorial revision approved — 2026-10-10
 
 The author approved a targeted audit-based revision of the **English** edition (spoiler-map consistency; Chapter 13 linguistic accuracy; factual fixes in Chapters 2, 7, 10 and 12). **Read [revision-notes/2026-10-10-approved-revision-plan.md](revision-notes/2026-10-10-approved-revision-plan.md) before changing any manuscript or generated image/EPUB.** The separately uploaded 2026-10-10 EPUB must be compared with this branch before rebuilding. The existing published EPUB is preserved; no KDP publication or Amazon Ads changes are authorized.
+
+### 2026-10-10 revised English text and EPUB
+
+**The revised Markdown is committed.** See [the editing report](revision-notes/2026-10-10-editing-report.md) for the exact edits, source hashes, and external fact-checking limitations. The author received a separately named October 10 EPUB built directly from their attached latest EPUB. That file is **not yet stored in this repository**.
+
+**Important synchronization note:** `images/charts/whats_inside.png`, `images/charts/spoiler_map.png` and `Chainsaw Man - The Devil in the Details.epub` in this branch are still the **older binary files**, despite the revised `manuscript.md`. First run `python tools/refresh_spoiler_charts_2026_10_10.py --in-place` from the book directory, then rebuild to a **new EPUB filename** via the pandoc command in the editing report. Only commit and publish after validation. No live KDP listing or Amazon Ads changes have been authorized.
