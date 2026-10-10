@@ -48,3 +48,7 @@ If KDP assessed the above uploaded EPUB byte sizes as its delivery sizes, rough 
 ## Publication and coordination
 
 No price, ad campaign, KDP page or published book changes were made. This GitHub branch contains the corrected Markdown manuscript and the optimization **script**, but **the optimized binary EPUB is not committed**. Make sure a future Claude Code run does not mistake the repository's old EPUB and charts for the finished October 10 edition.
+
+## Author decision — 2026-10-10: hold publication
+
+The author specifically decided **not** to upload this optimized October 10 EPUB to KDP now. Further manuscript revisions will be made first; the author will upload a consolidated **next revision** afterward. This optimized file is an **intermediate deliverable** and should not be mistaken for the release candidate. The next EPUB must incorporate the newest approved editorial changes, updated visual spoiler guides, and image optimization, followed by EPUBCheck and Kindle Previewer checks. Preserve the current cover and do not alter the live listing, USD 2.99 price, 70% royalty choice, or paused advertising without further user instruction.
