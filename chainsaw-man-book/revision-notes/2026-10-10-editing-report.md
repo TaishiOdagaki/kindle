@@ -7,7 +7,7 @@
 - Authorized scope: [2026-10-10-approved-revision-plan.md](2026-10-10-approved-revision-plan.md).
 - Base uploaded English EPUB: `チェンソーマン英語版.epub`, SHA-256 `c2dc0cdf8d286899949aa87691f50a4721c6dd7801208ea3fa197732153f26e5`.
 - New user-delivered EPUB: `Chainsaw_Man_The_Devil_in_the_Details_Revised_2026-10-10.epub`, SHA-256 `2cde7f19da719be5e25f24513777de99984e115d0d0a79eaa3a9cf53e79f1c3d`, **4,164,779 bytes**.
-- Original repo `manuscript.md` blob SHA: `212f1aa973c230da04eed60a7235eae1d4b4ab64`. Updated text blob SHA: `7f88f1a57e27a3ea5b55f6867ed3020487745bff`.
+- Original repo `manuscript.md` blob SHA: `212f1aa973c230da04eed60a7235eae1d4b4ab64`. Updated text blob SHA: `700df89753e26315cbf8e8afabc1b215c621c3bf`.
 - English manuscript changes committed as `3291ec5bdc87a3b573787d9dbc85e2995daa1b82`. These target passages were independently updated in the EPUB's existing XHTML and repository Markdown; do **not** assume byte-identical regeneration until a repository build is performed.
 
 ## Edits completed in the delivered EPUB
