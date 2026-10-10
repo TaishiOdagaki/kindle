@@ -6,7 +6,7 @@
 
 - Authorized scope: [2026-10-10-approved-revision-plan.md](2026-10-10-approved-revision-plan.md).
 - Base uploaded English EPUB: `チェンソーマン英語版.epub`, SHA-256 `c2dc0cdf8d286899949aa87691f50a4721c6dd7801208ea3fa197732153f26e5`.
-- New user-delivered EPUB: `Chainsaw_Man_The_Devil_in_the_Details_Revised_2026-10-10.epub`, SHA-256 `99c30906334e1574cd0b10cfab309ac9eb84b6dc6ee3f267f0941c4d47eb6219`, **4,164,830 bytes**.
+- New user-delivered EPUB: `Chainsaw_Man_The_Devil_in_the_Details_Revised_2026-10-10.epub`, SHA-256 `2cde7f19da719be5e25f24513777de99984e115d0d0a79eaa3a9cf53e79f1c3d`, **4,164,779 bytes**.
 - Original repo `manuscript.md` blob SHA: `212f1aa973c230da04eed60a7235eae1d4b4ab64`. Updated text blob SHA: `7f88f1a57e27a3ea5b55f6867ed3020487745bff`.
 - English manuscript changes committed as `3291ec5bdc87a3b573787d9dbc85e2995daa1b82`. These target passages were independently updated in the EPUB's existing XHTML and repository Markdown; do **not** assume byte-identical regeneration until a repository build is performed.
 
@@ -16,9 +16,9 @@
 |---|---|
 | How to Read | Remove false claim that only two late chapters are manga-only; identify the intended completed-manga audience and warn anime-only readers. |
 | Introduction | Label manga spoilers; clarify audience; chapter 232 followed chapter 231 after **two weeks**, not one. |
-| Chapters 1–3 | Relabel manga spoilers because later developments occur in their body text. |
+| Chapters 1–3 | Relabel manga spoilers because later developments occur in their body text; remove an unverified companion-volume reference in Chapter 1. |
 | Chapter 2 | Describe Pochita's initially weakened **appearance**, not his true power as inherently weakest; revise misleading reference to Fami. |
-| Chapter 7 | Set full manga spoiler warning before Makima reveal; correct Makima as Control Devil, clarify affection as interpretation, fix Pochita's heart/contract versus literal consumption. |
+| Chapter 6 | Correct internal cross-reference from Chapter 7 to Chapter 9 for humor/tonal whiplash. |\n| Chapter 7 | Set full manga spoiler warning before Makima reveal; correct Makima as Control Devil, clarify affection as interpretation, fix Pochita's heart/contract versus literal consumption. |
 | Chapter 8 | Preserve mixed spoiler label; insert visible later-manga spoiler transition before Nayuta/Asa; avoid claiming Makima's personal memories survive reincarnation. |
 | Chapter 10 | Update assumed Fami identity to the Chapter 198 Death/Famine revelation; preserve criticism of unreliable identity; clarify Denji's ambivalence about fame and his school enrollment. |
 | Chapter 11 | Fix Chapter 10 → **Chapter 12** finale cross-reference. |
@@ -42,7 +42,7 @@
 - `pandoc` can read the resulting EPUB and extract approximately 13,674 words.
 - All internal hyperlinks/fragment targets and image references resolve.
 - Embedded image count remains **22**; checked both altered diagrams visually at reduced scale.
-- Compressed EPUB went from **4,192,074** to **4,164,830** bytes. This is an incidental change, not a claim of optimized KDP delivery cost.
+- Compressed EPUB went from **4,192,074** to **4,164,779** bytes. This is an incidental change, not a claim of optimized KDP delivery cost.
 
 **Not completed:** `epubcheck` (not installed in the analysis runtime), Kindle Previewer/device inspection, and actual KDP delivery-cost check. Never label the result Kindle-certified or upload as the live version without this review.
 
