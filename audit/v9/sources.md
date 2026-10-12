@@ -72,3 +72,15 @@ S28はPDF14頁（印刷頁14）のタ形表も追加確認した。書く→書�
 | S37 | Lyster & Ranta (1997), [Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms（著者公開原論文）](https://www.researchgate.net/publication/252160472_CORRECTIVE_FEEDBACK_AND_LEARNER_UPTAKE_Negotiation_of_Form_in_Communicative_Classrooms)、[出版社書誌](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF) | 印刷頁46–49の6分類・複合フィードバック、49–50のuptakeとrepair。 | Leila Rantaが公開した原論文の全文転記から該当本文確認。McGill直接取得はタイムアウト/502。PDF版面との照合は未実施。書誌は出版社の19(1),37–66を使用し、転記ヘッダーの20とは区別。日本語の授業例は監査で構成した適用例。 | Q_4_067～069、Q_M_034ほか |
 
 S27追加照合：2026-10-12に本文全28条・当初施行附則第1条を通読。第7・9条も確認。令和元年6月28日公布、附則は公布日施行。Q_1_032・033・Q_M_003の4肢と4解説を再判定。第21条は処遇改善等を定め、全員無報酬を定めるものではない。
+
+
+## 第9修正バッチの資料（2026-10-12）
+
+| ID | 資料 | 照合箇所と取得段階 | 対象 |
+|---|---|---|---|
+| S38 | 文化庁 [常用漢字表の音訓索引](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html) | 本はホン（音）/もと（訓）、箱ははこ（訓）。公式表本文の行を確認。本箱を訓＋訓とした旧例は成立しない。 | Q_5_038 |
+| S39 | 東京外国語大学 [拍感覚基礎](https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-10-01.php) | 解説の拍・拗音・促音・撥音・長音の数え方を本文確認。例の仮名を分解して4/5拍・2/3拍・2拍を検算。中国語全体の一般化を根拠にしない。 | Q_5_029 |
+| S40 | W3C [日本語組版処理の要件](https://www.w3.org/TR/jlreq/) | §2.1.2の注、縦組は天地中央右寄り、横組は左右中央下寄りという小書き仮名の字面配置。日本語・英語本文で確認。手書き原稿用紙のルールと混同しない。 | Q_5_039 |
+| S41 | 国立国語研究所 [中古和文UniDic規程集 v1.1](https://clrd.ninjal.ac.jp/chj/doc/unidic-MLJ_rulebook_v1_1.pdf) | PDF86–88頁（印刷82–84）、第3語種情報の概要。一般的な4語種、異なる語種の結合、固有名/記号を加えるUniDic固有分類、辞書に基づく判定の注意、混種語の例に本箱。該当原資料本文を確認。規程集全247頁の通読を意味しない。 | Q_5_047、038の補助 |
+
+| S42 | 大修館書店 [漢字文化資料館Q0182](https://kanjibunka.com/kanji-faq/history/q0182/)、日本漢字能力検定協会 阿辻哲次 [重箱読みと湯桶読み](https://www.kanjicafe.jp/detail/7574.html)（2017-07-25） | 音＋訓/訓＋音の現代の区別、湯桶の読みゆとう。出版社解説本文と研究者自身の定義を照合。名称の歴史や発生理由の追加主張は本問の根拠にしない。 | Q_5_038 |

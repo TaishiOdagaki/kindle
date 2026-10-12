@@ -12184,7 +12184,7 @@
   },
   {
     "id": "Q_5_029",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "中国語を母語とする学習者が「きて」と「きって」、「おばさん」と「おばあさん」などの単語を区別して発音・聞き取りすることが困難であるケースが多い。この要因に関する対照音声学的分析として、最も適切なものはどれか。",
@@ -12214,20 +12214,22 @@
     "machine_flags": [],
     "independent_answer": 3,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補",
-      "誤答候補"
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "条件と資料本文に一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：限定条件で4肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true,
+    "stem_review": "対象を日本語の拍数・活字組版又は一般的語種の結合に明示限定。4肢を独立再判定。",
+    "explanation_review": "4解説をTUFS・W3C又はNINJAL本文に照合。拍数は仮名を分解して検算。",
+    "sources": [
+      "S39"
+    ],
     "reason": "中国語全体を一類型とし有声無声対立がないと断定。おばさん4拍/おばあさん5拍なのに解説4は3/4で誤り。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_030",
@@ -12591,7 +12593,7 @@
   },
   {
     "id": "Q_5_038",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "日本語の語彙の構造である「重箱読み（じゅうばこよみ）」と「湯桶読み（とうとうよみ）」に関する説明として、正しい組み合わせはどれか。",
@@ -12617,24 +12619,27 @@
     "machine_flags": [],
     "independent_answer": 4,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "音訓の順序を逆にしており誤り",
+      "同種の読みの結合なので誤り",
+      "語種と音訓の分類を混同しており誤り",
+      "現代の音＋訓/訓＋音の区別に一致"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：音訓の順序を4肢で比較",
+    "no_correct_risk": "なし：独立正答4",
+    "fixes_applied": true,
+    "stem_review": "読み仮名を訂正。現代の一般的な音訓の組合せとして4肢を再判定。",
+    "explanation_review": "S38の本/箱の行とS42の定義・名称に4解説を照合済み。",
+    "sources": [
+      "S38",
+      "S42"
+    ],
     "reason": "重箱/湯桶4候補。解説2の本箱＝訓＋訓は誤り（本honは音、箱hakoは訓）。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_039",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "学習者の文字・表記に関する誤用分析とその指導に関する記述として、最も適切なものはどれか。",
@@ -12660,20 +12665,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "条件と資料本文に一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：限定条件で4肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true,
+    "stem_review": "対象を日本語の拍数・活字組版又は一般的語種の結合に明示限定。4肢を独立再判定。",
+    "explanation_review": "4解説をTUFS・W3C又はNINJAL本文に照合。拍数は仮名を分解して検算。",
+    "sources": [
+      "S40"
+    ],
     "reason": "促音小文字1候補だが清濁も誤用に含み、右下配置は縦横による。原因も字形のみと確定不可。例・書字方向を修正。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_040",
@@ -12993,7 +13000,7 @@
   },
   {
     "id": "Q_5_047",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "「混種語（Hybrid Word）」に関する説明と例の組み合わせとして、最も適切なものはどれか。",
@@ -13021,20 +13028,22 @@
     "machine_flags": [],
     "independent_answer": 3,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補",
-      "誤答候補"
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致",
+      "条件と資料本文に一致",
+      "改訂解説の拍数・配置又は語種の定義に不一致"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：限定条件で4肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true,
+    "stem_review": "対象を日本語の拍数・活字組版又は一般的語種の結合に明示限定。4肢を独立再判定。",
+    "explanation_review": "4解説をTUFS・W3C又はNINJAL本文に照合。拍数は仮名を分解して検算。",
+    "sources": [
+      "S41"
+    ],
     "reason": "混種語3候補。生ビールnamaは和語＋外来語で、解説3の漢語＋外来語の例に不適切。混用語の用語も根拠確認。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_048",
