@@ -3737,22 +3737,26 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_4_079": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "independent_answer": 2,
+    "stem_review": "許可を求める側と与える側の役割、独立発話の課題、モデル提示までの間がない条件を明記。",
+    "explanation_review": "許可要求と許可付与をJF公式教材、明示的訂正とリキャストの区別をLyster/Ranta原論文に照合。効果や誤用原因を記録外から推定しない。",
     "option_verdicts": [
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）"
+      "語彙未習を示す情報がなく単一原因の確定は不可",
+      "明示された指示と発話順、問題点の明示と正用提示に一致",
+      "記録の時間条件と不一致",
+      "問題点を説明し正用を示しており暗示的言い換えだけではない"
     ],
     "reason": "教師の使ってもいいですかは質問として成立し、答えとして使ってもいいですも自然。依頼表現を引き出す意図と間の長さが記載されず自己応答と断定不可。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "sources": [
+      "S46",
+      "S37"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：役割と観察可能な発話条件を明示",
+    "no_correct_risk": "なし：独立正答2",
+    "fixes_applied": true
   },
   "Q_4_080": {
     "status": "要追加確認",
@@ -7730,58 +7734,67 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_O_071": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 4,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
+    "stem_review": "Oxford1990の6分類と具体的行動を明示し全4肢を独立判定。",
+    "explanation_review": "著者自身の章、印刷頁71–75の本文・表I/IIを4解説に照合。表は版面画像でも確認。体系をまたぐ一般化をしない。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "感情調整ではない",
+      "対人的相互作用ではない",
+      "計画・評価は認知群と別",
+      "計画・自己評価はメタ認知群"
     ],
     "reason": "計画進捗4候補。認知の例として連想記憶を置く分類はOxfordの記憶カテゴリと混在。",
-    "sources": [],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "sources": [
+      "S47"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：分類体系と行動を指定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_O_072": {
-    "status": "修正必要",
-    "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
-    "option_verdicts": [
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）"
-    ],
-    "reason": "語彙関連づけはOxford記憶にもO’Malley認知にも当たり体系指定なしで唯一認知2と確定不可。ケース15の分類を指定して改訂。",
-    "sources": [],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "前提不成立の疑い"
-  },
-  "Q_O_073": {
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
+    "stem_review": "Oxford1990の6分類と具体的行動を明示し全4肢を独立判定。",
+    "explanation_review": "著者自身の章、印刷頁71–75の本文・表I/IIを4解説に照合。表は版面画像でも確認。体系をまたぐ一般化をしない。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "感情調整ではない",
+      "関連づけ・イメージは記憶群",
+      "計画・評価ではない",
+      "知識不足を補う推測・言い換えではない"
+    ],
+    "reason": "語彙関連づけはOxford記憶にもO’Malley認知にも当たり体系指定なしで唯一認知2と確定不可。ケース15の分類を指定して改訂。",
+    "sources": [
+      "S47"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：分類体系と行動を指定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
+  },
+  "Q_O_073": {
+    "status": "確認済み",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "Oxford1990の6分類と具体的行動を明示し全4肢を独立判定。",
+    "explanation_review": "著者自身の章、印刷頁71–75の本文・表I/IIを4解説に照合。表は版面画像でも確認。体系をまたぐ一般化をしない。",
+    "option_verdicts": [
+      "援助の例はあるが明示された明確化・確認は社会的群",
+      "表IIの質問例に一致",
+      "保持・取り出しの工夫ではない",
+      "表IIの対人的質問として分類される"
     ],
     "reason": "質問社会2候補。補償との境界、情報要求ではなく他者と学習する行動の条件を明示。体系照合。",
-    "sources": [],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "sources": [
+      "S47"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：分類体系と行動を指定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_O_074": {
     "status": "要追加確認",

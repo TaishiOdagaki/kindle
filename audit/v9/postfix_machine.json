@@ -4,10 +4,15 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 54,
+  "changed_questions": 58,
   "case_replacements": 6,
-  "replacements": 249,
+  "replacements": 278,
   "issues": [
+    [
+      "S2",
+      "Q_O_073",
+      "設問文に問いの文末がない: …理解が合っているか相手に確認したりする質問は、どの群の例か。"
+    ],
     [
       "A1",
       "Q_1_001",

@@ -1,0 +1,16 @@
+{
+  "docx_sha256": "ccc0b8d0c3ca73174d485f46afa460d454a3bd2ed346060f74e2a7432ad171a5",
+  "font": "Noto Sans CJK JP",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "rendered_pages": 416,
+  "inspected_pages": [
+    86,
+    175,
+    176,
+    297,
+    384,
+    385
+  ],
+  "result": "第12・13バッチ4問の設問・全4肢・全4解説を画像確認。文字欠落・はみ出し・重なりなし。Q_O_071の設問と選択肢が175/176頁に分かれる。最終版で改頁の調整を再検討。385頁上部は拡大画像でも確認。",
+  "full_visual_qa_completed": false
+}

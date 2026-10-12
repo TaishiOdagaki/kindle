@@ -94,3 +94,7 @@ S27追加照合：2026-10-12に本文全28条・当初施行附則第1条を通�
 | S45 | Council of Europe [CEFR Companion Volume (2020)](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16809ea0d4) | 公式PDFを取得し、印刷頁130・132の文法的正確さと音韻的尺度の区別、B1の記述を本文と表の画像で確認。任意のルーブリックの点数3と同一視しない。 | Q_4_054 |
 
 S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を取得して本文確認。母語の違う学習者にも現れる誤りと目標言語内の学習過程を扱う。対照分析の有用性と全誤りを母語干渉だけで説明する主張を区別し、Q_5_008の全4肢・全4解説を改訂。原著の英語データを日本語例の正誤の証明として扱わない。
+
+| S46 | 国際交流基金 [文型練習教材 Vてもいいです](https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/setsumei_pdf/setsumei06_2.pdf) | 公式PDF全2頁（印刷76–77）。許可を求めるVてもいいですかと、許可を与える表現を本文確認。旧JLPT級への記載を現行試験情報として使わない。 | Q_4_079 |
+
+| S47 | Rebecca L. Oxford (1990), Styles, Strategies, and Aptitude: Connections for Language Learning, in Parry & Stansfield (eds.), [Language Aptitude Reconsidered](https://files.eric.ed.gov/fulltext/ED321573.pdf), pp.67–125 | 著者本人の章の印刷頁71–75（PDF77–81頁）の本文と表I/IIを取得し、画像で分類の所属も確認。6分類、関連づけ・イメージの記憶群、計画・自己評価のメタ認知群、明確化・確認質問の社会的群。1990年単行本由来の表が本人の章に掲載。章全体の実証的主張を一括承認しない。 | Q_O_071–073 |
