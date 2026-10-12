@@ -108,3 +108,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S52 | John R. Searle (1979), [Expression and Meaning](https://altexploit.files.wordpress.com/2019/10/john-r.-searle-expression-and-meaning-_-studies-in-the-theory-of-speech-acts-1979.pdf), Chapter 2 “Indirect Speech Acts”; 東京外国語大学学術成果コレクション [語の意味論](https://tufs.repo.nii.ac.jp/record/6188/files/acs055001.pdf) | Searle原典pp.30–49（PDF43–63頁）で、一つの発話内行為を別の行為を通じて間接的に行う定義、共有背景情報と推論、依頼例を確認。大学公開論文で意味論と、文脈・人間関係・話者の使用を扱う語用論の区別を確認。 | Q_5_075 |
 
 | S53 | 学研キッズネット辞典 [派生語](https://kids.gakken.co.jp/jiten/dictionary06100287/) | 出版社系辞典本文を全頁取得。独立した単語に接頭語・接尾語が付いてできた語という定義と、接尾辞による派生語の例「春めく」を確認。個別語「子ども」の形態分析は承認対象から撤去。 | Q_5_042 |
+
+| S54 | 情報処理振興事業協会技術センター（1996）[IPAL基本名詞辞書 解説編](https://www2.ninjal.ac.jp/dictionaries/IPALBN/IPALBN_manual.pdf) | 国立国語研究所公開版。印刷頁212–214（PDF223–225頁）の本文を取得・精読。類似性の隠喩、隣接性の換喩、カテゴリ包摂の提喩を区別。物理的全体部分関係とカテゴリ包摂を混同しない注意も確認。顔が広いの個別帰属は承認せず撤去。 | Q_5_073 |
