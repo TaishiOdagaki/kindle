@@ -100,3 +100,6 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S47 | Rebecca L. Oxford (1990), Styles, Strategies, and Aptitude: Connections for Language Learning, in Parry & Stansfield (eds.), [Language Aptitude Reconsidered](https://files.eric.ed.gov/fulltext/ED321573.pdf), pp.67–125 | 著者本人の章の印刷頁71–75（PDF77–81頁）の本文と表I/IIを取得し、画像で分類の所属も確認。6分類、関連づけ・イメージの記憶群、計画・自己評価のメタ認知群、明確化・確認質問の社会的群。1990年単行本由来の表が本人の章に掲載。章全体の実証的主張を一括承認しない。 | Q_O_071–073 |
 
 | S48 | H. P. Grice (1975), [Logic and Conversation](https://projects.illc.uva.nl/inquisitivesemantics/assets/files/papers/Grice1975.pdf), Syntax and Semantics 3, pp.41–58 | 大学公開の原論文全18頁を取得。印刷45–46頁の協調原理・4格率、49–50頁のviolate/opt out/clash/floutと含意の条件を本文・画像で照合。日本語の架空場面は本監査で構成した適用例。全18頁の学説を一括承認しない。 | Q_5_078・084・085 |
+
+| S49 | John R. Searle (1979), [Expression and Meaning: Studies in the Theory of Speech Acts](https://altexploit.files.wordpress.com/2019/10/john-r.-searle-expression-and-meaning-_-studies-in-the-theory-of-speech-acts-1979.pdf), Chapter 1 “A Taxonomy of Illocutionary Acts” | 原著全文を取得。pp.12–18（PDF 25–32頁）のassertives・directives・commissives・expressives・declarationsの定義、宣言の成立効果と制度・話者地位条件を照合。 | Q_5_083 |
+| S50 | 東京外国語大学言語モジュール「[招待する](https://www.coelang.tufs.ac.jp/mt/mn/dmod/class/ja_36.html)」 | 大学公開教材の日本語会話本文に「すごくおなかがすいているんだ」を確認し、当該形を一律に誤用とする前提を否定する根拠として限定使用。アスペクト体系全体の承認には使わない。 | Q_5_058 |

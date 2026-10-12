@@ -1,0 +1,30 @@
+{
+  "batch": 15,
+  "retrieved_at": "2026-10-12",
+  "sources": [
+    {
+      "id": "S49",
+      "title": "John R. Searle, Expression and Meaning (1979), Chapter 1",
+      "url": "https://altexploit.files.wordpress.com/2019/10/john-r.-searle-expression-and-meaning-_-studies-in-the-theory-of-speech-acts-1979.pdf",
+      "full_text_obtained": true,
+      "checked_pages": "book pp. 12–18; PDF pp. 25–32",
+      "verified_claims": [
+        "Directives attempt to get the hearer to do something.",
+        "Commissives commit the speaker to a future course of action.",
+        "Expressives express the psychological state in the sincerity condition.",
+        "Successful declarations bring propositional content and reality into correspondence.",
+        "Ordinary declarations require an extra-linguistic institution and appropriate institutional positions."
+      ]
+    },
+    {
+      "id": "S50",
+      "title": "東京外国語大学言語モジュール「招待する」",
+      "url": "https://www.coelang.tufs.ac.jp/mt/mn/dmod/class/ja_36.html",
+      "full_text_obtained": true,
+      "verified_claims": [
+        "大学公開教材の自然な日本語会話に『すごくおなかがすいているんだ』が用いられている。"
+      ],
+      "scope_limit": "当該表現を一律に誤用とする前提の否定にのみ使用。アスペクト体系全体の根拠とはしない。"
+    }
+  ]
+}
