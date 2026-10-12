@@ -4,8 +4,8 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 13,
-  "replacements": 29,
+  "changed_questions": 16,
+  "replacements": 35,
   "issues": [
     [
       "A1",
@@ -160,11 +160,11 @@
         "4": 2
       }
     },
-    "正解が最長の選択肢": "114/500 (23%) 無作為なら25%",
+    "正解が最長の選択肢": "115/500 (23%) 無作為なら25%",
     "正解の長さ順位(0=最長)": {
-      "0": "126 (25%)",
+      "0": "127 (25%)",
       "1": "287 (57%)",
-      "2": "58 (12%)",
+      "2": "57 (11%)",
       "3": "29 (6%)"
     }
   },

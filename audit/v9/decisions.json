@@ -1528,5 +1528,3010 @@
     "stem_review": "全文精読・独立判定実施",
     "explanation_review": "4解説の対応を精読",
     "unresolved": "所見に記載した事項を出典本文と照合し、修正後に再判定する。"
+  },
+  "Q_3_001": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "1と2は処理方向が逆、3は解読負荷で全体理解を妨げる候補、4は相互作用を片方だけにする誤り。初級ほど必ずボトムアップ依存という一般化には研究条件の根拠が必要。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_002": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は背景知識活性化、2は文法分析、3は音韻識別、4は語彙音韻の確認。語彙予習が背景知識も活性化する場合があるため、4が常にボトムアップだけとはしない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_003": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3が知識枠組みの定義、1と4は内容・形式を逆転、2不変は誤り。設問の認識心理学は認知心理学へ修正必要。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_004": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は文化スキーマと記述の不一致、1は語彙不足、2は接続表現不足、4は分かち書き処理。風邪時の入浴を日本の全員共通の慣習や医学的推奨とは扱わない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_005": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は明示されない情報の補完、2超上級のみ・3明示100%時だけは誤り。選択肢1が橋渡し推論と精緻化推論を括弧で同義扱いし解説と矛盾する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_006": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は二文間を補う橋渡し候補、2は語認知、3は情景の精緻化、4は予測。ピクニックとビールの例の出典・橋渡しの定義を照合する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_007": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は表面的結束なしでも文脈により一貫性が成立する候補。1と2逆、4常に同一は誤り。解説3のAがノックの音という音イベントで、実際の言語的談話例として不明瞭。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_008": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は候補だがLADを実証された共通前提とする断定と、第二言語では第一言語が既に確立しているとの一般化は誤り。幼児のL2にも適用する設問の範囲不足。1～3の常に・全員・全くなしは不適切。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_009": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4はスキル獲得理論の宣言から手続き化。1と3は宣言・手続逆、2熟達で手続消滅は誤り。理論の名称、モデル年代、Fitts/Posnerの段階との関係を原著照合。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_010": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は説明できても即時運用が不十分という候補。1永久に寄与しない、2手続完璧とする、3両方未獲得は不適切。単一の発話ミスだけで手続化不足を確定診断しない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_011": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は伝統的モデルの短期保持、2検索不能、3流れ逆、4数日感覚記憶は誤り。7±2と4項目は課題・チャンク条件が異なり、厳密な普遍容量としない。長期記憶の永久性も限定する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_012": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1保持と処理、2と3は視空間と音韻逆、4中央実行系が保存庫のみは誤り。Baddeley/Hitchの1974モデルと2000追加エピソードバッファを区別する。",
+    "sources": [
+      "S16"
+    ],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_013": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は処理負荷で保持困難という候補、1聴解に影響ゼロ、2自動化で負荷増、3資源競合ゼロは不適切。貯蔵と処理が常に完全な単一資源という解説は学説差を確認。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_014": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は潜在的プライミングの説明候補。1意味と手続逆、2と4意味・エピソード逆。プライミング全種類を非宣言的に一括できる範囲と想起意識の条件を要確認。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_015": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は体系的な学習者言語、1母語のみ、2無構造、4初期のみは誤り。全段階で常に再構築するとの解説は化石化との整合も点検する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_016": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は化石化、2臨界期、3一時的退行、4L2からL1の影響。化石化が年齢や入力・訂正に全く左右されないという解説は原著の定義と要因を分ける。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_017": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は長年の助詞誤用が持続する化石化候補。1と3は改善、2は一時変動。ただし2に再び正用へ戻る記述がなくU型発達の三段階は確認できない。即時改善だけで永久固定の有無を決めない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_018": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は対象言語規則の適用範囲拡大。1母語転移との同一視、2低意欲だけ、4ランダムのみは誤り。過剰般化を誰もが必ず経験する普遍段階とする解説は留保が必要。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_019": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）"
+    ],
+    "reason": "4は静かかったにい形容詞規則を拡大。2は正用、3は原因不明の格選択。ただし1のおはようございますでしたも過去形式を挨拶に拡大した過剰般化と説明でき、単一正答が保証されない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "誤答1も過剰般化として成立し得る",
+    "no_correct_risk": "未確定（所見参照）",
+    "candidate_answers": [
+      1,
+      4
+    ]
+  },
+  "Q_3_020": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）"
+    ],
+    "reason": "2はく→いてを例外行くへ拡大。ただし1の辞書形＋ないも学習者が抽出した接続規則の過剰般化になり得る。3と4は正用なのに非文記号*を付けている。誤答・解説を作り直す必要がある。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "誤答1も過剰般化として成立し得る",
+    "no_correct_risk": "未確定（所見参照）",
+    "candidate_answers": [
+      1,
+      2
+    ]
+  },
+  "Q_3_021": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は独力と支援下の水準差、1支援でも到達不可、2遺伝固定、4独力だけは不一致。解説2の常に変化は変化し得るへ限定する。Vygotsky原文の再録箇所を確認。",
+    "sources": [
+      "S15"
+    ],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_022": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "2は協働と支援で課題完成、1難易度過大、3既達成の反復だけ、4支援ゼロは不適切。既達成課題が新たな学びを一切生まないという解説3は過大。協動的→協働的も修正候補。",
+    "sources": [
+      "S15"
+    ],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_023": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は言語構造分析、1モニター、2補償、3社会的。O’Malley/ChamotとOxfordで分類枠組みが異なり、補償のカテゴリ名を両者共通にしない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_024": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は計画監視評価、2認知、3社会的、4感情。分類する研究者と体系を明示し、社会・感情の統合カテゴリとの違いを確認する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_025": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は処理中の自己点検、1事後評価、2事前計画候補、4内容推論。先読み予測自体は認知活動にもなり、実行の管理という基準を明示する。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_026": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は視覚関連付け記憶、1補償、3ノート認知、2は社会的接触候補。ただしOxfordの機会を求めるメタ認知と協力の社会的を混同する解説2の照合が必要。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_027": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は課題・個人で適合性が異なる、1完全独立、2後天育成不可、4単一だけは不適切。学習スタイルの固定的適性や文化決定論として断定しない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_028": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3はOxfordの記憶対認知の趣旨、1認知のみ・2補償混同・4メタ感情混同は不適切。ただし設問がOxfordを明示せず、記憶が認知の下位分類の体系でも成り立つという流派差。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_029": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は漢字構造分析と文脈推論、1感情・2計画・3質問ではない。過疎化を単に寂しくなると説明し、過をすぎると一字解釈する妥当性を辞書定義と照合。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_030": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4はUカーブの谷、1蜜月期を警戒、2自文化放棄必須、3帰国だけはモデルと不一致。全員が同じ順番・期間で通る科学法則とは扱わない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_031": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3は滞在と帰国後の二つの適応過程、1降下だけ、2臨界期の波形、4逆ショックなしは不一致。提唱者名と年代、普遍モデルではないという限界を原著確認。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_032": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は日常の手掛かり喪失、2脆弱者だけ、3害だけ、4文法完璧で防げるは不適切。成長へ必ず至るとの一般化を避ける。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_033": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は保持＋参加、2周縁化、3同化、4分離。ただし統合がどの文脈でも最も健康的という解説の普遍断定、自由な選択ができる社会条件を原著照合。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_034": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）",
+      "要判定（競合の可能性）"
+    ],
+    "reason": "4はアイデンティティ変容候補だが国に帰るとという設問が帰国時のショック2とも両立。現在日本にいるから2は違うという解説では過去や一時帰国を排除できない。条件を修正する必要がある。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "帰国時のショックと自己変容は両立",
+    "no_correct_risk": "未確定（所見参照）",
+    "candidate_answers": [
+      2,
+      4
+    ]
+  },
+  "Q_3_035": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "3はDMISの自文化中心から相対へ、1受容を常時実践義務、2防衛を否定、4最終否定は誤り。理論の段階名と統合の意味を原著確認。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_036": {
+    "status": "確認済み",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "報酬効果を常に強化とするのは誤り",
+      "外発的調節にも自律的な同一化的調節があり正しい",
+      "活動そのものの興味ではなく外的結果なので誤り",
+      "内発だけを唯一の動機とする指導は原著と不一致"
+    ],
+    "reason": "2は外発でも同一化した自律的調節が存在。1報酬で常に強化、3内発を外的結果、4外発を完全排除すべきはRyan/Deciの定義と不一致。解説の連続体・報酬効果も原著本文確認。",
+    "sources": [
+      "S14"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "1・3・4は原著の定義と不一致",
+    "no_correct_risk": "正答2が存在"
+  },
+  "Q_3_037": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は実用目的の道具的、2社会参加を道具的、3併存不可、4統合が常に上位は不適切。統合的志向と統合的動機づけの厳密な違いを原著照合。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_038": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "1は興味自体、3奨学金・4PCは外的結果。2は他者承認による外発だが、これだけで取入的調節と特定する根拠が不足。外的調節との区別を本人の理由なしに断定しない。",
+    "sources": [
+      "S14"
+    ],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_039": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "4は望ましい自己と現状差の動機づけ。1と2理想・義務逆、3学習経験を運動転移は誤り。ギャップだけで必ず意欲が生じる訳ではなく条件・行動計画を照合。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_3_040": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "2はHorwitz関連の不安3概念。1常に悪のみ、3生産なし、4低減不能は不適切。ただし原著は不安を既存3種の単純和ではないと区別するため、FLCASの3下位尺度と断定する解説を再検討。 原著p128は3種の不安の単純な組合せではない独自の複合概念と明記し、p130も単純合成ではないと記載。",
+    "sources": [
+      "S17"
+    ],
+    "unresolved": "第2修正バッチを作業稿へ適用。その他の選択肢・解説の出典照合と修正後再判定、表示検査は未了。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
+  },
+  "Q_3_041": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
+    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "2は発話不安の可能性とペア支援、1道具動機低下と断定、3全訂正賞罰、4知識不足だけと断定は不適切。筆記高得点で発話に必要な知識が完全に十分と証明したことにはならない。",
+    "sources": [],
+    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_001": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "技術的合理性は科学的知識・技術の適用という概念。教案の機械的遂行だけへの還元は修正候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_002": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "省察の実践的判断候補3。行為中と行為後の区別、学説原著を照合する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_003": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "行為中の省察候補2。授業中の即応と終了後振り返りを分ける。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_004": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "技術的合理性を固定教案の無思考適用と同一視する解説3の矮小化を修正する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_005": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ピア観察には評価的目的もあり、非査定の発達支援型観察という条件が必要。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_006": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "文体混在は会話・内的発話で自然な場合もある。文体統一の授業課題という条件を明記する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_007": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "教師役割は文脈依存。万能のファシリテーション効果として断定せず原資料を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_008": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "コース設計の唯一の直線順序とはしない。バックワードデザインや反復改善もありモデル指定が必要。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_009": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "客観的・主観的ニーズの分類枠組みを指定。希望と要求の分類の研究者差を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_010": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "ニーズと既習知識の区別候補2。調査法と結果の実際の活用範囲を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_011": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "レディネス候補1。準備状態は固定的適性ではない。全4解説の分類出典が未了。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_012": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "解説4の一般に数日から1週間という実習期間は機関ごとに異なり根拠不十分。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_013": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Can-doの目標・活動・評価の共有候補2。JFスタンダードS11で主要概念確認、4解説の完結照合を継続。",
+    "sources": [
+      "S11"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_014": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "TTTとSTTの比率に唯一の理想値はない。各活動目的との適合性を要照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_015": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ティーチャートーク調整候補4。単純化が常に理解を高めるわけではない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_016": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "学習者中心の活動候補2。効果を学習者の条件なしに保証しない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_017": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "教師が映画名を知らないという条件がなく、参照質問と提示質問の判定は未確定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_018": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "教室の配置・温度等の効果は条件依存。常に緊張を高めるという一般化を要検証。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_019": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "リキャスト3候補。解説2の反復と明確化要求の混合分類を原著の定義で確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_020": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ジグソーの情報相互依存4候補。原案の手順・役割と説明を原著で確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_021": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "シラバスの構成単位3候補。コース運営・教材名と分類単位を区別。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_022": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "コースデザインの順序はモデル依存。評価が最後だけという一般化を限定する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_023": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "課題シラバス候補2だが銀行口座開設も課題になり得る。場面と具体的達成目標の区別を明示。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_024": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "解説2がタスクシラバスを過程を無視して結果だけ評価する方式として記述し誤り。学習過程も重視する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_025": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "複合シラバス候補2。報告・相談は機能にも属し、分類は単一排他的とは限らない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_026": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "解説1の言語消費者は言語使用者へ修正。Can-doに文法的能力の尺度もあるため知識を全排除しない。",
+    "sources": [
+      "S11"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_027": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ニーズの主観・客観の枠組みを指定。希望・要望だけで客観性を決めない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_028": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "環境分析が学習者の条件も含む枠組みがある。物理的・制度的資源の条件へ範囲を限定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_029": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "プロセスシラバス候補1。プロダクトを物理的成果物だけの意味に狭めない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_030": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "教授法・シラバスの組合せ候補2。唯一の関係ではなく典型的な組合せとして照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_031": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Hymesの提唱はコミュニケーション能力。社会言語学的能力だけと同一視する帰属を修正候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_032": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ALMの典型モデルと実践上の母語・対照分析利用を区別。母語一切禁止という一般化を検証。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_033": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "代入練習2候補。解説1の被動文は受動文へ修正。単一スロットと複数スロットの分類を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_034": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ALMでテキスト不使用は特定段階の原則と全コース禁止を区別。解説の最初数か月の出典未了。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_035": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "特定形式を狙うfocused taskもある。文法を指定すると必ずFocus on Formsという解説を修正候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_036": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "WillisとPrabhuの枠組みが混在。Language Focusを含む手順はモデル名を指定する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_037": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "CLILとCALP候補1。認知負荷は年齢・支援で調整し固定的二能力として扱わない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_038": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "解説1の過度のイマージョンという価値判断を削除候補。意味重視を必ず形式への注意ゼロとしない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_039": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "リキャスト候補1。暗示性と気づき・習得効果は常に保証されるわけではない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_040": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "教師の後で繰り返す復唱をシャドーイングと同一視する解説1を修正する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_041": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Krashenのモニター仮説候補1。仮説の主張と現在の実証上の合意は分けて記述する。",
+    "sources": [
+      "S13"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_042": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "シャドーイングだけではALMと特定できない。解説1の教授法との同一視を修正する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_043": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "主教材・補助教材の役割候補1。補助教材の使用量・形式は目的で変わる。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_044": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "オーセンティック教材は非教育目的の実際の使用資料。母語話者向けに限るという定義を修正候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_045": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "真正資料を音声・形式学習に使う価値もある。現実情報取得を目指す活動という条件を明示する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_046": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "選択肢2の加除と解説の加除が不一致。教材アダプテーションの分類体系も照合する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_047": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "板書に必ず一例以上が鉄則という断定は根拠不十分。目標に応じた具体例の有効性へ修正候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_048": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "板書の読み順候補1。読むことに重点を置かない活動もあるため使用条件を限定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_049": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Can-doだけで場面・機能シラバスとは決まらない。課題等の複数の構成が可能と解説を修正する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_050": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "JFスタンダードのレベルと課題遂行4候補。S11の関連尺度と4解説を追加照合。",
+    "sources": [
+      "S11"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_051": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "形成評価4候補。1配置/診断、2到達度、3総括との区別は整合。JLPTの総合的運用能力は口頭表出を直接測らない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_052": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "選択肢4はJLPTを国家資格と扱う疑い。共通テスト自体を規範準拠と一括する解説3も測定と選抜を混同。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_053": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "分析的ルーブリック2候補。総合的・単一観点ルーブリックもあり、必ず複数観点マトリクスという定義の範囲を指定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_054": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "レベル数・各レベルの意味が設問にない。レベル3を中間とする前提は成立せず尺度条件を補う。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_055": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ポートフォリオ4候補。標準化困難性と大規模選抜不向きは具体的な評価設計次第。一般化を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_056": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "信頼性1候補。再測定で能力変化がない条件、完全に同一点を保証する概念ではない点を補足候補。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_057": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "古典的妥当性分類4候補。現代の妥当性は得点解釈・利用の根拠であり分類体系を指定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_058": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "波及効果2候補。直接テストは一般に正の効果、難しすぎると一般に負という断定は条件依存で要出典。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_059": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "個人内評価3候補。CEFR B1と根拠を挙げる能力の例の正確な尺度・活動を追加確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_060": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "間接テスト2候補。直接テストが必ず人間による採点かルーブリックを要するという解説は範囲が過大。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_061": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "離散4候補。クローズの削除方式やディクテーションの課題設計により測定構成は変わり古典的分類の範囲を指定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_062": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "設計の手順2候補だが唯一の普遍順序とはしない。ニーズ分析から目標・評価・教案の整合モデルを確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_063": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "PPPの導入2候補だが設問にはモデル指定なし。解説で他方式を一般に不適切とする範囲を修正する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_064": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "PPPの練習から応用2候補。言明の自由度という用語と自動化効果の根拠を確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_065": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "PPP展開1候補。未習文の協働発見があらゆる導入で不適切とはしない。対象モデルを明示。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_066": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "機械的/有意味4候補。個人の事実を有意味練習が全く扱わないとの解説は分類条件を追加照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_067": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "映画に行きました。そして…は誤用ではない。正しい発話の言い換えだけでは修正リキャストと確定できず前提を修正。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_068": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "勉強しなかったですは許容される過去否定であり誤用扱いは誤り。JF公開資料S18に両形式。反復/誘導の名称も要修正。",
+    "sources": [
+      "S18"
+    ],
+    "unresolved": "第2修正バッチを作業稿へ適用。その他の選択肢・解説の出典照合と修正後再判定、表示検査は未了。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
+  },
+  "Q_4_069": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "読むようになるは習慣の変化として成立し可能形のみ接続という規則は誤り。が/をの格と能力変化の意図を明示して訂正。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_070": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "対照分析3候補。中間言語分析という分析分野自体を存在しないとする解説1は中間言語概念と混同。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_071": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "中間言語2候補。体系的規則性と母語/対象言語の相違を原著確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_072": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "化石化3候補。永続性と安定化の区別を研究原著で照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_073": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "過剰般化3候補。母語干渉は促進的転移もあり否定的干渉の限定が必要。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_074": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "global/local error1候補。意思疎通への影響という原典分類と統語範囲の関係を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_075": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "誤用分析3候補。まず収集・誤り識別から分類という手順が抜けているため実作業の順序を追加確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_076": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "回避1候補。回避は意識的とは限らず、用いない事実だけで心理的原因を確定しない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_077": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "アクションリサーチ4候補。外部研究者との協働もあり実践者の主体性と排除を混同しない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_078": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "プロトコル4候補。同時思考発話と回顧的報告は妥当性・記憶再構成の点で異なる。思考を透明に可視化できるとはしない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_079": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "教師の使ってもいいですかは質問として成立し、答えとして使ってもいいですも自然。依頼表現を引き出す意図と間の長さが記載されず自己応答と断定不可。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_080": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "参照質問3候補。教師が既知か否かの定義と自然な相互作用の効果を研究照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_081": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "Roweの3～5秒は調査文脈・待ち時間I/IIの区別が必要。全ての初級日本語授業の普遍最適値とはしない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_082": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "FIAC2候補。10カテゴリと3秒サンプリング、沈黙/混乱分類を原著確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_083": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "行為中/行為後の省察4候補。Schönの実践的知識の定義と不可欠の断定を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_084": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "BICSとCALP3候補。2年/5～7年は対象集団・到達基準に依存し普遍期間としない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_085": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "JSLカリキュラム1候補。体験/言語活動統合と母語保持の位置付けを文科省原資料へ照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_086": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "逆比較で15+6=21が正解なのに誤用とする解説1は計算上誤り。所有語理解・計算力をデータなく排除する解説3/4も過大。",
+    "sources": [],
+    "unresolved": "第2修正バッチを作業稿へ適用。その他の選択肢・解説の出典照合と修正後再判定、表示検査は未了。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
+  },
+  "Q_4_087": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "論文文体4候補だが主観表現・丁寧体が一律不可という一般化は分野・ジャンル依存。根拠と形式を分ける。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_088": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "案内表現2候補。受動態や無生主語だけで客観性が保証されるわけではない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_089": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "限られた観察の全体一般化を指導する2候補。文末をと考えられるへ換えるだけで客観性は得られない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_090": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "敬語解説3が社内上司に社外人物を話す文脈と社外に自社上司を話す文脈を混同。S04に基づき聞き手・動作主を分ける。",
+    "sources": [
+      "S04"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_091": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "先輩へのてくださいは必ず誤用とはしない。急ぎの依頼なのに正答が時間がある時へ変わる条件不足。ご＋外来語を全面禁止もしない。",
+    "sources": [
+      "S04"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_092": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "クッション語1候補。では結構ですの印象は文脈・音調次第、ネガティブポライトネス分類は原著と照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_093": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "母語の共通基盤1候補。ただし転移には習熟・入力条件があり、セミリンガルという欠損的診断や母語必ず急速喪失の断定を再検討。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_094": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "Barnga4候補。言語禁止・移動の手順を作者の公開ルールと照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_095": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "デブリーフィング2候補。示す4段階をKolbの4段階と同一視する解説は別モデルとの混同疑い。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_096": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "文化差の可能性を考慮3候補。ただし原因を国籍で決定せず本人意図・状況を確認し合意形成する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_097": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "カルチャーアシミレーター1候補。事例と解釈選択肢・フィードバックの原案を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_098": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "役割交換1候補。相手の内面を正確に知れる訳ではなくステレオタイプ防止・振り返りの条件を確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_099": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "自民族中心主義1候補。文化相対主義と倫理的相対主義の範囲を混同せず原著確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_100": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "U/Wカーブ3候補。全員が蜜月期を経験する普遍順序ではない。提唱者・経験的限界を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_101": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "異文化事例4候補。一般のcritical incidentとの範囲差と文化以外の要因を除外しない。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_102": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "アシミレーター3候補。唯一の文化原因と固定しない解釈・フィードバック設計を原案照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_103": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "母文化を特定する情報なしに3が原因と断定不可。1の語彙誤解も成立し得るため単一正答の条件を補う。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "語彙の誤解を排除する設問条件がない",
+    "no_correct_risk": "未確定（所見参照）",
+    "candidate_answers": [
+      1,
+      3
+    ]
+  },
+  "Q_4_104": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "固定ステレオタイプ防止2候補。解説の議論不可欠という断定は個別学習との違いを確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_105": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Hall分類2候補だが言語で社会を一括分類せず古典モデルとして限定。国内・個人・場面差を補う。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_106": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "Brown/Levinson3候補。理論内のface定義と批判・文化内差を原著確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_107": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ポクセミクスはプロクセミクスへ修正候補。OKの手招きという例の意味が不明瞭。距離の文化一般化を照合。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_108": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "隣接ペア1候補。挿入連鎖があり必ず隣り合う二発話とは限らない。修復は文法誤り以外も含む。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_109": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "選好構造2候補。心理的好みではなく連鎖の組織、受諾/辞退の例外文脈も確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_110": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "断りへの配慮1候補。明示拒絶が常に顔を潰すという解説は関係・意図に依存する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_111": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "発話交代4候補。TRPの一般的訳語と統語・韻律・行為の予測可能性を原著確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_112": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）",
+      "要再判定（設問条件不成立）"
+    ],
+    "reason": "選択肢2の他者指摘後に本人が修復する事例も自己修復であり誤答化できない。始動者と修復者を区別して改訂する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "2も他者始動・自己修復なので自己修復に該当",
+    "no_correct_risk": "未確定（所見参照）",
+    "candidate_answers": [
+      1,
+      2
+    ]
+  },
+  "Q_4_113": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "あいづち4候補。英語との頻度差はジャンル・話者条件を要出典。フィラーとの混同にも注意。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_114": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "応答の語形だけで詰問と確定しない。Gの躊躇等は候補3を支持するが音調・関係条件を明示する。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_115": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "CBT1候補。CATはすべてのCBTに備わる訳ではない。項目プールから選ぶことと問題の自動生成を区別。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_116": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "LMS1候補。Moodle/Classroomの各機能は製品・版によるため公式仕様を確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_117": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "反転4候補。動画数分～10分の普遍最適性を断定しない。同期オンラインも含むblendedの定義を指定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_118": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "AI案の比較4候補。高い学習効果が得られるという断定は対象・研究条件次第で実証根拠追加が必要。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_119": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "オンライン1候補。カメラ義務やサービス小部屋機能は法域・公式現行仕様を確認。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_120": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "Praatのピッチ曲線と波形は異なる表示。測定の誤抽出・録音条件、視覚提示だけで習得保証しない点を補う。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_121": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "CC BYのクレジットだけでなくライセンスリンク・変更表示等の条件を落とす解説3は修正。例外的利用を全て侵害とする解説4も限定。",
+    "sources": [],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_122": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "著作者人格権は死後消滅するが法60条の死後人格的利益保護がある。死後人格権侵害という解説2は区別が必要。",
+    "sources": [
+      "S10"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_4_127": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
+    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "教科書朗読配信は許諾・引用等の条件が省略。録音配信と公の口述を同一視する解説3の権利区分を要照合。",
+    "sources": [
+      "S10"
+    ],
+    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
   }
 }

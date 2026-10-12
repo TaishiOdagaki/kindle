@@ -4,11 +4,11 @@
   "source_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
   "questions": 500,
   "answers": 500,
-  "content_reviewed": 86,
+  "content_reviewed": 250,
   "status_counts": {
-    "確認済み": 2,
-    "修正必要": 17,
-    "要追加確認": 481
+    "確認済み": 3,
+    "修正必要": 72,
+    "要追加確認": 425
   },
   "v5_v6_priority_questions": 278,
   "release_ready": false

@@ -24,3 +24,16 @@
 - Ekman & Friesen等の身体行動分類とパラ言語の定義。Q_2_031のうなずき分類の改稿は保留。
 - 2021年度海外日本語教育機関調査の原表、JLPT・EJUの実施主体の現行仕様、国語政策史の原資料。
 - 残りの全問題について、正答だけでなく各誤答と解説中の補助的な主張にも出典を付ける。
+
+## 第2・第3精読バッチで追加した原資料
+
+| ID | 資料・URL | 確認箇所・内容 | 取得段階 | 対象 |
+|---|---|---|---|---|
+| S13 | Stephen D. Krashen (1982), [Principles and Practice in Second Language Acquisition](https://www.sdkrashen.com/content/books/principles_and_practice.pdf) | 印刷頁15–16のモニター仮説、31–33の情意フィルター仮説。学習知識の編集機能と必要条件。 | 著者サイトの原著PDF本文を確認。理論内の主張を実証済みの普遍法則として扱わない。関連する全主張の照合は継続。 | Q_4_041等 |
+| S14 | Ryan & Deci (2000), [Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf), Contemporary Educational Psychology 25, 54–67 | 印刷頁56の内発定義、60–62の外発的調節の連続体と同一化・統合的調節。報酬や他者承認の表面的情報だけで取入的調節と特定しない。 | 原著14頁PDFの該当本文確認。Q_3_036は4選択肢・解説の関連主張と照合済み。 | Q_3_036、038 |
+| S15 | Vygotsky (1978), Mind in Society, pp86,88–90、[New Learningに掲載された原著抜粋](https://newlearningonline.com/new-learning/chapter-8/reflexivity-towards-new-learning/vygotsky-on-the-zone-of-proximal-development) | 独力の実際の発達水準と成人・より有能な仲間の支援下の潜在的水準との差。学習と発達の関係。 | 原著引用部分を本文確認。原著全冊そのものは未取得。 | Q_3_021、022 |
+| S16 | Baddeley (2000), [The episodic buffer: a new component of working memory?](https://pubmed.ncbi.nlm.nih.gov/11058819/), DOI 10.1016/S1364-6613(00)01538-2 | 1974年の3成分モデルと2000年の第4成分追加。複数モダリティと長期記憶の統合。 | 著者原論文の抄録を確認。全文取得は未成功であり、他の成分の説明を抄録だけで承認しない。 | Q_3_012 |
+| S17 | Horwitz, Horwitz & Cope (1986), [Foreign Language Classroom Anxiety](https://www.ling.ohio-state.edu/research/groups/lacqueys/readings/horowitz.pdf), Modern Language Journal 70(2),125–132 | 印刷頁127–128の3関連不安概念と、単純な組合せではない独自の複合概念という定義。頁130の尺度・解釈も確認。 | 原著本文の大学公開PDFを確認。3関連概念を確定した3下位尺度と呼ばない。 | Q_3_040 |
+| S18 | 国際交流基金日本語国際センター、2015年2月1日シンポジウム『[課題遂行を出発点とした言語学習デザイン](https://www.jpf.go.jp/j/urawa/about/past_events/dl/repo150201_01.pdf)』 | PDF17頁（印刷頁15）、第7課の動詞文に過去否定の「なかったです／ませんでした」が並記されている。 | 公開公式資料の該当本文を確認。訂正フィードバック分類の原著照合とは別の根拠。 | Q_4_068 |
+
+Q_4_086の比較数量の誤記は外部資料の引用ではなく、条件式による検算を記録した。あおい15枚、あおい＝あきら－6なら、あきら＝21枚。第2修正スクリプトにも検算を残す。
