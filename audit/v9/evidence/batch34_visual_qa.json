@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "docx_sha256": "9187b9dfbb5ed2e8fe897bf359563fcf2c0ddc7e9c7d251e5274bcf9ccd7080d",
+  "font": "Noto Sans CJK JP Regular",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "renderer": "documents/render_docx.py",
+  "pages": 412,
+  "visually_checked_pages": [114, 322, 323],
+  "changed_questions_checked": ["Q_5_017"],
+  "postfix_text_missing": [],
+  "findings": "Q_5_017の設問・全4肢・正解表示・全4解説を確認。文字欠落・重なり・裁ち落としなし。改訂後文字列は空白と改行を正規化したPDF抽出本文でも欠落0件。",
+  "rejected_render": "日本語フォント未指定の初回レンダリングは日本語本文が欠落したため、表示検査には使用していない。",
+  "remaining_layout_issues": "今回確認したQ_5_017には新たな表示問題なし。全頁検査と既知の頁分断調整は未完了。",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

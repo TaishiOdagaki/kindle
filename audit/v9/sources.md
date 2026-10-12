@@ -143,3 +143,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S71 | 文化庁 [現代仮名遣い 前書き](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gendaikana/maegaki.html)、[本文第2](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gendaikana/honbun_dai2.html) | 2026-10-12本文取得。前書き1・8、助詞1–3、5(1)(2)となお以下。ちぢむの同音連呼、はなぢ（鼻血）の二語連合を照合し、全部の複合語へ一般化しない。 | Q_5_035 |
 | S72 | 文化庁 [常用漢字表（平成22年11月30日内閣告示）](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf) | 2026-10-12本文取得。PDF第1頁の前書き1–5、表の見方1–2を照合。目安、専門分野・個人・固有名詞の範囲、過去表記の非否定、本表2,136字。改定原因と教育漢字制度は本問から撤去。 | Q_5_033 |
+
+| S73 | 国際交流基金『日本語教育通信』第54号（2006年1月）[「は」と「が」（1）](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/bn/dw_pdfs/nk54_01-18n.pdf)、みんなの教材サイト [は](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00038/ja/render.do) | PDF第12–13頁と教材本文全70行を2026-10-12取得。が＝主語・発見／報告・選択、は＝主題・一般的性質、現行教材の主題・対比・他助詞との共起・共有情報例を照合。新旧情報だけの絶対則や対比の必然的排他含意は採用しない。 | Q_5_017 |
