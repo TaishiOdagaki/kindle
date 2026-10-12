@@ -9,8 +9,14 @@ assert hashlib.sha256(b.SRC.read_bytes()).hexdigest()==b.EXPECTED
 doc=Document(b.SRC)
 for c in cs:
  old=html.unescape(c['before']);ps=[p for p in doc.paragraphs if old in p.text]
+ if c['field']=='options':
+  ps=[p for p in ps if p.text==str(c['index']+1)+'. '+old]
  assert len(ps)==c.get('count',1),(c['id'],c['field'],len(ps))
- for p in ps:assert b.replace_paragraph(p,old,c['after'])
+ for p in ps:
+  if c.get('remove_paragraph'):
+   assert c['after']=='' and p.text==old
+   p._element.getparent().remove(p._element)
+  else:assert b.replace_paragraph(p,old,c['after'])
 doc.save(b.DST);assert zipfile.ZipFile(b.DST).testzip() is None
 issues,q,a=qa.audit(str(b.DST));_,q0,a0=qa.audit(str(b.SRC))
 assert len(q)==len(a)==500 and set(q)==set(q0) and set(a)==set(a0)

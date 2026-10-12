@@ -69,3 +69,6 @@ S28はPDF14頁（印刷頁14）のタ形表も追加確認した。書く→書�
 
 | S35 | 国際交流基金 磯村一弘（2025年3月）[日本語アクセントの知識をアップデートしよう！](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/research/202503.html) | §2.1～2.3の下がり目、語ごとの高低と文中での音調のずれ、文/フレーズ初頭の上昇。 | 公式本文確認。第1拍・第2拍の高さが常に違うとする無条件の規則を根拠にしない。 | Q_5_025・026 |
 | S36 | 東京外国語大学 [アクセント基礎](https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-08-01.php) | 解説の箸（第1拍核）・あなた（第2拍核）、鼻が（平板）・花が（尾高）の型と助詞の高低。 | 公式本文確認。模式的な高低表記と実際の文中音調を区別し、条件をS35で補う。 | Q_5_026 |
+| S37 | Lyster & Ranta (1997), [Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms（著者公開原論文）](https://www.researchgate.net/publication/252160472_CORRECTIVE_FEEDBACK_AND_LEARNER_UPTAKE_Negotiation_of_Form_in_Communicative_Classrooms)、[出版社書誌](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF) | 印刷頁46–49の6分類・複合フィードバック、49–50のuptakeとrepair。 | Leila Rantaが公開した原論文の全文転記から該当本文確認。McGill直接取得はタイムアウト/502。PDF版面との照合は未実施。書誌は出版社の19(1),37–66を使用し、転記ヘッダーの20とは区別。日本語の授業例は監査で構成した適用例。 | Q_4_067～069、Q_M_034ほか |
+
+S27追加照合：2026-10-12に本文全28条・当初施行附則第1条を通読。第7・9条も確認。令和元年6月28日公布、附則は公布日施行。Q_1_032・033・Q_M_003の4肢と4解説を再判定。第21条は処遇改善等を定め、全員無報酬を定めるものではない。
