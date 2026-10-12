@@ -106,3 +106,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S51 | 国立国語研究所 [特集 コーパスで知る日本語史](https://kotoba.ninjal.ac.jp/digest/03/d-03-04/)、[中国語にとりいれられた日本語](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-169/)、文化庁 [第11期国語審議会審議経過](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kakuki/11/tosin01/04.html) | 国研本文で和語・漢語・外来語と古代中国語との対応、明治期に漢語を翻訳語へ用いた背景を確認。文化庁本文で漢字の造語力と漢語形成を確認。個別語「経済」「文化」の成立時期は本問から撤去し、承認対象外とした。 | Q_5_046 |
 | S52 | John R. Searle (1979), [Expression and Meaning](https://altexploit.files.wordpress.com/2019/10/john-r.-searle-expression-and-meaning-_-studies-in-the-theory-of-speech-acts-1979.pdf), Chapter 2 “Indirect Speech Acts”; 東京外国語大学学術成果コレクション [語の意味論](https://tufs.repo.nii.ac.jp/record/6188/files/acs055001.pdf) | Searle原典pp.30–49（PDF43–63頁）で、一つの発話内行為を別の行為を通じて間接的に行う定義、共有背景情報と推論、依頼例を確認。大学公開論文で意味論と、文脈・人間関係・話者の使用を扱う語用論の区別を確認。 | Q_5_075 |
+
+| S53 | 学研キッズネット辞典 [派生語](https://kids.gakken.co.jp/jiten/dictionary06100287/) | 出版社系辞典本文を全頁取得。独立した単語に接頭語・接尾語が付いてできた語という定義と、接尾辞による派生語の例「春めく」を確認。個別語「子ども」の形態分析は承認対象から撤去。 | Q_5_042 |

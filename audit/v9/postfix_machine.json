@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 65,
+  "changed_questions": 66,
   "case_replacements": 6,
-  "replacements": 329,
+  "replacements": 337,
   "issues": [
     [
       "S2",
