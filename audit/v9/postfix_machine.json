@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 43,
+  "changed_questions": 45,
   "case_replacements": 6,
-  "replacements": 158,
+  "replacements": 176,
   "issues": [
     [
       "A1",
@@ -32,11 +32,6 @@
       "A1",
       "Q_4_100",
       "正解選択肢3に断定語、他に断定語なし2つ以上"
-    ],
-    [
-      "A1",
-      "Q_5_025",
-      "正解選択肢4に断定語、他に断定語なし2つ以上"
     ],
     [
       "A1",
@@ -168,8 +163,8 @@
     },
     "正解が最長の選択肢": "124/500 (25%) 無作為なら25%",
     "正解の長さ順位(0=最長)": {
-      "0": "136 (27%)",
-      "1": "278 (56%)",
+      "0": "137 (27%)",
+      "1": "277 (55%)",
       "2": "57 (11%)",
       "3": "29 (6%)"
     }

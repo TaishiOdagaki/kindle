@@ -5005,40 +5005,47 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_5_025": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
+    "independent_answer": 4,
+    "stem_review": "下がり目の説明又は単独フレーズの模式表記の条件を明示し全4肢を判定。",
+    "explanation_review": "JF2025年解説及びTUFSの型・語例・核位置に照合。",
     "option_verdicts": [
-      "要再判定（前提不成立の疑い）",
-      "要再判定（前提不成立の疑い）",
-      "要再判定（前提不成立の疑い）",
-      "要再判定（前提不成立の疑い）"
+      "改訂解説に示した型又は音調の説明と不一致",
+      "改訂解説に示した型又は音調の説明と不一致",
+      "改訂解説に示した型又は音調の説明と不一致",
+      "条件と公式教材に一致"
     ],
     "reason": "正答4の必ず初2拍高低変化には特殊拍・無声化等の例外がある。条件なしの規則では正解不存在の疑い。",
-    "sources": [],
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "疑いあり"
+    "sources": [
+      "S35"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：4肢を独立再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_026": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
+    "stem_review": "下がり目の説明又は単独フレーズの模式表記の条件を明示し全4肢を判定。",
+    "explanation_review": "JF2025年解説及びTUFSの型・語例・核位置に照合。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "改訂解説に示した型又は音調の説明と不一致",
+      "条件と公式教材に一致",
+      "改訂解説に示した型又は音調の説明と不一致",
+      "改訂解説に示した型又は音調の説明と不一致"
     ],
     "reason": "頭高の本2候補。玉子は一般に尾高型で中高型の例に不適切。音の可視化も解説から抜けている。",
-    "sources": [],
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "sources": [
+      "S35",
+      "S36"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：4肢を独立再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_027": {
     "status": "要追加確認",

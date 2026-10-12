@@ -66,3 +66,6 @@ Q_4_086の比較数量の誤記は外部資料の引用ではなく、条件式�
 | S34 | 国際交流基金 [Vてあります](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00124/ja/render.do)、東京外国語大学 [Vてあります](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html)、[Vています（状態）](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/045.html) | 窓が開けてある/開いている、結果状態と意図的働きかけ、てあるの準備完了用法との区別。 | 公式教材本文を確認。窓の結果状態の範囲で説明し、全構文に同じ接続制限を押し付けない。 | Q_5_070 |
 
 S28はPDF14頁（印刷頁14）のタ形表も追加確認した。書く→書いた、行く→行った、見る→見た、閉める→閉めた、来る→来た（きた）をQ_3_019の改訂に使用。
+
+| S35 | 国際交流基金 磯村一弘（2025年3月）[日本語アクセントの知識をアップデートしよう！](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/research/202503.html) | §2.1～2.3の下がり目、語ごとの高低と文中での音調のずれ、文/フレーズ初頭の上昇。 | 公式本文確認。第1拍・第2拍の高さが常に違うとする無条件の規則を根拠にしない。 | Q_5_025・026 |
+| S36 | 東京外国語大学 [アクセント基礎](https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-08-01.php) | 解説の箸（第1拍核）・あなた（第2拍核）、鼻が（平板）・花が（尾高）の型と助詞の高低。 | 公式本文確認。模式的な高低表記と実際の文中音調を区別し、条件をS35で補う。 | Q_5_026 |
