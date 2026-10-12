@@ -126,3 +126,9 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S62 | 国際交流基金 [そうです 様態](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00094/ja/render.do)、[そうです 伝聞](https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/setsumei_pdf/setsumei19_4.pdf)、[そうだ／ようだ／らしい（1）](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html) | 3資料本文取得。現状からの可能性判断、伝聞の情報源表示、接続の差、いい→よさそう、名詞のようだ／名詞らしいを確認。記事の関心の度合いによる説明を全学説に普遍化しない。 | Q_5_061、069 |
 | S63 | 国際交流基金 [V＋N](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00128/ja/render.do) | 本文・例文12のそこにある本を取得。存在動詞あるを含む節の名詞修飾を確認。ある日の不定用法やた／ているの全置換条件は本問から撤去し承認しない。 | Q_5_066 |
+
+| S64 | 国際交流基金 [と 条件](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00030/ja/render.do) | 全本文、先生へ欄、後件過去形の表、と／たら比較表を取得。一般・習慣・自然現象に加え過去の発見・きっかけを確認。個人の想定条件＋願望でたらを用いる例を確認。ば／ならの体系全体は本問から撤去し未承認。 | Q_5_062、063 |
+
+| S65 | 国際交流基金 [文法を楽しく 受身文](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201407.html) | 本文と例1–3、質問3–4への説明を取得・精読。所有者を主語・所有物をヲ格とする基本形、作文をほめられる非被害例、自動詞泣くの受身と能動での言い換えも成立する点を確認。歴史的建造者の断定や全受身分類体系は本問から撤去。 | Q_5_055、067 |
+
+| S66 | 篠崎大司 [日本語の構造 文法体系 ヴォイス](https://www.kanjifumi.jp/wp/wp-content/uploads/2020/11/ab5f12b9d332bb837b3ace2515df8133.pdf) | PDF17–18頁本文・例28–32を取得。人の意志的な自動詞使役のニ／ヲ、無意志物のヲ、他動詞使役のニ格を確認。この教材の使役受身の常に強制という一般化は別論文に留保があり、本問の承認根拠として用いない。 | Q_5_068 |
