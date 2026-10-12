@@ -110,3 +110,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S53 | 学研キッズネット辞典 [派生語](https://kids.gakken.co.jp/jiten/dictionary06100287/) | 出版社系辞典本文を全頁取得。独立した単語に接頭語・接尾語が付いてできた語という定義と、接尾辞による派生語の例「春めく」を確認。個別語「子ども」の形態分析は承認対象から撤去。 | Q_5_042 |
 
 | S54 | 情報処理振興事業協会技術センター（1996）[IPAL基本名詞辞書 解説編](https://www2.ninjal.ac.jp/dictionaries/IPALBN/IPALBN_manual.pdf) | 国立国語研究所公開版。印刷頁212–214（PDF223–225頁）の本文を取得・精読。類似性の隠喩、隣接性の換喩、カテゴリ包摂の提喩を区別。物理的全体部分関係とカテゴリ包摂を混同しない注意も確認。顔が広いの個別帰属は承認せず撤去。 | Q_5_073 |
+
+| S55 | British Council TeachingEnglish [Pre-listening](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/n-p/pre-listening)、Catherine Morley [Listening Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom) | 本文全体を取得。語彙の事前指導・活性化等の複数目的、背景知識による理解と音声信号の分割・解読の区別、双方の組合せを確認。語彙確認だけでは主目的の処理分類を確定できない点は設問条件と合わせた監査判断。 | Q_MO_002 |
