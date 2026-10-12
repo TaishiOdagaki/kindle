@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "docx_sha256": "9187b9dfbb5ed2e8fe897bf359563fcf2c0ddc7e9c7d251e5274bcf9ccd7080d",
+  "docx_sha256": "9c7e4cde440f66ae5b495ffc9a07283567932448936d60a52b4085fff4a1f1ff",
   "font": "Noto Sans CJK JP Regular",
   "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
   "renderer": "documents/render_docx.py",
