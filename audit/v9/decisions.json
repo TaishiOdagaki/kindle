@@ -583,12 +583,13 @@
     "stem_review": "全文精読・独立判定実施。限定条件や流派差は所見欄を参照。",
     "explanation_review": "4選択肢分を精読。出典照合未了箇所は所見・未確認欄に記載。",
     "reason": "正答1の役割は第4〜6条と整合候補。ただし解説1は国と地方双方を総合的かつ計画的と要約しすぎる。条文の国の総合的施策と地方の地域状況を分ける。",
-    "unresolved": "作業稿へ修正済み。関連する全選択肢・解説の残存主張を原資料と照合し、最終再判定・全頁目視検査が必要。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（出典照合が必要）",
     "no_correct_risk": "未確定（出典照合が必要）",
     "fixes_applied": true,
     "sources": [
-      "S03"
+      "S03",
+      "S27"
     ]
   },
   "Q_1_034": {
@@ -1434,20 +1435,25 @@
     "unresolved": "所見に記載した事項を出典本文と照合し、修正後に再判定する。"
   },
   "Q_4_126": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 1,
     "reason": "正答1と解説1から第36条第1項但書が落ちている。解説3の難易度調整・要約改変を一律に合法と読ませない。第20条と第43条を照合する。",
-    "sources": [],
-    "option_verdicts": [
-      "正答候補・但書等は所見参照",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+    "sources": [
+      "S26"
     ],
-    "stem_review": "全文精読・独立判定実施",
-    "explanation_review": "4解説の対応を精読",
-    "unresolved": "所見に記載した事項を出典本文と照合し、修正後に再判定する。"
+    "option_verdicts": [
+      "第36条1・2項に一致",
+      "試験目的外の無条件利用は第36条で保証されず誤り",
+      "公表された著作物の規定なので誤り",
+      "第2項が営利目的の補償金を規定しており誤り"
+    ],
+    "stem_review": "改訂した設問条件を原資料と照合済み。",
+    "explanation_review": "改訂後の4解説の全主張を記録した根拠箇所と照合済み。",
+    "unresolved": "",
+    "fixes_applied": true,
+    "multiple_correct_risk": "なし：4選択肢の再判定記録を参照",
+    "no_correct_risk": "なし：独立正答が存在"
   },
   "Q_5_090": {
     "status": "要追加確認",
@@ -1579,9 +1585,10 @@
     ],
     "reason": "3が知識枠組みの定義、1と4は内容・形式を逆転、2不変は誤り。設問の認識心理学は認知心理学へ修正必要。",
     "sources": [],
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_3_004": {
     "status": "要追加確認",
@@ -1856,48 +1863,56 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_3_019": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
-    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "independent_answer": 4,
+    "stem_review": "独立に全選択肢を再判定。規則又は始動・実行者を明示。",
+    "explanation_review": "4解説をJF教材・Richards原著又はSchegloffら原著の該当本文と照合。",
     "option_verdicts": [
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）"
+      "改訂解説に示した条件又は定義と不一致",
+      "改訂解説に示した条件又は定義と不一致",
+      "改訂解説に示した条件又は定義と不一致",
+      "本文の条件と資料に一致"
     ],
     "reason": "4は静かかったにい形容詞規則を拡大。2は正用、3は原因不明の格選択。ただし1のおはようございますでしたも過去形式を挨拶に拡大した過剰般化と説明でき、単一正答が保証されない。",
-    "sources": [],
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
-    "multiple_correct_risk": "誤答1も過剰般化として成立し得る",
-    "no_correct_risk": "未確定（所見参照）",
+    "sources": [
+      "S28",
+      "S29"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：全4選択肢の条件を区別",
+    "no_correct_risk": "なし：独立正答が存在",
     "candidate_answers": [
       1,
       4
-    ]
+    ],
+    "fixes_applied": true
   },
   "Q_3_020": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
-    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
+    "independent_answer": 2,
+    "stem_review": "改訂した設問条件を原資料と照合済み。",
+    "explanation_review": "改訂後の4解説の全主張を記録した根拠箇所と照合済み。",
     "option_verdicts": [
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）",
-      "要判定（競合の可能性）"
+      "グループ2の正用なので過剰般化ではない",
+      "学習規則を例外に拡張する誤用なので正しい",
+      "グループ3の正用なので過剰般化ではない",
+      "グループ2の正用なので過剰般化ではない"
     ],
     "reason": "2はく→いてを例外行くへ拡大。ただし1の辞書形＋ないも学習者が抽出した接続規則の過剰般化になり得る。3と4は正用なのに非文記号*を付けている。誤答・解説を作り直す必要がある。",
-    "sources": [],
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
-    "multiple_correct_risk": "誤答1も過剰般化として成立し得る",
-    "no_correct_risk": "未確定（所見参照）",
+    "sources": [
+      "S28",
+      "S29"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：4選択肢の再判定記録を参照",
+    "no_correct_risk": "なし：独立正答が存在",
     "candidate_answers": [
       1,
       2
-    ]
+    ],
+    "fixes_applied": true
   },
   "Q_3_021": {
     "status": "修正必要",
@@ -2231,9 +2246,10 @@
     "sources": [
       "S14"
     ],
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_3_039": {
     "status": "要追加確認",
@@ -2760,9 +2776,10 @@
     "sources": [
       "S11"
     ],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_4_027": {
     "status": "要追加確認",
@@ -2886,9 +2903,10 @@
     ],
     "reason": "代入練習2候補。解説1の被動文は受動文へ修正。単一スロットと複数スロットの分類を照合。",
     "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_4_034": {
     "status": "要追加確認",
@@ -4234,9 +4252,10 @@
     ],
     "reason": "ポクセミクスはプロクセミクスへ修正候補。OKの手招きという例の意味が不明瞭。距離の文化一般化を照合。",
     "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_4_108": {
     "status": "要追加確認",
@@ -4311,26 +4330,29 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_4_112": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "independent_answer": 1,
+    "stem_review": "独立に全選択肢を再判定。規則又は始動・実行者を明示。",
+    "explanation_review": "4解説をJF教材・Richards原著又はSchegloffら原著の該当本文と照合。",
     "option_verdicts": [
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）"
+      "本文の条件と資料に一致",
+      "改訂解説に示した条件又は定義と不一致",
+      "改訂解説に示した条件又は定義と不一致",
+      "改訂解説に示した条件又は定義と不一致"
     ],
     "reason": "選択肢2の他者指摘後に本人が修復する事例も自己修復であり誤答化できない。始動者と修復者を区別して改訂する。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "2も他者始動・自己修復なので自己修復に該当",
-    "no_correct_risk": "未確定（所見参照）",
+    "sources": [
+      "S31"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：全4選択肢の条件を区別",
+    "no_correct_risk": "なし：独立正答が存在",
     "candidate_answers": [
       1,
       2
-    ]
+    ],
+    "fixes_applied": true
   },
   "Q_4_113": {
     "status": "要追加確認",
@@ -4508,11 +4530,13 @@
     ],
     "reason": "著作者人格権は死後消滅するが法60条の死後人格的利益保護がある。死後人格権侵害という解説2は区別が必要。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_4_127": {
     "status": "修正必要",
@@ -4528,11 +4552,13 @@
     ],
     "reason": "教科書朗読配信は許諾・引用等の条件が省略。録音配信と公の口述を同一視する解説3の権利区分を要照合。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "no_correct_risk": "未確定（所見参照）",
+    "fixes_applied": true
   },
   "Q_5_001": {
     "status": "要追加確認",
@@ -5141,24 +5167,25 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_5_034": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
+    "stem_review": "改訂した設問条件を原資料と照合済み。",
+    "explanation_review": "改訂後の4解説の全主張を記録した根拠箇所と照合済み。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "本表のshi/chi/tsu/fuに反する",
+      "本表と添え書き3に一致",
+      "前書き3に反する",
+      "前書き2に反する"
     ],
     "reason": "方式差2候補。2025年12月告示を未反映。マクロンとサーカムフレックスを同記号とする説明も不正確。S20本文で全面更新する。",
     "sources": [
       "S20"
     ],
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "unresolved": "",
+    "multiple_correct_risk": "なし：4選択肢の再判定記録を参照",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_035": {
     "status": "修正必要",
@@ -5701,22 +5728,25 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_5_065": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 4,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
+    "stem_review": "話し手又は窓の開閉という文脈を明示し全4選択肢を独立再判定。",
+    "explanation_review": "4解説をJF又は東京外国語大学の本文と照合。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "改訂解説に示した条件と公式教材に不一致",
+      "改訂解説に示した条件と公式教材に不一致",
+      "改訂解説に示した条件と公式教材に不一致",
+      "条件と公式教材に一致"
     ],
     "reason": "くれる4候補だが第三者→弟であげるも語りの視点により成立し得る。身内ならあげるは使えないという誤答1・解説を修正。",
-    "sources": [],
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "sources": [
+      "S32"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：場面を限定して4肢を判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_066": {
     "status": "修正必要",
@@ -5791,22 +5821,26 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_5_070": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
+    "stem_review": "話し手又は窓の開閉という文脈を明示し全4選択肢を独立再判定。",
+    "explanation_review": "4解説をJF又は東京外国語大学の本文と照合。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "改訂解説に示した条件と公式教材に不一致",
+      "条件と公式教材に一致",
+      "改訂解説に示した条件と公式教材に不一致",
+      "改訂解説に示した条件と公式教材に不一致"
     ],
     "reason": "開くひらくは自他両用で開けると対応例が不適切。あく/あけるへ。てあるは自動詞行ってある等もあり他動詞のみは過大。",
-    "sources": [],
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "sources": [
+      "S33",
+      "S34"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：場面を限定して4肢を判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_071": {
     "status": "要追加確認",
@@ -6403,44 +6437,46 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_O_002": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
+    "independent_answer": 4,
+    "stem_review": "改訂したケースと全4選択肢を原資料と照合済み。",
+    "explanation_review": "4解説をS22又はS04の該当本文と照合済み。",
     "option_verdicts": [
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）"
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件と資料本文に一致"
     ],
     "reason": "は存在位置文も正しく、質問文が未提示なので誤用と判断不可。S22の公式例にNはNにあります。ケースと解説を改訂。",
     "sources": [
       "S22"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "前提不成立の疑い"
+    "unresolved": "",
+    "multiple_correct_risk": "なし：先行質問/会社内外を明示し全4選択肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_O_003": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
+    "independent_answer": 3,
+    "stem_review": "改訂したケースと全4選択肢を原資料と照合済み。",
+    "explanation_review": "4解説をS22又はS04の該当本文と照合済み。",
     "option_verdicts": [
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）"
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件と資料本文に一致",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示"
     ],
     "reason": "は位置説明が継続するだけでは未定着の証拠にならない。ケース1の活動と既存正答3の前提が不成立。",
     "sources": [
       "S22"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "前提不成立の疑い"
+    "unresolved": "",
+    "multiple_correct_risk": "なし：先行質問/会社内外を明示し全4選択肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_O_004": {
     "status": "修正必要",
@@ -6456,11 +6492,13 @@
     ],
     "reason": "気づき3候補だががを必ず使うという説明は誤り。what/where質問を区別するケースへ改稿。",
     "sources": [
-      "S22"
+      "S22",
+      "S30"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_O_005": {
     "status": "要追加確認",
@@ -6571,24 +6609,25 @@
     "no_correct_risk": "正答候補あり・追加照合未了"
   },
   "Q_O_011": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢と対応ケース本文を精読。ケースの前提・問いと学習者意図の対応を点検。",
-    "explanation_review": "4解説を独立精読。ケース本文にない事実を推定していないか点検。",
+    "independent_answer": 3,
+    "stem_review": "改訂したケースと全4選択肢を原資料と照合済み。",
+    "explanation_review": "4解説をS22又はS04の該当本文と照合済み。",
     "option_verdicts": [
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）",
-      "要再判定（ケース前提に疑義）"
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示",
+      "ケース条件と資料本文に一致",
+      "ケース条件又は資料本文と不一致。改訂解説に誤りの箇所を明示"
     ],
     "reason": "本人に田中先生がおっしゃったは文法・敬語上自然。単に本人への引用を不自然とする前提では正答3は成立しない。S04とケースを改稿。",
     "sources": [
       "S04"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "前提不成立の疑い"
+    "unresolved": "",
+    "multiple_correct_risk": "なし：先行質問/会社内外を明示し全4選択肢を再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_O_012": {
     "status": "修正必要",
@@ -6644,9 +6683,10 @@
     "sources": [
       "S04"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
+    "unresolved": "ケース・設問連動修正済み。追加主張の根拠と修正後再判定が必要。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "前提不成立の疑い"
+    "no_correct_risk": "前提不成立の疑い",
+    "fixes_applied": true
   },
   "Q_O_015": {
     "status": "要追加確認",
@@ -7039,10 +7079,13 @@
       "誤答候補"
     ],
     "reason": "反転1候補。ブレンディッド4も上位概念として成立するため最も具体的な名称という条件を明示する。",
-    "sources": [],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
+    "sources": [
+      "S25"
+    ],
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_O_037": {
     "status": "要追加確認",
@@ -7262,11 +7305,13 @@
     ],
     "reason": "補償金要件2候補。全同時中継が免除ではなく第35条3項の対面授業送信条件がある。解説2を精密化。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_O_049": {
     "status": "修正必要",
@@ -7282,11 +7327,13 @@
     ],
     "reason": "要約は翻案権に関わり、自作なら無条件許諾不要とする迂回は不適切。表現を引き継ぐ場合の権利確認を補う。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "ケース前提の必要改稿、原資料との照合、改訂後の再判定が必要。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_O_050": {
     "status": "要追加確認",
@@ -8102,9 +8149,10 @@
     "sources": [
       "S14"
     ],
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_M_021": {
     "status": "要追加確認",
@@ -8212,9 +8260,10 @@
     "sources": [
       "S24"
     ],
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_M_027": {
     "status": "修正必要",
@@ -8232,9 +8281,10 @@
     "sources": [
       "S24"
     ],
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_M_028": {
     "status": "要追加確認",
@@ -9014,11 +9064,13 @@
     ],
     "reason": "補償金2候補。全同時中継が例外でなく法35条3項の対面+遠隔同時の条件。正答の省略と解説の範囲を精密化。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "資料照合、必要改稿、改訂後の再判定を行う。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_MO_012": {
     "status": "修正必要",
@@ -9054,11 +9106,13 @@
     ],
     "reason": "新聞2候補。単なる事実伝達や雑報は法10条2項の例外。新聞記事すべて著作物とする解説3を修正。",
     "sources": [
-      "S10"
+      "S10",
+      "S26"
     ],
-    "unresolved": "資料照合、必要改稿、改訂後の再判定を行う。",
+    "unresolved": "第3修正バッチを作業稿へ適用。問題全体の再判定が未記録の箇所は承認しない。",
     "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "no_correct_risk": "正答候補あり・追加照合未了",
+    "fixes_applied": true
   },
   "Q_MO_014": {
     "status": "要追加確認",

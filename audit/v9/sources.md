@@ -50,3 +50,19 @@ Q_4_086の比較数量の誤記は外部資料の引用ではなく、条件式�
 | S23 | 文部科学省JSLカリキュラム [開発の基本構想](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/001.htm)、[教科志向型](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/006.htm) | 日本語で学ぶ力、教科指導と日本語指導の統合、体験/探求/発信、学習歴への配慮、教科固有の概念・思考と表現の支援。 | 公式報告の該当本文確認。教科知識の習得だけを直接目的とする記述とは異なり、学習参加の過程を重視。 | Q_4_085、Q_O_042等 |
 | S24 | 国際交流基金『[「ディクトグロス」をやってみよう](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/hint/201901.html)』、2019年1月 | メモ・記憶を基にペア/グループで文章を復元する手順。全文を書き取るディクテーションとは区別。 | 公式実践解説の本文。Wajnryb原著そのものではなく、公開された実践手順の根拠として使う。 | Q_M_026、027 |
 | S25 | Flipped Learning Global Initiative [International Definition](https://www.flglobal.org/international_definition/) | 授業前に概念を学び、授業時間を実践的な応用と個別支援に使う定義。 | 提唱団体の定義本文を確認。特定分数の動画の普遍最適性や全員への効果保証は根拠にしない。 | Q_O_036～040、Q_4_117 |
+
+## e-Gov本文と原著による追加照合
+
+| ID | 資料・URL | 確認箇所 | 取得段階 | 対象 |
+|---|---|---|---|---|
+| S26 | e-Gov [著作権法 法令API](https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048) | 本文第2、10、17、20～27、32、35、36、47条の6、48、51、59、60条等。附則の同番号条を混在させない。 | 2026-10-12に結果コード0のXML取得。原応答SHA256と対象条項をevidence/egov_retrieval.json、照合に用いた本文をevidence/345AC0000000048_excerpts.txtに保存。第36条と翻案の扱いを区別。APIが提供した本文を取得時点で使用し、過去の経過措置の個別適用は別途必要。 | 著作権関連問題全般 |
+| S27 | e-Gov [日本語教育の推進に関する法律 法令API](https://laws.e-gov.go.jp/api/1/lawdata/501AC1000000048) | 本文第1～6、8、10、11条。国・地方の責務と事業主の努力義務、対象外国人等、機会確保。 | 結果コード0で取得。原応答SHA256と本文抜粋をevidenceに保存。S03の公式通知との未了突合せを進めた。 | Q_1_032、033、Q_M_003 |
+| S28 | 国際交流基金バンコク『[日本語 あきこと友だち3 改訂版 文法解説](https://ba.jpf.go.jp/wp-content/uploads/2022/03/Akiko3_bunpoo382002.pdf)』 | PDF1頁（第10課）、く→いて、例外行く→行って、グループ2のる→て、グループ3来る→来て（きて）。 | 公式教材本文を確認。グループ2に見えるグループ1動詞の注意もある。 | Q_3_020 |
+| S29 | Jack C. Richards (1970), [A Non-Contrastive Approach to Error Analysis](https://files.eric.ed.gov/fulltext/ED037721.pdf), TESOL発表稿、ERIC ED037721 | PDF9頁、§3.1：既に学んだ対象言語の構造を基に、適用範囲を越えた非目標構造を作る過剰般化。§3.2は関連する規則制約無視を区別。 | 38頁の原著発表稿の該当本文確認。1971年の出版版と版・年を区別する。日本語例はこの監査で構成した適用例であり原著が日本語例を載せているわけではない。 | Q_3_019、020、過剰般化関連 |
+| S30 | Richard W. Schmidt (1990), [The Role of Consciousness in Second Language Learning](https://www.nflrc.hawaii.edu/PDFs/SCHMIDT%20The%20role%20of%20consciousness%20in%20second%20language%20learning.pdf), Applied Linguistics 11(2),129–158 | 印刷頁139（PDF11頁）インテイクと学習者の気づき、頁149結論。意識的注意・規則理解・気づきを区別。 | 大学公開の原論文本文を確認。必要条件と一度の説明で習得保証することを混同しない。 | Q_O_004等 |
+| S31 | Schegloff, Jefferson & Sacks (1977), [The Preference for Self-Correction in the Organization of Repair in Conversation](https://www.conversationanalysis.org/wp-content/uploads/2019/06/11_Schegloff_et_al_The_Preference_For_Self-Correction_in_the_Organization_of_Repair_in_Conversation.pdf), Language 53(2),361–382 | 印刷頁361–365、特に§2.13、2.2、2.21–2.24。修復は発話・聴取・理解の問題を扱い、始動と実行者は別の軸。頁362注4の選好は参加者の動機ではなく系列・ターンの組織上の概念。 | 会話分析学会公開の原論文PDFを直接取得し、該当本文を確認。Web取得はタイムアウトしたが、直接取得は成功。 | Q_4_112 |
+| S32 | 国際交流基金 [授受表現（1）](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html)、[資料 授受表現](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00004/ja/render.do) | 基本構造あげる/くれる、友人や親友の事例、心理的・社会的距離と文脈による話し手側の範囲。 | 公式教材本文を確認。家族への授受にあげるが一律使えないとする判断を避ける。 | Q_5_065 |
+| S33 | 国際交流基金 [資料 自動詞と他動詞](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00002/ja/render.do) | あく/あけるの対、ひらくが自動詞・他動詞双方の一覧にあること、自他の形態対応。 | 公式教材本文と対応表を確認。 | Q_5_070 |
+| S34 | 国際交流基金 [Vてあります](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00124/ja/render.do)、東京外国語大学 [Vてあります](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/046.html)、[Vています（状態）](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/045.html) | 窓が開けてある/開いている、結果状態と意図的働きかけ、てあるの準備完了用法との区別。 | 公式教材本文を確認。窓の結果状態の範囲で説明し、全構文に同じ接続制限を押し付けない。 | Q_5_070 |
+
+S28はPDF14頁（印刷頁14）のタ形表も追加確認した。書く→書いた、行く→行った、見る→見た、閉める→閉めた、来る→来た（きた）をQ_3_019の改訂に使用。
