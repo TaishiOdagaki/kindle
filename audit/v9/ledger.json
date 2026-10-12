@@ -10905,7 +10905,7 @@
   {
     "id": "Q_5_001",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "スイスの言語学者フェルディナン・ド・ソシュールが提唱した言語記号（記号：シーニュ）の構造に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -10928,22 +10928,29 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
-    "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "sources": [
+      "S19"
+    ],
+    "reason": "記号の概念と聴覚映像の不可分結合1候補。2は片側のみ、3は物体/文字、4は自然必然で不一致。原著再録S19の第一部1章を本文照合、コイン比喩・指示物用語の補助説明は追加確認。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_002",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "「言語記号の恣意性」に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -10966,22 +10973,29 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 3,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
-    "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "sources": [
+      "S19"
+    ],
+    "reason": "恣意性3候補。1文法なし、2個人で自由変更、4全言語同一音は原著S19と不一致。原著は慣習性と擬音の部分的動機付けを区別。例語の照合を継続。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_003",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ソシュールが提示した「分節（articulation/切り分け）」および言語観に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11006,22 +11020,29 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
-    "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "sources": [
+      "S19"
+    ],
+    "reason": "分節1候補だが原著は思考と音の未分化を論じ、物理世界全体が存在前に未分化とはしない。一般言語学講義第二部の価値を追加照合。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_004",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "初級の日本語学習者Hさん（英語母語話者）が作文で「きのう、あに（兄）とあね（姉）とごはんを食べました」と書くべきところで、英語のbrother/sisterを直訳して「きのう、きょうだい（兄弟）とごはんを食べました」と書き、文脈にそぐわない曖昧さを生じさせてしまった。 このような言語による概念の切り分けの違い（分節化）の分析として、最も適切なものはどれか。",
     "options": [
@@ -11047,21 +11068,26 @@
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
     "independent_answer": null,
-    "option_verdicts": [],
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "兄弟は兄姉との食事を自然に言える上位概念で、必ず誤用ではない。選択肢2も日本語は性別と年齢双方を区別する点を弱めている。設問の誤用前提を修正。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_005",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ソシュールが提唱した「ラング」と「パロール」の区別に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11084,22 +11110,29 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
-    "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "sources": [
+      "S19"
+    ],
+    "reason": "ラング1候補。2/4はパロールとラングの逆転、3独立は誤り。言語学の対象をラングだけの現代の合意としてではなくソシュールの方法論として限定。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_006",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ソシュール言語学における「価値」の概念に関する説明として、最も適切なものはどれか。",
     "options": [
@@ -11122,22 +11155,29 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 2,
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
-    "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "sources": [
+      "S19"
+    ],
+    "reason": "価値2候補。1不変・3金額・4音だけは不適切。羊/羊肉とチェスの原著比喩の一致を第二部本文へ追加照合。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_007",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "対照言語学における「対照分析仮説」とその学習への影響に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11160,22 +11200,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "対照分析弱形1候補。2完全同一でも使用条件異なるとの解説は完全という前提の範囲を指定。負の移行は負の転移の訳語との整合確認。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_008",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "母語が英語である日本語学習者の発話に見られる以下の誤用例（ア）〜（ウ）と、その要因となる日本語と英語の構造的対照に関する解説の組み合わせとして最も適切なものはどれか。 （ア） 「私は昨日、映画を見た、そして本を読んだ。」（不自然な接続詞の多用） （イ） 「田中さんが本を読んでいる、でも鈴木さんがテレビを見ている。」（対比の「は」ではなく「が」を使用） （ウ）*「私は昨日、友達に会いました。私は友達と食事をしました。私は楽しかったです。」（主語の明示的重複）",
     "options": [
@@ -11201,21 +11246,26 @@
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
     "independent_answer": null,
-    "option_verdicts": [],
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "正答不存在の疑い",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "既存正解1の代名詞体系と必須補語構造は解説の対比のは・必須主語と一致しない。自然なそして/でも/主語反復を文脈なしに誤用扱いしており、正答不存在の疑い。設問・選択肢・解説を全面改訂する。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_009",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "言語の類型論的分類における「語順（基本語順）」に関する記述として、言語タイプと言語特徴の対照の観点から最も適切なものはどれか。",
     "options": [
@@ -11238,22 +11288,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "SOV後置詞傾向1候補。SVOにも後置詞があり中国語は前置・後置の混在。Greenbergの普遍性と傾向を区別して原著照合。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_010",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "初級の中国語話者学習者が発した以下の発話に見られる誤用と、その背景にある母語からの負の移行（干渉）の理由として最も適切なものはどれか。 学習者の発話：*「私は昨日、デパートへ行って、衣服を二本買いました。」",
     "options": [
@@ -11279,21 +11334,26 @@
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
     "independent_answer": null,
-    "option_verdicts": [],
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "中国語の条と衣服のイメージだけでは日本語の本が誤用か原因が転移か確定できない。日本語でもズボンに本を使う。具体的衣類・学習者意図・量詞の対応出典を要確認。解説の日本語以上に豊富で厳密は根拠不足。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_011",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "母語の「負の移行」と「正の移行」に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11316,22 +11376,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 4,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "漢字知識の正の転移4候補。1偶然・2語用ゼロ・3初級だけは不一致。同字でも異義がある条件を示し、転移と化石化を同一視しない。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_012",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "文法研究や言語教育における「規範文法」と「記述文法」の差異に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11354,22 +11419,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "記述的立場1候補。ただし日本語教育が規範的指導を含まないとは言えず、学校文法全体を規範文法と分類する解説は記述体系と教育規範を混同する疑い。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_013",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "「学校文法（国語文法）」と「日本語教育文法」における品詞分類や専門用語の対照に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11394,22 +11464,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "用言・ナ形容詞1候補。2/3動詞群逆、4国の義務的排除は不一致。な形容詞を独立品詞にする体系もあり日本語教育文法を一体系としない。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_014",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "日本語教育文法において、動詞の活用形を提示する際に「辞書形（原形）」ではなく「マス形（丁寧に話す形）」から初級学習者に導入することが多い理由として、最も適切なものはどれか。",
     "options": [
@@ -11434,22 +11509,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 3,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "丁寧体導入3候補だが最大の理由・最も無難は文脈依存。解説2の直説法は教授法名として不明確で直接法等との混同疑い。公式の禁止不存在の断定も要資料。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_015",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "動詞の活用グループ（Ⅰ類・Ⅱ類・Ⅲ類）の分類に関して、学習者から「『見ます』と『切ります』はどちらも『iます』の形なのに、なぜナイ形が『見ない』と『切らない』で違うのですか」と質問された。この学習者の混乱に対する日本語分析に基づく説明として最も適切なものはどれか。",
     "options": [
@@ -11474,22 +11554,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 1,
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "見るmi/切るkirの語幹1候補。解説2で入るを2音節とするのは標準発音ha-i-ruの3音節との不一致、起きるo-ki-ruと差がない。音節と拍を混同せず修正。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_016",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "学校文法における「形容動詞」を、日本語教育文法で「ナ形容詞（名詞的形容詞）」として扱う根拠・分析に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11516,22 +11601,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 4,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "ナ形容詞4候補だが活用の有無は学説によりダをコピュラと分離する体系もある。3の他要素名詞と全く同じは誤りでも活用を持たない説全体を誤りとする解説は過大。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_017",
-    "status": "要追加確認",
-    "content_reviewed": false,
+    "status": "修正必要",
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "日本語教育における格助詞「が」と主題表示助詞「は」の文法機能の記述として、日本語分析の観点から最も適切なものはどれか。",
     "options": [
@@ -11556,22 +11646,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 3,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "新情報が/旧情報はの物語例3候補。常にという誤答2の逆が正しいとする解説は、が旧情報・は新情報の用例を排除し過大。対比は田中以外誰も来ないと必ず含意しない。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_018",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "日本語の子音の調音位置および調音方法に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11594,22 +11689,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 4,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "破擦音4候補。1鼻閉鎖・2摩擦閉鎖・3両唇と唇歯逆で不一致。IPAの調音位置・方法を公式チャートと日本語音声研究原著に照合。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_019",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "日本語の母音の音素・音韻的特徴に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11634,22 +11734,27 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 4,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "無声化4候補。い/うの条件と方言・音調の条件を確認。日本語うは典型的に中舌寄り・張唇もあり英語bootの実際の母音も変種差が大きい。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_020",
     "status": "要追加確認",
-    "content_reviewed": false,
+    "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "国際音声記号による日本語の「は行」子音の異音に関する記述として、最も適切なものはどれか。",
     "options": [
@@ -11674,17 +11779,22 @@
     },
     "structure": "構造検査実施済み・学術的判定とは別",
     "machine_flags": [],
-    "independent_answer": null,
-    "option_verdicts": [],
+    "independent_answer": 3,
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）",
     "fixes_applied": false,
-    "stem_review": "未実施",
-    "explanation_review": "未実施",
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
     "sources": [],
-    "reason": "未精読・出典照合未実施。構造検査の合格を学術的確認済みとは扱わない。",
-    "unresolved": "正答・各誤答・解説を独立に精査し、根拠本文と照合する。"
+    "reason": "は行異音3候補。1軟口蓋・2有声・4前舌うは不一致。hを常に声門摩擦のみとする精密音声実現と規範IPA表記の区別を照合。",
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
   },
   {
     "id": "Q_5_021",

@@ -4533,5 +4533,375 @@
     "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
     "multiple_correct_risk": "未確定（所見参照）",
     "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_001": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "記号の概念と聴覚映像の不可分結合1候補。2は片側のみ、3は物体/文字、4は自然必然で不一致。原著再録S19の第一部1章を本文照合、コイン比喩・指示物用語の補助説明は追加確認。",
+    "sources": [
+      "S19"
+    ],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_002": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "恣意性3候補。1文法なし、2個人で自由変更、4全言語同一音は原著S19と不一致。原著は慣習性と擬音の部分的動機付けを区別。例語の照合を継続。",
+    "sources": [
+      "S19"
+    ],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_003": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "分節1候補だが原著は思考と音の未分化を論じ、物理世界全体が存在前に未分化とはしない。一般言語学講義第二部の価値を追加照合。",
+    "sources": [
+      "S19"
+    ],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_004": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
+    "reason": "兄弟は兄姉との食事を自然に言える上位概念で、必ず誤用ではない。選択肢2も日本語は性別と年齢双方を区別する点を弱めている。設問の誤用前提を修正。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_005": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "ラング1候補。2/4はパロールとラングの逆転、3独立は誤り。言語学の対象をラングだけの現代の合意としてではなくソシュールの方法論として限定。",
+    "sources": [
+      "S19"
+    ],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_006": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 2,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "正答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "価値2候補。1不変・3金額・4音だけは不適切。羊/羊肉とチェスの原著比喩の一致を第二部本文へ追加照合。",
+    "sources": [
+      "S19"
+    ],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_007": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "対照分析弱形1候補。2完全同一でも使用条件異なるとの解説は完全という前提の範囲を指定。負の移行は負の転移の訳語との整合確認。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_008": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
+    "reason": "既存正解1の代名詞体系と必須補語構造は解説の対比のは・必須主語と一致しない。自然なそして/でも/主語反復を文脈なしに誤用扱いしており、正答不存在の疑い。設問・選択肢・解説を全面改訂する。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "正答不存在の疑い"
+  },
+  "Q_5_009": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "SOV後置詞傾向1候補。SVOにも後置詞があり中国語は前置・後置の混在。Greenbergの普遍性と傾向を区別して原著照合。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_010": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": null,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）",
+      "要再判定（前提・正答成立に疑義）"
+    ],
+    "reason": "中国語の条と衣服のイメージだけでは日本語の本が誤用か原因が転移か確定できない。日本語でもズボンに本を使う。具体的衣類・学習者意図・量詞の対応出典を要確認。解説の日本語以上に豊富で厳密は根拠不足。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_011": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "漢字知識の正の転移4候補。1偶然・2語用ゼロ・3初級だけは不一致。同字でも異義がある条件を示し、転移と化石化を同一視しない。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_012": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "記述的立場1候補。ただし日本語教育が規範的指導を含まないとは言えず、学校文法全体を規範文法と分類する解説は記述体系と教育規範を混同する疑い。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_013": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "用言・ナ形容詞1候補。2/3動詞群逆、4国の義務的排除は不一致。な形容詞を独立品詞にする体系もあり日本語教育文法を一体系としない。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_014": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "丁寧体導入3候補だが最大の理由・最も無難は文脈依存。解説2の直説法は教授法名として不明確で直接法等との混同疑い。公式の禁止不存在の断定も要資料。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_015": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 1,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "正答候補",
+      "誤答候補",
+      "誤答候補",
+      "誤答候補"
+    ],
+    "reason": "見るmi/切るkirの語幹1候補。解説2で入るを2音節とするのは標準発音ha-i-ruの3音節との不一致、起きるo-ki-ruと差がない。音節と拍を混同せず修正。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_016": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "ナ形容詞4候補だが活用の有無は学説によりダをコピュラと分離する体系もある。3の他要素名詞と全く同じは誤りでも活用を持たない説全体を誤りとする解説は過大。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_017": {
+    "status": "修正必要",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "新情報が/旧情報はの物語例3候補。常にという誤答2の逆が正しいとする解説は、が旧情報・は新情報の用例を排除し過大。対比は田中以外誰も来ないと必ず含意しない。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_018": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "破擦音4候補。1鼻閉鎖・2摩擦閉鎖・3両唇と唇歯逆で不一致。IPAの調音位置・方法を公式チャートと日本語音声研究原著に照合。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_019": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 4,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "誤答候補",
+      "正答候補"
+    ],
+    "reason": "無声化4候補。い/うの条件と方言・音調の条件を確認。日本語うは典型的に中舌寄り・張唇もあり英語bootの実際の母音も変種差が大きい。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
+  },
+  "Q_5_020": {
+    "status": "要追加確認",
+    "content_reviewed": true,
+    "independent_answer": 3,
+    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
+    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "option_verdicts": [
+      "誤答候補",
+      "誤答候補",
+      "正答候補",
+      "誤答候補"
+    ],
+    "reason": "は行異音3候補。1軟口蓋・2有声・4前舌うは不一致。hを常に声門摩擦のみとする精密音声実現と規範IPA表記の区別を照合。",
+    "sources": [],
+    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
+    "multiple_correct_risk": "未確定（所見参照）",
+    "no_correct_risk": "未確定（所見参照）"
   }
 }
