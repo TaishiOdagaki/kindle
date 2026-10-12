@@ -1,0 +1,19 @@
+{
+  "id": "S48",
+  "sha256": "2d8141db45c2b39b22bee1694644e9c94935d6db7b6dbe9062fc2899812a406a",
+  "bytes": 728179,
+  "verified_print_pages": [
+    45,
+    46,
+    49,
+    50
+  ],
+  "verified_pdf_pages": [
+    5,
+    6,
+    9,
+    10
+  ],
+  "visual_verification": true,
+  "whole_article_verified": false
+}

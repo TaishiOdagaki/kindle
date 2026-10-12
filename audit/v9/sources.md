@@ -98,3 +98,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S46 | 国際交流基金 [文型練習教材 Vてもいいです](https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/setsumei_pdf/setsumei06_2.pdf) | 公式PDF全2頁（印刷76–77）。許可を求めるVてもいいですかと、許可を与える表現を本文確認。旧JLPT級への記載を現行試験情報として使わない。 | Q_4_079 |
 
 | S47 | Rebecca L. Oxford (1990), Styles, Strategies, and Aptitude: Connections for Language Learning, in Parry & Stansfield (eds.), [Language Aptitude Reconsidered](https://files.eric.ed.gov/fulltext/ED321573.pdf), pp.67–125 | 著者本人の章の印刷頁71–75（PDF77–81頁）の本文と表I/IIを取得し、画像で分類の所属も確認。6分類、関連づけ・イメージの記憶群、計画・自己評価のメタ認知群、明確化・確認質問の社会的群。1990年単行本由来の表が本人の章に掲載。章全体の実証的主張を一括承認しない。 | Q_O_071–073 |
+
+| S48 | H. P. Grice (1975), [Logic and Conversation](https://projects.illc.uva.nl/inquisitivesemantics/assets/files/papers/Grice1975.pdf), Syntax and Semantics 3, pp.41–58 | 大学公開の原論文全18頁を取得。印刷45–46頁の協調原理・4格率、49–50頁のviolate/opt out/clash/floutと含意の条件を本文・画像で照合。日本語の架空場面は本監査で構成した適用例。全18頁の学説を一括承認しない。 | Q_5_078・084・085 |
