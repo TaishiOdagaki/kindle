@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 83,
+  "changed_questions": 86,
   "case_replacements": 7,
-  "replacements": 497,
+  "replacements": 525,
   "issues": [
     [
       "S2",
@@ -116,7 +116,7 @@
     [
       "V1",
       "表記ゆれ",
-      "{'モダリティ': 17, 'ムード': 1}"
+      "{'モダリティ': 12, 'ムード': 3}"
     ],
     [
       "V1",
@@ -184,9 +184,9 @@
     "正解が最長の選択肢": "130/500 (26%) 無作為なら25%",
     "正解の長さ順位(0=最長)": {
       "0": "143 (29%)",
-      "1": "271 (54%)",
+      "1": "270 (54%)",
       "2": "59 (12%)",
-      "3": "27 (5%)"
+      "3": "28 (6%)"
     }
   },
   "full_visual_qa_completed": false,
