@@ -1,0 +1,22 @@
+{
+  "batch": 39,
+  "document": "登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+  "document_sha256": "933279d6ddc1b5d4921b800a711336cd3ea586b246ebbb5c41f6ca5d77b70eb2",
+  "pdf_sha256": "b73d17407d72aa5f4a792c25ef7d33fbcc7ba339cd1d3a5d1eb45b0c86de36f2",
+  "font": "Noto Sans CJK JP Regular",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "renderer": "documents skill render_docx.py with FONTCONFIG_FILE and SAL_FONTPATH; inspected JPEGs were regenerated from the emitted PDF with pdftoppm",
+  "pages": 411,
+  "inspected_pages": [121, 122, 123, 329, 330, 331, 332],
+  "questions": ["Q_5_043", "Q_5_044"],
+  "after_strings_checked": 18,
+  "after_strings_missing": 0,
+  "findings": [
+    "改訂2問の設問、全4選択肢、正解表示、全4解説を画像で確認した。",
+    "日本語、英数字、IPA表記に文字欠落、重なり、裁ち落としはなかった。",
+    "PDFから該当7頁を再画像化し、レンダラーPNGの成否に依存しない目視確認を行った。",
+    "Q_5_043の解説とQ_5_044の設問・選択肢は頁をまたぐが、文面は連続し判読可能である。最終版で改頁調整が必要。"
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

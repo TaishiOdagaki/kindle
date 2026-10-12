@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 107,
+  "changed_questions": 109,
   "case_replacements": 7,
-  "replacements": 699,
+  "replacements": 717,
   "issues": [
     [
       "S2",
@@ -181,12 +181,12 @@
         "4": 2
       }
     },
-    "正解が最長の選択肢": "144/500 (29%) 無作為なら25%",
+    "正解が最長の選択肢": "145/500 (29%) 無作為なら25%",
     "正解の長さ順位(0=最長)": {
-      "0": "157 (31%)",
-      "1": "256 (51%)",
-      "2": "57 (11%)",
-      "3": "30 (6%)"
+      "0": "158 (32%)",
+      "1": "255 (51%)",
+      "2": "58 (12%)",
+      "3": "29 (6%)"
     }
   },
   "full_visual_qa_completed": false,
