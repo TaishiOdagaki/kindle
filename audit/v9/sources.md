@@ -39,3 +39,14 @@
 Q_4_086の比較数量の誤記は外部資料の引用ではなく、条件式による検算を記録した。あおい15枚、あおい＝あきら－6なら、あきら＝21枚。第2修正スクリプトにも検算を残す。
 
 | S19 | Ferdinand de Saussure, Cours de linguistique générale (1916)、Bally・Sechehaye・Riedlinger編集、[第一部の原著再録](https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale/Premi%C3%A8re_partie)、Payot1971版pp97–140 | 第一章§1–2の概念/聴覚映像、物理的音との区別、恣意性、個人の自由選択ではない点、擬音の慣習性。 | 原著の転記本文を確認。Wikisourceは掲載媒体であり、百科事典の説明を根拠としたものではない。版面画像との突合せ、第二部の分節・価値と序論ラングは未了。 | Q_5_001、002、003、005、006 |
+
+## 全問精読後の追加資料
+
+| ID | 資料・URL | 照合内容 | 取得段階 | 対象 |
+|---|---|---|---|---|
+| S20 | 文化庁 [ローマ字のつづり方 令和7年12月22日内閣告示第4号](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/roma/index2.html)、[告示PDF](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/94303201_01.pdf)、[解説Q&A](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/pdf/94336801_01.pdf) | 旧昭和29年告示の廃止、本表shi/chi/tsu/fu、長音のマクロン・サーカムフレックス・仮名遣いに沿う母音字併記、専門・個人表記の範囲。 | 現行告示の公式本文と7頁PDF、Q&Aの改定箇所を本文確認。学校の教科書改訂時点や旅券の独自方式は別資料照合が必要。 | Q_5_034 |
+| S21 | International Phonetic Association [2020年版IPAチャート](https://www.internationalphoneticassociation.org/IPAcharts/common_files/pdfs/pdfs_IPA_charts_archive/IPA_unitipa_2020.pdf) | t歯/歯茎、m両唇、k軟口蓋、ɕ歯茎硬口蓋摩擦音。 | 公式PDF1頁を画像で目視。テキスト抽出だけでは表の列対応が崩れるため画像で位置を確認。 | Q_5_021（4選択肢と4解説照合済み）、音声項目の記号定義 |
+| S22 | 国際交流基金「教科書を作ろう」[NはNにあります/います](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00161/ja/render.do)、[に 場所](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00054/ja/render.do) | NはNにありますは場所を説明する正しい文型。存在物と出来事の場所に/での区別。 | 公式教材本文の構造図・基本例文・解説A～Eを確認。ケース1の「は」を一律に誤用とする前提を棄却。 | Q_O_002～004、Q_5_053 |
+| S23 | 文部科学省JSLカリキュラム [開発の基本構想](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/001.htm)、[教科志向型](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/006.htm) | 日本語で学ぶ力、教科指導と日本語指導の統合、体験/探求/発信、学習歴への配慮、教科固有の概念・思考と表現の支援。 | 公式報告の該当本文確認。教科知識の習得だけを直接目的とする記述とは異なり、学習参加の過程を重視。 | Q_4_085、Q_O_042等 |
+| S24 | 国際交流基金『[「ディクトグロス」をやってみよう](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/hint/201901.html)』、2019年1月 | メモ・記憶を基にペア/グループで文章を復元する手順。全文を書き取るディクテーションとは区別。 | 公式実践解説の本文。Wajnryb原著そのものではなく、公開された実践手順の根拠として使う。 | Q_M_026、027 |
+| S25 | Flipped Learning Global Initiative [International Definition](https://www.flglobal.org/international_definition/) | 授業前に概念を学び、授業時間を実践的な応用と個別支援に使う定義。 | 提唱団体の定義本文を確認。特定分数の動画の普遍最適性や全員への効果保証は根拠にしない。 | Q_O_036～040、Q_4_117 |
