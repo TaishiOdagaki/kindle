@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-12",
+  "docx_sha256": "d77b6664f701e50eeff499898318970d4bb94ab1408355e2c2850d1cf5fa05ba",
+  "font": "Noto Sans CJK JP Regular",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "renderer": "documents/render_docx.py",
+  "pages": 413,
+  "visually_checked_pages": [120,121,328,329],
+  "changed_questions_checked": 2,
+  "postfix_text_missing": [],
+  "findings": "変更2問の設問・全4肢・全4解説を確認。文字欠落・重なり・裁ち落としなし。",
+  "remaining_layout_issues": "Q5-035の設問と選択肢が頁をまたぐ。最終版で改頁調整する。",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

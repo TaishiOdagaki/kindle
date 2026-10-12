@@ -138,3 +138,8 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S68 | 国際交流基金 [食生活 しか～ない／～も](https://www.kyozai.jpf.go.jp/kyozai/material/KML00128/ja/render.do)、[しか…否定](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00122/ja/render.do) | 手順2–3・解答・音声スクリプトと解説A–C・先生へを本文取得。数量＋もで多さを感じる用法、しか＋否定の限定、気持ちの期待・想定依存を照合。全肢・全解説を限定した用法に再判定。 | Q_5_064 |
 
 | S69 | 小学館 [類推](https://kotobank.jp/word/%E9%A1%9E%E6%8E%A8-150606)（大辞泉語義3・日本大百科全書の菊地康人執筆「言語学における類推」） | 項目全文を取得・精読。既存形式との関連・モデルによる別形式の生成、規則に合う類推もあることを照合。遅起きの歴史的由来や品詞分類を資料が説明しているとは扱わない。設問は明示された自己報告の手順に限定。 | Q_5_050 |
+
+| S70 | Saussure, Cours de linguistique générale（1916）、Bally・Sechehaye・Riedlinger編集、Payot1971原著再録：[序論](https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale/Introduction)、[第一部](https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale/Premi%C3%A8re_partie)、[第二部](https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale/Deuxi%C3%A8me_partie) | 序論III–IVの社会／個人と相互依存、第一部I§1–2の二側面・恣意性・擬音、第二部IIIの価値とIV§1–3の思考／音の分節・他の語との比較を原著転記本文で取得・精読。媒体の百科説明ではなく原著本文を照合。未照合の補助比喩・個別言語例を採用文面から撤去。 | Q_5_001、002、003、005、006 |
+
+| S71 | 文化庁 [現代仮名遣い 前書き](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gendaikana/maegaki.html)、[本文第2](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gendaikana/honbun_dai2.html) | 2026-10-12本文取得。前書き1・8、助詞1–3、5(1)(2)となお以下。ちぢむの同音連呼、はなぢ（鼻血）の二語連合を照合し、全部の複合語へ一般化しない。 | Q_5_035 |
+| S72 | 文化庁 [常用漢字表（平成22年11月30日内閣告示）](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf) | 2026-10-12本文取得。PDF第1頁の前書き1–5、表の見方1–2を照合。目安、専門分野・個人・固有名詞の範囲、過去表記の非否定、本表2,136字。改定原因と教育漢字制度は本問から撤去。 | Q_5_033 |
