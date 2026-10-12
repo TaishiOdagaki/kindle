@@ -1,0 +1,15 @@
+{
+  "base_commit": "367d6488f7e81c78c1a0161c52a7d8db804a5991",
+  "source_file": "登録日本語教員試験決定版問題集_v8_修正版.docx",
+  "source_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
+  "questions": 500,
+  "answers": 500,
+  "content_reviewed": 86,
+  "status_counts": {
+    "確認済み": 2,
+    "修正必要": 17,
+    "要追加確認": 481
+  },
+  "v5_v6_priority_questions": 278,
+  "release_ready": false
+}
