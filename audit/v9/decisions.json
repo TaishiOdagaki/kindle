@@ -3272,22 +3272,25 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_4_054": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "independent_answer": 3,
+    "stem_review": "CEFR補遺2020の特定尺度・B1を明示して4肢を独立再判定。",
+    "explanation_review": "原資料印刷頁130・132の尺度の区別と文法的正確さ表を4解説に照合。表のB1行は版面画像でも確認。",
     "option_verdicts": [
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）",
-      "要再判定（設問条件不成立）"
+      "B1に誤り皆無/母語話者同等を要求しており不一致",
+      "意図が分かるというB1記述と矛盾",
+      "B1の該当尺度の記述に一致",
+      "文法的正確さと音韻的制御の尺度を混同"
     ],
     "reason": "レベル数・各レベルの意味が設問にない。レベル3を中間とする前提は成立せず尺度条件を補う。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "sources": [
+      "S45"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：明示された尺度で4肢を判定",
+    "no_correct_risk": "なし：独立正答3",
+    "fixes_applied": true
   },
   "Q_4_055": {
     "status": "要追加確認",
@@ -3549,22 +3552,27 @@
     "fixes_applied": true
   },
   "Q_4_069": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 4,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "旧誤用例・曖昧な場面を撤去又は能力変化の条件を明示し、4肢を独立判定。",
+    "explanation_review": "4解説をRichards原著、JFの文型解説又はLyster/Rantaの分類に照合。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "改訂解説で特定した限定又は観察事実に不一致",
+      "改訂解説で特定した限定又は観察事実に不一致",
+      "改訂解説で特定した限定又は観察事実に不一致",
+      "設問条件と原資料に一致"
     ],
     "reason": "読むようになるは習慣の変化として成立し可能形のみ接続という規則は誤り。が/をの格と能力変化の意図を明示して訂正。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "sources": [
+      "S43",
+      "S44",
+      "S37"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：全4肢を新条件で再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_4_070": {
     "status": "修正必要",
@@ -4700,22 +4708,25 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_5_008": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
-    "independent_answer": null,
-    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
-    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
+    "independent_answer": 1,
+    "stem_review": "旧誤用例・曖昧な場面を撤去又は能力変化の条件を明示し、4肢を独立判定。",
+    "explanation_review": "4解説をRichards原著、JFの文型解説又はLyster/Rantaの分類に照合。",
     "option_verdicts": [
-      "要再判定（前提・正答成立に疑義）",
-      "要再判定（前提・正答成立に疑義）",
-      "要再判定（前提・正答成立に疑義）",
-      "要再判定（前提・正答成立に疑義）"
+      "設問条件と原資料に一致",
+      "改訂解説で特定した限定又は観察事実に不一致",
+      "改訂解説で特定した限定又は観察事実に不一致",
+      "改訂解説で特定した限定又は観察事実に不一致"
     ],
     "reason": "既存正解1の代名詞体系と必須補語構造は解説の対比のは・必須主語と一致しない。自然なそして/でも/主語反復を文脈なしに誤用扱いしており、正答不存在の疑い。設問・選択肢・解説を全面改訂する。",
-    "sources": [],
-    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答不存在の疑い"
+    "sources": [
+      "S29"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：全4肢を新条件で再判定",
+    "no_correct_risk": "なし：独立正答が存在",
+    "fixes_applied": true
   },
   "Q_5_009": {
     "status": "要追加確認",
