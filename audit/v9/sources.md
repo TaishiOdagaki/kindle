@@ -112,3 +112,17 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S54 | 情報処理振興事業協会技術センター（1996）[IPAL基本名詞辞書 解説編](https://www2.ninjal.ac.jp/dictionaries/IPALBN/IPALBN_manual.pdf) | 国立国語研究所公開版。印刷頁212–214（PDF223–225頁）の本文を取得・精読。類似性の隠喩、隣接性の換喩、カテゴリ包摂の提喩を区別。物理的全体部分関係とカテゴリ包摂を混同しない注意も確認。顔が広いの個別帰属は承認せず撤去。 | Q_5_073 |
 
 | S55 | British Council TeachingEnglish [Pre-listening](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/n-p/pre-listening)、Catherine Morley [Listening Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom) | 本文全体を取得。語彙の事前指導・活性化等の複数目的、背景知識による理解と音声信号の分割・解読の区別、双方の組合せを確認。語彙確認だけでは主目的の処理分類を確定できない点は設問条件と合わせた監査判断。 | Q_MO_002 |
+
+| S56 | 文部科学省公開 [楯中パワーアッププロジェクト報告](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2017/04/07/1383732_02.pdf) | PDF12頁の表に遅起きの実使用を確認。語そのものを一律誤用とする断定を撤去する根拠。問題中のサ変用法の自然さや、語形成の学説はこの資料から承認しない。 | Q_5_050 |
+| S57 | 小学館デジタル大辞泉 [句点](https://kotobank.jp/word/%E5%8F%A5%E7%82%B9-484427) | 辞典本文の句点の機能を取得。句点で二文に区切る修正と因果接続を区別する判断は、設問条件・文面を合わせた監査判断。文化庁の歴史的案PDFは文字抽出不良で全文照合資料には未採用。 | Q_O_033 |
+
+| S58 | 国際交流基金 市川保子 [文法を楽しく ている・ていた（1）](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201312.html) | 例(4)と説明全文を取得・精読。動作中のシャッターと、開店した結果の状態を続ける場面を区別。他動詞の開けているも状態を表すことを確認し、文脈を指定して出題。原資料の例を基にした監査用の改題。 | Q_5_058 |
+
+| S59 | 国際交流基金 [助詞のまとめ](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00005/ja/render.do)、[へ](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00055/ja/render.do)、[に 帰着点](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00040/ja/render.do) | 3頁の全文を取得。場所の起点から、動作場所でと物の存在場所に、経路を、帰着点にと移動先へを確認。に／へでうちに帰る・うちへ帰るの例を取得。で＋あるの出来事用法も確認。原教材の旧JLPT級表示は現行試験仕様として転用しない。 | Q_5_053、054 |
+
+| S60 | 孫聴雨 [使役受身構文の意味と形式―BCCWJに基づく記述的分析―](https://ir.library.osaka-u.ac.jp/repo/ouka/all/102191/gbkp_2024_r.pdf) 大阪大学公開論文集 | PDF9–12頁の導入・先行研究検討を本文取得。強制と感情・思考の生起の用法、従来分類では捉えきれない用法の存在を確認。原著の日本語記述文法研究会等は引用先として扱い、未取得原著の直接照合を主張しない。 | Q_5_056 |
+
+| S61 | 小学館デジタル大辞泉 [は](https://kotobank.jp/word/%E3%81%AF-597777) | 現代助詞の主題提示・対比的取り立ての項目本文を取得。S59の国際交流基金の飲み物対比例と合わせて使用。は／がの全学説や新旧情報の一般論は承認対象から撤去。 | Q_5_052 |
+
+| S62 | 国際交流基金 [そうです 様態](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00094/ja/render.do)、[そうです 伝聞](https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/setsumei_pdf/setsumei19_4.pdf)、[そうだ／ようだ／らしい（1）](https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html) | 3資料本文取得。現状からの可能性判断、伝聞の情報源表示、接続の差、いい→よさそう、名詞のようだ／名詞らしいを確認。記事の関心の度合いによる説明を全学説に普遍化しない。 | Q_5_061、069 |
+| S63 | 国際交流基金 [V＋N](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00128/ja/render.do) | 本文・例文12のそこにある本を取得。存在動詞あるを含む節の名詞修飾を確認。ある日の不定用法やた／ているの全置換条件は本問から撤去し承認しない。 | Q_5_066 |

@@ -7,16 +7,25 @@ import quiz_audit as qa
 cs=json.loads((b.OUT/'changes.json').read_text())
 assert hashlib.sha256(b.SRC.read_bytes()).hexdigest()==b.EXPECTED
 doc=Document(b.SRC)
+# Keep a synchronized paragraph-text cache. Re-extracting every run for every
+# replacement is costly; candidate matching and replacement assertions remain
+# identical, and changed text is refreshed immediately after each operation.
+paragraphs=list(doc.paragraphs)
+texts=[p.text for p in paragraphs]
 for c in cs:
- old=html.unescape(c['before']);ps=[p for p in doc.paragraphs if old in p.text]
+ old=html.unescape(c['before']);matches=[i for i,t in enumerate(texts) if t is not None and old in t]
  if c['field']=='options':
-  ps=[p for p in ps if p.text==str(c['index']+1)+'. '+old]
- assert len(ps)==c.get('count',1),(c['id'],c['field'],len(ps))
- for p in ps:
+  matches=[i for i in matches if texts[i]==str(c['index']+1)+'. '+old]
+ assert len(matches)==c.get('count',1),(c['id'],c['field'],len(matches))
+ for i in matches:
+  p=paragraphs[i]
   if c.get('remove_paragraph'):
    assert c['after']=='' and p.text==old
    p._element.getparent().remove(p._element)
-  else:assert b.replace_paragraph(p,old,c['after'])
+   texts[i]=None
+  else:
+   assert b.replace_paragraph(p,old,c['after'])
+   texts[i]=p.text
 doc.save(b.DST);assert zipfile.ZipFile(b.DST).testzip() is None
 issues,q,a=qa.audit(str(b.DST));_,q0,a0=qa.audit(str(b.SRC))
 assert len(q)==len(a)==500 and set(q)==set(q0) and set(a)==set(a0)
