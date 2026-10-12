@@ -12966,7 +12966,7 @@
   },
   {
     "id": "Q_5_046",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "語種における「漢語」の特徴に関する記述として、最も適切なものはどれか。",
@@ -12994,20 +12994,22 @@
     "machine_flags": [],
     "independent_answer": 2,
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "日本固有語は和語であり誤り",
+      "中国語由来と日本での漢字音による造語を含み正しい",
+      "近年の現代中国語由来だけに限定して誤り",
+      "漢語の造語・翻訳語形成を否定して誤り"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：正答2以外は和語との混同、時代限定、造語否定",
+    "no_correct_risk": "なし：独立正答2",
+    "fixes_applied": true,
+    "stem_review": "個別語の語史を問わず、語種としての漢語の由来と造語を問う形に限定。",
+    "explanation_review": "国立国語研究所の語種説明と文化庁の漢語造語資料に全4肢・4解説を照合。",
+    "sources": [
+      "S51"
+    ],
     "reason": "漢語2候補。経済/文化は中国古典に存在し、意味拡張と新造を区別。両語を明治新造和製漢語とする解説3を修正。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_047",
@@ -14279,7 +14281,7 @@
   },
   {
     "id": "Q_5_075",
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "意味論と語用論の相違に関する記述として、最も適切なものはどれか。",
@@ -14309,20 +14311,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "文脈を明示した間接的依頼の可能性で正しい",
+      "意味論と語用論を取り違えて誤り",
+      "語用論的理解を不要とするため誤り",
+      "意味論と語用論の対象を逆転して誤り"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
+    "multiple_correct_risk": "なし：1のみ提示文脈で成立し得る説明",
+    "no_correct_risk": "なし：独立正答1",
+    "fixes_applied": true,
+    "stem_review": "間接依頼の成立を無条件にせず、共有知識と行為可能性が分かる状況を明示。",
+    "explanation_review": "Searle原典の間接発話行為の定義・推論条件と大学公開論文の意味論／語用論の区別に照合。",
+    "sources": [
+      "S52"
+    ],
     "reason": "寒い間接依頼1候補。エアコンを強めるは冷房なら逆効果なので暖房を強める等へ具体化。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "unresolved": ""
   },
   {
     "id": "Q_5_076",
