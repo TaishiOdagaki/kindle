@@ -195,3 +195,11 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S107 | 小学館デジタル大辞泉 [傷病](https://kotobank.jp/word/%E5%82%B7%E7%97%85-533076) | 辞典項目の語義「けがや病気」を確認。 | 2026-10-13項目本文取得。傷病者の法的な範囲や実在災害をこの項目から承認しない。 | Q_5_090 |
 | S108 | Kozo Kamimura（2020）[Retention of Inferred L2 Word Meaning Based on Morphological and Contextual Clues](https://www.jstage.jst.go.jp/article/arele/31/0/31_161/_pdf/-char/ja) ARELE31、161–176頁 | 原論文163–164頁の本文に、語自体と周囲の文脈による手がかり、利用できる手がかりの組み合わせが整理されている。 | 2026-10-13全16頁PDF本文取得。日本語の漢字語について同じ効果量・因果関係が実証されたとは扱わない。問題は作成した事例の明示条件の分析に限定。 | Q_5_090 |
+
+| S109 | 国際交流基金 [教科書を作ろう Aいです/ANです](https://www.kyozai.jpf.go.jp/kyozai/material/BTS00159/ja/render.do) | 構造図、例文4、先生へ：イ／ナ形容詞の名詞修飾による区別、きれいの分類、肯否の形式。 | 2026-10-13本文取得。この教材の体系を指定。旧JLPT級表示を現行試験仕様として使わない。 | Q_5_013、016 |
+| S110 | 東京外国語大学 [動詞の3種類](https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c01/lesson11/step2/explanation/039.html) | 21–76行：各群の形の作り方、する・くる、見ると切る、-iru/-eruのグループ1例外。 | 2026-10-13本文取得。表のtebe-masuという誤植は採用しない。音節数や形態素の学説をこの資料から承認しない。 | Q_5_013、015 |
+| S111 | 藤村泰司（2003）[て形の作り方](https://www.iuj.ac.jp/language/pdf/research/LP-13-1.pdf)、[大学書誌](https://iuj.repo.nii.ac.jp/records/625) | 原論文1–3頁：ます形の次に辞書形を導入する方式、ます形からて形を作る方式、導入順と起点の区別、辞書形導入の可能性。 | 2026-10-13全8頁PDF本文取得・該当本文精読。OCR不良部・図や著者の独自の丁寧動詞論の普遍性は承認範囲外。 | Q_5_014 |
+| S112 | Catherine Andersonほか [Essentials of Linguistics 2nd edition 1.3](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/1-3-studying-language-scientifically/) | 本文398–432行：実際の使用の観察とどう使うべきかの指示の区別、許容可能性判断の観察資料としての位置づけ。 | 2026-10-13公開大学教科書本文取得。日本語教育／学校文法全体の一括分類はしない。 | Q_5_012 |
+
+| S113 | 東京外国語大学公開専門教材 [朝鮮語を知る―音韻](https://www.tufs.ac.jp/ts/personal/choes/bibimbab/siru/siru02.html) | 単母音表、子音表、音素／音声記号の注、平音・激音・濃音の区別を本文取得。 | 2026-10-13取得。古い教材であることを踏まえ、その体系の説明を問う。母音数の現状・世代全体・実際の学習者の誤用原因を普遍的に承認しない。 | Q_5_030 |
+| S114 | 野間秀樹（東京外国語大学）[朝鮮語 発音と文字](https://www.tufs.ac.jp/common/fs/ilr/archive/kor/kor2.html) | 子音の節と終声の解説で[p][t][k]の閉鎖音、三系列の存在を確認。 | 2026-10-13本文取得。ハングル等の文字化けがあるので、その字形や不明な記号を根拠にしない。明瞭なラテン音声記号と本文だけを照合。 | Q_5_030 |

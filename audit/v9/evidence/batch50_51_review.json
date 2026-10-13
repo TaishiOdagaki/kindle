@@ -1,0 +1,144 @@
+{
+  "base_head": "51a13dd5e476b36da6f4a259a58c8dc130b33cfd",
+  "questions": {
+    "Q_5_012": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 1,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "実際の使用の観察・説明に一致",
+        "規範的な指示を除外して誤り",
+        "規範的な説明との取り違え",
+        "許容可能性判断の資料利用を否定して誤り"
+      ],
+      "reason": "日本語教育全体を記述文法、学校文法全体を規範文法とする一括帰属を撤去。記述的研究が文法性・許容可能性の判断を使わないとの誤解を避け、観察と規範的指示を区別。",
+      "sources": [
+        "S112"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答1",
+      "fixes_applied": true
+    },
+    "Q_5_013": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 1,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "基金の二分類に一致",
+        "グループ3を1と混同",
+        "グループ1を2と混同",
+        "切る等のグループ1を除外して誤り"
+      ],
+      "reason": "学校文法と日本語教育文法を単一の対立体系とする説明、品詞の廃止が国の指針という主張を撤去。出題する二つの教材の体系を指定。",
+      "sources": [
+        "S109",
+        "S110"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答1",
+      "fixes_applied": true
+    },
+    "Q_5_014": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "論文が区別する二方式を一方式に限定",
+        "最初に接する形と変化の起点を混同",
+        "論文1–3頁の区別に一致",
+        "論文の導入可能という記述に反する"
+      ],
+      "reason": "ます形導入の最大理由・最も無難という未照合の優劣判断、公式禁止の不存在の断定、不明な教授法名「直説法」を撤去。原論文の二つの導入方式の区別に限定。",
+      "sources": [
+        "S111"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_5_015": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 1,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "二つの語の群とない形規則に一致",
+        "見るという反例で形だけの判別が不成立",
+        "切るの群を不規則群と混同",
+        "-iru終わりのグループ1を除外して誤り"
+      ],
+      "reason": "音節数だけで活用を決める説明と、入るを2音節とする誤りを撤去。取得した大学教材の例と形の作り方を指定し、語幹の学説・母音挿入の普遍的分析へ広げない。",
+      "sources": [
+        "S110"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答1",
+      "fixes_applied": true
+    },
+    "Q_5_016": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 4,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "教材でナ形容詞とされる語をイ形容詞に誤分類",
+        "教材の肯否形式の差を否定",
+        "名詞修飾のなをいと誤認",
+        "教材の肯定・否定例に一致"
+      ],
+      "reason": "活用の有無やコピュラ分離を一学説で決め、異なる分析全体を誤りとする説明を撤去。和語・借用語の未照合の語史と負担軽減の効果帰属も撤去し、公式教材の具体形へ限定。",
+      "sources": [
+        "S109"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答4",
+      "fixes_applied": true
+    },
+    "Q_5_030": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "単母音表の/a/と不一致",
+        "閉鎖音の存在を否定して誤り",
+        "三系列と同一音素の実現の区別に一致",
+        "鼻音表の3音を否定して誤り"
+      ],
+      "reason": "語中で自動的に有声化という環境条件を欠く断定と、個別学習者の誤りを音韻体系だけで必然的に説明する主張を撤去。取得した大学教材が説明する音素・音声の区別と三系列に限定。方言や世代全体をこの教材の説明で一括承認しない。",
+      "sources": [
+        "S113",
+        "S114"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    }
+  },
+  "machine_issues": 28,
+  "changed_question_machine_flags": [],
+  "atomic_rebuild_failure_test": {
+    "failure_injected": true,
+    "saved_docx_sha256_preserved": true,
+    "new_staging_files_remaining": 0,
+    "prior_staging_files_found_and_cleaned": 1
+  },
+  "v8_unchanged": true,
+  "questions_retained": 500,
+  "full_visual_qa_completed": false
+}
