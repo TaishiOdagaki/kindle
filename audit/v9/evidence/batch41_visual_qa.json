@@ -1,0 +1,16 @@
+{
+  "docx_sha256": "acdfebb4fbf530e0f8e6dc317c00930e1ab4fc542c08251d9bff25a1ad5e2343",
+  "pages": 411,
+  "font": "Noto Sans CJK JP",
+  "visual_pages": [
+    125,
+    131,
+    333,
+    334,
+    341
+  ],
+  "changed_strings": 18,
+  "pdf_text_missing": 0,
+  "final_qa": false,
+  "known_layout_issue": "Q_5_051の解説見出しと正解が333頁末、本文が334頁に分断"
+}
