@@ -1,0 +1,20 @@
+{
+  "questions": [
+    "Q_5_048",
+    "Q_5_049"
+  ],
+  "docx_sha256": "c780ead50b051d1003d6f0ad14cbeb1f360e22e79322b3e29108d910719c2b14",
+  "pages": 411,
+  "font": "Noto Sans CJK JP",
+  "visual_pages": [
+    124,
+    332,
+    333
+  ],
+  "changed_strings": 18,
+  "pdf_text_matches": 18,
+  "pdf_text_missing": 0,
+  "visual_result": "文字欠落・重なり・裁ち落としなし",
+  "known_layout_issue": "Q_5_048の解説が332頁から333頁へ分断。最終版で改頁調整が必要。",
+  "final_qa": false
+}
