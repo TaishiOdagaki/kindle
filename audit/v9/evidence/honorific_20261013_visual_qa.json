@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-13",
+  "integration_base": "ac4e47b541a7916371ea8f21fdeda215dd875285",
+  "pdf_pages": 407,
+  "changed_text_pages": [
+    31,
+    32,
+    33,
+    90,
+    91,
+    140,
+    141,
+    175,
+    176,
+    188,
+    236,
+    237,
+    238,
+    239,
+    295,
+    296,
+    348,
+    356,
+    381,
+    395
+  ],
+  "prior_visual_review_identical_image_pairs": [
+    [
+      31,
+      31
+    ],
+    [
+      32,
+      32
+    ],
+    [
+      33,
+      33
+    ],
+    [
+      175,
+      175
+    ],
+    [
+      176,
+      176
+    ],
+    [
+      188,
+      188
+    ],
+    [
+      236,
+      236
+    ],
+    [
+      237,
+      237
+    ],
+    [
+      238,
+      238
+    ],
+    [
+      239,
+      239
+    ],
+    [
+      295,
+      295
+    ],
+    [
+      296,
+      296
+    ]
+  ],
+  "new_images_reviewed": [
+    90,
+    91,
+    140,
+    141,
+    348,
+    356,
+    381,
+    395
+  ],
+  "affected_pages_visual_review_completed": true,
+  "findings": "統合後の変更文掲載20頁を確認。12頁は先に確認した画像とSHA256一致、8頁は新たに画像確認。日本語字形欠落・切れ・重なりなし。全頁最終QAは未了。",
+  "font": "Noto Sans CJK JP via workspace fontconfig",
+  "manuscript_sha256": "303f4024a4b3a55281d459907331d94272bf78d4f89aab9188755770b5648b48",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
