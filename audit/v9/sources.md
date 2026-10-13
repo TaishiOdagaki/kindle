@@ -179,3 +179,6 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S96 | J. L. Austin（1962）[How to Do Things with Words](https://silverbronzo.wordpress.com/wp-content/uploads/2017/10/austin-how-to-do-things-with-words-1962.pdf) Oxford Clarendon Press | 原著174頁PDF取得。印刷4～8、14～16、94～95、98～103頁を画像本文で照合。第I講義の遂行発話導入、A・Bの条件、phonetic／phatic／rhetic、力と意味及び結果の区別。 | 2026-10-13取得。スキャンPDFにテキスト層なし。画像で確認。Pennsylvania大学版は502、Max Planck版は403のため取得済みとは記録しない。 | Q_5_076・080・081・082 |
 
 | S97 | John R. Searle（1979）[Expression and Meaning 第2章 Indirect speech acts](https://wstarr.org/teaching/speech_acts/Searle-1979-Expression_and_Meaning.pdf) Cambridge University Press | 原著30～34頁（PDF43～47頁）。一つの発話内行為を通して別の発話内行為を行う定義、共有知識と推論、映画への誘いと試験勉強の応答の間接拒否分析。 | 2026-10-13全197頁PDF取得・該当本文照合。所持質問を文脈なしに依頼へ一律解釈しない。 | Q_5_077 |
+
+| S98 | Paul Kroeger（2019）[Analyzing meaning 第2訂正版](https://langsci-press.org/catalog/view/231/1727/1362-2) 第3章3.4 | 印刷41～45頁（PDF57～61頁）は肯定・否定・疑問による前提と含意の区別、regretの例、共有知識と前提の不一致、前提不成立と収容を説明。 | 2026-10-13出版社配布原著本文取得。日本語全般の投射規則として一般化せず指定例の分析に限定。 | Q_5_086 |
+| S99 | Catherine Morley, British Council TeachingEnglish [Listening: Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom) | 本文は背景知識・文脈の利用、音声信号の分割・解読、両処理の同時併用、音声理解が乏しい場合のトップダウン処理の限界を明記。 | 2026-10-13本文取得。読解全般、全熟達者、特定指導法の最大効果へ一般化しない。 | Q_5_088 |
