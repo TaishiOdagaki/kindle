@@ -182,3 +182,8 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S98 | Paul Kroeger（2019）[Analyzing meaning 第2訂正版](https://langsci-press.org/catalog/view/231/1727/1362-2) 第3章3.4 | 印刷41～45頁（PDF57～61頁）は肯定・否定・疑問による前提と含意の区別、regretの例、共有知識と前提の不一致、前提不成立と収容を説明。 | 2026-10-13出版社配布原著本文取得。日本語全般の投射規則として一般化せず指定例の分析に限定。 | Q_5_086 |
 | S99 | Catherine Morley, British Council TeachingEnglish [Listening: Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom) | 本文は背景知識・文脈の利用、音声信号の分割・解読、両処理の同時併用、音声理解が乏しい場合のトップダウン処理の限界を明記。 | 2026-10-13本文取得。読解全般、全熟達者、特定指導法の最大効果へ一般化しない。 | Q_5_088 |
+
+| S100 | British Council [Skimming](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/q-s/skimming) | 70–77行：速く大意を把握。各語を読む必要はない。 | 2026-10-13公式教材本文取得。改訂前の確認済み判定には使わない。 | Q_5_091 |
+| S101 | British Council [Scanning](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/q-s/scanning) | 70–79行：数字・名前等の特定情報を探す。他の読み方との併用。 | 2026-10-13公式教材本文取得。改訂前の確認済み判定には使わない。 | Q_5_091 |
+| S102 | British Council [Graham Stanley Extensive reading](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/extensive-reading) | 72–101行：短文の言語分析と大量の一般理解・楽しみを区別。水準・関心に合う文章、頻繁な辞書参照中断回避。効果の普遍保証に使わない。 | 2026-10-13公式教材本文取得。改訂前の確認済み判定には使わない。 | Q_5_091 |
+| S103 | British Council [Intensive reading](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/intensive-reading) | 70–75行：特定の学習目的・課題を伴う詳細読解。77行の活動例は同機関のskimming/scanning定義と呼称が整合しないため本問の根拠に使用しない。 | 2026-10-13公式教材本文取得。改訂前の確認済み判定には使わない。 | Q_5_091 |
