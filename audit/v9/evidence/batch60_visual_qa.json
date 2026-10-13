@@ -1,0 +1,35 @@
+{
+  "batch": 60,
+  "document": "登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+  "document_sha256": "5ead1d04541f91c656fe128441a46cac0f811f42c09f837e3d1870da1f549c96",
+  "render_pages": 406,
+  "render_tool": "documents/render_docx.py相当のLibreOffice変換後、完成PDFからpdftoppmで対象頁を再画像化",
+  "font": {
+    "family": "Noto Sans CJK JP / Noto Sans JP Static Regular",
+    "noto_cjk_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+    "noto_sans_jp_static_sha256": "dd5aa1d5885fa1cfc58449849fe314becceb371e957314cc2ec08d79b2219ad6",
+    "note": "標準レンダラーの同梱フォントだけで生成された272頁版は日本語字形が欠落したため棄却。公式Noto Sans JP可変TTFのwght=400静的インスタンスとNoto Sans CJK JPを一時レンダラーへ組み込み、DOCX本文・書式を変更しないQA用コピーを406頁へ変換した。"
+  },
+  "inspected_pages": [90, 164, 294, 295, 369],
+  "question_pages": {
+    "Q_4_091": [90, 294, 295],
+    "Q_O_056": [164, 369]
+  },
+  "changed_strings_in_pdf": {
+    "expected": 17,
+    "found": 17,
+    "missing": 0
+  },
+  "checks": {
+    "missing_glyphs": false,
+    "clipping": false,
+    "overlap": false,
+    "broken_navigation_text": false,
+    "unexpected_blank_page": false,
+    "question_explanation_split_reviewed": true,
+    "all_four_options_visible": true,
+    "all_four_explanations_visible": true
+  },
+  "full_document_visual_qa_completed": false,
+  "release_ready": false
+}
