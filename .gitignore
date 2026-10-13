@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Temporary staged documents must never be published.
+/audit/v9/.v9_rebuild-*.docx

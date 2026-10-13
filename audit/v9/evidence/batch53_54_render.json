@@ -1,0 +1,21 @@
+{
+  "pdf_pages": 408,
+  "affected_and_preceding_pages": [
+    83,
+    84,
+    156,
+    157,
+    288,
+    289,
+    362,
+    363,
+    364
+  ],
+  "missing_revised_strings": [],
+  "checked_strings": 27,
+  "font": "Noto Sans CJK JP",
+  "manuscript_sha256": "dc48ab72b1917a748a222e621123b3f61c5014a663a7feaa02254cee9b128408",
+  "full_visual_qa_completed": false,
+  "affected_pages_visual_review_completed": true,
+  "visual_findings": "変更箇所と直前頁の9頁を画像目視。日本語字形欠落、切れ、重なりなし。Q_O_035の解説4は363～364頁に分かれるため最終整形が必要。全408頁の最終目視は未実施。"
+}
