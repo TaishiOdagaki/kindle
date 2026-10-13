@@ -1,0 +1,18 @@
+{
+  "batch": 56,
+  "docx_sha256": "90130e51455cbda51f7200671bc9e44c11e3e2591aa426a1620d5fd75d05d4c7",
+  "pdf_sha256": "7c26f559abd99621bdc626f5dce3e4386e6b5040d21286651a9a9c63ede08a2b",
+  "font": "Noto Sans CJK JP Regular",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "rendered_pages": 407,
+  "inspected_pages": [82, 83, 84, 287, 288, 289],
+  "questions": ["Q_4_070", "Q_4_071", "Q_4_075"],
+  "checks": {
+    "japanese_glyphs_present": true,
+    "changed_text_visible": true,
+    "clipping_detected": false,
+    "overlap_detected": false,
+    "full_visual_qa_completed": false
+  },
+  "note": "変更3問の設問・全4肢・正解表示・全4解説を目視。全407頁の最終目視は未完了。"
+}
