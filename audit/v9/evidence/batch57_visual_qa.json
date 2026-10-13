@@ -1,0 +1,27 @@
+{
+  "batch": 57,
+  "document": "登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+  "render_pages": 407,
+  "render_tool": "documents/render_docx.py --emit_pdf",
+  "font": {
+    "family": "Noto Sans CJK JP",
+    "file": "/usr/local/share/fonts/noto/NotoSansCJKjp-Regular.otf",
+    "sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5"
+  },
+  "initial_render_rejected": "Noto Sans CJK JP欠落時のDejaVu Sans代替レンダリングはQAに使用せず破棄",
+  "inspected_pages": [110, 139, 315, 346, 347],
+  "question_pages": {
+    "Q_5_009": [110, 315],
+    "Q_5_095": [139, 346, 347]
+  },
+  "checks": {
+    "missing_glyphs": false,
+    "clipping": false,
+    "overlap": false,
+    "broken_navigation_text": false,
+    "unexpected_blank_page": false,
+    "question_explanation_split_reviewed": true
+  },
+  "full_document_visual_qa_completed": false,
+  "release_ready": false
+}

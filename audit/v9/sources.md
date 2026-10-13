@@ -219,3 +219,6 @@ S118追加照合：原誌169頁（PDF11頁）の末尾で、多くの誤用が�
 S115追加照合（第56バッチ）：原稿3〜4頁の強形と7〜8頁の弱形の区別をQ_4_070の全4肢・全4解説へ適用。Lado（1957）の原著を取得済みとはせず、Wardhaughが引用・評価する強形を問う。
 
 S118追加照合（第56バッチ）：原誌166〜167頁で、発達の各時点の一定の体系、系統的誤用の証拠性、mistake/errorの区別、一度の正用だけでは体系習得の証拠にならないという限定を再確認し、Q_4_071・Q_4_075へ適用。Selinker（1972）の用語定義や、特定の指導法の効果はこの論文から承認しない。
+
+| S120 | Joseph H. Greenberg（1963）[Some Universals of Grammar with Particular Reference to the Order of Meaningful Elements](https://babel.ucsc.edu/~hank/114/greenberg.pdf)、[Stanford University Press版書誌](https://www.degruyterbrill.com/document/doi/10.1515/9781503623217-005/html) | 原論文全21頁を取得。76〜79頁相当の基礎語順類型、英語の混合的特徴、Universal 3・4を画像本文で照合。 | 2026-10-13取得。PDFはテキスト層がないため英語OCRを作成し、該当ページ画像と対照。30言語標本の一般化を現代の例外なしの法則とは扱わない。 | Q_5_009 |
+| S121 | Council of Europe [CEFR level descriptions](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)、[Table 1: Global scale](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)、[Table 2: Self-assessment grid](https://www.coe.int/en/web/common-european-framework-reference-languages/table-2-cefr-3.3-common-reference-levels-self-assessment-grid) | Table 1をholisticな全体要約、Table 2を34尺度の自己評価表として示す公式本文を取得。聞く・読む・話す・書く活動区分と用途を確認。 | 2026-10-13本文取得。各表の用途と構成に限定し、採点の信頼性や指導効果へ一般化しない。 | Q_5_095 |

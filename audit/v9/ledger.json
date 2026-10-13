@@ -11314,7 +11314,7 @@
   },
   {
     "id": "Q_5_009",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "言語の類型論的分類における「語順（基本語順）」に関する記述として、言語タイプと言語特徴の対照の観点から最も適切なものはどれか。",
@@ -11340,20 +11340,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "Universal 4に一致",
+      "方向と例外条件の双方が原文に反する",
+      "Universal 3の前置詞型を逆転",
+      "原文中の英語の説明が反例"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢の全文を独立精読。誤用前提と正答成立条件を点検。",
-    "explanation_review": "4解説を全文精読。選択肢との対応・補助主張の照合を記録。",
-    "sources": [],
-    "reason": "SOV後置詞傾向1候補。SVOにも後置詞があり中国語は前置・後置の混在。Greenbergの普遍性と傾向を区別して原著照合。",
-    "unresolved": "個別所見の学説・例文・補助説明を原資料と追加照合。修正後に全選択肢・解説を再判定する。"
+    "multiple_correct_risk": "なし：根拠本文に一致するのは独立正答のみ",
+    "no_correct_risk": "なし：独立正答1",
+    "fixes_applied": true,
+    "stem_review": "Greenberg（1963）原論文全21頁を取得し、基礎語順類型の定義、Universal 3・4及び英語の説明に限定して設問と4肢を独立判定。",
+    "explanation_review": "原論文76〜79頁相当の画像本文をOCR後にページ画像と照合。個別言語の無出典主張を撤去し、4解説を本文の一般化と反例へ対応させた。",
+    "sources": [
+      "S120"
+    ],
+    "reason": "旧稿はGreenbergの傾向を『極めて高い』と説明しつつ、中国語・日本語・韓国語の個別特徴を無出典で組み合わせていた。原論文のUniversal 3・4と英語の反例説明へ直接対応する4肢に改稿し、傾向と絶対則を区別した。",
+    "unresolved": ""
   },
   {
     "id": "Q_5_010",
@@ -15376,7 +15378,7 @@
   },
   {
     "id": "Q_5_095",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ライティング（作文パフォーマンス）の評価手法に関する記述として、最も適切なものはどれか。",
@@ -15408,20 +15410,22 @@
     ],
     "independent_answer": 3,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補・但書等は所見参照",
-      "誤答候補"
+      "Table 2の内容をTable 1へ誤配",
+      "Table 1の内容をTable 2へ誤配",
+      "欧州評議会の公式説明に一致",
+      "自己評価表という公式用途を否定"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未判定",
-    "no_correct_risk": "未判定",
-    "fixes_applied": false,
-    "stem_review": "全文精読・独立判定実施",
-    "explanation_review": "4解説の対応を精読",
-    "sources": [],
-    "reason": "全選択肢の意味対応を確認。解説2の選択肢1・2参照は現行番号と一致。分析的評価の特徴の学術資料本文未照合。",
-    "unresolved": "所見に記載した事項を出典本文と照合し、修正後に再判定する。"
+    "multiple_correct_risk": "なし：根拠本文に一致するのは独立正答のみ",
+    "no_correct_risk": "なし：独立正答3",
+    "fixes_applied": true,
+    "stem_review": "欧州評議会のCEFRレベル説明、Table 1公式ページ、Table 2公式ページの本文を取得し、表の名称・用途・活動区分を限定して4肢を判定。",
+    "explanation_review": "4解説を公式ページの記述に個別対応させ、旧稿の効果・信頼性・訓練に関する未照合主張をすべて撤去。",
+    "sources": [
+      "S121"
+    ],
+    "reason": "旧稿は分析的評価と印象的評価の一般論に、長所・課題への効果や評価者間信頼性、訓練の不可欠性まで無出典で含めていた。欧州評議会が全文公開するCEFR Table 1・2の用途と構成を問う設問へ改稿した。",
+    "unresolved": ""
   },
   {
     "id": "Q_5_096",
