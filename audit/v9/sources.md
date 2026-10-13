@@ -192,3 +192,6 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S105 | 国際交流基金 [いろどり 初級1 この教材の使い方](https://www.irodori.jpf.go.jp/assets/data/elementary01/pdf/Y_howto_jp.pdf) | PDF8頁「シャドーイングとは？」。全部聞いてからの反復と区別し、聞こえてきた音のすぐ後に続く練習を説明。 | 2026-10-13公式教材本文取得。発音・聴解の効果量や万能性を承認しない。 | Q_M_026、Q_M_027 |
 
 | S106 | Carrell, P. L.・Eisterhold, J. C.（1983）[Schema Theory and ESL Reading Pedagogy 原論文転記](https://doczz.net/doc/8055403/schema-theory-and-esl-reading-pedagogy)、[出版社書誌](https://onlinelibrary.wiley.com/doi/abs/10.2307/3586613) | 原著556–560頁の転記本文を取得。556頁の既有知識構造・相互作用、脚注の概念の区別、559頁の新情報による解釈修正、560頁の内容・形式の定義と欠如／活性化の問題を精読。 | 2026-10-13取得。第三者サイトの原論文転記であり出版社全文ではない。書誌は出版社と照合。PDFダウンロード403、viewer410で画像照合未取得。転記で明瞭な定義に限定し、学説の普遍性・効果量・原著引用先の直接照合を主張しない。 | Q_3_003、Q_5_089 |
+
+| S107 | 小学館デジタル大辞泉 [傷病](https://kotobank.jp/word/%E5%82%B7%E7%97%85-533076) | 辞典項目の語義「けがや病気」を確認。 | 2026-10-13項目本文取得。傷病者の法的な範囲や実在災害をこの項目から承認しない。 | Q_5_090 |
+| S108 | Kozo Kamimura（2020）[Retention of Inferred L2 Word Meaning Based on Morphological and Contextual Clues](https://www.jstage.jst.go.jp/article/arele/31/0/31_161/_pdf/-char/ja) ARELE31、161–176頁 | 原論文163–164頁の本文に、語自体と周囲の文脈による手がかり、利用できる手がかりの組み合わせが整理されている。 | 2026-10-13全16頁PDF本文取得。日本語の漢字語について同じ効果量・因果関係が実証されたとは扱わない。問題は作成した事例の明示条件の分析に限定。 | Q_5_090 |
