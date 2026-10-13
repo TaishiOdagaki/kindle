@@ -1,0 +1,29 @@
+{
+  "batch": 59,
+  "document": "登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+  "document_sha256": "b09ee58c3cbfcb7db65c316337a885cf1a7065260aae4687a229b4ec89da0582",
+  "render_pages": 406,
+  "render_tool": "documents/render_docx.py --emit_pdf",
+  "font": {
+    "family": "Noto Sans CJK JP",
+    "file": "/usr/local/share/fonts/noto/NotoSansCJKjp-Regular.otf",
+    "sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5"
+  },
+  "inspected_pages": [37, 81, 242, 285],
+  "question_pages": {
+    "Q_2_035": [37, 242],
+    "Q_4_068": [81, 285]
+  },
+  "checks": {
+    "missing_glyphs": false,
+    "clipping": false,
+    "overlap": false,
+    "broken_navigation_text": false,
+    "unexpected_blank_page": false,
+    "question_explanation_split_reviewed": true,
+    "all_four_options_visible": true,
+    "all_four_explanations_visible": true
+  },
+  "full_document_visual_qa_completed": false,
+  "release_ready": false
+}
