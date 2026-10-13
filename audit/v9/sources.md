@@ -173,3 +173,5 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 
 | S93 | 柏野和佳子（国立国語研究所）[「急速に普及する外来語には、人を引き付ける何かがあるのでしょうか」](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-90/)（2020年4月13日公開、初出2006年） | 本文「節電効果、経済効果を上げた『クールビズ』」は cool と business の略 biz の合成、涼しく働く姿を意図した和製英語と明記。 | 2026-10-13本文取得。通用性の全称命題や他語の語史へ一般化しない。 | Q_5_051 |
 | S94 | Anthony E. Backhouse [Collocational aspects of near-synonyms: Illustrations from a small corpus](https://eprints.lib.hokudai.ac.jp/repo/huscap/all/45637/BISC007_004.pdf) 北海道大学留学生センター紀要7、50–68頁 | 原論文50–52頁の導入は類義語の意味・用法の重なりと相違、定義・訳語を超える情報の必要性、構文内での共起関係を説明。 | 2026-10-13原論文PDF本文取得。小規模コーパスの結果を全和語・漢語へ一般化せず、本文の分析方法に限定。 | Q_5_071 |
+
+| S95 | Paul Kroeger（2019）[Analyzing meaning 第2訂正版](https://langsci-press.org/catalog/view/231/1727/1362-2) Language Science Press、第6章6.2.2 | 印刷109～112頁（PDF125～128頁）は相補・段階・対転・反転を区別。parent／child、above／below はconverse、come／goはreverse。 | 2026-10-13出版社配布原著PDF本文取得。語義と適用条件を指定し、男女の現実の二分を教材では断定しない。 | Q_5_072 |

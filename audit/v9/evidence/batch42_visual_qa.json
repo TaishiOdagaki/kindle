@@ -1,0 +1,15 @@
+{
+  "docx_sha256": "a4ecea111c65a9f704c95e3605a99843728916b09b5b08fff38c90864fc5d2bd",
+  "pages": 411,
+  "font": "Noto Sans CJK JP",
+  "visual_pages": [
+    124,
+    131,
+    132,
+    342
+  ],
+  "changed_strings": 10,
+  "pdf_text_missing": 0,
+  "final_qa": false,
+  "known_layout_issue": "Q_5_072の選択肢が131～132頁へ分断"
+}
