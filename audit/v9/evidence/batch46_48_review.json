@@ -1,0 +1,270 @@
+{
+  "questions": {
+    "Q_3_001": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "トップダウンの定義をボトムアップと呼び誤り",
+        "ボトムアップの定義をトップダウンと呼び誤り",
+        "音声からの語認識が乏しい場合の限界に一致",
+        "個別練習から実際の併用不存在を導き誤り"
+      ],
+      "reason": "初級者全般がボトムアップへ過度依存するという未照合の傾向帰属と、全談話理論で相互作用モデルが最効率という断定を撤去。聴解における音声理解不足の条件と併用に限定。",
+      "sources": [
+        "S99"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_3_003": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "原論文の著者・年と定義の範囲を指定。",
+      "explanation_review": "全4肢・全4解説を原著転記本文556–560頁に照合。転記にない全称命題を撤去。",
+      "option_verdicts": [
+        "内容スキーマとの混同で誤り",
+        "解釈修正の例と不一致で誤り",
+        "556頁の定義に一致して正しい",
+        "556頁脚注の技術的区別を否定して誤り"
+      ],
+      "reason": "Carrell・Eisterhold（1983）原論文転記本文556–560頁へ限定。認識心理学という名称、毎回スキーマが更新されるという断定、病院の未知語補完の未照合例を撤去。定義と解釈の修正を区別。",
+      "sources": [
+        "S106"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：原論文の指定概念に合致するのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_5_089": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "原論文の著者・年と定義の範囲を指定。",
+      "explanation_review": "全4肢・全4解説を原著転記本文556–560頁に照合。転記にない全称命題を撤去。",
+      "option_verdicts": [
+        "形式スキーマとの混同で誤り",
+        "560頁の理解困難の説明を否定して誤り",
+        "560頁の二分類の定義に一致して正しい",
+        "形式の背景知識を定義から排除して誤り"
+      ],
+      "reason": "Carrell・Eisterhold（1983）原論文転記本文556–560頁へ限定。認識心理学という名称、毎回スキーマが更新されるという断定、病院の未知語補完の未照合例を撤去。定義と解釈の修正を区別。",
+      "sources": [
+        "S106"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：原論文の指定概念に合致するのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_5_091": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 4,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "特定情報を探すスキャニングとの取り違え",
+        "多読と逐語的辞書参照を混同",
+        "大意把握のスキミングとの取り違え",
+        "精読の目的・課題を伴う詳細読解の定義に一致"
+      ],
+      "reason": "精読・多読をすべてマイクロスキルに一括分類する設問を修正。多読の効果を保証する説明を撤去し、公式教材の目的・手順の区別へ限定。",
+      "sources": [
+        "S100",
+        "S101",
+        "S102",
+        "S103"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答4",
+      "fixes_applied": true
+    },
+    "Q_O_021": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 2,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "設定された活動と異なる",
+        "教師の明示目的とスキーマの機能に一致",
+        "文法採点なしの条件と不一致",
+        "発音採点なしの条件と不一致"
+      ],
+      "reason": "活動の形式から唯一の目的を推測せず、ケースの教師の目的と評価条件を明示して判定。",
+      "sources": [
+        "S106"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答2",
+      "fixes_applied": true
+    },
+    "Q_O_022": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 4,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "背景知識を使う条件を除外して誤り",
+        "背景知識を使う条件を除外して誤り",
+        "背景知識を使う条件を否定して誤り",
+        "スキーマによる予測の定義に一致"
+      ],
+      "reason": "大意理解という結果だけから処理を同定せず、既有知識を使った予測の自己報告に限定。黙読で音韻処理が関係しないという誤った排除を撤去。",
+      "sources": [
+        "S106"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答4",
+      "fixes_applied": true
+    },
+    "Q_O_023": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "授業目標との関連を無根拠に否定",
+        "細部理解の明示目標と不一致",
+        "結果を踏まえた条件付き検討として妥当",
+        "大意理解の結果を無視して誤り"
+      ],
+      "reason": "細部の答えが本文に明記される条件を追加。指導効果や能力の育成を一回の結果から断定せず、目標と結果からの条件付き検討に限定。",
+      "sources": [
+        "S103"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_O_024": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 4,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "一律方針で今回の確認目標に対応しない",
+        "大意理解の目標まで廃止して不適切",
+        "次回も確認する条件と不一致",
+        "本文の根拠を詳しく読む課題として妥当"
+      ],
+      "reason": "語彙接触や活動併用の一般的効果断定を撤去し、明示した授業目標と本文内の根拠を確認する活動の対応へ限定。",
+      "sources": [
+        "S103"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答4",
+      "fixes_applied": true
+    },
+    "Q_O_025": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 3,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "今回の二つの目標を一方へ固定",
+        "見直すという明示方針と不一致",
+        "今回の目的に応じた計画として妥当",
+        "今回の目的から全授業で省略を導けない"
+      ],
+      "reason": "全授業で導入や精読を必須にせず、今回明示された目標・見直し条件との一致を判定。一般的な効果の保証を撤去。",
+      "sources": [
+        "S103",
+        "S106"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答3",
+      "fixes_applied": true
+    },
+    "Q_M_026": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 2,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "逐語的書き取りと再構成の手順が異なる",
+        "キーワードのメモと共同再構成に一致",
+        "音声を追って発音する練習と手順が異なる",
+        "特定情報を探す読解と手順が異なる"
+      ],
+      "reason": "そのまま書き取るという設問はディクテーションとの区別を曖昧にしていた。キーワードのメモと共同再構成を明記し、取得本文で全誤答の定義も確認できる構成へ変更。",
+      "sources": [
+        "S104",
+        "S105",
+        "S101"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答2",
+      "fixes_applied": true
+    },
+    "Q_M_027": {
+      "status": "確認済み",
+      "content_reviewed": true,
+      "independent_answer": 1,
+      "stem_review": "取得した本文の定義と条件に限定し、4肢を独立判定。",
+      "explanation_review": "全4解説を根拠本文へ照合。本文にない一般的効果・全称命題を撤去。",
+      "option_verdicts": [
+        "すぐ後を追う発音の定義に一致",
+        "メモと再構成を行う活動で異なる",
+        "特定情報を探す読解で異なる",
+        "大意を把握する読解で異なる"
+      ],
+      "reason": "ほぼ同時という曖昧な時機を、音声のすぐ後に続くと明確化。解説の広い効果・普及の断定とディクトグロスの逐語的書き取りへの誤認を撤去。",
+      "sources": [
+        "S105",
+        "S104",
+        "S100",
+        "S101"
+      ],
+      "unresolved": "",
+      "multiple_correct_risk": "なし：指定された定義・手順に合うのは正答のみ",
+      "no_correct_risk": "なし：独立正答1",
+      "fixes_applied": true
+    }
+  },
+  "new_warning_review": [
+    {
+      "code": "A1",
+      "question": "Q_3_001",
+      "verdict": "誤りの検出ではない。正答はできないことがあるという条件付き記述。断定語検出はできないを拾うが、S99の音声理解不足条件と一致し、他肢は処理の逆転・併用否定。正答だけ断定が強いという内容上の問題ではない。"
+    },
+    {
+      "code": "P1",
+      "question": "Q_O_022",
+      "verdict": "正答解説は背景知識による予測に一致と述べ、末尾はボトムアップ不存在を推論しないという留保。誤答説明は何を否定する肢なのかを肯定文で説明している。正誤逆転ではない。"
+    },
+    {
+      "code": "P1",
+      "question": "Q_O_024",
+      "verdict": "正答は本文根拠を詳しく読む課題との一致。末尾は効果の事前保証をしない留保で、正答を否定しない。"
+    },
+    {
+      "code": "P1",
+      "question": "Q_O_025",
+      "verdict": "正答は目的に応じた計画。末尾は全授業で同じ活動が必須という一般化を避ける留保。正答の否定ではない。"
+    }
+  ],
+  "machine_issue_count": 28,
+  "v8_unchanged": true,
+  "questions_retained": 500,
+  "full_visual_qa_completed": false
+}
