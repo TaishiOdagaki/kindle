@@ -1,0 +1,17 @@
+{
+  "docx_sha256": "3182fd39fc70e1c89bf78944568b9432bfcc284bb7f71ecf6ca189bd51c2e142",
+  "pages": 410,
+  "font": "Noto Sans CJK JP",
+  "visual_pages": [
+    133,
+    134,
+    135,
+    342,
+    344,
+    345
+  ],
+  "changed_strings": 36,
+  "pdf_text_missing": 0,
+  "final_qa": false,
+  "known_layout_issue": "Q_5_080の末尾とリンク・Q_5_082の解説の頁分断"
+}

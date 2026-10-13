@@ -1,0 +1,13 @@
+{
+  "docx_sha256": "5c162a5868d8f558607ebfc4cc95b3b189f0cd9ceace8cb9b26620609df63d20",
+  "pages": 410,
+  "font": "Noto Sans CJK JP",
+  "visual_pages": [
+    133,
+    343
+  ],
+  "changed_strings": 9,
+  "pdf_text_missing": 0,
+  "final_qa": false,
+  "known_layout_issue": "他の設問・解説の既知分断は残る。全頁未確認"
+}

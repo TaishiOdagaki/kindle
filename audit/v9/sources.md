@@ -175,3 +175,7 @@ S29追加照合：Richards (1970)の§1（PDF5頁）と結論（PDF24頁）を�
 | S94 | Anthony E. Backhouse [Collocational aspects of near-synonyms: Illustrations from a small corpus](https://eprints.lib.hokudai.ac.jp/repo/huscap/all/45637/BISC007_004.pdf) 北海道大学留学生センター紀要7、50–68頁 | 原論文50–52頁の導入は類義語の意味・用法の重なりと相違、定義・訳語を超える情報の必要性、構文内での共起関係を説明。 | 2026-10-13原論文PDF本文取得。小規模コーパスの結果を全和語・漢語へ一般化せず、本文の分析方法に限定。 | Q_5_071 |
 
 | S95 | Paul Kroeger（2019）[Analyzing meaning 第2訂正版](https://langsci-press.org/catalog/view/231/1727/1362-2) Language Science Press、第6章6.2.2 | 印刷109～112頁（PDF125～128頁）は相補・段階・対転・反転を区別。parent／child、above／below はconverse、come／goはreverse。 | 2026-10-13出版社配布原著PDF本文取得。語義と適用条件を指定し、男女の現実の二分を教材では断定しない。 | Q_5_072 |
+
+| S96 | J. L. Austin（1962）[How to Do Things with Words](https://silverbronzo.wordpress.com/wp-content/uploads/2017/10/austin-how-to-do-things-with-words-1962.pdf) Oxford Clarendon Press | 原著174頁PDF取得。印刷4～8、14～16、94～95、98～103頁を画像本文で照合。第I講義の遂行発話導入、A・Bの条件、phonetic／phatic／rhetic、力と意味及び結果の区別。 | 2026-10-13取得。スキャンPDFにテキスト層なし。画像で確認。Pennsylvania大学版は502、Max Planck版は403のため取得済みとは記録しない。 | Q_5_076・080・081・082 |
+
+| S97 | John R. Searle（1979）[Expression and Meaning 第2章 Indirect speech acts](https://wstarr.org/teaching/speech_acts/Searle-1979-Expression_and_Meaning.pdf) Cambridge University Press | 原著30～34頁（PDF43～47頁）。一つの発話内行為を通して別の発話内行為を行う定義、共有知識と推論、映画への誘いと試験勉強の応答の間接拒否分析。 | 2026-10-13全197頁PDF取得・該当本文照合。所持質問を文脈なしに依頼へ一律解釈しない。 | Q_5_077 |
