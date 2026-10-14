@@ -21,6 +21,8 @@ for c in cs:
    matches=[i for i in matches if [t for t in texts[:i] if t is not None][-c['index']-1]==c['stem_context']]
  if c.get('paragraph_prefix'):
   matches=[i for i in matches if texts[i].startswith(c['paragraph_prefix'])]
+ if c.get('previous_paragraph'):
+  matches=[i for i in matches if [t for t in texts[:i] if t is not None][-1:]==[c['previous_paragraph']]]
  assert len(matches)==c.get('count',1),(c['id'],c['field'],len(matches))
  for i in matches:
   p=paragraphs[i]

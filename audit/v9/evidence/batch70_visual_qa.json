@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-14",
+  "base_head": "88c26f4524aef0d49b334990c73fe0644d059797",
+  "batch": 70,
+  "questions": [
+    "Q_4_109",
+    "Q_4_110",
+    "Q_5_101"
+  ],
+  "new_edits": 35,
+  "removed_old_stem_paragraphs": 8,
+  "confirmed": 164,
+  "remaining": 336,
+  "page_count": 402,
+  "checked_pages": [
+    97,
+    98,
+    139,
+    140,
+    297,
+    298,
+    342,
+    343
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "docx_sha256": "5e78978a84694ed32d299ba0b6563844db74f800854b60e606d442a2b14e6465",
+  "font": "Noto Sans JP Static Regular 400",
+  "font_sha256": "5830ffe4a7c20615f6df4c5575695ad2770bb790ecbb78b345e563f7c94c1390",
+  "page_sha256": {
+    "97": "c23e21e74cf0b056f1f5d86c0e72c674acd5cf8c0ac30d438ab7679566a7a66e",
+    "98": "c1a04c66bcb1cb6f7a7dbd569ddbd8ecbd709072b9ad43f7844cbd93330a425f",
+    "139": "3acc3597d55bcdc53983c0a777cea95b1a873bdf8a4f0083dbd4eee083a2b386",
+    "140": "eb1834acde69039d866eaa452a52848eb99bb6bc886b26f44ef836d8b2b2850a",
+    "297": "27c95241344d38250de25612da7604a318dc9cc2d4a0c529a9d0968d12cc04dc",
+    "298": "1154d5976dffaf08871bc9f9a2083006ff4d4ea504c363dcbe07369ba298eeb5",
+    "342": "41347f568f7879df20d850dc49f7fed82ae8c78cd9469c98034c0e7a75679809",
+    "343": "dd6fb3dc2d525c07cf77e30dc298783d729ad5cdfad0fd49d2277a727442bf36"
+  },
+  "source_pdf_sha256": {
+    "S135": "7a7aed0ae73e239f68d6033cfd204b2c5f25325bdc0ebe4b6d506af10d3d74be",
+    "S133": "589f90cd2bf83dc37ae8b609d42954b2b891c8df950ec0c5f32bbe69ab7641ab"
+  },
+  "visual_findings": "変更関連8頁の日本語欠字・切れ・重なりなし。Q_4_110とQ_5_101の改頁は最終整形時の見直し候補。",
+  "machine_warning_count": 39,
+  "machine_new_flags_disposition": {
+    "Q_4_109 P1": "同意がいつでも選好されるわけではないという原著の限定文。全肢・タグ照合により誤検出。"
+  },
+  "readiness_gate_regression_cases": 8
+}
