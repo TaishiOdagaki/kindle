@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-14",
+  "base_head": "f156ae02f89dd953196e2b64d3a089dc87c9f517",
+  "batches": [
+    71,
+    72
+  ],
+  "questions": [
+    "Q_3_038",
+    "Q_3_039",
+    "Q_3_040",
+    "Q_3_041",
+    "Q_M_020"
+  ],
+  "new_edits": 40,
+  "removed_old_stem_paragraphs": 1,
+  "confirmed": 169,
+  "remaining": 331,
+  "page_count": 401,
+  "generated_png_count": 401,
+  "checked_pages": [
+    53,
+    54,
+    175,
+    251,
+    252,
+    253,
+    376
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "docx_sha256": "aa56b6a690870e32383c7b03036ebd1da1140b0fac6b2d69952df84dda411f79",
+  "font": "Noto Sans JP Static Regular 400",
+  "font_sha256": "99928dba9a5295909b39cc77eb7240263589d3d8d4bf511791ff2135eefbaf2b",
+  "page_sha256": {
+    "53": "fa237a7075eb5b3102ea5c2cd1785b793ab1cc086a59aa99d2f443fb9f5e2471",
+    "54": "b99e281b2e1f56d69b0da1b8a8d623a75600100ec05a46568a5df410bcd4f6d2",
+    "175": "c2294c676d8e7e5ea3441edb7e1f45990b11a53883a6598a79995663c33f37c5",
+    "251": "33055c4fea57ccac1b3d3c72e9ca9812a4ae22120dbcab8f3c0961575e68cc33",
+    "252": "ebbc7e1e29d3304c9a3717f5751c4b13328245168a8e4418e2ee66b284613780",
+    "253": "eea14e45d95277c99c0a8d4aacea60e0cb87c9bdc9953edf17ae968e57a68fa0",
+    "376": "1308da910e1bfb8e7ce25d68c539be3c9352d61bbaab205c069b0058adf3cc78"
+  },
+  "source_pdf_sha256": {
+    "S14": "35ff4d140b9a4addd5634a95a5e0d0199cd639650266cb262f1b11efee2fe4b8",
+    "S17": "e85136eb93b48731380bceaf79134f372d19ec01f5e72a4f0306ae36387b0edb",
+    "S137": "104c94154d5a7acf582c9b1c5c2ce63da0de116221566d46a4bf63b32568bca1"
+  },
+  "visual_findings": "変更関連7頁を最終描画で直接目視。日本語欠字・切れ・重なりなし。Q_3_039・041の解説分断は最終整形時の再検討候補。",
+  "machine_warning_count": 42,
+  "machine_new_flags_disposition": {
+    "Q_3_038 P1": "原著の限定・推論の留保文への反応。全4肢と正誤タグを照合し誤検出。",
+    "Q_3_039 P1": "原著の限定・推論の留保文への反応。全4肢と正誤タグを照合し誤検出。",
+    "Q_3_041 P1": "原著の限定・推論の留保文への反応。全4肢と正誤タグを照合し誤検出。"
+  },
+  "readiness_gate_regression_cases": 8,
+  "prior_intermediate_qa": {
+    "batch": 71,
+    "page_count": 402,
+    "checked_pages": [
+      53,
+      54,
+      55,
+      176,
+      252,
+      253,
+      254,
+      377
+    ]
+  },
+  "source_access_limitations": {
+    "Q_3_037": "Gardner講演稿の大学URLが404。二次資料・抄録で承認せず要追加確認を維持。"
+  }
+}
