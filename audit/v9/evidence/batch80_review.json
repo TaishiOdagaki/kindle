@@ -1,0 +1,154 @@
+{
+  "batch": 80,
+  "base_commit": "5c940975d2f8d9630f590252a35083c9b8c7bae4",
+  "questions": [
+    "Q_4_042",
+    "Q_4_044",
+    "Q_4_045"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 200,
+    "修正必要": 66,
+    "要追加確認": 234
+  },
+  "remaining": 300,
+  "independent_answers": {
+    "Q_4_042": 2,
+    "Q_4_044": 4,
+    "Q_4_045": 3
+  },
+  "source_id": "S144",
+  "source_url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+  "source_sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+  "source_pdf_pages": 52,
+  "source_image_verified_page_map": {
+    "18": 22,
+    "20": 24,
+    "21": 25,
+    "31": 35
+  },
+  "source_limits": "本人2006年の議論整理。引用元別原著は未取得。日本語授業例は架空の適用案。",
+  "machine_warnings": 51,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_044",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1]"
+    ],
+    [
+      "P1",
+      "Q_4_045",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ]
+  ],
+  "new_warning_manual_review": {
+    "Q_4_044 P1": "普遍的な優越の比較ではないという留保を正答末尾で述べるため。独立正答4に一致。",
+    "Q_4_045 P1": "架空例を実在自治体規則としないという留保を正答末尾で述べるため。独立正答3に一致。"
+  },
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    70,
+    71,
+    72,
+    268,
+    269
+  ],
+  "full_visual_qa_completed": false,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_042', 'stem', None)": [
+      70
+    ],
+    "('Q_4_042', 'options', 0)": [
+      70
+    ],
+    "('Q_4_042', 'options', 1)": [
+      70
+    ],
+    "('Q_4_042', 'options', 2)": [
+      70
+    ],
+    "('Q_4_042', 'options', 3)": [
+      70
+    ],
+    "('Q_4_042', 'explanations', 0)": [
+      268
+    ],
+    "('Q_4_042', 'explanations', 1)": [
+      268
+    ],
+    "('Q_4_042', 'explanations', 2)": [
+      268
+    ],
+    "('Q_4_042', 'explanations', 3)": [
+      268
+    ],
+    "('Q_4_044', 'stem', None)": [
+      71
+    ],
+    "('Q_4_044', 'options', 0)": [
+      71
+    ],
+    "('Q_4_044', 'options', 1)": [
+      71
+    ],
+    "('Q_4_044', 'options', 2)": [
+      71
+    ],
+    "('Q_4_044', 'options', 3)": [
+      71
+    ],
+    "('Q_4_044', 'explanations', 0)": [
+      268
+    ],
+    "('Q_4_044', 'explanations', 1)": [
+      269
+    ],
+    "('Q_4_044', 'explanations', 2)": [
+      269
+    ],
+    "('Q_4_044', 'explanations', 3)": [
+      269
+    ],
+    "('Q_4_045', 'stem', None)": [
+      71
+    ],
+    "('Q_4_045', 'options', 0)": [
+      71
+    ],
+    "('Q_4_045', 'options', 1)": [
+      71
+    ],
+    "('Q_4_045', 'options', 2)": [
+      71
+    ],
+    "('Q_4_045', 'options', 3)": [
+      72
+    ],
+    "('Q_4_045', 'explanations', 0)": [
+      269
+    ],
+    "('Q_4_045', 'explanations', 1)": [
+      269
+    ],
+    "('Q_4_045', 'explanations', 2)": [
+      269
+    ],
+    "('Q_4_045', 'explanations', 3)": [
+      269
+    ]
+  },
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "e64459baccfa26b348ad181a935ff89565b935b47da05941fb0cb1054233f9b1",
+  "docx_sha256": "e788157b4ae76a508c82a6d1b01aec5e894dd3a0124a4e5a05b36065d358f6bf",
+  "pdf_sha256": "6817fbc8804deb4982433fd312a16f1ea5bb073e1c8139765aa16683f2c23b53",
+  "page_sha256": {
+    "70": "18f5198315ce0f522ce2e5e0603389dd2942e6f421bc5e1c9ab994cb5f2c234e",
+    "71": "8b5209ec5a6fd1fb57651094810206b9d2de5e15679ccb523a537c0687cb9bb2",
+    "72": "7e9584ad50922a4120a70638bd127692a505eaee60699b216e53297e4e4b5a9a",
+    "268": "88764f8ce2df3f175032b56f2d31b02708dfb823f23da3a1ee4713004343cc77",
+    "269": "f7a3f9232607330d1d4349492f63e342b6b84d9d867ad8d2d5804cab6c1f7d95"
+  },
+  "release_ready": false
+}

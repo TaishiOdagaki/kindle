@@ -314,3 +314,10 @@ S142の印刷頁にはPDF通し頁で10を加える（例：79頁＝PDF89頁）�
 | S144 | Jack C. Richards（2006）[Communicative Language Teaching Today 著者公開冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)、[著者による無料公開告知](https://professorjackrichards.com/communicative-language-teaching-today/) | 印刷8頁：PPPの三段階と批判の併記。16〜17頁：機械的・有意味・コミュニケーション練習、個人情報を使う文完成の分類。31頁：タスクの特徴、教室用と実社会型の区別 | 全52頁取得、上記4頁を本文・画像照合。2006年著者冊子の説明に限定し、日本語教授法全般や全員の習得効果に一般化しない。引用されるSkehan、Willis等の原著も取得したとはしない。Q_4_065は監査で構成した架空のモデル適用例。 | Q_4_035・063・064・065・066 |
 
 著者サイトには同名の47頁版（communicative-language-teaching-today-v2.pdf）もあるが、抽出文字がずれていた。今回採用したのは表紙・奥付付き52頁版で、印刷8頁＝PDF12頁、16〜17頁＝PDF20〜21頁、31頁＝PDF35頁。2006年の奥付も確認し、ダウンロードファイルの作成日時を刊年と誤認しない。PDF全文はリポジトリへ転載せず、URL・ハッシュ・照合範囲を記録する。
+
+
+## 第80バッチ S144の追加照合（2026-10-15）
+
+Jack C. Richards（2006）[Communicative Language Teaching Today 著者公開52頁冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)を再取得。印刷18頁の鉄道案内での情報差、20〜21頁の真正性をめぐる賛否、31頁のタスクの特徴と教室用タスクを全文・画像照合した。印刷頁とPDF頁は18→22、20→24、21→25、31→35。対象Q_4_042・044・045。PDFのSHA256はevidence/batch80_review.jsonに記録。
+
+2006年の本人による説明・議論の紹介を根拠とし、引用されるClarke/Silberstein1977やWiddowson1987、Littlewood1981の原著取得とは扱わない。Q_4_042・045は監査で作った架空の適用案で、初級・中級日本語授業の効果を実証した事例ではない。生教材の普遍的優越、音読や文法抽出の全面否定、自治体の実在規則は承認範囲に含めない。
