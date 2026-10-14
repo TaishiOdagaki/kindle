@@ -1,0 +1,90 @@
+{
+  "batch": 76,
+  "base_commit": "dbde29bef59e3780fc77cf031ba69910413aa67c",
+  "questions": [
+    "Q_1_040",
+    "Q_3_018",
+    "Q_4_055",
+    "Q_M_031"
+  ],
+  "edits": 36,
+  "status_counts": {
+    "確認済み": 183,
+    "修正必要": 73,
+    "要追加確認": 244
+  },
+  "remaining": 317,
+  "independent_answers": {
+    "Q_3_018": 3,
+    "Q_1_040": 1,
+    "Q_4_055": 4,
+    "Q_M_031": 1
+  },
+  "sources": {
+    "S29": {
+      "url": "https://files.eric.ed.gov/fulltext/ED037721.pdf",
+      "sha256": "aca43007ffd90ea4267473f2c99e83cc7de297716e70a1cc2208c60b90231eab",
+      "pdf_pages": 38,
+      "verified_print_pages": [
+        6
+      ],
+      "scope": "1970年原発表稿の説明。全員必然の段階を導かない。"
+    },
+    "S141": {
+      "url": "https://www.jfstandard.jpf.go.jp/pdf/limited/3_JFS_guidebook.pdf",
+      "sha256": "f4bdf26375fff8267e1e37e5dfb481fd1f2ebcd5eb94b7f029c9268af00a9ba7",
+      "pdf_pages": 92,
+      "edition": "2017年3月初版",
+      "image_verified_page_map": {
+        "5": 9,
+        "6": 10,
+        "25": 29,
+        "26": 30,
+        "49": 53
+      },
+      "scope": "JFの理念・構成・本人による自己評価の手続き。一般的評価法の優劣や測定保証ではない。"
+    }
+  },
+  "machine_warnings": 44,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_055",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "new_warning_manual_review": "Q_4_055 P1は正答末尾の限定的否定と誤答解説内の正しい構成説明の極性検出。全4肢の内容と正誤タグ、独立正答4の一致を直接確認。検出器は変更しない。",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    22,
+    45,
+    75,
+    178,
+    220,
+    221,
+    243,
+    274,
+    275,
+    379
+  ],
+  "full_visual_qa_completed": false,
+  "changed_strings_missing_in_pdf": [],
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "6601b34aaebb1ddfc19157e58daac38eec272818edf7eddcf108749da4c5ea62",
+  "docx_sha256": "9c233672252823fd7fcc826da6fe7c2bb48b1576857551a6cbc2fab7fdd3373f",
+  "pdf_sha256": "55ac3431af1b2a250be2ba49d4bac8fca62dcad750de0712f63563e717ec8937",
+  "page_sha256": {
+    "22": "f9db22d6c3727deb461e48e6f16115ee9f108e9982f548057bd7e08321d2ca7d",
+    "45": "180557c4c9726f6ae633b8f5a8edef30fcef26ef16bf12457aebafb7ce276627",
+    "75": "2eea8ccc206a0c7470fdfde36e0dd624b872df823ff1de29f133b712a3ee43f0",
+    "178": "968ffa5289825eb908175a4626a750a8bc334c86fd51d40e5b4f2d2f53a34560",
+    "220": "be40a98d414007d773a57857ecb2856604e34dc9cceae03a44de0c236afb65b8",
+    "221": "df57e44a347429cbb5d87e56ae6cc41351278f1c9037a2d57a3cba68fc04ae3d",
+    "243": "c5576263e59a30f674589faf22f72133af3875db5449d4c81ac9af5aff533bbf",
+    "274": "8745de5c0314abe2681ee041536f42a630ffb01c78c54d903cb5fafcfce210b1",
+    "275": "f92e0b5552c7b0c096861432a30ca233cbea808f7276bb7900f2c1def9179b39",
+    "379": "8bb0fca905b5522bcc3b322037d1531ddf71aef7bf572a927abc8d88e5a10ec1"
+  },
+  "release_ready": false
+}
