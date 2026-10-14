@@ -1,0 +1,105 @@
+{
+  "batch": 78,
+  "base_commit": "6c75628d477a0c7885cd2b6ca5a8cb0a584488e2",
+  "questions": [
+    "Q_4_052",
+    "Q_4_053",
+    "Q_4_056",
+    "Q_4_057",
+    "Q_4_058",
+    "Q_4_115"
+  ],
+  "edits": 54,
+  "application_order": [
+    "tools/v9_apply_batch78.py",
+    "tools/v9_apply_batch78b.py"
+  ],
+  "status_counts": {
+    "確認済み": 192,
+    "修正必要": 71,
+    "要追加確認": 237
+  },
+  "remaining": 308,
+  "independent_answers": {
+    "Q_4_052": 2,
+    "Q_4_053": 2,
+    "Q_4_056": 1,
+    "Q_4_057": 4,
+    "Q_4_058": 2,
+    "Q_4_115": 1
+  },
+  "sources": {
+    "S142": {
+      "url": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+      "sha256": "78182353e8cd877535f6f3c8967da52d4d3af64725146c08606d38825941ac61",
+      "pdf_pages": 240,
+      "edition": "2014",
+      "image_verified_page_map": {
+        "11": 21,
+        "14": 24,
+        "33": 43,
+        "34": 44,
+        "79": 89,
+        "215": 225,
+        "217": 227,
+        "218": 228,
+        "221": 231
+      }
+    },
+    "S143": {
+      "url": "https://files.eric.ed.gov/fulltext/ED345513.pdf",
+      "sha256": "4af4472ceb0be8cdb26470462a1377e4791bcd92050188ce162b9507bb7c469f",
+      "pdf_pages": 23,
+      "edition": "1992年2月発表稿、1993年原誌とは区別",
+      "image_verified_page_map": {
+        "5": 6,
+        "6": 7,
+        "8": 9,
+        "9": 10
+      }
+    }
+  },
+  "machine_warnings": 46,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_058",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "new_warning_manual_review": "Q_4_058 P1は仮説の普遍化を否定する正答解説末尾による極性検出。全4肢と解説・タグ、独立正答2の一致を直接確認。検出器変更なし。",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    74,
+    75,
+    76,
+    98,
+    99,
+    273,
+    274,
+    275,
+    276,
+    298
+  ],
+  "full_visual_qa_completed": false,
+  "changed_strings_missing_in_pdf": [],
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_download": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/NotoSansJP%5Bwght%5D.ttf",
+  "font_sha256": "27dc06e333f44cda1405c6bf7f5684e626ad7fee3024cdbd49b53e6c287373f6",
+  "docx_sha256": "eb600beda5ecbaabfd0d492a37ca192f508c0ada073845c29e893bc1e83f1034",
+  "pdf_sha256": "abfc25d836f94f8b2e5da2052ffda40af2fa7b6767c402e7903425d300c3b70c",
+  "page_sha256": {
+    "74": "996ca412dee7a7264c8e28f0746ad818a4a6e0a3b68496bd419569bed2fe98a8",
+    "75": "cbce4264078d6c0424d912881f5457f65306cdbc314b257dcbb948156cf28aae",
+    "76": "c171074077bd51e3c23f7cb4c57056f1bd8fcb2931010b3487022238e09547ed",
+    "98": "391cd04399b6bcb06e7d461caee2ac58b1f41b613307835dee12b3c3fcfe001c",
+    "99": "6f34aa32172ab60017fc146e9db0475276d51633d591c645caeba5a1b18a9cfe",
+    "273": "bdf1070a0d5ff3f42f3c23bbadaece300f7734c53d7d56e174862b708488821e",
+    "274": "aa54b3122adffc470db784e8b1d8197174c23b9e3fe998b72e5d0256a5c38a0c",
+    "275": "9276cfd4586c929b98a7c7a781eb95dca344ae29f9d6fdf7659501c2ad633c1b",
+    "276": "7a2832bd60007404798583d80bdb43389ac4f345806ef929259e6e658a595708",
+    "298": "ef3d015fb996b9f881955bbeb1f837e5716e0a9c5631d2903ae22a971182b9b7"
+  },
+  "release_ready": false
+}
