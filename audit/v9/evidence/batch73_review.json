@@ -1,0 +1,41 @@
+{
+  "batch": 73,
+  "questions": [
+    "Q_3_021",
+    "Q_3_022"
+  ],
+  "edits": 18,
+  "source_ids": [
+    "S15"
+  ],
+  "source_scope": "掲載原著抜粋86・88〜90頁。全冊取得ではない",
+  "independent_answers": {
+    "Q_3_021": 3,
+    "Q_3_022": 2
+  },
+  "machine_warnings": 43,
+  "manual_false_positive": "Q_3_022 P1：正答の習得保証を否定する限定は正誤と矛盾しない",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    46,
+    47,
+    244,
+    245,
+    246
+  ],
+  "full_visual_qa_completed": false,
+  "docx_sha256": "7bb26e518b8eaea7aba1752ba25ca93a4ad9fef692c9e1ab3dc3b95fe5d6a980",
+  "page_sha256": {
+    "46": "54f4e00a84d8d7659a2eed8eec3a8949956b9673305d8f74925c82e8970d9337",
+    "47": "52034736df3e90879de6b326af329e259a42a7302f4a66584323b9c1b2a449c9",
+    "244": "4da3d124f3b99681e9040b5b0e281863b502a1cd1625cb7839fd65150334e129",
+    "245": "a15a0f3ba17a72ed12e76d61066c0870513e5d16c2af54bb4147e92212b87801",
+    "246": "109a951cd05df650e74ddfbe21c0f44cfc2dfc79582fe741007f643ce42391c6"
+  },
+  "unresolved": [
+    "全残件329問",
+    "全頁最終QA",
+    "Q_3_012・013の本文取得・判定"
+  ]
+}
