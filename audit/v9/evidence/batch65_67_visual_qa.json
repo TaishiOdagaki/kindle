@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-14",
+  "base_head": "2b3202f64b75537f8ca7a0e6f68804b37728b0e4",
+  "batches": [
+    65,
+    66,
+    67
+  ],
+  "questions": [
+    "Q_M_033",
+    "Q_4_005",
+    "Q_M_035",
+    "Q_5_105",
+    "Q_5_004"
+  ],
+  "new_edits": 34,
+  "confirmed": 157,
+  "remaining": 343,
+  "page_count": 402,
+  "checked_pages": [
+    57,
+    107,
+    142,
+    179,
+    180,
+    255,
+    307,
+    344,
+    345,
+    381,
+    382,
+    383
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "docx_sha256": "2ffecb18a1eccc012136fec5e282e5d0aa8fcbd821fd7ad4a9106cc6d37fc90f",
+  "font": "Noto Sans JP Static Regular 400",
+  "font_sha256": "af84d3b8c0664fc01ed48abd5f39db7b2c6be322e682d2b4e436f27a7d20923d",
+  "page_sha256": {
+    "57": "a2660a9d2a2d3312dfae861e9257aea8548805e68a6f976838419b2b75f0d974",
+    "107": "428616ae33777a4d86233efbd831854977e14c8bf4cebf8848ff9034858577b7",
+    "142": "77816e6a806426fc98677dc7fdc9df0108e4458587aa5180a9d044271a3ef67f",
+    "179": "3bb549476ab0679aba2f1760443f44be0e40a7cb9833ae0ddc7106539b3673f0",
+    "180": "474a7c39ec7f73b798c87ec738f7d5e05f23dddb64f696cea114dff055d17992",
+    "255": "5fb037de8aafcf4c2949b3f66761fa05f8a53b6c5e44bac279d913453a75badd",
+    "307": "c68c6d7599b20135d0cadfa56f6916e7b5148b67040cf4579bda1a84fa587ead",
+    "344": "97945363375efc57fc78c2e4758941b31ee377218b54f7c48b65e684c75d613f",
+    "345": "3295627f9592d54ec38f24b9f82f30330e5081276a10fa160fbd4b67a0f7f0ac",
+    "381": "74e8023b75aa17daba23199bb07963b660e125c9307fe3eb3aaa79861d00be70",
+    "382": "23ec489f53bdfdf8022aff6c13180f7fc1cb8dee0147b76db3187da6ad6a0992",
+    "383": "71bf1217811ac7d72d7d0c9db9d01a3446563c21d567c2c0cbf27abf2e32702f"
+  },
+  "unchanged_previously_viewed_pages": [
+    57,
+    179,
+    180,
+    255,
+    381,
+    382,
+    383
+  ],
+  "visual_findings": "日本語欠字・重なり・切れなし。段落の頁分断は最終整形で見直す。",
+  "machine_new_flags_disposition": {
+    "Q_4_005 P1": "一般化防止の末尾留保を検出。全4肢・タグ照合で誤検出。",
+    "Q_5_105 P1": "最適性の留保を検出。全4肢・タグ照合で誤検出。"
+  }
+}

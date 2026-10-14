@@ -1,0 +1,91 @@
+[
+  {
+    "id": "Q_5_105",
+    "field": "stem",
+    "index": null,
+    "before": "異文化間コンフリクトの対処スタイル（Thomas-Kilmannのコンフリクト対処モデル等）に関する記述として、最も適切なものはどれか。",
+    "after": "Thomas–Kilmannのコンフリクト対処モデルについて、共同開発者Kilmannの公開解説に合う記述を一つ選べ。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿"
+  },
+  {
+    "id": "Q_5_105",
+    "field": "options",
+    "index": 0,
+    "before": "「統合・協働」スタイルとは、自身の関心（自己主張）と相手の関心（他者配慮）の双方を高い次元で満たすために、対話を通じて創造的な解決策を探るスタイルである。",
+    "after": "「協働（collaborating）」は、自分の関心と相手の関心の双方を満たす解決策を、相手とともに探ろうとする対処様式である。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿",
+    "stem_context": "Thomas–Kilmannのコンフリクト対処モデルについて、共同開発者Kilmannの公開解説に合う記述を一つ選べ。"
+  },
+  {
+    "id": "Q_5_105",
+    "field": "explanations",
+    "index": 0,
+    "before": "「統合・協働」は、自己主張と他者配慮の双方度数が高く、双方の真のニーズを満たす相乗効果（シナジー）のある解決策を模索する最も積極的なコンフリクト管理スタイルです。",
+    "after": "協働は、自己主張と協力性の両面が高い様式です。双方の関心を十分に満たす解決策を探ります。ただし、あらゆる状況で最適という意味ではありません。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_5_105",
+    "field": "explanations",
+    "index": 1,
+    "before": "「回避」は、問題が軽微である場合や感情が高ぶっている一時的な冷却期間としては有効に機能することもあり、「あらゆる場面で常に最悪」と断定することはできません。",
+    "after": "回避は、自分と相手の関心を直接追求せず、問題を先送りしたり距離を置いたりする様式です。Kilmannは状況に応じて様式を選ぶと説明しており、回避が常に最悪とはしていません。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_5_105",
+    "field": "explanations",
+    "index": 2,
+    "before": "説明文は「競争・強制」スタイルの説明です。「受容・適応」は、自分の主張を抑えて相手のニーズや要求を優先・受け入れるスタイルです。",
+    "after": "受容・適応（accommodating）は、自分の関心を抑えて相手の関心を満たそうとする様式です。自分の主張を押し通すという肢の説明は逆です。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_5_105",
+    "field": "explanations",
+    "index": 3,
+    "before": "説明文は「競争・強制」スタイルの説明です。「妥協」は、双方が互いに要求の一部を譲り合って中間点で折り合いをつけるスタイルです。",
+    "after": "妥協（compromising）は、双方の関心を部分的に満たす受け入れ可能な解決を探る様式です。一方の完全勝利を目指すという肢の説明とは異なります。",
+    "reason": "統合と協働の用語混用を避けThomas–Kilmannのcollaboratingに統一し、協働を無条件に最善とする含みを除去。",
+    "sources": [
+      "S129",
+      "S130"
+    ],
+    "applied": true,
+    "before_version": "第65バッチ反映後の累積作業稿",
+    "paragraph_prefix": "4（誤）"
+  }
+]
