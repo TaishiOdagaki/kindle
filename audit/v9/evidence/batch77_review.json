@@ -1,0 +1,70 @@
+{
+  "batch": 77,
+  "base_commit": "1ca62f9ffb23557d999b355f729d31eac2830fd0",
+  "questions": [
+    "Q_1_041",
+    "Q_4_050",
+    "Q_O_009"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 186,
+    "修正必要": 73,
+    "要追加確認": 241
+  },
+  "remaining": 314,
+  "independent_answers": {
+    "Q_1_041": 3,
+    "Q_4_050": 4,
+    "Q_O_009": 4
+  },
+  "sources": {
+    "S141": {
+      "url": "https://www.jfstandard.jpf.go.jp/pdf/limited/3_JFS_guidebook.pdf",
+      "sha256": "f4bdf26375fff8267e1e37e5dfb481fd1f2ebcd5eb94b7f029c9268af00a9ba7",
+      "pdf_pages": 92,
+      "edition": "2017年3月初版",
+      "image_verified_page_map": {
+        "14": 18,
+        "18": 22,
+        "19": 23,
+        "49": 53
+      },
+      "scope": "Can-doの例示性・利用上の留意点・CEFR/JFの役割・学習と評価内容の共有。現行サイト情報や効果の因果保証ではない。"
+    }
+  },
+  "machine_warnings": 45,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_O_009",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "new_warning_manual_review": "Q_O_009 P1は正答末尾の保証の否定と誤答解説中の正しい手続きの極性検出。全4肢とタグ・独立正答4は一致。検出器は変更しない。",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    22,
+    73,
+    145,
+    221,
+    272,
+    346
+  ],
+  "full_visual_qa_completed": false,
+  "changed_strings_missing_in_pdf": [],
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "81b6a932cc2a47d1a23b7dee3fbc921e45eacdb59e93c80896135e532bd5df6c",
+  "docx_sha256": "889658167732c14b7ab63c9fe873e9d696c18cfa583aa41d65a80e9eb3b3514b",
+  "pdf_sha256": "61eb0d6593ce270c17aafbac34a22f8a0047bb18a06eae73ae2043d3e48c7b17",
+  "page_sha256": {
+    "22": "6daa481192921e43198f16b77aefc4eed124e71d6445b8c44edf7d61422c4494",
+    "73": "706a8c37245c0df1ea8f9169476132a96884010078bf1afafa2fd64128834bcd",
+    "145": "cf16c6fa9fea45b017a23795d4c7fa1d503dbcba554a8f0a9b7be6570982403d",
+    "221": "89b09b8d618e8fb31003847511d90c7f6419aaab500c5084b91254b6c96b14b7",
+    "272": "c5c803f95c9fb3d2e20fa7ebc74e10197ea64abf4c5b17685a5004c815329de1",
+    "346": "bd7e896266f4775a3f0ad5aa9570fd0bb5449352c56959240d5e5e6d0fb753a6"
+  },
+  "release_ready": false
+}
