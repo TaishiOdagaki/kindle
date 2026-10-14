@@ -321,3 +321,12 @@ S142の印刷頁にはPDF通し頁で10を加える（例：79頁＝PDF89頁）�
 Jack C. Richards（2006）[Communicative Language Teaching Today 著者公開52頁冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)を再取得。印刷18頁の鉄道案内での情報差、20〜21頁の真正性をめぐる賛否、31頁のタスクの特徴と教室用タスクを全文・画像照合した。印刷頁とPDF頁は18→22、20→24、21→25、31→35。対象Q_4_042・044・045。PDFのSHA256はevidence/batch80_review.jsonに記録。
 
 2006年の本人による説明・議論の紹介を根拠とし、引用されるClarke/Silberstein1977やWiddowson1987、Littlewood1981の原著取得とは扱わない。Q_4_042・045は監査で作った架空の適用案で、初級・中級日本語授業の効果を実証した事例ではない。生教材の普遍的優越、音読や文法抽出の全面否定、自治体の実在規則は承認範囲に含めない。
+
+
+## 第81バッチの追加資料（2026-10-15）
+
+| ID | 資料 | 照合範囲 | 取得段階と限界 | 対象 |
+|---|---|---|---|---|
+| S145 | Jane Willis [From priming tasks and target tasks to language focus and grammar](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/priming-tasks-and-target-tasks-language-focus-and)、British Council TeachingEnglish。取得用の同一記事URL https://www.teachingenglish.org.uk/comment/1307 | Use the book but change the order、Pre-task/Priming、Task Cycle: Task - planning - report、Focus on Form: At the end of the task cycle。本人署名も確認 | HTML本文を直接取得し全記事を精読。刊年は未表示として扱い、コメント・クロール日を刊年にしない。提唱者本人の公開説明に限定し、1996年書籍全体・Prabhu原著・別の教材分類体系まで承認しない。Q_4_046は架空の適用案。 | Q_4_036・046 |
+
+S144追加照合：著者公開52頁冊子の印刷18頁（PDF22頁）の説明と絵の差異探索例を本文・画像で再確認し、Q_4_040の全4肢・4解説に適用。全員が同じ文章を持つことだけであらゆる情報差を否定せず、今回の活動案に未知情報の取得課題がないことを明示。復唱をシャドーイングと同一視せず、情報差から長期習得効果を断定しない。資料のURL・ハッシュと取得範囲はevidence/batch81_review.jsonにも記録し、全文はリポジトリへ転載しない。

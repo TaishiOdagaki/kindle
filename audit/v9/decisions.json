@@ -3018,22 +3018,25 @@
     "fixes_applied": true
   },
   "Q_4_036": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 1,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "全4肢を指定した本文と明示条件で独立判定。Q_4_036は本人の公開記事を指定、Q_4_040は見せない絵と情報取得を明示、Q_4_046は再配列の操作的定義を明示し架空案を判定。",
+    "explanation_review": "全4解説を照合。S145はJane Willis署名の著者記事本文のUse the book but change the order、Pre-task/Priming、Task Cycle、Focus on Form節。1996年書籍全体やPrabhu原著は未取得で一括承認しない。S144は52頁冊子の印刷18頁を本文・画像照合。言語指導の普遍的優劣、信頼度や長期習得効果の保証は含めない。",
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "正：サイクル後の形式学習という本人の提案に一致",
+      "誤：準備段階を暗唱完成までの新形式産出強制と取り違える",
+      "誤：Planningでの辞書・教師相談・表現改善を禁止し本文と逆",
+      "誤：Reportでの正確さへの注意を排除し本文と逆"
     ],
-    "reason": "WillisとPrabhuの枠組みが混在。Language Focusを含む手順はモデル名を指定する。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "Willis本人の記事の段階別の提案、又はRichards本人の情報差の説明へ限定。モデル混在、サイクル中の形式注意禁止、復唱とシャドーイングの同一視、未照合の分類体系と効果保証を除く。",
+    "sources": [
+      "S145"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：明示した条件と出典に対応する選択肢は一つ",
+    "no_correct_risk": "なし：独立正答1",
+    "fixes_applied": true
   },
   "Q_4_037": {
     "status": "要追加確認",
@@ -3093,22 +3096,25 @@
     "fixes_applied": true
   },
   "Q_4_040": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "全4肢を指定した本文と明示条件で独立判定。Q_4_036は本人の公開記事を指定、Q_4_040は見せない絵と情報取得を明示、Q_4_046は再配列の操作的定義を明示し架空案を判定。",
+    "explanation_review": "全4解説を照合。S145はJane Willis署名の著者記事本文のUse the book but change the order、Pre-task/Priming、Task Cycle、Focus on Form節。1996年書籍全体やPrabhu原著は未取得で一括承認しない。S144は52頁冊子の印刷18頁を本文・画像照合。言語指導の普遍的優劣、信頼度や長期習得効果の保証は含めない。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "誤：共有済み情報の復唱だけで未知情報の取得なし",
+      "正：互いに見えない絵の情報差を質問と応答で埋める",
+      "誤：情報差の課題を含めない条件を明記",
+      "誤：個人の書換えに限定し相手からの情報取得なし"
     ],
-    "reason": "教師の後で繰り返す復唱をシャドーイングと同一視する解説1を修正する。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "Willis本人の記事の段階別の提案、又はRichards本人の情報差の説明へ限定。モデル混在、サイクル中の形式注意禁止、復唱とシャドーイングの同一視、未照合の分類体系と効果保証を除く。",
+    "sources": [
+      "S144"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：明示した条件と出典に対応する選択肢は一つ",
+    "no_correct_risk": "なし：独立正答2",
+    "fixes_applied": true
   },
   "Q_4_041": {
     "status": "要追加確認",
@@ -3212,22 +3218,25 @@
     "fixes_applied": true
   },
   "Q_4_046": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 4,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "全4肢を指定した本文と明示条件で独立判定。Q_4_036は本人の公開記事を指定、Q_4_040は見せない絵と情報取得を明示、Q_4_046は再配列の操作的定義を明示し架空案を判定。",
+    "explanation_review": "全4解説を照合。S145はJane Willis署名の著者記事本文のUse the book but change the order、Pre-task/Priming、Task Cycle、Focus on Form節。1996年書籍全体やPrabhu原著は未取得で一括承認しない。S144は52頁冊子の印刷18頁を本文・画像照合。言語指導の普遍的優劣、信頼度や長期習得効果の保証は含めない。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "適切な対応：準備課題の実施位置を変更",
+      "適切な対応：準備をタスクと報告の間へ移動",
+      "適切な対応：文法部分をタスクの後へ移動",
+      "不適切な対応：部数だけの変更で実施順の変更なし"
     ],
-    "reason": "選択肢2の加除と解説の加除が不一致。教材アダプテーションの分類体系も照合する。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "Willis本人の記事の段階別の提案、又はRichards本人の情報差の説明へ限定。モデル混在、サイクル中の形式注意禁止、復唱とシャドーイングの同一視、未照合の分類体系と効果保証を除く。",
+    "sources": [
+      "S145"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：明示した条件と出典に対応する選択肢は一つ",
+    "no_correct_risk": "なし：独立正答4",
+    "fixes_applied": true
   },
   "Q_4_047": {
     "status": "修正必要",

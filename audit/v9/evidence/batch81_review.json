@@ -1,0 +1,158 @@
+{
+  "batch": 81,
+  "base_commit": "3ec0f6337c5d3366f042d82ccfe77c84087a3e2c",
+  "questions": [
+    "Q_4_036",
+    "Q_4_040",
+    "Q_4_046"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 203,
+    "修正必要": 63,
+    "要追加確認": 234
+  },
+  "remaining": 297,
+  "independent_answers": {
+    "Q_4_036": 1,
+    "Q_4_040": 2,
+    "Q_4_046": 4
+  },
+  "sources": {
+    "S145": {
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/priming-tasks-and-target-tasks-language-focus-and",
+      "retrieval_url": "https://www.teachingenglish.org.uk/comment/1307",
+      "html_sha256": "4282ee68cab9e48d0093467aceea249fecc318ce7ced6ac69729b158bd0aafcb",
+      "author": "Jane Willis 本文署名を確認",
+      "publication_year": null,
+      "scope": "本人記事の本文全体を精読。コメントを根拠にしない。1996年書籍全体未取得。"
+    },
+    "S144": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+      "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+      "pdf_pages": 52,
+      "image_verified_page_map": {
+        "18": 22
+      }
+    }
+  },
+  "machine_warnings": 52,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_040",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 3, 4]"
+    ]
+  ],
+  "new_warning_manual_review": "Q_4_040 P1は習得効果の保証を否定する正答2の末尾による。4肢・4解説・タグを再確認。",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    68,
+    69,
+    70,
+    72,
+    266,
+    268,
+    270,
+    271
+  ],
+  "full_visual_qa_completed": false,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_036', 'stem', None)": [
+      68
+    ],
+    "('Q_4_036', 'options', 0)": [
+      68
+    ],
+    "('Q_4_036', 'options', 1)": [
+      68
+    ],
+    "('Q_4_036', 'options', 2)": [
+      68
+    ],
+    "('Q_4_036', 'options', 3)": [
+      68
+    ],
+    "('Q_4_036', 'explanations', 0)": [
+      266
+    ],
+    "('Q_4_036', 'explanations', 1)": [
+      266
+    ],
+    "('Q_4_036', 'explanations', 2)": [
+      266
+    ],
+    "('Q_4_036', 'explanations', 3)": [
+      266
+    ],
+    "('Q_4_040', 'stem', None)": [
+      69
+    ],
+    "('Q_4_040', 'options', 0)": [
+      69
+    ],
+    "('Q_4_040', 'options', 1)": [
+      69
+    ],
+    "('Q_4_040', 'options', 2)": [
+      70
+    ],
+    "('Q_4_040', 'options', 3)": [
+      70
+    ],
+    "('Q_4_040', 'explanations', 0)": [
+      268
+    ],
+    "('Q_4_040', 'explanations', 1)": [
+      268
+    ],
+    "('Q_4_040', 'explanations', 2)": [
+      268
+    ],
+    "('Q_4_040', 'explanations', 3)": [
+      268
+    ],
+    "('Q_4_046', 'stem', None)": [
+      72
+    ],
+    "('Q_4_046', 'options', 0)": [
+      72
+    ],
+    "('Q_4_046', 'options', 1)": [
+      72
+    ],
+    "('Q_4_046', 'options', 2)": [
+      72
+    ],
+    "('Q_4_046', 'options', 3)": [
+      72
+    ],
+    "('Q_4_046', 'explanations', 0)": [
+      270
+    ],
+    "('Q_4_046', 'explanations', 1)": [
+      270
+    ],
+    "('Q_4_046', 'explanations', 2)": [
+      270
+    ],
+    "('Q_4_046', 'explanations', 3)": [
+      271
+    ]
+  },
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "ddcfe0d4f61d1190f802874fb3213b07da73b151c6a520ed43ec381bfceda529",
+  "pdf_sha256": "0db37b536c2f3be5885da66fc1f43f3125761903b6723afa802bf1bd51685ceb",
+  "page_sha256": {
+    "68": "5534acf79a9c0d478ed9a7c589dba669bd2414e24fe3978542f7b7cfe78451a7",
+    "69": "918fd58472d162df2fab3ac2617f288fa37037f0fcad461d1c06bdb9ebde6484",
+    "70": "f64dc320fb740fddda6064b1c291f014ee227e840f04c43653104b7625f98cca",
+    "72": "940937884d163a1aacfb2b48424427fd023ef78d52ceb121d749445d22a32630",
+    "266": "007c63e6253657eee60ae90ace6564a618d865138b734d8b69a51a319be5b052",
+    "268": "a70b6c3cf57a2c2d859df034c4036b65cb4df76149d9df2361c03c2dd5533aa8",
+    "270": "d45783b9c8961c4565ca257df00db90116336142c19efbfa50834d5edea8f8bd",
+    "271": "24d8b24b444b0ad3ac6787dbef90765ffe77305cd053f651e1c5936a47b9eadd"
+  },
+  "release_ready": false
+}
