@@ -1,0 +1,69 @@
+{
+  "batch": 75,
+  "base_commit": "a38534bacb1fbbdab9caf4678fcea80043f77f85",
+  "questions": [
+    "Q_3_015",
+    "Q_3_016",
+    "Q_3_017",
+    "Q_4_072"
+  ],
+  "edits": 35,
+  "status_counts": {
+    "確認済み": 179,
+    "修正必要": 73,
+    "要追加確認": 248
+  },
+  "remaining": 321,
+  "independent_answers": {
+    "Q_3_015": 3,
+    "Q_3_016": 1,
+    "Q_3_017": 4,
+    "Q_4_072": 3
+  },
+  "sources": {
+    "S140": {
+      "url": "https://files.eric.ed.gov/fulltext/ED321549.pdf",
+      "sha256": "9882557e7381e207e428b7c639a851bf68c6a0a29dac6fe033d1dea7b2404625",
+      "pdf_pages": 130,
+      "edition": "1988 revised collection, not 1972 journal original",
+      "image_verified_page_map": {
+        "27": 31,
+        "28": 32,
+        "29": 33,
+        "75": 79,
+        "76": 80,
+        "77": 81
+      },
+      "scope": "別体系・過程の区別・観察された安定と永久性の区別。日本語事例は本書の架空の観察例。"
+    }
+  },
+  "machine_warnings": 43,
+  "new_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    44,
+    45,
+    82,
+    242,
+    243,
+    281,
+    282
+  ],
+  "full_visual_qa_completed": false,
+  "changed_strings_missing_in_pdf": [],
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "90623d285aed673ebaad6bd7d673336bdbfd10dc5bc3193b0c505a66bdc3deea",
+  "docx_sha256": "3e57f334c641bad2c54160b56c15cb65f48f6eeb2e45dd904b1f7729412addb8",
+  "pdf_sha256": "b564a5c868635ab137626a3143870589acfbf53838cfbb1a2990a24f584eab68",
+  "page_sha256": {
+    "44": "f01c23e62d57002ddedbd3810ebb46a99caeedd9da90ac0cce411bc61edc624e",
+    "45": "5c29e048cd7920053f1dbe2f0df09f9f91f197806f5703d5e7c94992d0f7834d",
+    "82": "26db69058ca23b2f6f517c7b531f5ad9b3e47fa593ca7707bd761565e0edabb2",
+    "242": "df80b4ecb2bf590492e638b7eeb205dc7cd1fbbdb73df039fb5b201bd6ea6897",
+    "243": "f3147642ebaa0c9bea001d99a82167c9d33688e43be9931d423986c9b49031c0",
+    "281": "8442ed18db31c915fdedb5f7d30be95cc390a10c1ae393945be146a491ba829f",
+    "282": "77f78d135bd96dfe3ef7403b557bafcb675b86eeb3d56cc3783742c775c3362a"
+  },
+  "release_ready": false
+}

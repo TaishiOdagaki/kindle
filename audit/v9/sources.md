@@ -264,3 +264,12 @@ Baddeley（2000）追加候補 https://www2.psychology.uiowa.edu/faculty/holling
 | S139 | Larry R. Squire（2004）[Memory systems of the brain A brief history and current perspective 著者所属大学公開PDF](https://whoville.ucsd.edu/PDFs/384_Squire_%20NeurobiolLearnMem2004.pdf)、Neurobiology of Learning and Memory82,171–177、DOI10.1016/j.nlm.2004.06.005 | 172頁の単語補完課題と想起教示、173頁の図1、174頁の意味・エピソード記憶の区別 | 全7頁本文取得、172〜174頁画像照合。著者本人の理論的整理。語の先行提示の意識と検索時の意識を混同せず、社会的プライミング等の全類型を一括承認しない。 | Q_3_014 |
 
 S16のBaddeley（2000）は依然抄録段階。今回のS138取得で2000年本文も取得したことにはしない。台帳の原文はv8スナップショットであり、改訂本文はchanges.jsonと累積作業稿を参照する。
+
+
+## 第75バッチの取得資料（2026-10-14）
+
+| ID | 資料・URL | 照合箇所 | 取得段階と限界 | 対象 |
+|---|---|---|---|---|
+| S140 | Larry Selinker（1988）[Papers in Interlanguage ERIC公開PDF](https://files.eric.ed.gov/fulltext/ED321549.pdf)、[ERIC書誌ED321549](https://eric.ed.gov/?id=ED321549)、SEAMEO Regional Language Centre Occasional Papers44 | 第3章の印刷27〜29頁：学習者の発話から仮定する別体系、五つの過程、再出現。第5章末の印刷75頁：観察された安定と永久的化石化の見極め。第6章冒頭の印刷76〜77頁：体系的発達停止という一般的定義と、初期提案・仮説・研究課題の整理 | 全130頁PDF取得、上記6頁を画像精読。1988年の本人改訂論集で、序文は収録論文を改訂したと明記。1972年原誌本文そのものを取得したとは扱わない。第6章の原版はLamendella共著1978年論文で、今回使用したのは1988年改訂版。先天構造、成功者5％、全学習者への必然性などは承認範囲外。 | Q_3_015・016・017、Q_4_072 |
+
+PDFには本文上部の印刷頁に加え、下部にERICの通し頁がある。例：PDF79頁は印刷75頁。OCRが下部の79・80を本文頁として抽出することがあるため、今回の頁指定は版面上部で検証した。台帳原文はv8スナップショットであり、改訂はchanges.jsonと累積作業稿を参照する。
