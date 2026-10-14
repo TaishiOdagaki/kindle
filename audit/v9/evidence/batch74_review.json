@@ -1,0 +1,90 @@
+{
+  "batch": 74,
+  "base_commit": "dcb9598a8f5557ce372f674d5b07bfb54db393cd",
+  "questions": [
+    "Q_3_012",
+    "Q_3_013",
+    "Q_3_014",
+    "Q_M_015"
+  ],
+  "edits": 35,
+  "status_counts": {
+    "確認済み": 175,
+    "修正必要": 74,
+    "要追加確認": 251
+  },
+  "remaining": 325,
+  "independent_answers": {
+    "Q_3_012": 1,
+    "Q_3_013": 4,
+    "Q_3_014": 3,
+    "Q_M_015": 2
+  },
+  "sources": {
+    "S138": {
+      "url": "https://jontalle.web.engr.illinois.edu/MISC/ReadingGroup.11/Papers/Baddeley-WorkingMemory.12.pdf",
+      "sha256": "1e86885a1a304bb70d058c7d892339cf54e30880ee887ba4dca430f4527050df",
+      "pdf_pages": 33,
+      "reviewed_print_pages": [
+        4,
+        6,
+        7,
+        13,
+        14,
+        15
+      ],
+      "images_reviewed": [
+        6,
+        7,
+        13,
+        14,
+        15
+      ]
+    },
+    "S139": {
+      "url": "https://whoville.ucsd.edu/PDFs/384_Squire_%20NeurobiolLearnMem2004.pdf",
+      "sha256": "659135fbc52c30d02d64fffad6635bd2adcda34ba56fe1432990ea0b9c46661e",
+      "pdf_pages": 7,
+      "reviewed_print_pages": [
+        172,
+        173,
+        174
+      ],
+      "images_reviewed": [
+        172,
+        173,
+        174
+      ]
+    }
+  },
+  "machine_warnings": 44,
+  "manual_false_positive": "Q_M_015 S2：何と呼ぶかは正常な問い。正答2・全4肢・全4解説を照合。",
+  "readiness_test": "8 cases passed",
+  "rebuild_regression": "dcb9598 document.xml byte-identical",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    43,
+    44,
+    173,
+    241,
+    242,
+    374,
+    375
+  ],
+  "full_visual_qa_completed": false,
+  "changed_strings_missing_in_pdf": [],
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "458af0366289300279dc1365dfe23cae386973023aaac9d43988a04c9688b4b0",
+  "docx_sha256": "2f37eefa42335c3dd55dd108f37268010b8b805f46c74083fa6d37a4d968c9fb",
+  "pdf_sha256": "d6ee1c6b91cb4f210a4948e8c479dd770e7e2441cd56d2f6c1c3c9de439edbbb",
+  "page_sha256": {
+    "43": "210b67e1c4e104ead699c450da2e268cecc19961d88e1d09596f3497983d38a4",
+    "44": "12f19c594d8c337a6c07bad63e091b911f6803c5227686aa9d509b67d9a5902c",
+    "173": "d412c59e5a0a26f6ad56fd72e0e97a36468faf5e092ccb2164ffdc3489a5af4c",
+    "241": "dca18b5c39288a0e993938a9e379c9ba8b8a58a10d41e9ce2b00c239bd10614f",
+    "242": "2bfac1bc4cd1e487abde69624eed9663df514deee888d37d68b79aafa3be22a9",
+    "374": "a738d9c196de71a5aba0d5cc25fe563af5fe68a283cd2269bcd7d210948666c3",
+    "375": "5d4f5c5eafa5c16a53234108859e6677d4665fb4fd72bdfa8aa161ce2253ea44"
+  },
+  "release_ready": false
+}

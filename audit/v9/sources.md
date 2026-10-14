@@ -254,3 +254,13 @@ S17追加照合（第71バッチ）：表紙付き全9頁原著PDFを再取得�
 ### 第73バッチ S15再照合（2026-10-14）
 New Learning掲載のVygotsky（1978）原著抜粋の本文を再取得。86頁の独力／成人の指導・より有能な仲間との協働による水準差、88〜90頁の学習と発達の区別をQ_3_021・022の全4肢・全4解説へ照合。原著全冊を取得したとは扱わない。日本語作文の例は定義の適用例であり、個別教授法の効果を実証した事例とはしない。復習一般の無効、支援の必然的効果、常時変化は承認範囲から外す。
 Baddeley（2000）追加候補 https://www2.psychology.uiowa.edu/faculty/hollingworth/prosem/Baddeley_2000.pdf は404。本文未取得としてS16の承認範囲は拡大しない。
+
+
+## 第74バッチの取得資料（2026-10-14）
+
+| ID | 資料・URL | 照合箇所 | 取得段階・限界 | 対象 |
+|---|---|---|---|---|
+| S138 | Alan Baddeley（2012）[Working Memory Theories Models and Controversies 大学教材公開PDF](https://jontalle.web.engr.illinois.edu/MISC/ReadingGroup.11/Papers/Baddeley-WorkingMemory.12.pdf)、Annual Review of Psychology 63,1–29、DOI10.1146/annurev-psych-120710-100422 | 4頁の保持と操作の区別、6頁の二重課題とモデル形成、7頁の枠組みと音韻ループ、13〜15頁の視空間・注意・第4成分への経緯 | 全33頁PDF取得。6・7・13〜15頁画像精読。提唱者自身による2012年の説明という一次資料。1974年章や2000年論文本体の全文取得とはしない。L2習熟度別・聴解対読解の一律の因果比較へ拡大しない。 | Q_3_012・013、Q_M_015 |
+| S139 | Larry R. Squire（2004）[Memory systems of the brain A brief history and current perspective 著者所属大学公開PDF](https://whoville.ucsd.edu/PDFs/384_Squire_%20NeurobiolLearnMem2004.pdf)、Neurobiology of Learning and Memory82,171–177、DOI10.1016/j.nlm.2004.06.005 | 172頁の単語補完課題と想起教示、173頁の図1、174頁の意味・エピソード記憶の区別 | 全7頁本文取得、172〜174頁画像照合。著者本人の理論的整理。語の先行提示の意識と検索時の意識を混同せず、社会的プライミング等の全類型を一括承認しない。 | Q_3_014 |
+
+S16のBaddeley（2000）は依然抄録段階。今回のS138取得で2000年本文も取得したことにはしない。台帳の原文はv8スナップショットであり、改訂本文はchanges.jsonと累積作業稿を参照する。

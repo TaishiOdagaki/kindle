@@ -3,6 +3,7 @@
 import hashlib,html,json,zipfile,os,tempfile
 from pathlib import Path
 from docx import Document
+from docx.oxml.ns import qn
 import v9_apply_batch1 as b
 import quiz_audit as qa
 cs=json.loads((b.OUT/'changes.json').read_text())
@@ -13,6 +14,13 @@ doc=Document(b.SRC)
 # identical, and changed text is refreshed immediately after each operation.
 paragraphs=list(doc.paragraphs)
 texts=[p.text for p in paragraphs]
+block_contexts=[]
+current_block=None
+for p in paragraphs:
+ for bm in p._element.iter(qn('w:bookmarkStart')):
+  name=bm.get(qn('w:name'),'')
+  if name.startswith(('Q_','A_')):current_block=name
+ block_contexts.append(current_block)
 for c in cs:
  old=html.unescape(c['before']);matches=[i for i,t in enumerate(texts) if t is not None and old in t]
  if c['field']=='options':
@@ -21,6 +29,8 @@ for c in cs:
    matches=[i for i in matches if [t for t in texts[:i] if t is not None][-c['index']-1]==c['stem_context']]
  if c.get('paragraph_prefix'):
   matches=[i for i in matches if texts[i].startswith(c['paragraph_prefix'])]
+ if c.get('block_context'):
+  matches=[i for i in matches if block_contexts[i]==c['block_context']]
  if c.get('previous_paragraph'):
   matches=[i for i in matches if [t for t in texts[:i] if t is not None][-1:]==[c['previous_paragraph']]]
  assert len(matches)==c.get('count',1),(c['id'],c['field'],len(matches))
