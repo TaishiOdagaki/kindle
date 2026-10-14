@@ -1,0 +1,11 @@
+{
+  "id": "Q_M_034",
+  "revision_applied": true,
+  "checked_pages": [181, 383, 384],
+  "rendered_pages": 402,
+  "font": "Noto Sans JP Static Regular weight 400",
+  "render": "Temporary QA copy with font substitution; repository DOCX styling preserved",
+  "result": "設問と全4肢、正解4、全4解説の対応を画像確認。日本語の欠字・切れ・重なりなし。",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

@@ -17,6 +17,10 @@ for c in cs:
  old=html.unescape(c['before']);matches=[i for i,t in enumerate(texts) if t is not None and old in t]
  if c['field']=='options':
   matches=[i for i in matches if texts[i]==str(c['index']+1)+'. '+old]
+  if c.get('stem_context'):
+   matches=[i for i in matches if texts[i-c['index']-1]==c['stem_context']]
+ if c.get('paragraph_prefix'):
+  matches=[i for i in matches if texts[i].startswith(c['paragraph_prefix'])]
  assert len(matches)==c.get('count',1),(c['id'],c['field'],len(matches))
  for i in matches:
   p=paragraphs[i]
