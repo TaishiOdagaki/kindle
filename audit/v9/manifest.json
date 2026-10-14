@@ -6,10 +6,12 @@
   "answers": 500,
   "content_reviewed": 500,
   "status_counts": {
-    "確認済み": 157,
-    "修正必要": 81,
-    "要追加確認": 262
+    "確認済み": 161,
+    "修正必要": 80,
+    "要追加確認": 259
   },
   "v5_v6_priority_questions": 278,
-  "release_ready": false
+  "release_ready": false,
+  "academic_audit_complete": false,
+  "full_visual_qa_completed": false
 }

@@ -12,6 +12,13 @@ SRC = ROOT / '登録日本語教員試験決定版問題集_v8_修正版.docx'
 def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
+def release_ready(ledger, machine):
+    """Academic approval alone must never bypass final machine and visual QA."""
+    return (len(ledger) == 500 and all(r['status'] == '確認済み' for r in ledger)
+            and machine.get('questions') == machine.get('answers') == 500
+            and machine.get('full_visual_qa_completed') is True
+            and machine.get('release_ready') is True)
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     issues, qs, answers = qa.audit(str(SRC))
@@ -47,9 +54,15 @@ def main():
         fields=['id','status','content_reviewed','priority','original_answer','independent_answer','stem','options','explanations','option_verdicts','reason','sources','unresolved','historical_changed_options']
         w=csv.DictWriter(f, fieldnames=fields); w.writeheader()
         for r in ledger: w.writerow({k: json.dumps(r[k],ensure_ascii=False) if isinstance(r[k],(dict,list)) else r[k] for k in fields})
-    (OUT/'ledger.md').write_text('# 全500問監査台帳\n\n「要追加確認」は未精読を含む。構造検査と学術的な確認を区別する。全文と選択肢別判定は ledger.json / ledger.csv を参照。\n\n| 問題ID | 判定 | 内容精読 | 優先度 | 所見 |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | {r['status']} | {'済' if r['content_reviewed'] else '未'} | {r['priority']} | {r['reason'].replace('|','／')} |\n" for r in ledger))
+    reviewed = sum(r['content_reviewed'] for r in ledger)
+    (OUT/'ledger.md').write_text(f'# 全500問監査台帳\n\n内容精読は{reviewed}問で実施済み。「要追加確認」は資料照合等の残件を示す。構造検査と学術的な確認を区別する。ledger.json / ledger.csv の設問・選択肢・解説の原文はv8スナップショット。改訂後の本文はchanges.jsonと累積作業稿を参照。\n\n| 問題ID | 判定 | 内容精読 | 優先度 | 所見 |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | {r['status']} | {'済' if r['content_reviewed'] else '未'} | {r['priority']} | {r['reason'].replace('|','／')} |\n" for r in ledger))
     (OUT/'baseline_machine.json').write_text(json.dumps({'issues':issues,'statistics':qa.stats(qs,answers)},ensure_ascii=False,indent=2)+'\n')
     manifest={'base_commit':'367d6488f7e81c78c1a0161c52a7d8db804a5991','source_file':SRC.name,'source_sha256':digest(SRC),'questions':len(qs),'answers':len(answers),'content_reviewed':sum(r['content_reviewed'] for r in ledger),'status_counts':{s:sum(r['status']==s for r in ledger) for s in ('確認済み','修正必要','要追加確認')},'v5_v6_priority_questions':sum(r['priority'].startswith('重点') for r in ledger),'release_ready':all(r['status']=='確認済み' for r in ledger)}
+    machine_path = OUT/'postfix_machine.json'
+    machine = json.loads(machine_path.read_text()) if machine_path.exists() else {}
+    manifest['academic_audit_complete'] = all(r['status']=='確認済み' for r in ledger)
+    manifest['full_visual_qa_completed'] = machine.get('full_visual_qa_completed') is True
+    manifest['release_ready'] = release_ready(ledger, machine)
     (OUT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False,indent=2))
 

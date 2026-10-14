@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-14",
+  "base_head": "f1095608071d27a156060e485c36eed014f57f71",
+  "batches": [
+    68,
+    "68b",
+    69
+  ],
+  "questions": [
+    "Q_5_093",
+    "Q_5_102",
+    "Q_4_108",
+    "Q_4_111"
+  ],
+  "new_edits": 37,
+  "confirmed": 161,
+  "remaining": 339,
+  "page_count": 402,
+  "checked_pages": [
+    97,
+    98,
+    136,
+    140,
+    141,
+    297,
+    298,
+    339,
+    340,
+    343
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "docx_sha256": "8050914248926ae3802ebfa9f5ae48bf1867ed97bc45b88ac72190514b3a9220",
+  "font": "Noto Sans JP Static Regular 400",
+  "font_sha256": "dfcfdecfd68882b82001e2893a602ff11a88270290ec341c530dd4515fc2a763",
+  "page_sha256": {
+    "97": "b3ebb896060b683323cda2460184505a0684273b92203b98d5e2e626d4f265b2",
+    "98": "9e4b677899b7d963f59bf22058beffd0d30b9aa628239febd8b5c413f0021d6e",
+    "136": "4c64f927473d1d7f86fca8bde6d7e9d9ec3bba86c2a90b6200b0fb10a8a5a430",
+    "140": "64f97ebc9e6942c553bb0e4a8f9dd5d5f3109b626bc71e962f2ab88fd681b65e",
+    "141": "2bdac659c459d54e2a102b99890948738f456926a0c4d531e34153f39f1c7d24",
+    "297": "ade1cd3879819eba361f001c6997f8050ff218ab36f5e5f65b0440fed052eadd",
+    "298": "a49f34194539b39c370e01d858e48de50e4a9f741de45bc4e44a5c76bc02e55e",
+    "339": "49affc97b640c47242d2993cedab9fa4c82735e733eb10b3737e35d8e8c2e26a",
+    "340": "969514ea5bff09f0b2df33304b3edd4b66d3c826c13acf8507a0b32e463537d8",
+    "343": "154f45f4cd61014b07a5c6ec13114581a541a2c341a9ff912220fec14b2322f3"
+  },
+  "unchanged_previously_viewed_pages": [
+    136,
+    140,
+    339,
+    340,
+    343
+  ],
+  "visual_findings": "日本語欠字・重なり・切れなし。全頁最終QAは未実施。",
+  "machine_warning_count": 38,
+  "machine_new_flags_disposition": {
+    "Q_5_093 P1": "効果の保証を否定する留保文。4肢とタグ照合で誤検出。",
+    "Q_4_111 P1": "継続が義務でないという限定。4肢とタグ照合で誤検出。"
+  },
+  "readiness_gate_regression_cases": 8,
+  "source_pdf_sha256": {
+    "S132": "f1cbc10639d8f6664863dfe3c7abfc7bfe18ebb22f7c4b95463cfdd218d8729f",
+    "S134": "1be2095f975542414f520165800656b4604862ed61b5784440a87b3a520e8fd3"
+  }
+}
