@@ -3816,40 +3816,46 @@
     "fixes_applied": true
   },
   "Q_4_080": {
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 3,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "原著本文の定義と分類条件に限定して設問・全4肢を独立判定。",
+    "explanation_review": "全4解説を原著の定義・分類基準に照合。研究効果の普遍化は撤去。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補",
-      "誤答候補"
+      "定義が逆",
+      "定義が逆",
+      "原著194頁の定義に一致",
+      "知識状態という分類基準と不一致"
     ],
-    "reason": "参照質問3候補。教師が既知か否かの定義と自然な相互作用の効果を研究照合。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "原著の分類基準を明示し、初級日本語授業全般への効果や最適秒数を無条件に一般化する説明を除く。",
+    "sources": [
+      "S124"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：指定された分類基準に一致する肢は一つ",
+    "no_correct_risk": "なし：独立正答3",
+    "fixes_applied": true
   },
   "Q_4_081": {
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 4,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "原著本文の定義と分類条件に限定して設問・全4肢を独立判定。",
+    "explanation_review": "全4解説を原著の定義・分類基準に照合。研究効果の普遍化は撤去。",
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "発問後の間と着席待ちを混同",
+      "ウェイト・タイム1と2を逆転",
+      "授業内の発話間隔と教材準備を混同",
+      "原著の二つの間の位置に一致"
     ],
-    "reason": "Roweの3～5秒は調査文脈・待ち時間I/IIの区別が必要。全ての初級日本語授業の普遍最適値とはしない。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "原著の分類基準を明示し、初級日本語授業全般への効果や最適秒数を無条件に一般化する説明を除く。",
+    "sources": [
+      "S125"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：指定された分類基準に一致する肢は一つ",
+    "no_correct_risk": "なし：独立正答4",
+    "fixes_applied": true
   },
   "Q_4_082": {
     "status": "要追加確認",
