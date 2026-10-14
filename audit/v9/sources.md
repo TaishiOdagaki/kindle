@@ -305,3 +305,12 @@ Q_4_076関連：Schachter（1974）An Error in Error Analysis、DOI https://doi.
 | S143 | J. Charles Alderson・Dianne Wall（1992年2月）[Does Washback Exist? ERIC公開発表稿](https://files.eric.ed.gov/fulltext/ED345513.pdf)、[ERIC書誌ED345513](https://eric.ed.gov/?id=ED345513) | 印刷5〜6頁：テストの質から影響の質を単純に導く見方、動機づけと成果の複雑さ。8〜9頁：影響の要因を分けた仮説と個人差・検証の必要性 | 全23頁の著者発表稿取得。印刷5〜6・8〜9頁（PDF6〜7・9〜10頁）を画像精読。後の1993年Applied Linguistics掲載版の取得とは区別。仮説の列挙を実証済み普遍法則とは扱わず、引用される他の研究の本文取得ともみなさない。 | Q_4_058 |
 
 S142の印刷頁にはPDF通し頁で10を加える（例：79頁＝PDF89頁）。S143は本文上部の印刷頁と下部のERIC通し頁が異なる（例：印刷5頁＝PDF6頁）。版面上部の番号で照合した。取得PDF全体は資料の同定と参照のために使用し、全文をリポジトリへ転載しない。台帳原文はv8スナップショットである。
+
+
+## 第79バッチの取得資料（2026-10-14）
+
+| ID | 資料・URL | 照合箇所 | 取得段階と限界 | 対象 |
+|---|---|---|---|---|
+| S144 | Jack C. Richards（2006）[Communicative Language Teaching Today 著者公開冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)、[著者による無料公開告知](https://professorjackrichards.com/communicative-language-teaching-today/) | 印刷8頁：PPPの三段階と批判の併記。16〜17頁：機械的・有意味・コミュニケーション練習、個人情報を使う文完成の分類。31頁：タスクの特徴、教室用と実社会型の区別 | 全52頁取得、上記4頁を本文・画像照合。2006年著者冊子の説明に限定し、日本語教授法全般や全員の習得効果に一般化しない。引用されるSkehan、Willis等の原著も取得したとはしない。Q_4_065は監査で構成した架空のモデル適用例。 | Q_4_035・063・064・065・066 |
+
+著者サイトには同名の47頁版（communicative-language-teaching-today-v2.pdf）もあるが、抽出文字がずれていた。今回採用したのは表紙・奥付付き52頁版で、印刷8頁＝PDF12頁、16〜17頁＝PDF20〜21頁、31頁＝PDF35頁。2006年の奥付も確認し、ダウンロードファイルの作成日時を刊年と誤認しない。PDF全文はリポジトリへ転載せず、URL・ハッシュ・照合範囲を記録する。

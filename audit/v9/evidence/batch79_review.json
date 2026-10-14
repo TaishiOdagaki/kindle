@@ -1,0 +1,100 @@
+{
+  "batch": 79,
+  "base_commit": "071fd132fe3bbd20349cf8767f76729e29881eb5",
+  "questions": [
+    "Q_4_035",
+    "Q_4_063",
+    "Q_4_064",
+    "Q_4_065",
+    "Q_4_066"
+  ],
+  "edits": 47,
+  "effective_changed_fields": 45,
+  "application_order": [
+    "tools/v9_apply_batch79.py",
+    "tools/v9_apply_batch79b.py",
+    "tools/v9_apply_batch79c.py"
+  ],
+  "status_counts": {
+    "確認済み": 197,
+    "修正必要": 69,
+    "要追加確認": 234
+  },
+  "remaining": 303,
+  "independent_answers": {
+    "Q_4_035": 2,
+    "Q_4_063": 2,
+    "Q_4_064": 2,
+    "Q_4_065": 1,
+    "Q_4_066": 4
+  },
+  "sources": {
+    "S144": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+      "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+      "pdf_pages": 52,
+      "edition": "2006著者公開冊子、別47頁版とは区別",
+      "image_verified_page_map": {
+        "8": 12,
+        "16": 20,
+        "17": 21,
+        "31": 35
+      }
+    }
+  },
+  "machine_warnings": 49,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_064",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 3, 4]"
+    ],
+    [
+      "P1",
+      "Q_4_065",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3, 4]"
+    ],
+    [
+      "A1",
+      "Q_4_066",
+      "正解選択肢4に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "new_warning_manual_review": {
+    "Q_4_064 P1": "全員の自動化という効果保証を否定する正答末尾。正答2と全肢タグ一致。",
+    "Q_4_065 P1": "原著の実証事例ではないとする正答末尾。正答1と全肢タグ一致。",
+    "Q_4_066 A1": "必ずしも要さずという否定を断定語として検出。正答4と全肢タグ一致。"
+  },
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    67,
+    68,
+    78,
+    79,
+    265,
+    276,
+    277
+  ],
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_download": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/NotoSansJP%5Bwght%5D.ttf",
+  "font_sha256": "a8715d876d3446c0ee068838412e23a1561eb488876527741bab62ee59438f34",
+  "release_ready": false,
+  "prior_46_edit_render": {
+    "docx_sha256": "733f9975ff897c2282edce054f59ac426cd4cb282b4620e43f94670be4b3a490",
+    "pdf_sha256": "f0a27836a33459d698f35a9a9ce46dc548e1ef345ff6980cfd07346cd6582b3f",
+    "page_sha256": {
+      "67": "f28ec8ed07d9d3b74dcdbe6371ea4703a4305cf7b2aa1181082ba6ab53a4ddf0",
+      "68": "7c39a9097c8e33e9be7099c2a243a805c9bda7d2b865fee23fab4885c50764c4",
+      "78": "4abb25b02e6c7f43353161463b162d886499043c09171628dd9fd2651ef8dfd6",
+      "79": "c7f7d4aff62c98821db1c35b077dc034705f44c23bc5576eecff122359d89be1",
+      "265": "9bcf47e5aee7beffecbf719816b04142663cab92babcb5024e22426a16f2332a",
+      "276": "a561b47b1d3d62904a9318b5f0dc5990da2ba69c2eaf3bd62ef454f9317d921e",
+      "277": "3b463df6d2a6394c8023cc1407254f90158f03e31d585a9cdc92553ca10fed8c"
+    },
+    "changed_strings_missing_in_pdf": []
+  },
+  "final_wording_review": "Q_4_064解説4で初提示はPresentationと明記。最終追補後の399頁描画のうち対象7頁を画像で再目視。最終PDF・PNG一時ファイルは実行環境更新後に失われたため最終描画のハッシュと全文抽出検査は記録していない。46変更時点のハッシュはprior_46_edit_renderに区別して保存。",
+  "docx_sha256": "7ac3a75b5fb499034859acf95040b1f519c82ee714d2a1ff6a7d730f4843a1e9"
+}

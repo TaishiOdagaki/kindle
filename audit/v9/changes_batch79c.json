@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Q_4_064",
+    "field": "explanations",
+    "index": 3,
+    "before": "同書8頁のProductionは、提示・練習した新形式を異なる文脈で使う段階です。無関係な未習形式の初提示という説明はPresentationともProductionとも対応しません。",
+    "after": "同書8頁のProductionは、提示・練習した新形式を異なる文脈で使う段階です。新形式の初提示はPresentationの説明であり、Productionとする記述は対応しません。",
+    "reason": "新形式の初提示はPresentationの説明であることを明示し、Productionとの段階区別を曖昧にしない。",
+    "sources": [
+      "S144"
+    ],
+    "applied": true,
+    "before_version": "第79バッチ46箇所反映後の累積作業稿",
+    "block_context": "A_4_064",
+    "paragraph_prefix": "4（誤）"
+  }
+]
