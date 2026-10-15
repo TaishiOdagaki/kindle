@@ -330,3 +330,12 @@ Jack C. Richards（2006）[Communicative Language Teaching Today 著者公開52�
 | S145 | Jane Willis [From priming tasks and target tasks to language focus and grammar](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/priming-tasks-and-target-tasks-language-focus-and)、British Council TeachingEnglish。取得用の同一記事URL https://www.teachingenglish.org.uk/comment/1307 | Use the book but change the order、Pre-task/Priming、Task Cycle: Task - planning - report、Focus on Form: At the end of the task cycle。本人署名も確認 | HTML本文を直接取得し全記事を精読。刊年は未表示として扱い、コメント・クロール日を刊年にしない。提唱者本人の公開説明に限定し、1996年書籍全体・Prabhu原著・別の教材分類体系まで承認しない。Q_4_046は架空の適用案。 | Q_4_036・046 |
 
 S144追加照合：著者公開52頁冊子の印刷18頁（PDF22頁）の説明と絵の差異探索例を本文・画像で再確認し、Q_4_040の全4肢・4解説に適用。全員が同じ文章を持つことだけであらゆる情報差を否定せず、今回の活動案に未知情報の取得課題がないことを明示。復唱をシャドーイングと同一視せず、情報差から長期習得効果を断定しない。資料のURL・ハッシュと取得範囲はevidence/batch81_review.jsonにも記録し、全文はリポジトリへ転載しない。
+
+
+## 第82バッチの追加資料（2026-10-15）
+
+| ID | 資料 | 照合範囲 | 取得段階と限界 | 対象 |
+|---|---|---|---|---|
+| S146 | Michael H. Long [Focus on form in Task-Based Language Teaching](https://woucentral.weebly.com/uploads/7/4/6/9/7469707/long_1997_intro_focus_on_form.pdf) 公開複製11頁版 | PDF1頁Option 1、3頁Option 2、5頁Option 3とform-focused instructionとの区別、6頁図2の七段階と1〜3の説明、7頁タスク系列と文脈内形式指導例 | 本文を取得。該当1・3・5・6・7頁は画像照合。本文に1997年秋への言及があるが正式刊年は保証しない。大学公式1998年メタデータの本文とCORE15頁版は403で未取得。1991年章や1998年章全体の承認ではない。引用された実証研究全てを取得したとは扱わない。 | Q_4_022・023・038 |
+
+S144追加照合：Richards2006著者公開52頁冊子の印刷10頁（PDF14頁）を本文と画像で確認。伝統的な文法項目・レベル配列の説明をQ_4_023の明示条件に適用する。すべての構造シラバスに語彙・音声を含める一律の定義や、話題名だけによる分類は採用しない。原著全文は転載せずURL・ハッシュと照合範囲をevidence/batch82_review.jsonに記録。
