@@ -1,0 +1,186 @@
+{
+  "batch": 106,
+  "base_commit": "2ec2ab12f7393558370b114c132b3d6c565f7a5b",
+  "restored_after_unsaved_workspace_loss": true,
+  "prior_saved_confirmed": 270,
+  "fully_rejudged": [
+    "Q_MO_006",
+    "Q_MO_007",
+    "Q_MO_008",
+    "Q_MO_009",
+    "Q_MO_010"
+  ],
+  "question_field_edits": 29,
+  "case_premise_edits": 1,
+  "edits": 30,
+  "status_counts": {
+    "確認済み": 275,
+    "修正必要": 41,
+    "要追加確認": 184
+  },
+  "remaining": 225,
+  "independent_answers": {
+    "Q_MO_006": 1,
+    "Q_MO_007": 3,
+    "Q_MO_008": 1,
+    "Q_MO_009": 2,
+    "Q_MO_010": 1
+  },
+  "sources": {
+    "S164": {
+      "bytes": 23170,
+      "sha256": "278422d39baa0735dd7fbd0d3a77a29601c865dc1d1b26a3e44fb7b44d5ce440",
+      "archive": "evidence/S164_safety_education_notice.html.gz",
+      "retrieved": "2026-10-16 JST",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc4244&dataType=1&pageNo=1",
+      "scope": "2019 notice section1 body and A-D; full notice text read in prior unsaved review, key clauses reacquired and reread on restoration"
+    },
+    "S165": {
+      "bytes": 78227,
+      "sha256": "67f787cb7cb62cd7be3b1699e0f8d8d6bb39b413bd7f6c1d5afbd8a306ac51e7",
+      "archive": "evidence/S165_safety_education_notice.html.gz",
+      "retrieved": "2026-10-16 JST",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2631&dataType=1&pageNo=1",
+      "scope": "Outline sections4(4),5(5); not all schedules or image appendices approved"
+    }
+  },
+  "supplementary_sources": [
+    "S163 core curriculum goal31/objectives and evaluation",
+    "S26 statutory articles2,10"
+  ],
+  "machine_warnings": 66,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_MO_006",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [3, 4]"
+    ],
+    [
+      "P1",
+      "Q_MO_007",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 402,
+  "visually_reviewed_pages": [
+    187,
+    188,
+    189,
+    392,
+    393,
+    394
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_MO_006', 'explanations', 0)": [
+      392
+    ],
+    "('Q_MO_006', 'explanations', 1)": [
+      392
+    ],
+    "('Q_MO_006', 'explanations', 2)": [
+      392
+    ],
+    "('Q_MO_006', 'explanations', 3)": [
+      392
+    ],
+    "('Q_MO_007', 'options', 1)": [
+      188
+    ],
+    "('Q_MO_007', 'explanations', 0)": [
+      392
+    ],
+    "('Q_MO_007', 'explanations', 1)": [
+      392
+    ],
+    "('Q_MO_007', 'explanations', 2)": [
+      392
+    ],
+    "('Q_MO_007', 'explanations', 3)": [
+      392
+    ],
+    "('Q_MO_008', 'options', 2)": [
+      188
+    ],
+    "('Q_MO_008', 'options', 3)": [
+      188
+    ],
+    "('Q_MO_008', 'explanations', 0)": [
+      392
+    ],
+    "('Q_MO_008', 'explanations', 1)": [
+      393
+    ],
+    "('Q_MO_008', 'explanations', 2)": [
+      393
+    ],
+    "('Q_MO_008', 'explanations', 3)": [
+      393
+    ],
+    "('Q_MO_009', 'stem', None)": [
+      188
+    ],
+    "('Q_MO_009', 'options', 0)": [
+      188
+    ],
+    "('Q_MO_009', 'options', 1)": [
+      188
+    ],
+    "('Q_MO_009', 'options', 2)": [
+      188
+    ],
+    "('Q_MO_009', 'options', 3)": [
+      188
+    ],
+    "('Q_MO_009', 'explanations', 0)": [
+      393
+    ],
+    "('Q_MO_009', 'explanations', 1)": [
+      393
+    ],
+    "('Q_MO_009', 'explanations', 2)": [
+      393
+    ],
+    "('Q_MO_009', 'explanations', 3)": [
+      393
+    ],
+    "('Q_MO_010', 'options', 0)": [
+      189
+    ],
+    "('Q_MO_010', 'explanations', 0)": [
+      393
+    ],
+    "('Q_MO_010', 'explanations', 1)": [
+      393
+    ],
+    "('Q_MO_010', 'explanations', 2)": [
+      393
+    ],
+    "('Q_MO_010', 'explanations', 3)": [
+      394
+    ],
+    "('CASE_MO_02', 'case_text', None)": [
+      187
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "59cc4b63cf4036cb6894ce54128d8f125d5c7d0d61604df7d6400136182c3f9b",
+  "pdf_sha256": "c4ff1b524646dd68245804c2e96b3dbc18f30da9e9bd3fd74028cf9ece71dd30",
+  "page_sha256": {
+    "187": "74d6398440fc56aa95a13f3ddda83cca1c203079edb956a9fb3cd9b8c28c1223",
+    "188": "373297c36df64ca51601ed6341eb3940f6287b3228fb4395cb02300a1eb12db2",
+    "189": "c8864adeb16cd6c3843220276ac1d1a1d8df37c98063c2f014a37f7d482c7c9b",
+    "392": "1dd144573e0d26b4a12608c9bef2b6e854375054b16aadedb3f574013d9ebe5b",
+    "393": "6ae81b510a728a7bcc4e26aada9af9b0ee466076dd4c0a12e1600a43fd1a74db",
+    "394": "3a95199f1ad43c8d9b47eec11b929d643645cce24a4568be8ceb24c57e4199cf"
+  },
+  "png_retry": {
+    "page": 392,
+    "corrupt_first_png_excluded": true,
+    "used": "review392_retry.png"
+  },
+  "release_ready": false
+}
