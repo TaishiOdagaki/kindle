@@ -379,3 +379,8 @@ Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Appli
 [Communicative Competence: A Pedagogically Motivated Model with Content Specifications 公開スキャン](https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true)、Issues in Applied Linguistics6(2),5〜35。全16PDF頁（見開きスキャン）を2026-10-15取得。題名・著者・刊年・誌名・頁はPDF1頁で画像確認。印刷26〜27頁→PDF12頁、28〜29頁→PDF13頁の本文・表5を画像照合。Q_2_013は回避縮小・達成補償・時間稼ぎ、Q_4_021は反復・明確化・確認要求・理解チェックを全4肢・4解説・独立正答まで照合。本人らの分類の一次資料として用い、引用先Canale/Swain1980、Canale1983、Varonis/Gass1985原著全文取得とはしない。Q_2_018は未確認を維持。母語話者での頻度、普遍的意図性、学習効果の保証まで承認しない。全論文を精読済みとはせず、SHA256と範囲をevidence/batch89_review.jsonへ記録。
 
 取得経路の制約：[大学リポジトリ書誌](https://escholarship.org/uc/item/2928w4zj)はロボット確認画面のためそこでの取得を中止し、独立公開スキャンを使用。Dörnyei/Thurrell1991の旧著者サイト候補 https://www.zoltandornyei.co.uk/uploads/1991-dornyei-thurrell-eltj.pdf は410、CiteSeer候補は403のため迂回せず未取得。
+
+
+## 第90バッチ S149の関連4問追加照合（2026-10-15）
+
+[Celce-Murcia・Dörnyei・Thurrell1995原論文](https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true)印刷26〜29頁と表5（PDF12〜13頁）をQ_2_014〜017の設問・全4肢・4解説に適用して照合。問14の原論文例、問15の直接・間接援助要求と反復要求・自己修正の区分、問16の非言語的手段の分類、問17の明示した架空会話と迂言の対応を確認。旧稿の造語の不存在断定、能力・動機の一律判定、ジェスチャーの認知促進や使用頻度、文化普遍性の未取得研究を承認せず撤回。架空会話を原論文の実験結果とはしない。URL・ハッシュ・範囲はevidence/batch90_review.jsonにも記録。

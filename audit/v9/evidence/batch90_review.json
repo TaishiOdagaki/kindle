@@ -1,0 +1,170 @@
+{
+  "batch": 90,
+  "base_commit": "07c71bc1918d5b2742c92a3ee59a1e9f6d1352d8",
+  "fully_rejudged": [
+    "Q_2_014",
+    "Q_2_015",
+    "Q_2_016",
+    "Q_2_017"
+  ],
+  "edits": 40,
+  "explicit_old_stem_removals": 4,
+  "status_counts": {
+    "確認済み": 232,
+    "修正必要": 56,
+    "要追加確認": 212
+  },
+  "remaining": 268,
+  "independent_answers": {
+    "Q_2_014": 2,
+    "Q_2_015": 2,
+    "Q_2_016": 1,
+    "Q_2_017": 2
+  },
+  "sources": {
+    "S149": {
+      "url": "https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true",
+      "sha256": "9fb885c3bb38327f14584fba6d7f307b353b331d9c65e9f42d26283ed4c02d96",
+      "pdf_pages": 16,
+      "body_and_image_verified_page_map": {
+        "26–27": 12,
+        "28–29": 13
+      },
+      "limit": "Original authors classification only; not full cited originals or gesture cognition/frequency/cultural universality studies"
+    }
+  },
+  "fictional_scenario": "Q_2_017 original invented classroom example; not an observed study outcome",
+  "machine_warnings": 57,
+  "new_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    28,
+    29,
+    226,
+    227
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_2_014', 'stem', None)": [
+      28
+    ],
+    "('Q_2_014', 'options', 0)": [
+      28
+    ],
+    "('Q_2_014', 'options', 1)": [
+      28
+    ],
+    "('Q_2_014', 'options', 2)": [
+      28
+    ],
+    "('Q_2_014', 'options', 3)": [
+      28
+    ],
+    "('Q_2_014', 'explanations', 0)": [
+      226
+    ],
+    "('Q_2_014', 'explanations', 1)": [
+      226
+    ],
+    "('Q_2_014', 'explanations', 2)": [
+      226
+    ],
+    "('Q_2_014', 'explanations', 3)": [
+      226
+    ],
+    "('Q_2_015', 'stem', None)": [
+      28
+    ],
+    "('Q_2_015', 'options', 0)": [
+      29
+    ],
+    "('Q_2_015', 'options', 1)": [
+      29
+    ],
+    "('Q_2_015', 'options', 2)": [
+      29
+    ],
+    "('Q_2_015', 'options', 3)": [
+      29
+    ],
+    "('Q_2_015', 'explanations', 0)": [
+      226
+    ],
+    "('Q_2_015', 'explanations', 1)": [
+      226
+    ],
+    "('Q_2_015', 'explanations', 2)": [
+      227
+    ],
+    "('Q_2_015', 'explanations', 3)": [
+      227
+    ],
+    "('Q_2_016', 'stem', None)": [
+      29
+    ],
+    "('Q_2_016', 'options', 0)": [
+      29
+    ],
+    "('Q_2_016', 'options', 1)": [
+      29
+    ],
+    "('Q_2_016', 'options', 2)": [
+      29
+    ],
+    "('Q_2_016', 'options', 3)": [
+      29
+    ],
+    "('Q_2_016', 'explanations', 0)": [
+      227
+    ],
+    "('Q_2_016', 'explanations', 1)": [
+      227
+    ],
+    "('Q_2_016', 'explanations', 2)": [
+      227
+    ],
+    "('Q_2_016', 'explanations', 3)": [
+      227
+    ],
+    "('Q_2_017', 'stem', None)": [
+      29
+    ],
+    "('Q_2_017', 'options', 0)": [
+      29
+    ],
+    "('Q_2_017', 'options', 1)": [
+      29
+    ],
+    "('Q_2_017', 'options', 2)": [
+      29
+    ],
+    "('Q_2_017', 'options', 3)": [
+      29
+    ],
+    "('Q_2_017', 'explanations', 0)": [
+      227
+    ],
+    "('Q_2_017', 'explanations', 1)": [
+      227
+    ],
+    "('Q_2_017', 'explanations', 2)": [
+      227
+    ],
+    "('Q_2_017', 'explanations', 3)": [
+      227
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "d290b86ceeeffa21c0bc193b10be2f57be625ac0079ab1c762ce82ca0e8ef734",
+  "pdf_sha256": "155e6eb3772db24d453a5855b180a68f3980a9658214edeab715646418bfe96c",
+  "page_sha256": {
+    "28": "8ad2ece98e4e70be343746986f228bf4cfa80538ad1df8c91fd68c7110df629c",
+    "29": "4a9261c2402f05b08dea0722d47bc5a127eda36e8cad446b66ac3495168d6208",
+    "226": "ef1c4c46ac03c4f63875528d340b0da7632cf98b018c1934a4ed29c509e7153b",
+    "227": "a294a18b7a0fb42f94a1853f96159eef25e8d0b13de1cc6cbbee8c467981c8f0"
+  },
+  "release_ready": false,
+  "pagination_followup": "Q_2_015 stem on28/options on29; explanations split226–227. Final keep-together tuning pending; no clipped text or missing tags."
+}
