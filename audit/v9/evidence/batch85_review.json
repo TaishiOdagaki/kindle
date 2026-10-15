@@ -1,0 +1,166 @@
+{
+  "batch": 85,
+  "base_commit": "fecc39c203a413bfcdcf01c216c91b00b155bf9d",
+  "questions": [
+    "Q_4_029",
+    "Q_4_049",
+    "Q_4_062"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 217,
+    "修正必要": 57,
+    "要追加確認": 226
+  },
+  "remaining": 283,
+  "independent_answers": {
+    "Q_4_029": 1,
+    "Q_4_049": 1,
+    "Q_4_062": 2
+  },
+  "sources": {
+    "S147": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Curriculum-Approaches-in-Language-Teaching.pdf",
+      "sha256": "b1585867ba0fb153a9d273bbacba268008025d5f970c2efcd6e4c7cc23386de0",
+      "pdf_pages": 29,
+      "image_verified_page_map": {
+        "7": 3,
+        "20": 16,
+        "28": 24,
+        "30": 26
+      },
+      "scope": "Author comparison and figures; cited books not acquired."
+    },
+    "S144": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+      "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+      "pdf_pages": 52,
+      "image_verified_page_map": {
+        "10": 14,
+        "11": 15,
+        "28": 32,
+        "29": 33,
+        "30": 34
+      }
+    }
+  },
+  "machine_warnings": 55,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_062",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [3, 4]"
+    ]
+  ],
+  "new_warning_manual_review": "Q_4_062 P1はすべての授業計画への固定順序化を否定する正答2の末尾による。全4肢・4解説・タグを直接確認。",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    65,
+    73,
+    78,
+    263,
+    264,
+    272,
+    277
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_029', 'stem', None)": [
+      65
+    ],
+    "('Q_4_029', 'options', 0)": [
+      65
+    ],
+    "('Q_4_029', 'options', 1)": [
+      65
+    ],
+    "('Q_4_029', 'options', 2)": [
+      65
+    ],
+    "('Q_4_029', 'options', 3)": [
+      65
+    ],
+    "('Q_4_029', 'explanations', 0)": [
+      263
+    ],
+    "('Q_4_029', 'explanations', 1)": [
+      263
+    ],
+    "('Q_4_029', 'explanations', 2)": [
+      263
+    ],
+    "('Q_4_029', 'explanations', 3)": [
+      264
+    ],
+    "('Q_4_049', 'stem', None)": [
+      73
+    ],
+    "('Q_4_049', 'options', 0)": [
+      73
+    ],
+    "('Q_4_049', 'options', 1)": [
+      73
+    ],
+    "('Q_4_049', 'options', 2)": [
+      73
+    ],
+    "('Q_4_049', 'options', 3)": [
+      73
+    ],
+    "('Q_4_049', 'explanations', 0)": [
+      272
+    ],
+    "('Q_4_049', 'explanations', 1)": [
+      272
+    ],
+    "('Q_4_049', 'explanations', 2)": [
+      272
+    ],
+    "('Q_4_049', 'explanations', 3)": [
+      272
+    ],
+    "('Q_4_062', 'stem', None)": [
+      78
+    ],
+    "('Q_4_062', 'options', 0)": [
+      78
+    ],
+    "('Q_4_062', 'options', 1)": [
+      78
+    ],
+    "('Q_4_062', 'options', 2)": [
+      78
+    ],
+    "('Q_4_062', 'options', 3)": [
+      78
+    ],
+    "('Q_4_062', 'explanations', 0)": [
+      277
+    ],
+    "('Q_4_062', 'explanations', 1)": [
+      277
+    ],
+    "('Q_4_062', 'explanations', 2)": [
+      277
+    ],
+    "('Q_4_062', 'explanations', 3)": [
+      277
+    ]
+  },
+  "render_recovery": "First review277.png invalid; regenerated review277b.png from same PDF. All accepted review images pass PIL verification.",
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "fe37a19104291dd7e99fe9f0a6aa36d67688a786075546549c7a6b6301f2298c",
+  "pdf_sha256": "5863017b48424744479fbf0a60def37af79f4d79480fe4b618dcf9051d754680",
+  "page_sha256": {
+    "65": "b2815b31da7fd08c9f07e5ccc34c325bb6139ec25a1ad897c985e7b212ba1f7c",
+    "73": "a4f393f4e61112071d8f9f2c026547d864fda7ac96e37cd874e17b1ac6ac5380",
+    "78": "26edc4f9fe7e12fb1819cb76765f609d5cb731c7ec4cc60e640d8c12243a3ee7",
+    "263": "4c60e791aac2fb7288d9cb12d806b90923ac22000a9fb4a305e6b83e88aa57a4",
+    "264": "f60bd91293bdbb92c747ffd0dfb94d257d1efb081bf6e6982893f3cd4d0753c6",
+    "272": "d72ffd8e44193becf1dd50e51ff62ffc51a31b7df67b2c8a40eac678815f2f1e",
+    "277": "daf97795b5c9cb18902db566defe7a250f4097208b37c6ec2de7eebdc6387d2e"
+  },
+  "release_ready": false
+}
