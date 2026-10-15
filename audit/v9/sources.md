@@ -420,3 +420,7 @@ Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Appli
 | S153 | Eleanor Rosch（1978）[Principles of Categorization 原著公開PDF](https://escholarship.org/content/qt0sz9c8qh/qt0sz9c8qh_noSplash_9502f78e7451b3a9cbc24a68329e0890.pdf)、E. Rosch & B. B. Lloyd編Cognition and Categorization、27–48頁。[出版書誌](https://www.routledge.com/Cognition-and-Categorization/Rosch-Lloyd/p/book/9781032633381) | 2026-10-15全22頁取得。画像のみ、原著印刷27〜28・30〜43頁を版面精読。PDF頁=原著印刷頁−26。32頁表2.1、36頁典型性、38〜41頁の知見とモデルの区別、42〜43頁の文脈を照合。引用先Rosch等1976の原研究全体や、全多義語の意味史・語彙指導の普遍的効果を承認しない。 | Q_5_074・Q_M_016・Q_M_058 |
 
 MIT掲載の再録PDFは404で未取得だったが、独立した公開先eScholarshipの原著PDFを通常取得できた。検索抜粋だけでは承認していない。原著の走査日時を刊年にしない。典型性の架空評定課題は原著の実験結果ではない。PDFハッシュと版面確認頁はevidence/batch94_review.jsonに記録し全文転載しない。
+
+
+## 第95バッチ S144追加照合（2026-10-15）
+[S144 Richards2006著者公開52頁冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)を再取得。印刷19頁（PDF23頁）はジグソー、意見共有、情報変換、推論差の説明、28頁（PDF32頁）は内容を出発点とする編成と単元での利用、30頁（PDF34頁）は正確さ・専門性・評価の論点を本文・版面照合。Q_M_025・Q_M_040の全4肢・4解説に適用。CBIとCLILの完全同義性、Aronson原案全手順、引用先Krahnke等の著書全体、日本語授業での普遍効果は承認しない。全文転載せず取得PDFハッシュをevidence/batch95_review.jsonに記録。
