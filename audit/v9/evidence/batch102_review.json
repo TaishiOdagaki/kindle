@@ -1,0 +1,149 @@
+{
+  "batch": 102,
+  "base_commit": "ac9d5d97c59eb92814b927657de6c444fd2312cd",
+  "fully_rejudged": [
+    "Q_O_046",
+    "Q_O_047",
+    "Q_O_049"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 263,
+    "修正必要": 43,
+    "要追加確認": 194
+  },
+  "remaining": 237,
+  "independent_answers": {
+    "Q_O_046": 4,
+    "Q_O_047": 3,
+    "Q_O_049": 2
+  },
+  "source": "S26 acquired in batch101; S161 supplementary for O46/O47",
+  "source_raw_sha256": "175e7c3bda1de44a747713629b9ef613258ef2fca202438e70ad611b4a014169",
+  "source_retrieved": "2026-10-16 JST (batch101)",
+  "source_reuse_not_new_acquisition": true,
+  "scope": [
+    "2.1.1",
+    "20",
+    "27",
+    "35",
+    "47_6",
+    "50"
+  ],
+  "machine_warnings": 62,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_O_047",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    156,
+    157,
+    158,
+    357,
+    358
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_O_046', 'stem', None)": [
+      156
+    ],
+    "('Q_O_046', 'options', 0)": [
+      156
+    ],
+    "('Q_O_046', 'options', 1)": [
+      156
+    ],
+    "('Q_O_046', 'options', 2)": [
+      156
+    ],
+    "('Q_O_046', 'options', 3)": [
+      156
+    ],
+    "('Q_O_046', 'explanations', 0)": [
+      357
+    ],
+    "('Q_O_046', 'explanations', 1)": [
+      357
+    ],
+    "('Q_O_046', 'explanations', 2)": [
+      357
+    ],
+    "('Q_O_046', 'explanations', 3)": [
+      357
+    ],
+    "('Q_O_047', 'stem', None)": [
+      157
+    ],
+    "('Q_O_047', 'options', 0)": [
+      157
+    ],
+    "('Q_O_047', 'options', 1)": [
+      157
+    ],
+    "('Q_O_047', 'options', 2)": [
+      157
+    ],
+    "('Q_O_047', 'options', 3)": [
+      157
+    ],
+    "('Q_O_047', 'explanations', 0)": [
+      357
+    ],
+    "('Q_O_047', 'explanations', 1)": [
+      357
+    ],
+    "('Q_O_047', 'explanations', 2)": [
+      357
+    ],
+    "('Q_O_047', 'explanations', 3)": [
+      357
+    ],
+    "('Q_O_049', 'stem', None)": [
+      157
+    ],
+    "('Q_O_049', 'options', 0)": [
+      157
+    ],
+    "('Q_O_049', 'options', 1)": [
+      157
+    ],
+    "('Q_O_049', 'options', 2)": [
+      157
+    ],
+    "('Q_O_049', 'options', 3)": [
+      157
+    ],
+    "('Q_O_049', 'explanations', 0)": [
+      358
+    ],
+    "('Q_O_049', 'explanations', 1)": [
+      358
+    ],
+    "('Q_O_049', 'explanations', 2)": [
+      358
+    ],
+    "('Q_O_049', 'explanations', 3)": [
+      358
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "87a1c73187e6786820b645d1b6fb209ab5920b02e39abf697719722669c63bcf",
+  "pdf_sha256": "8ac4d1cae00d7278f6bcde16dce492b72765a4c39fae59ccf877f928846e8323",
+  "page_sha256": {
+    "156": "8eb5b237ba78c986951e210c5149bcd062225dcfa8b0dcecdba7534f2dfff226",
+    "157": "d64a103b2edd1521ae01a64690f35f2c39cc51e9b8598a5e12bd88b70f856507",
+    "158": "6e0ac010976ad1a9b3394b8cf3704bd482aacaef23c36b48de61db7735fe5a06",
+    "357": "928adf4a0a562b2c844a59b0a1be60965ebb3c034caaf6081e8bf0dcbf23593e",
+    "358": "a093f3b52bfe6add59796f31f5edfeca3ea09fe6856c6e19d5405e8f450f46f5"
+  },
+  "release_ready": false,
+  "pagination_followup": "O46の設問・4肢は156頁、戻るリンクは157頁。O49の設問・4肢は157頁、戻るリンクは158頁へ分離するため158頁も追加目視。解説はO46・047が357頁、O49が358頁に各4項目とも収まる。本文の欠字・重なり・クリッピングは見られない。リンクの改頁は最終組版で再確認する。"
+}
