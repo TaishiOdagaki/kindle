@@ -1,0 +1,192 @@
+{
+  "batch": 96,
+  "base_commit": "d2683a89c1290a5630523507e58896bb92035e44",
+  "fully_rejudged": [
+    "Q_M_053",
+    "Q_M_054",
+    "Q_M_056"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 248,
+    "修正必要": 52,
+    "要追加確認": 200
+  },
+  "remaining": 252,
+  "independent_answers": {
+    "Q_M_053": 3,
+    "Q_M_054": 4,
+    "Q_M_056": 3
+  },
+  "sources": {
+    "S154": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/052.html",
+      "title": "助詞とは 解説",
+      "scope": "全84行を本文取得・精読。17〜73行の格助詞・接続助詞・副助詞・終助詞の4分類。",
+      "targets": [
+        "Q_M_053"
+      ],
+      "sha256": "d7d781d7ab9f51796eb296b36133e36db0def19b752de1e49b981cb99dea66bb",
+      "retrieved": "2026-10-16 JST",
+      "acquisition": "Full public HTML body, not search snippet",
+      "limits": "指定教材の分類と用例の説明に限定。全学説・全話者の普遍的判断や指導の因果効果を承認しない。"
+    },
+    "S155": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/095.html",
+      "title": "副助詞 解説",
+      "scope": "全250行を本文取得・精読。15行の名称併記、54〜99行の「も」の並立・付加と「だけ」の限定、193〜204行の「さえ」の添加・最低条件も確認。改訂問はだけ・もに限定。",
+      "targets": [
+        "Q_M_053"
+      ],
+      "sha256": "05355ae5dd25a22bb6608877650d21584fc1ba35e65a805301cd9e1ae79c7cab",
+      "retrieved": "2026-10-16 JST",
+      "acquisition": "Full public HTML body, not search snippet",
+      "limits": "指定教材の分類と用例の説明に限定。全学説・全話者の普遍的判断や指導の因果効果を承認しない。"
+    },
+    "S156": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/079.html",
+      "title": "V＋N 解説",
+      "scope": "全88行を本文取得・精読。17〜43行の名詞に先行する修飾部分、60〜68行の連体修飾節と「こわれたコンピューター」。85行の内外の関係への留保も読み、全修飾節に同じ意味関係を課さない。",
+      "targets": [
+        "Q_M_054"
+      ],
+      "sha256": "721ffacb6ce025b369017f3a1a7f495d140a395d1f03d9d7e898cd22f50bab37",
+      "retrieved": "2026-10-16 JST",
+      "acquisition": "Full public HTML body, not search snippet",
+      "limits": "指定教材の分類と用例の説明に限定。全学説・全話者の普遍的判断や指導の因果効果を承認しない。"
+    },
+    "S157": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/076.html",
+      "title": "～かもしれません・～にちがいありません 解説",
+      "scope": "全212行を本文取得・精読。68〜100行「はずです」の根拠に基づく推論、推論と現実の不一致、直感的確信との区別。後半のそうだ・ようだ・らしい全用法や確率尺度は対象の承認に流用しない。",
+      "targets": [
+        "Q_M_056"
+      ],
+      "sha256": "4c92062fbe7b565cc351d4c1f46ca1232b117528a91d22711f9bb39e0d5b7ad8",
+      "retrieved": "2026-10-16 JST",
+      "acquisition": "Full public HTML body, not search snippet",
+      "limits": "指定教材の分類と用例の説明に限定。全学説・全話者の普遍的判断や指導の因果効果を承認しない。"
+    }
+  },
+  "machine_warnings": 60,
+  "new_machine_warnings": [
+    [
+      "V1",
+      "表記ゆれ",
+      "{'モダリティ': 7, 'ムード': 3}"
+    ]
+  ],
+  "removed_machine_warnings": [
+    [
+      "V1",
+      "表記ゆれ",
+      "{'モダリティ': 10, 'ムード': 3}"
+    ]
+  ],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    183,
+    184,
+    385,
+    386
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_M_053', 'stem', None)": [
+      183
+    ],
+    "('Q_M_053', 'options', 0)": [
+      183
+    ],
+    "('Q_M_053', 'options', 1)": [
+      183
+    ],
+    "('Q_M_053', 'options', 2)": [
+      183
+    ],
+    "('Q_M_053', 'options', 3)": [
+      183
+    ],
+    "('Q_M_053', 'explanations', 0)": [
+      385
+    ],
+    "('Q_M_053', 'explanations', 1)": [
+      385
+    ],
+    "('Q_M_053', 'explanations', 2)": [
+      385
+    ],
+    "('Q_M_053', 'explanations', 3)": [
+      385
+    ],
+    "('Q_M_054', 'stem', None)": [
+      183
+    ],
+    "('Q_M_054', 'options', 0)": [
+      183
+    ],
+    "('Q_M_054', 'options', 1)": [
+      183
+    ],
+    "('Q_M_054', 'options', 2)": [
+      183
+    ],
+    "('Q_M_054', 'options', 3)": [
+      183
+    ],
+    "('Q_M_054', 'explanations', 0)": [
+      385
+    ],
+    "('Q_M_054', 'explanations', 1)": [
+      385
+    ],
+    "('Q_M_054', 'explanations', 2)": [
+      385
+    ],
+    "('Q_M_054', 'explanations', 3)": [
+      385
+    ],
+    "('Q_M_056', 'stem', None)": [
+      184
+    ],
+    "('Q_M_056', 'options', 0)": [
+      184
+    ],
+    "('Q_M_056', 'options', 1)": [
+      184
+    ],
+    "('Q_M_056', 'options', 2)": [
+      184
+    ],
+    "('Q_M_056', 'options', 3)": [
+      184
+    ],
+    "('Q_M_056', 'explanations', 0)": [
+      386
+    ],
+    "('Q_M_056', 'explanations', 1)": [
+      386
+    ],
+    "('Q_M_056', 'explanations', 2)": [
+      386
+    ],
+    "('Q_M_056', 'explanations', 3)": [
+      386
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "8f50b4569978ab14c95fab2e82b56bdb9f67b90bf7be5f13b41fdb017f1810d0",
+  "pdf_sha256": "d81aa4b8acd5227efc45dc1ffe61825abce95b83d25676ff039813543aa48d6b",
+  "page_sha256": {
+    "183": "34a6f90c89fde2428268c885bbdcde9c1b8588fd47d7af12c6a0373be68c8c1a",
+    "184": "963ef850dd8b54ac65bb4194ce8318b27fb34689f05e854ce09a5260ac1cb737",
+    "385": "63dd1a044eb57207f2e20e48003c3cf1b4ba5f8ed8e26c5063f3aa85a81fd84a",
+    "386": "e16ccd0bae190eff4dd0d244965e8bb68c41f83e65fedbced411b6d8e53cd310"
+  },
+  "release_ready": false,
+  "machine_delta_review": "V1の用語出現数のみ10/3から7/3へ更新。他59件は同一。新たな構造不良ではない。",
+  "pagination_followup": "対象3問の設問・4選択肢・各4解説はそれぞれ同一頁内に収まり、欠字・重なり・本文クリッピングなし。Q_M_054の戻るリンクだけは次頁へ分離しており最終組版で再確認する。"
+}
