@@ -1,0 +1,267 @@
+{
+  "batch": 101,
+  "base_commit": "1ab42d6d6f91eb3aa2c52aac16f45f7868199b6f",
+  "fully_rejudged": [
+    "Q_4_122",
+    "Q_4_123",
+    "Q_MO_011",
+    "Q_MO_012",
+    "Q_MO_013",
+    "Q_O_048"
+  ],
+  "question_field_edits": 54,
+  "case_premise_edits": 2,
+  "edits": 56,
+  "status_counts": {
+    "確認済み": 260,
+    "修正必要": 44,
+    "要追加確認": 196
+  },
+  "remaining": 240,
+  "independent_answers": {
+    "Q_4_122": 4,
+    "Q_4_123": 2,
+    "Q_O_048": 2,
+    "Q_MO_011": 2,
+    "Q_MO_012": 3,
+    "Q_MO_013": 2
+  },
+  "sources": {
+    "S26": {
+      "url": "https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048",
+      "title": "e-Gov 著作権法 法令API",
+      "acquisition": "XML原応答945280バイト、Result Code 0。全応答を通常取得、本則の対象条項を抽出して精読。",
+      "scope": "第2条第1項第1号、第10条、第17条、第35条全3項、第48条、第59・60条。関連確認として第20〜27・32・47条の6・51条も取得本文を確認。",
+      "sha256": "175e7c3bda1de44a747713629b9ef613258ef2fca202438e70ad611b4a014169",
+      "raw_archive": "evidence/egov_batch101.xml.gz",
+      "excerpt": "evidence/egov_batch101_excerpts.txt",
+      "limits": "附則の同番号条と区別。API1の応答に施行日メタデータが示されていないため、2026年改正全条項の施行・経過措置まで監査したとはしない。質問対象の条文本文を照合。個別事件への法的助言ではない。",
+      "retrieved": "2026-10-16 JST"
+    },
+    "S161": {
+      "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/seminar/2024/pdf/94089902_01.pdf",
+      "title": "SARTRAS 野方英樹 授業目的公衆送信補償金制度 活用のための基礎知識",
+      "date": "2023-07-31（表紙記載。URLの2024を刊年にしない）",
+      "acquisition": "文化庁掲載の全40頁PDFを通常取得。対象頁本文を取得しe-Govと照合。",
+      "scope": "PDF4頁の著作物定義、7〜8頁の複製・公衆送信、10頁の教育目的だけでの免除否定、12頁の人格的利益、15頁の第35条全項、16頁の原則・例外・出所明示。",
+      "sha256": "b052e89627089c85757d7d4bd8eee4809ff7a3241b5eb0569198d9844a7979ad",
+      "limits": "全40頁の精読・全主張の承認ではない。補償金の料金額・最新申込手続は本問の対象外。図中の単純化より第35条全項の条件を優先する。",
+      "retrieved": "2026-10-16 JST"
+    }
+  },
+  "machine_warnings": 61,
+  "new_machine_warnings": [],
+  "removed_machine_warnings": [
+    [
+      "P1",
+      "Q_O_048",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 3]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    101,
+    156,
+    157,
+    189,
+    190,
+    299,
+    300,
+    357,
+    358,
+    391,
+    392
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_123', 'stem', None)": [
+      101
+    ],
+    "('Q_4_123', 'options', 0)": [
+      101
+    ],
+    "('Q_4_123', 'options', 1)": [
+      101
+    ],
+    "('Q_4_123', 'options', 2)": [
+      101
+    ],
+    "('Q_4_123', 'options', 3)": [
+      101
+    ],
+    "('Q_4_123', 'explanations', 0)": [
+      300
+    ],
+    "('Q_4_123', 'explanations', 1)": [
+      300
+    ],
+    "('Q_4_123', 'explanations', 2)": [
+      300
+    ],
+    "('Q_4_123', 'explanations', 3)": [
+      300
+    ],
+    "('Q_4_122', 'stem', None)": [
+      101
+    ],
+    "('Q_4_122', 'options', 0)": [
+      101
+    ],
+    "('Q_4_122', 'options', 1)": [
+      101
+    ],
+    "('Q_4_122', 'options', 2)": [
+      101
+    ],
+    "('Q_4_122', 'options', 3)": [
+      101
+    ],
+    "('Q_4_122', 'explanations', 0)": [
+      299
+    ],
+    "('Q_4_122', 'explanations', 1)": [
+      299
+    ],
+    "('Q_4_122', 'explanations', 2)": [
+      300
+    ],
+    "('Q_4_122', 'explanations', 3)": [
+      300
+    ],
+    "('Q_O_048', 'stem', None)": [
+      157
+    ],
+    "('Q_O_048', 'options', 0)": [
+      157
+    ],
+    "('Q_O_048', 'options', 1)": [
+      157
+    ],
+    "('Q_O_048', 'options', 2)": [
+      157
+    ],
+    "('Q_O_048', 'options', 3)": [
+      157
+    ],
+    "('Q_O_048', 'explanations', 0)": [
+      357
+    ],
+    "('Q_O_048', 'explanations', 1)": [
+      358
+    ],
+    "('Q_O_048', 'explanations', 2)": [
+      358
+    ],
+    "('Q_O_048', 'explanations', 3)": [
+      358
+    ],
+    "('Q_MO_011', 'stem', None)": [
+      189
+    ],
+    "('Q_MO_011', 'options', 0)": [
+      189
+    ],
+    "('Q_MO_011', 'options', 1)": [
+      189
+    ],
+    "('Q_MO_011', 'options', 2)": [
+      189
+    ],
+    "('Q_MO_011', 'options', 3)": [
+      189
+    ],
+    "('Q_MO_011', 'explanations', 0)": [
+      391
+    ],
+    "('Q_MO_011', 'explanations', 1)": [
+      391
+    ],
+    "('Q_MO_011', 'explanations', 2)": [
+      391
+    ],
+    "('Q_MO_011', 'explanations', 3)": [
+      391
+    ],
+    "('Q_MO_012', 'stem', None)": [
+      189
+    ],
+    "('Q_MO_012', 'options', 0)": [
+      189
+    ],
+    "('Q_MO_012', 'options', 1)": [
+      189
+    ],
+    "('Q_MO_012', 'options', 2)": [
+      189
+    ],
+    "('Q_MO_012', 'options', 3)": [
+      189
+    ],
+    "('Q_MO_012', 'explanations', 0)": [
+      392
+    ],
+    "('Q_MO_012', 'explanations', 1)": [
+      392
+    ],
+    "('Q_MO_012', 'explanations', 2)": [
+      392
+    ],
+    "('Q_MO_012', 'explanations', 3)": [
+      392
+    ],
+    "('Q_MO_013', 'stem', None)": [
+      190
+    ],
+    "('Q_MO_013', 'options', 0)": [
+      190
+    ],
+    "('Q_MO_013', 'options', 1)": [
+      190
+    ],
+    "('Q_MO_013', 'options', 2)": [
+      190
+    ],
+    "('Q_MO_013', 'options', 3)": [
+      190
+    ],
+    "('Q_MO_013', 'explanations', 0)": [
+      392
+    ],
+    "('Q_MO_013', 'explanations', 1)": [
+      392
+    ],
+    "('Q_MO_013', 'explanations', 2)": [
+      392
+    ],
+    "('Q_MO_013', 'explanations', 3)": [
+      392
+    ],
+    "('CASE_O_10', 'case_text', None)": [
+      156
+    ],
+    "('CASE_MO_03', 'case_text', None)": [
+      189
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "a4c6fb38f098ec06988fae223c9c066b7581c9b4f7ee57f72aff5e931cf3f653",
+  "pdf_sha256": "2e05452f597dfbb76c6dc375ffb44a8a801d072f3fc2db75cc8c0f7007b4e8c1",
+  "page_sha256": {
+    "101": "88cb5ffded48c173609e1a26dbbbbe687ffd67e7a588ee09d6366930d4c33961",
+    "156": "96ed6fcbec6e09f2317d318d6d09c4ca28190db1a6dc9da618425dbe790dd173",
+    "157": "4a71b03ae1968a6ccac70d617d9361c8b09cd5fe03d25aafb7572805951f2037",
+    "189": "810c0a6fd68321f114d2b0af5ec147cb92074d2fbfad1e439d45e324ee911f3c",
+    "190": "13743150b90dd5c27dca6f6ec76838ecb0bd986d85c9d807fb4d7efa7215e08a",
+    "299": "306723817097cc4b269c4f24aec17c0d728347650fefcf42967787553074c4b5",
+    "300": "7f45a1353c796dfa40ca71dda0d52e8df5fcca23c0b17e6a06f6a5692c22144c",
+    "357": "f911982520e4e18ce7f6c8af83a8aa0f46e67d733cf05625442700cc56ce3eee",
+    "358": "b39397da3fb606fcf3b0642e00257c1fee0dfca14eec0ddf3abcfb0b7caff1d7",
+    "391": "afe411fdd6295cee6bd425eab455c47447beab2605ac91376c9498cb4b4c1b75",
+    "392": "bc38e761443921a17d36fb180542ababe89fd479bce171706536c4d350000342"
+  },
+  "release_ready": false,
+  "pagination_followup": "変更箇所を含む11頁を直接確認。4_122解説は299〜300頁、O48解説は357〜358頁に続く。MO12の戻るリンクは189頁本文から190頁へ分離。改頁前後の欠字・本文クリッピング・重なりは見られないが、解説とリンクの改頁は最終組版で再確認する。隣接する未照合問の表示確認を学術的承認に流用しない。"
+}
