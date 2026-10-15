@@ -393,3 +393,12 @@ Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Appli
 | S150 | Jenny Thomas（1983）Cross-Cultural Pragmatic Failure, Applied Linguistics 4(2),91–112。[出版社書誌](https://doi.org/10.1093/applin/4.2.91)／[公開本文複製](https://www.scribd.com/document/258926296/Thomas-1983-Cross-Cultural-Pragmatic-Failure) | 2026-10-15取得。99〜101頁の区別と図1の境界注記、104〜105頁の社会的条件、109〜110頁の原因の連続性と指導上の選択尊重を本文照合。公開HTMLの論文本体を取得。出版社PDFは未取得。AI説明・検索抜粋・付属Q&Aは根拠にしない。 | Q_5_096・097・098 |
 
 分類条件を明示した教材用架空事例を使用。民族全体の慣習や日本語の断り・褒め応答の実態を調査したものではない。短い発話だけから母語転移・失礼な人格を診断しない。公開複製の本文と頁見出しに基づく照合であり、引用先原著の全取得でもない。HTML取得ファイルのハッシュ・本文取得段階はevidence/batch91_review.jsonに記録。
+
+
+## 第92バッチ 交渉原著の本文照合
+
+| ID | 資料 | 取得・使用範囲 | 対象 |
+|---|---|---|---|
+| S151 | Roger Fisher・William Ury・Bruce Patton, [Getting to Yes、第2版表記の公開再組版PDF](https://siptulearn.ie/wp-content/uploads/2018/01/Fisher-Urry-Getting-to-yes.pdf)。SIPTU研修サイト掲載。 | 2026-10-15全90頁取得。PDF11〜14頁の原則、20〜24頁の伝達・意味確認・利害、31頁の複数案、42〜43頁の基準、50頁の非保証を本文照合。PDF11・21・23頁は画像も確認。PDF独自通し頁、商業出版版の頁とは区別。原著本文の複製であり、国別効果の実証研究ではない。 | Q_5_103・104 |
+
+文化類型の原著を未取得のまま承認しない。会場準備の会話は本問題集の教材用創作で、原著掲載の実例ではない。合意の強制・成功の保証をしない。PDFハッシュと照合範囲はevidence/batch92_review.jsonに記録。

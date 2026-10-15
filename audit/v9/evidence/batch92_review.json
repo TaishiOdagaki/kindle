@@ -1,0 +1,133 @@
+{
+  "batch": 92,
+  "base_commit": "2ccdd1f8c1a2271af3e21b515dd4b6dd10ecba2c",
+  "fully_rejudged": [
+    "Q_5_103",
+    "Q_5_104"
+  ],
+  "edits": 18,
+  "status_counts": {
+    "確認済み": 237,
+    "修正必要": 54,
+    "要追加確認": 209
+  },
+  "remaining": 263,
+  "independent_answers": {
+    "Q_5_103": 2,
+    "Q_5_104": 4
+  },
+  "sources": {
+    "S151": {
+      "url": "https://siptulearn.ie/wp-content/uploads/2018/01/Fisher-Urry-Getting-to-yes.pdf",
+      "sha256": "7aa41fd2d6b8f0592500561b1f7070c441d7a5c833f8f3244f6997c246d4586b",
+      "pdf_pages": 90,
+      "format": "Public re-typeset original book text, second edition attribution on title page; commercial-edition pagination not asserted",
+      "body_verified_pdf_pages": [
+        "11–14",
+        "20–24",
+        "31",
+        "42–43",
+        "50"
+      ],
+      "image_verified_pdf_pages": [
+        11,
+        21,
+        23
+      ],
+      "limit": "Principled negotiation as authors approach, not universal effectiveness ranking, Hall original, or empirical national-culture claims"
+    }
+  },
+  "fictional_scenario": "Q_5_104 invented; B intention supplied as subsequent statement, not inferred from gaze",
+  "machine_warnings": 59,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_5_103",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [4]"
+    ],
+    [
+      "P1",
+      "Q_5_104",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 398,
+  "visually_reviewed_pages": [
+    138,
+    340,
+    341
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_5_103', 'stem', None)": [
+      138
+    ],
+    "('Q_5_103', 'options', 0)": [
+      138
+    ],
+    "('Q_5_103', 'options', 1)": [
+      138
+    ],
+    "('Q_5_103', 'options', 2)": [
+      138
+    ],
+    "('Q_5_103', 'options', 3)": [
+      138
+    ],
+    "('Q_5_103', 'explanations', 0)": [
+      340
+    ],
+    "('Q_5_103', 'explanations', 1)": [
+      340
+    ],
+    "('Q_5_103', 'explanations', 2)": [
+      340
+    ],
+    "('Q_5_103', 'explanations', 3)": [
+      340
+    ],
+    "('Q_5_104', 'stem', None)": [
+      138
+    ],
+    "('Q_5_104', 'options', 0)": [
+      138
+    ],
+    "('Q_5_104', 'options', 1)": [
+      138
+    ],
+    "('Q_5_104', 'options', 2)": [
+      138
+    ],
+    "('Q_5_104', 'options', 3)": [
+      138
+    ],
+    "('Q_5_104', 'explanations', 0)": [
+      340
+    ],
+    "('Q_5_104', 'explanations', 1)": [
+      340
+    ],
+    "('Q_5_104', 'explanations', 2)": [
+      340
+    ],
+    "('Q_5_104', 'explanations', 3)": [
+      341
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "bc8c950697cdb15706f63b867d144eaaea70c527a853299b482325aea1e87cbe",
+  "pdf_sha256": "fad39ee844b1d61420ca571ee3e2709bf8444841355ef829572c43e8c7610fd0",
+  "page_sha256": {
+    "138": "a7fb857060dfb2d9ca22fcdd9928a0bba68a5b208139f35b9abb6905bcab2e91",
+    "340": "fb3025e8d24e7f54387dceacce64dc373b0a3c325d838309e66bb39b2ce5f2b6",
+    "341": "30eb9753dcd29cdf71dbc3b164838568ec7d2ae21c29c48b73f8b301d4535d2b"
+  },
+  "release_ready": false,
+  "manual_warning_disposition": {
+    "Q_5_103": "P1 lexical heuristic: wrong option4 promises success; explanation4 correctly states no guarantee; affirmative narrative is not endorsement of option4.",
+    "Q_5_104": "P1 lexical heuristic: explanation4 ends with rejection of a universal meaning claim; explanations1–3 contain affirmative reasons why the wrong choices fail. Tags1–3wrong/4correct are consistent with scenario and source."
+  },
+  "pagination_followup": "Q_5_104 explanation4 continues340–341; readable and tags intact. Final keep-together tuning pending."
+}
