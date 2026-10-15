@@ -344,3 +344,10 @@ S144追加照合：Richards2006著者公開52頁冊子の印刷10頁（PDF14頁�
 ## 第83バッチ S144の追加照合（2026-10-15）
 
 [Richards2006著者公開52頁冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)をWebでも再取得・同定し、印刷11頁（PDF15頁）の機能・技能・タスクの編成基準、19頁（PDF23頁）のジグソー活動の定義と例を本文・画像で確認した。対象Q_4_020・024。部分情報を交換して全体を完成させる仕組みと、実際の発話参加・習得効果を区別し、ジグソー原提唱者の原著まで読んだとは扱わない。Q_4_020の活動案は架空の適用例。機能シラバスの普遍的な利点・欠点や、タスクは成果物のみ評価するという主張は承認しない。PDF全文は転載せず、ハッシュと確認頁をevidence/batch83_review.jsonへ記録。
+
+
+## S147 第84バッチの新規原著（2026-10-15取得）
+
+Jack C. Richards（2013）[Curriculum Approaches in Language Teaching Forward Central and Backward Design](https://www.professorjackrichards.com/wp-content/uploads/Curriculum-Approaches-in-Language-Teaching.pdf)、RELC Journal 44(1), 5–33、DOI 10.1177/0033688212473293。著者公開の全29頁PDFを取得。本文の印刷8頁（PDF4頁）の三モデルと図2〜4、13頁（PDF9頁）のcentral design、20頁（PDF16頁）のbackward design、28頁（PDF24頁）の結論を本文・画像照合。Q_4_008の全4肢・4解説に適用。抄録だけの承認ではない。目標設定のためのニーズ分析を排除せず、他モデルより常に優れているとしない。引用先Wiggins/McTighe、Taba、Clarkの原著全体は未取得。全文転載せずURL・PDFハッシュ・確認頁をevidence/batch84_review.jsonに記録。
+
+S144追加照合：著者公開52頁冊子の印刷5頁（PDF9頁）の教師・学習者の役割、10〜11頁（PDF14〜15頁）の編成単位、12頁（PDF16頁）の職務上のニーズ分析、28〜30頁（PDF32〜34頁）の主題・内容中心の編成を本文・画像で確認。対象Q_4_002・009・011・014・025。日本語教育一般への効果保証、機能・文法・テーマの単一排他的分類、題名だけの分類は承認しない。
