@@ -1,0 +1,172 @@
+{
+  "batch": 100,
+  "base_commit": "65dac7e887d3fef67fc07ea2e6d8f3d77b4bdcbf",
+  "fully_rejudged": [
+    "Q_M_045",
+    "Q_M_049",
+    "Q_M_050"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 254,
+    "修正必要": 50,
+    "要追加確認": 196
+  },
+  "remaining": 246,
+  "independent_answers": {
+    "Q_M_045": 3,
+    "Q_M_049": 4,
+    "Q_M_050": 3
+  },
+  "sources": {
+    "S159": {
+      "title": "文化審議会 公用文作成の考え方（建議）・解説",
+      "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93651301_01.pdf",
+      "date": "2022-01-07",
+      "acquisition": "文化庁から63頁のPDF原本全体を取得。検索抜粋でなく本文を抽出。",
+      "scope": "建議本文の表記原則、解説の見方、解説2頁の読み手に応じた工夫、8頁の漢字使用の原則全体、17頁の句読点の符号原則、33頁の係り受け・読点位置による意味変化と書き換えの節を精読。",
+      "sha256": "47ad41d2b9ed689215b36aef6656f1d250cb872a74c3cb44b6174cfc4746a8cf",
+      "targets": [
+        "Q_M_049",
+        "Q_M_050"
+      ],
+      "limits": "2022年建議の明示内容を対象にする。法令は直接の対象ではないとの資料自身の留保を守り、全文章ジャンルの唯一規則や著作権法上の適法性を承認しない。全63頁の全主張を照合したとはしない。",
+      "retrieved": "2026-10-16 JST"
+    },
+    "S160": {
+      "title": "国際交流基金 教科書を作ろう BTS00126 Ａく／ＡＮに／Ｎになります",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00126/ja/render.do",
+      "acquisition": "公開HTML本文全55行を取得・精読。",
+      "scope": "18〜43行の構造図、変化の結果の状態、状態変化、例文、するとの着目点の区別、なりましたの含意の但書。",
+      "sha256": "c0316aaf4d9f5f764d5d8444738c91044af0cedc1ccfb59f4118f1330c7f9209",
+      "targets": [
+        "Q_M_045"
+      ],
+      "limits": "指定教材の文型解説の範囲。使用頻度の高さ・指導効果の実証や最新試験級別との対応は承認しない。刊年は推定しない。",
+      "retrieved": "2026-10-16 JST"
+    }
+  },
+  "machine_warnings": 62,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_M_045",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ],
+    [
+      "P1",
+      "Q_M_049",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 3]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    180,
+    182,
+    382,
+    383,
+    384,
+    385
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_M_045', 'stem', None)": [
+      180
+    ],
+    "('Q_M_045', 'options', 0)": [
+      180
+    ],
+    "('Q_M_045', 'options', 1)": [
+      180
+    ],
+    "('Q_M_045', 'options', 2)": [
+      180
+    ],
+    "('Q_M_045', 'options', 3)": [
+      180
+    ],
+    "('Q_M_045', 'explanations', 0)": [
+      382
+    ],
+    "('Q_M_045', 'explanations', 1)": [
+      382
+    ],
+    "('Q_M_045', 'explanations', 2)": [
+      383
+    ],
+    "('Q_M_045', 'explanations', 3)": [
+      383
+    ],
+    "('Q_M_049', 'stem', None)": [
+      182
+    ],
+    "('Q_M_049', 'options', 0)": [
+      182
+    ],
+    "('Q_M_049', 'options', 1)": [
+      182
+    ],
+    "('Q_M_049', 'options', 2)": [
+      182
+    ],
+    "('Q_M_049', 'options', 3)": [
+      182
+    ],
+    "('Q_M_049', 'explanations', 0)": [
+      384
+    ],
+    "('Q_M_049', 'explanations', 1)": [
+      384
+    ],
+    "('Q_M_049', 'explanations', 2)": [
+      384
+    ],
+    "('Q_M_049', 'explanations', 3)": [
+      384
+    ],
+    "('Q_M_050', 'stem', None)": [
+      182
+    ],
+    "('Q_M_050', 'options', 0)": [
+      182
+    ],
+    "('Q_M_050', 'options', 1)": [
+      182
+    ],
+    "('Q_M_050', 'options', 2)": [
+      182
+    ],
+    "('Q_M_050', 'options', 3)": [
+      182
+    ],
+    "('Q_M_050', 'explanations', 0)": [
+      384
+    ],
+    "('Q_M_050', 'explanations', 1)": [
+      384
+    ],
+    "('Q_M_050', 'explanations', 2)": [
+      384
+    ],
+    "('Q_M_050', 'explanations', 3)": [
+      385
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "6e0057da44a5ec353823f46551bde7d11e2aad88af7d498fac443047b5ada188",
+  "pdf_sha256": "77ca4e5eaa3c25e90aa4909c4f802329d0fa874b5abd08620ca447a2a8c78a7a",
+  "page_sha256": {
+    "180": "651a7461079fc25a361b912c10ffd87533ec6ae8737c7ae8b9f5f811f2826f0d",
+    "182": "ec13e2176b17c6f21f38466af99496464d2460fc1f3057d17031979807ea835e",
+    "382": "4cf7e6c39a487d14ddad4acccf57d1d275860bd86555ba0388811579c6d6de2a",
+    "383": "7465353dd675294c4e7a9ebd5055ebf3c9998a21340883aaba095d3d1ba2a6e3",
+    "384": "72e69ab9c8a3db01ad9b89aa2f9f86e5a34599e8e6d39983e9c4bbb514dd4eb4",
+    "385": "8914d63a8874e69e52603944dd20a1196b75838a8e33af12389d31a64388bb0a"
+  },
+  "release_ready": false,
+  "pagination_followup": "M45の設問・全4肢は180頁、解説は382〜383頁。M49・M50の設問・全4肢は182頁、M49解説は384頁、M50解説は384〜385頁。改頁前後を直接確認、欠字・本文クリッピングなし。M50第4解説のタグ右端107.65pt、本文左端117.65ptもPDF座標で確認し10ptの間隔を確保。解説の改頁は最終組版で再点検する。"
+}
