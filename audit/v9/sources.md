@@ -365,3 +365,10 @@ Krashen [Principles and Practice in Second Language Acquisition](https://www.sdk
 ## S148 Oxford本人「Language Learning Styles and Strategies: An Overview」公開25頁版
 
 [大学サイトの公開PDF](https://web.ntpu.edu.tw/~language/workshop/read2.pdf)を2026-10-15に取得。著者Rebecca L. Oxfordの署名、題名、ヘッダーGALA2003を確認。正式な刊年・会議・掲載先は未同定でありヘッダーだけから確定しない。印刷頁とPDF頁は一致。8〜10頁は課題との適合、方略の連携、教師の支援、方略連鎖。12頁は認知・メタ認知、13頁は記憶関連・補償、14頁は補償を学習方略と認めるかの議論、情意・社会的方略。全6頁を本文・画像照合しQ_3_023〜029の設問・全4肢・全4解説と独立正答を再判定。1990年著書全文、別分類の原著、引用研究の全主張の承認ではない。前半の学習スタイル論や固定的な型に基づく指導効果は本バッチで検証しない。xref再構成警告を記録し、対象頁の可読性を確認。全文転載せず、SHA256と照合範囲はevidence/batch87_review.jsonへ記録。
+
+
+## 第88バッチ S144追加照合と未取得原著（2026-10-15）
+
+S144 [Richards2006著者公開冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)印刷7頁（PDF11頁）の全五手順を本文・画像照合しQ_4_032の全4肢・4解説を改訂・確認済み。記述された歴史的授業手順に限定し普遍的教授効果・現代全授業への推奨としない。Richards/Rodgers2001著書全文は未取得。
+
+Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Applied Linguistics I(1),1–47、1980-03-01、出版社は有料アクセス表示。本文未取得。[UEfAP候補](https://www.uefap.com/tefsp/bibliog/canale_swain.pdf)は404。[ResearchGate著者公開表示](https://www.researchgate.net/publication/31260438_THEORETICAL_BASES_OF_COMMUNICATIVE_APPROACHES_TO_SECOND_LANGUAGE_TEACHING_AND_TESTING)はMerrill Swainアップロードと表示されたが表示全文リンクのクリック先404。検索抜粋・他研究の引用で代用承認しない。Q_2_013・018は要追加確認を維持。

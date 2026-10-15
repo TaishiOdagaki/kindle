@@ -1,0 +1,94 @@
+{
+  "batch": 88,
+  "base_commit": "f32739cda807f2dc850ed1ecdc2bfa14f82ee098",
+  "fully_rejudged": [
+    "Q_4_032"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_4_032": 4
+  },
+  "status_counts": {
+    "確認済み": 226,
+    "修正必要": 56,
+    "要追加確認": 218
+  },
+  "remaining": 274,
+  "source": {
+    "S144": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+      "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+      "pdf_pages": 52,
+      "body_and_image_verified_page_map": {
+        "7": 11
+      },
+      "limit": "2006 author account of historical procedure, not entire cited2001 book or universal teaching recommendation"
+    }
+  },
+  "unretrieved_originals": {
+    "Canale_Swain1980": {
+      "doi": "10.1093/applin/I.1.1",
+      "publisher": "paid access; no body retrieved",
+      "UEfAP": "404",
+      "ResearchGate_displayed_fulltext_link": "404",
+      "questions_retained_unconfirmed": [
+        "Q_2_013",
+        "Q_2_018"
+      ]
+    }
+  },
+  "machine_warnings": 57,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_032",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    66,
+    264
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_032', 'stem', None)": [
+      66
+    ],
+    "('Q_4_032', 'options', 0)": [
+      66
+    ],
+    "('Q_4_032', 'options', 1)": [
+      66
+    ],
+    "('Q_4_032', 'options', 2)": [
+      66
+    ],
+    "('Q_4_032', 'options', 3)": [
+      66
+    ],
+    "('Q_4_032', 'explanations', 0)": [
+      264
+    ],
+    "('Q_4_032', 'explanations', 1)": [
+      264
+    ],
+    "('Q_4_032', 'explanations', 2)": [
+      264
+    ],
+    "('Q_4_032', 'explanations', 3)": [
+      264
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "097c06a096ab86c7117b44fd766bb2c8ab1eed274cc13a73c68d947c51f43cc6",
+  "pdf_sha256": "72c56fc9971d2f5ccd1e1da18e5903dccec6515e4f424a49fed086db43d24f28",
+  "page_sha256": {
+    "66": "af84d572608982dcf36333f785e982da888a417ac6484a77811240aa5f9c3d2c",
+    "264": "fbd87d46be7b7b10dc179f5fd38813e3161afb5c97fca80ea98a624e3c6568de"
+  },
+  "release_ready": false,
+  "manual_warning_review": "Q_4_032 correct4 explanation denies universal application; wrong1/2 explain actual historical steps. All four tags and independent key4 visually verified. Lexical P1 retained."
+}
