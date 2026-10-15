@@ -1,0 +1,274 @@
+{
+  "batch": 87,
+  "base_commit": "7485bad2b1242583d6324a608034a18c166b0bae",
+  "fully_rejudged": [
+    "Q_3_023",
+    "Q_3_024",
+    "Q_3_025",
+    "Q_3_026",
+    "Q_3_027",
+    "Q_3_028",
+    "Q_3_029"
+  ],
+  "edits": 64,
+  "explicit_old_stem_removals": 1,
+  "status_counts": {
+    "確認済み": 225,
+    "修正必要": 56,
+    "要追加確認": 219
+  },
+  "remaining": 275,
+  "independent_answers": {
+    "Q_3_023": 4,
+    "Q_3_024": 1,
+    "Q_3_025": 3,
+    "Q_3_026": 4,
+    "Q_3_027": 3,
+    "Q_3_028": 3,
+    "Q_3_029": 4
+  },
+  "sources": {
+    "S148": {
+      "url": "https://web.ntpu.edu.tw/~language/workshop/read2.pdf",
+      "sha256": "da687ec83ed2f15eda15c826db87db79476dfb4561ced6d88d460d47e0c77158",
+      "pdf_pages": 25,
+      "author": "Rebecca L. Oxford",
+      "bibliographic_limit": "GALA2003 running header; formal publication year/venue not independently identified",
+      "body_and_image_verified_pages": [
+        8,
+        9,
+        10,
+        12,
+        13,
+        14
+      ],
+      "parser_warning": "xref num101 not found; Poppler reconstructed; six relevant pages visually verified",
+      "limits": "Author summary primary text, not entire 1990 book or alternative taxonomy originals or current empirical consensus."
+    }
+  },
+  "machine_warnings": 56,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_3_028",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "manual_warning_review": "Q_3_028 key3 correctly rejects always-mutually-exclusive interpretation; all four tags verified. P1 lexical heuristic retained.",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    46,
+    47,
+    48,
+    244,
+    245,
+    246
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_3_023', 'stem', None)": [
+      46
+    ],
+    "('Q_3_023', 'options', 0)": [
+      46
+    ],
+    "('Q_3_023', 'options', 1)": [
+      46
+    ],
+    "('Q_3_023', 'options', 2)": [
+      46
+    ],
+    "('Q_3_023', 'options', 3)": [
+      46
+    ],
+    "('Q_3_023', 'explanations', 0)": [
+      244
+    ],
+    "('Q_3_023', 'explanations', 1)": [
+      244
+    ],
+    "('Q_3_023', 'explanations', 2)": [
+      244
+    ],
+    "('Q_3_023', 'explanations', 3)": [
+      244
+    ],
+    "('Q_3_024', 'stem', None)": [
+      46
+    ],
+    "('Q_3_024', 'options', 0)": [
+      46
+    ],
+    "('Q_3_024', 'options', 1)": [
+      46
+    ],
+    "('Q_3_024', 'options', 2)": [
+      46
+    ],
+    "('Q_3_024', 'options', 3)": [
+      47
+    ],
+    "('Q_3_024', 'explanations', 0)": [
+      244
+    ],
+    "('Q_3_024', 'explanations', 1)": [
+      244
+    ],
+    "('Q_3_024', 'explanations', 2)": [
+      244
+    ],
+    "('Q_3_024', 'explanations', 3)": [
+      244
+    ],
+    "('Q_3_025', 'stem', None)": [
+      47
+    ],
+    "('Q_3_025', 'options', 0)": [
+      47
+    ],
+    "('Q_3_025', 'options', 1)": [
+      47
+    ],
+    "('Q_3_025', 'options', 2)": [
+      47
+    ],
+    "('Q_3_025', 'options', 3)": [
+      47
+    ],
+    "('Q_3_025', 'explanations', 0)": [
+      245
+    ],
+    "('Q_3_025', 'explanations', 1)": [
+      245
+    ],
+    "('Q_3_025', 'explanations', 2)": [
+      245
+    ],
+    "('Q_3_025', 'explanations', 3)": [
+      245
+    ],
+    "('Q_3_026', 'stem', None)": [
+      47
+    ],
+    "('Q_3_026', 'options', 0)": [
+      47
+    ],
+    "('Q_3_026', 'options', 1)": [
+      47
+    ],
+    "('Q_3_026', 'options', 2)": [
+      47
+    ],
+    "('Q_3_026', 'options', 3)": [
+      47
+    ],
+    "('Q_3_026', 'explanations', 0)": [
+      245
+    ],
+    "('Q_3_026', 'explanations', 1)": [
+      245
+    ],
+    "('Q_3_026', 'explanations', 2)": [
+      245
+    ],
+    "('Q_3_026', 'explanations', 3)": [
+      245
+    ],
+    "('Q_3_027', 'stem', None)": [
+      47
+    ],
+    "('Q_3_027', 'options', 0)": [
+      47
+    ],
+    "('Q_3_027', 'options', 1)": [
+      47
+    ],
+    "('Q_3_027', 'options', 2)": [
+      47
+    ],
+    "('Q_3_027', 'options', 3)": [
+      48
+    ],
+    "('Q_3_027', 'explanations', 0)": [
+      245
+    ],
+    "('Q_3_027', 'explanations', 1)": [
+      245
+    ],
+    "('Q_3_027', 'explanations', 2)": [
+      246
+    ],
+    "('Q_3_027', 'explanations', 3)": [
+      246
+    ],
+    "('Q_3_028', 'stem', None)": [
+      48
+    ],
+    "('Q_3_028', 'options', 0)": [
+      48
+    ],
+    "('Q_3_028', 'options', 1)": [
+      48
+    ],
+    "('Q_3_028', 'options', 2)": [
+      48
+    ],
+    "('Q_3_028', 'options', 3)": [
+      48
+    ],
+    "('Q_3_028', 'explanations', 0)": [
+      246
+    ],
+    "('Q_3_028', 'explanations', 1)": [
+      246
+    ],
+    "('Q_3_028', 'explanations', 2)": [
+      246
+    ],
+    "('Q_3_028', 'explanations', 3)": [
+      246
+    ],
+    "('Q_3_029', 'stem', None)": [
+      48
+    ],
+    "('Q_3_029', 'options', 0)": [
+      48
+    ],
+    "('Q_3_029', 'options', 1)": [
+      48
+    ],
+    "('Q_3_029', 'options', 2)": [
+      48
+    ],
+    "('Q_3_029', 'options', 3)": [
+      48
+    ],
+    "('Q_3_029', 'explanations', 0)": [
+      246
+    ],
+    "('Q_3_029', 'explanations', 1)": [
+      246
+    ],
+    "('Q_3_029', 'explanations', 2)": [
+      246
+    ],
+    "('Q_3_029', 'explanations', 3)": [
+      246
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "a1a54a1e1c2e578c004b468e964bbc70020cac4ba99f978b4618dfb6293c07bf",
+  "pdf_sha256": "110c3739983d97e3c164fe9c0c19583a815865a27dc46276beddcb0a9f3b344e",
+  "page_sha256": {
+    "46": "f349e4a61cb085c3c5b1b40383a100cf7ac9e50288277a58f798562d868c3c73",
+    "47": "096276704c89598dd498511e28f2db81125af05a40eb69b62229a1bb60a78f05",
+    "48": "7362a760849b6e009c369e62c2919a2d68f788e7eedc0a0b4bd096a1e8038792",
+    "244": "034fc6746e1945d73cc287356a4e7633374948e56569d2948bf1fcd65e4c0871",
+    "245": "2f8bc47770ba013f974578461e4c7f6321480f92373d7ee0df0a256d951fdeed",
+    "246": "18cac9ec07f6d9d59444a3f7cf26d7c241e381ce44aa4d836f4a514586a26dd1"
+  },
+  "release_ready": false,
+  "pagination_followup": "Q_3_024/Q_3_027 options cross pages46–48; Q_3_027 explanations cross245–246. Final keep-together tuning pending."
+}
