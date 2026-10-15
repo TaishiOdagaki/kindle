@@ -1,0 +1,133 @@
+{
+  "batch": 103,
+  "base_commit": "16eb7ad596b286db438d5cf1d6954580f31db78a",
+  "fully_rejudged": [
+    "Q_4_121",
+    "Q_4_127"
+  ],
+  "edits": 18,
+  "status_counts": {
+    "確認済み": 265,
+    "修正必要": 41,
+    "要追加確認": 194
+  },
+  "remaining": 235,
+  "independent_answers": {
+    "Q_4_121": 3,
+    "Q_4_127": 2
+  },
+  "sources": {
+    "S162": {
+      "urls": [
+        "https://creativecommons.org/licenses/by/4.0/legalcode.ja",
+        "https://creativecommons.org/licenses/by/4.0/deed.ja"
+      ],
+      "retrieved": "2026-10-16 JST",
+      "legalcode_html_sha256": "bda3a76be7223ed50862df5e3bbd00bdd7ca736f8a733dcc4ad86ca7ff3c0548",
+      "deed_html_sha256": "cf5b3d5b092076f0c146b9c41d7bca8a5ad5171660b7033cd8125ba5ac6d0382",
+      "scope": "Both complete texts read; legalcode sections 2,3 govern decision; not all OER or other licenses"
+    },
+    "S26": {
+      "source_reuse_not_new_acquisition": true,
+      "source_raw_sha256": "175e7c3bda1de44a747713629b9ef613258ef2fca202438e70ad611b4a014169",
+      "archive": "evidence/egov_batch101.xml.gz",
+      "scope": [
+        "2.1.15",
+        "21",
+        "23",
+        "24",
+        "32",
+        "48"
+      ]
+    }
+  },
+  "machine_warnings": 63,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_121",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    100,
+    102,
+    103,
+    299,
+    302
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_121', 'stem', None)": [
+      100
+    ],
+    "('Q_4_121', 'options', 0)": [
+      100
+    ],
+    "('Q_4_121', 'options', 1)": [
+      100
+    ],
+    "('Q_4_121', 'options', 2)": [
+      100
+    ],
+    "('Q_4_121', 'options', 3)": [
+      100
+    ],
+    "('Q_4_121', 'explanations', 0)": [
+      299
+    ],
+    "('Q_4_121', 'explanations', 1)": [
+      299
+    ],
+    "('Q_4_121', 'explanations', 2)": [
+      299
+    ],
+    "('Q_4_121', 'explanations', 3)": [
+      299
+    ],
+    "('Q_4_127', 'stem', None)": [
+      102
+    ],
+    "('Q_4_127', 'options', 0)": [
+      102
+    ],
+    "('Q_4_127', 'options', 1)": [
+      102
+    ],
+    "('Q_4_127', 'options', 2)": [
+      103
+    ],
+    "('Q_4_127', 'options', 3)": [
+      103
+    ],
+    "('Q_4_127', 'explanations', 0)": [
+      302
+    ],
+    "('Q_4_127', 'explanations', 1)": [
+      302
+    ],
+    "('Q_4_127', 'explanations', 2)": [
+      302
+    ],
+    "('Q_4_127', 'explanations', 3)": [
+      302
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "9c66b51c5d03975a7cae250afb9394f655bc8c8295ff83f0d473f565a7a266e1",
+  "pdf_sha256": "03fb12a792db931045aefcd6c2c1778ec8b0db815bd18a8978c0cbd7e2322e39",
+  "page_sha256": {
+    "100": "df84311a7a16dc75b120febcc10f64347f5fc9126f8fc288220eb40a9df85cac",
+    "102": "db51978ce324a632ffb7bb2b74d6a25a5411ad8655b6f12caef782f8aeecb8b8",
+    "103": "a6a5da72fd4471dbcdd0c62ae70b0bafe1d0d9c2762736f9e5555be21818ce39",
+    "299": "dbdf28ab976f7e2e6928104ec1bd4b515282186cd895ef3de08f2fff9262900f",
+    "302": "e8719bb215c88c09960f387d9e505442368fc812891444c2e74723cde7ea52d5"
+  },
+  "pagination_followup": "Q_4_127 stem/options1-2 page102; options3-4/link page103, requires final pagination adjustment. Full visual QA incomplete.",
+  "release_ready": false
+}
