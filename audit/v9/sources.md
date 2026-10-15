@@ -402,3 +402,12 @@ Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Appli
 | S151 | Roger Fisher・William Ury・Bruce Patton, [Getting to Yes、第2版表記の公開再組版PDF](https://siptulearn.ie/wp-content/uploads/2018/01/Fisher-Urry-Getting-to-yes.pdf)。SIPTU研修サイト掲載。 | 2026-10-15全90頁取得。PDF11〜14頁の原則、20〜24頁の伝達・意味確認・利害、31頁の複数案、42〜43頁の基準、50頁の非保証を本文照合。PDF11・21・23頁は画像も確認。PDF独自通し頁、商業出版版の頁とは区別。原著本文の複製であり、国別効果の実証研究ではない。 | Q_5_103・104 |
 
 文化類型の原著を未取得のまま承認しない。会場準備の会話は本問題集の教材用創作で、原著掲載の実例ではない。合意の強制・成功の保証をしない。PDFハッシュと照合範囲はevidence/batch92_review.jsonに記録。
+
+
+## 第93バッチ 自律性の原著本文照合
+
+| ID | 資料 | 取得・使用範囲 | 対象 |
+|---|---|---|---|
+| S152 | Henri Holec（1981）[Autonomy and Foreign Language Learning、Council of Europe／Pergamon版公開複製](https://www.scribd.com/document/807250266/Council-of-Europe-Modern-Languages-Project-Henri-Holec-Autonomy-and-Foreign-Language-Learning-Pergamon-Press-1981) | 2026-10-15公開HTMLの原著本文取得。奥付の初版1979／当該Pergamon版1981を区別。印刷3〜4頁の定義・能力と行動・支援、23〜24頁の教師の助言を本文照合。59頁のPDF全体を取得したとは扱わない。OCRの誤読が見られる導入の歴史記述など、対象外の主張は承認しない。 | Q_4_006・Q_M_017・Q_O_074 |
+
+特定の作文訂正法が自律性・情意面へ及ぼす普遍的効果を実証したとは扱わない。ケース15の成績変化は教材用架空事例の記述で、原著の実験結果ではない。出典本文の取得範囲とHTMLハッシュはevidence/batch93_review.jsonに記録。

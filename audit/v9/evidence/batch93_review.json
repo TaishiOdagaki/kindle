@@ -1,0 +1,159 @@
+{
+  "batch": 93,
+  "base_commit": "4cbc8dc4a26aa251c49f1a5c7401c7e9b13f93a4",
+  "fully_rejudged": [
+    "Q_4_006",
+    "Q_M_017",
+    "Q_O_074"
+  ],
+  "edits": 28,
+  "explicit_old_stem_removals": 1,
+  "status_counts": {
+    "確認済み": 240,
+    "修正必要": 53,
+    "要追加確認": 207
+  },
+  "remaining": 260,
+  "independent_answers": {
+    "Q_4_006": 2,
+    "Q_M_017": 1,
+    "Q_O_074": 1
+  },
+  "sources": {
+    "S152": {
+      "url": "https://www.scribd.com/document/807250266/Council-of-Europe-Modern-Languages-Project-Henri-Holec-Autonomy-and-Foreign-Language-Learning-Pergamon-Press-1981",
+      "retrieved_html_sha256": "ffea295328e3f133b9230c5be041805f5ae32de5bd27007701b18e59673aa67a",
+      "format": "Public original-text HTML preview; not whole59-page PDF",
+      "edition": "Title and imprint show1979first edition/1981Pergamon edition",
+      "body_verified_printed_pages": [
+        "3–4",
+        "23–24"
+      ],
+      "limits": "Not empirical correction-effect study, critical-period original, entire cited originals, or endorsement of OCR historical introduction"
+    }
+  },
+  "case15": "Shared case read, not modified; fictional nature and no causal universal inference explicit in Q_O_074",
+  "machine_warnings": 60,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_006",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1]"
+    ]
+  ],
+  "manual_warning_disposition": {
+    "Q_4_006": "P1 lexical heuristic. Correct explanation rejects guaranteed completion of autonomy, not correct option2. Wrong explanation1 affirmatively describes why learner-goal exclusion fails. 1wrong/2correct/3wrong/4wrong consistent."
+  },
+  "readiness_gate": "8 cases passed",
+  "render_pages": 398,
+  "visually_reviewed_pages": [
+    55,
+    56,
+    166,
+    172,
+    253,
+    367,
+    373
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_006', 'stem', None)": [
+      55,
+      56
+    ],
+    "('Q_4_006', 'options', 0)": [
+      56
+    ],
+    "('Q_4_006', 'options', 1)": [
+      56
+    ],
+    "('Q_4_006', 'options', 2)": [
+      56
+    ],
+    "('Q_4_006', 'options', 3)": [
+      56
+    ],
+    "('Q_4_006', 'explanations', 0)": [
+      253
+    ],
+    "('Q_4_006', 'explanations', 1)": [
+      253
+    ],
+    "('Q_4_006', 'explanations', 2)": [
+      253
+    ],
+    "('Q_4_006', 'explanations', 3)": [
+      253
+    ],
+    "('Q_M_017', 'stem', None)": [
+      172
+    ],
+    "('Q_M_017', 'options', 0)": [
+      172
+    ],
+    "('Q_M_017', 'options', 1)": [
+      172
+    ],
+    "('Q_M_017', 'options', 2)": [
+      172
+    ],
+    "('Q_M_017', 'options', 3)": [
+      172
+    ],
+    "('Q_M_017', 'explanations', 0)": [
+      373
+    ],
+    "('Q_M_017', 'explanations', 1)": [
+      373
+    ],
+    "('Q_M_017', 'explanations', 2)": [
+      373
+    ],
+    "('Q_M_017', 'explanations', 3)": [
+      373
+    ],
+    "('Q_O_074', 'stem', None)": [
+      166
+    ],
+    "('Q_O_074', 'options', 0)": [
+      166
+    ],
+    "('Q_O_074', 'options', 1)": [
+      166
+    ],
+    "('Q_O_074', 'options', 2)": [
+      166
+    ],
+    "('Q_O_074', 'options', 3)": [
+      166
+    ],
+    "('Q_O_074', 'explanations', 0)": [
+      367
+    ],
+    "('Q_O_074', 'explanations', 1)": [
+      367
+    ],
+    "('Q_O_074', 'explanations', 2)": [
+      367
+    ],
+    "('Q_O_074', 'explanations', 3)": [
+      367
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "a2933116b0dacb8421a55d7ec50f05bff21d08ad06cce750fabe0ab501eee92f",
+  "pdf_sha256": "b44e3a8a03950bb977c8da4691d6bdcff552fd175d28412c76f52361b370568a",
+  "page_sha256": {
+    "55": "70e35aadc870dc85ff6459f074ec8f6d30b6e264649e5eeadbe936c69ad4f6ee",
+    "56": "920750ceb793031902f1a621aaf9e4567b043462fcda452e35be4208fac11a92",
+    "166": "73b3b722f009aec19ccc45b03b0ef3d316941c7a9631c1e3fbe09056e3748a9a",
+    "172": "a343fc2238d4ff2982ad8b89c108b35e4cc6a17bd189aef490e922677d40fc73",
+    "253": "994d3110791d96109f1183681ddc2c36a1f67ac437b3711897a3f64935807f70",
+    "367": "ed022f019d729a8dcc5a607fd32ea3db2147265c1deae65d08a72a51c6f5c7ba",
+    "373": "83b4b94a596206daabde4b5f91e0832c28e8e9aacfbfa62c8d3facd6590481b7"
+  },
+  "release_ready": false,
+  "image_validation": "A truncated253PNG was rejected and regenerated. For373, PDF text and DOCX runs retained all tags; pdftocairo150dpi was additionally used and its page image directly verified for answer1 and all four tags. Adopted373image hash refers to Cairo PNG.",
+  "pagination_followup": "Q_4_006 stem crosses55–56. Exact changed-string check joins normalized adjacent PDF pages and records both pages, rather than assuming every paragraph fits one page. Final keep-together tuning pending."
+}
