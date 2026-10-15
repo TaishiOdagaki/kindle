@@ -1,0 +1,134 @@
+{
+  "batch": 99,
+  "base_commit": "74defd7ad03cbbdf59c90bcef110b2b4fd77535a",
+  "fully_rejudged": [
+    "Q_M_047",
+    "Q_M_048"
+  ],
+  "edits": 18,
+  "status_counts": {
+    "確認済み": 251,
+    "修正必要": 51,
+    "要追加確認": 198
+  },
+  "remaining": 249,
+  "independent_answers": {
+    "Q_M_047": 4,
+    "Q_M_048": 2
+  },
+  "sources": {
+    "S158": {
+      "title": "鼻濁音の聞き取り",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/02-12-01.php",
+      "scope": "公開HTML全56行を取得・精読。52〜53行、語中の[g]/[ŋ]、鼻から息が抜ける発音と意味が変わらないという説明。",
+      "sha256": "8a0d9f8e4ff531a1983ef0c67641c4c2f43887c6ee400804b94a805a2aa58ed8",
+      "targets": [
+        "Q_M_047"
+      ],
+      "retrieved": "2026-10-16 JST",
+      "limits": "指定教材の説明・例に限定。音声実測は未実施。全方言・全話者・全場面や使用率を承認しない。刊年不明、「最近」を2026年の統計と扱わない。"
+    },
+    "S36": {
+      "title": "アクセント基礎",
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-08-01.php",
+      "scope": "公開HTML全58行を取得・精読。51〜56行の共通語例と核。「箸」の「は」直後、「あなた」の「な」直後で下降し、核はそれぞれ第1拍・第2拍。尾高と平板の注意も読み、全語に下降があるとはしない。",
+      "sha256": "19f8d17c38f7dce4a48ece9cb88990fb1a50bac5c1f0214ce71dc2a511063947",
+      "targets": [
+        "Q_M_048"
+      ],
+      "retrieved": "2026-10-16 JST",
+      "limits": "指定教材の説明・例に限定。音声実測は未実施。全方言・全話者・全場面や使用率を承認しない。刊年不明、「最近」を2026年の統計と扱わない。"
+    }
+  },
+  "machine_warnings": 60,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_M_047",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "removed_machine_warnings": [
+    [
+      "P1",
+      "Q_M_047",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 3]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 399,
+  "visually_reviewed_pages": [
+    181,
+    383,
+    384
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_M_047', 'stem', None)": [
+      181
+    ],
+    "('Q_M_047', 'options', 0)": [
+      181
+    ],
+    "('Q_M_047', 'options', 1)": [
+      181
+    ],
+    "('Q_M_047', 'options', 2)": [
+      181
+    ],
+    "('Q_M_047', 'options', 3)": [
+      181
+    ],
+    "('Q_M_047', 'explanations', 0)": [
+      383
+    ],
+    "('Q_M_047', 'explanations', 1)": [
+      383
+    ],
+    "('Q_M_047', 'explanations', 2)": [
+      383
+    ],
+    "('Q_M_047', 'explanations', 3)": [
+      383
+    ],
+    "('Q_M_048', 'stem', None)": [
+      181
+    ],
+    "('Q_M_048', 'options', 0)": [
+      181
+    ],
+    "('Q_M_048', 'options', 1)": [
+      181
+    ],
+    "('Q_M_048', 'options', 2)": [
+      181
+    ],
+    "('Q_M_048', 'options', 3)": [
+      181
+    ],
+    "('Q_M_048', 'explanations', 0)": [
+      383
+    ],
+    "('Q_M_048', 'explanations', 1)": [
+      384
+    ],
+    "('Q_M_048', 'explanations', 2)": [
+      384
+    ],
+    "('Q_M_048', 'explanations', 3)": [
+      384
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "9abf51df105dbc28768f66a4765cfc5b7b4753e80f4aa8dfd86a4e2a4505e626",
+  "pdf_sha256": "7e9a3a4b6bf74244079e92687f0b74d5472c1e89998b4e33914cd07a0a4e6d3f",
+  "page_sha256": {
+    "181": "74cd491ba0f5bbabb0c16e294e62c3a503b5d81dd8feca97a309d0eba9dacecb",
+    "383": "26458873d499865ef495f9c02dfae701202f09e7dddc266e0e2007553e2d8457",
+    "384": "05df83a3211e259455831eb55595d11f1f0c0dc22f5a2c0424901e96530e214b"
+  },
+  "release_ready": false,
+  "pagination_followup": "M47の設問・4肢・全4解説とM48の設問・4肢はそれぞれ同一頁内。M48の解説は383頁の見出し・正解・第1解説から384頁の第2〜4解説へ続き、両頁を直接確認した。欠字・重なり・クリッピングなし。解説の改頁は最終組版で再確認する。"
+}
