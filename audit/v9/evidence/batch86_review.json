@@ -1,0 +1,90 @@
+{
+  "batch": 86,
+  "base_commit": "3911d93c026631d43eae27d6432e84ea1f2ff2a5",
+  "fully_rejudged": [
+    "Q_4_041"
+  ],
+  "partial_checks_not_approved": {
+    "Q_4_016": "要追加確認を維持。S13で選択肢1のみ照合、ラポール等の定義・効果は未確認。",
+    "Q_3_008": "修正必要を維持。成人の習得可能性・到達保証なしのみ追加照合。"
+  },
+  "edits": 9,
+  "status_counts": {
+    "確認済み": 218,
+    "修正必要": 57,
+    "要追加確認": 225
+  },
+  "remaining": 282,
+  "independent_answer": {
+    "Q_4_041": 1
+  },
+  "sources": {
+    "S13": {
+      "url": "https://www.sdkrashen.com/content/books/principles_and_practice.pdf",
+      "sha256": "082f7954a3ee0b6e1f164cf9269b4a94146153a2e31fa4c3b52d947c4c5970e9",
+      "pdf_pages": 209,
+      "original_year": 1982,
+      "internet_edition": "July 2009 per colophon",
+      "image_verified_page_map": {
+        "10": 17,
+        "15": 22,
+        "16": 23,
+        "21": 28,
+        "22": 29,
+        "31": 38,
+        "32": 39,
+        "83": 90
+      },
+      "scope": "Author hypotheses only. Not a full209page close reading or current consensus verification."
+    }
+  },
+  "machine_warnings": 55,
+  "new_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    70,
+    268,
+    269
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_041', 'stem', None)": [
+      70
+    ],
+    "('Q_4_041', 'options', 0)": [
+      70
+    ],
+    "('Q_4_041', 'options', 1)": [
+      70
+    ],
+    "('Q_4_041', 'options', 2)": [
+      70
+    ],
+    "('Q_4_041', 'options', 3)": [
+      70
+    ],
+    "('Q_4_041', 'explanations', 0)": [
+      268
+    ],
+    "('Q_4_041', 'explanations', 1)": [
+      268
+    ],
+    "('Q_4_041', 'explanations', 2)": [
+      268
+    ],
+    "('Q_4_041', 'explanations', 3)": [
+      269
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "docx_sha256": "19cb308a73d9cd63c33a0e4c8f3d2c4c8655b71b897da38847df8348aa7bf021",
+  "pdf_sha256": "9f2e8a6a367f3b5c870ac96277bbe85afca2dc1aea19ee58b1ef70125ce9429c",
+  "page_sha256": {
+    "70": "5e1c945cdd87756a37688a704d3917040ec4fde9c2b57a2961bc7ac54a4af929",
+    "268": "c4670b0a9332da4b01f0624ba3d57530867b5f1f2801a9474565272594c16a3c",
+    "269": "29f701383612e4901d1cd1b157c02cd3d5af970887ee3755850c6d83498df1f0"
+  },
+  "release_ready": false
+}
