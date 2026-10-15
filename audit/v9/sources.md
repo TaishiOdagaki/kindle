@@ -411,3 +411,12 @@ Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Appli
 | S152 | Henri Holec（1981）[Autonomy and Foreign Language Learning、Council of Europe／Pergamon版公開複製](https://www.scribd.com/document/807250266/Council-of-Europe-Modern-Languages-Project-Henri-Holec-Autonomy-and-Foreign-Language-Learning-Pergamon-Press-1981) | 2026-10-15公開HTMLの原著本文取得。奥付の初版1979／当該Pergamon版1981を区別。印刷3〜4頁の定義・能力と行動・支援、23〜24頁の教師の助言を本文照合。59頁のPDF全体を取得したとは扱わない。OCRの誤読が見られる導入の歴史記述など、対象外の主張は承認しない。 | Q_4_006・Q_M_017・Q_O_074 |
 
 特定の作文訂正法が自律性・情意面へ及ぼす普遍的効果を実証したとは扱わない。ケース15の成績変化は教材用架空事例の記述で、原著の実験結果ではない。出典本文の取得範囲とHTMLハッシュはevidence/batch93_review.jsonに記録。
+
+
+## 第94バッチ 原型と基本レベルの原著取得
+
+| ID | 資料 | 取得・照合範囲と限界 | 対象 |
+|---|---|---|---|
+| S153 | Eleanor Rosch（1978）[Principles of Categorization 原著公開PDF](https://escholarship.org/content/qt0sz9c8qh/qt0sz9c8qh_noSplash_9502f78e7451b3a9cbc24a68329e0890.pdf)、E. Rosch & B. B. Lloyd編Cognition and Categorization、27–48頁。[出版書誌](https://www.routledge.com/Cognition-and-Categorization/Rosch-Lloyd/p/book/9781032633381) | 2026-10-15全22頁取得。画像のみ、原著印刷27〜28・30〜43頁を版面精読。PDF頁=原著印刷頁−26。32頁表2.1、36頁典型性、38〜41頁の知見とモデルの区別、42〜43頁の文脈を照合。引用先Rosch等1976の原研究全体や、全多義語の意味史・語彙指導の普遍的効果を承認しない。 | Q_5_074・Q_M_016・Q_M_058 |
+
+MIT掲載の再録PDFは404で未取得だったが、独立した公開先eScholarshipの原著PDFを通常取得できた。検索抜粋だけでは承認していない。原著の走査日時を刊年にしない。典型性の架空評定課題は原著の実験結果ではない。PDFハッシュと版面確認頁はevidence/batch94_review.jsonに記録し全文転載しない。

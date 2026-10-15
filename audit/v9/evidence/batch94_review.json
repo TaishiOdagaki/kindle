@@ -1,0 +1,192 @@
+{
+  "batch": 94,
+  "base_commit": "0f7d01a8de4c6f290bf18d8bff4402baaebbbb25",
+  "fully_rejudged": [
+    "Q_5_074",
+    "Q_M_016",
+    "Q_M_058"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 243,
+    "修正必要": 53,
+    "要追加確認": 204
+  },
+  "remaining": 257,
+  "independent_answers": {
+    "Q_5_074": 3,
+    "Q_M_016": 3,
+    "Q_M_058": 1
+  },
+  "sources": {
+    "S153": {
+      "url": "https://escholarship.org/content/qt0sz9c8qh/qt0sz9c8qh_noSplash_9502f78e7451b3a9cbc24a68329e0890.pdf",
+      "sha256": "63f868c0e9d9406074cdcfe53f390a5c2816688645c8dff7fa6d24140eb7ed26",
+      "pdf_pages": 22,
+      "retrieval": "Full scanned chapter PDF, text extraction empty; source images directly read",
+      "image_verified_printed_pages": [
+        27,
+        28,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "page_mapping": "PDF page=printed page minus26",
+      "limits": "No full acquisition of cited1976 studies; no universal instructional effectiveness, polysemy etymology or mental representation model approval"
+    }
+  },
+  "fictional_scenario": "Q_M_016 assessment example invented, not an observed experiment",
+  "machine_warnings": 60,
+  "new_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 398,
+  "visually_reviewed_pages": [
+    127,
+    128,
+    171,
+    172,
+    184,
+    329,
+    330,
+    372,
+    373,
+    387
+  ],
+  "review_image_dpi": 150,
+  "rasterizer": "pdftocairo",
+  "all_changed_strings_found_in_pdf": {
+    "('Q_5_074', 'stem', None)": [
+      127
+    ],
+    "('Q_5_074', 'options', 0)": [
+      127
+    ],
+    "('Q_5_074', 'options', 1)": [
+      127
+    ],
+    "('Q_5_074', 'options', 2)": [
+      127
+    ],
+    "('Q_5_074', 'options', 3)": [
+      128
+    ],
+    "('Q_5_074', 'explanations', 0)": [
+      329
+    ],
+    "('Q_5_074', 'explanations', 1)": [
+      329
+    ],
+    "('Q_5_074', 'explanations', 2)": [
+      329
+    ],
+    "('Q_5_074', 'explanations', 3)": [
+      330
+    ],
+    "('Q_M_016', 'stem', None)": [
+      171
+    ],
+    "('Q_M_016', 'options', 0)": [
+      171
+    ],
+    "('Q_M_016', 'options', 1)": [
+      171
+    ],
+    "('Q_M_016', 'options', 2)": [
+      171
+    ],
+    "('Q_M_016', 'options', 3)": [
+      172
+    ],
+    "('Q_M_016', 'explanations', 0)": [
+      372
+    ],
+    "('Q_M_016', 'explanations', 1)": [
+      372
+    ],
+    "('Q_M_016', 'explanations', 2)": [
+      372
+    ],
+    "('Q_M_016', 'explanations', 3)": [
+      373
+    ],
+    "('Q_M_058', 'stem', None)": [
+      184
+    ],
+    "('Q_M_058', 'options', 0)": [
+      184
+    ],
+    "('Q_M_058', 'options', 1)": [
+      184
+    ],
+    "('Q_M_058', 'options', 2)": [
+      184
+    ],
+    "('Q_M_058', 'options', 3)": [
+      184
+    ],
+    "('Q_M_058', 'explanations', 0)": [
+      387
+    ],
+    "('Q_M_058', 'explanations', 1)": [
+      387
+    ],
+    "('Q_M_058', 'explanations', 2)": [
+      387
+    ],
+    "('Q_M_058', 'explanations', 3)": [
+      387
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "bef2e27d8059d63a81dff70960c45b27db6b3d0c68ab32c3e709e0ba87e2aa16",
+  "pdf_sha256": "8c0ea087427d6963a2a914308893f15da6bc1c9dc2cee51fe4f9bf300616888d",
+  "page_sha256": {
+    "127": "c5a1a68575769cdd2796506fb9d95968c5191b30c3800dcbb8bae886ea7c3abe",
+    "128": "7926711142825039eb11e27148f99dfd27663bbe23158102b648786c481e31a2",
+    "171": "cb2ca67540a800b53eba7c3c261fc4c0b6c71dde4fd46b6f8c9be8862a401aa9",
+    "172": "109076b75dc6e7e461e8b381a7bd28d46be269bd8c5d3762059c5cb430bb1dd1",
+    "184": "e0a513e349dedb7ff3f1a070ca9683539a6e3246d07473ea709f088f04671bbc",
+    "329": "571703e9a6478c56388350a4c9d64829b76aa6e4ff67f04f917943c9d9dc4c7d",
+    "330": "55b738de0c2a639136f8c3ae7bfd9b4eab0f0f5489dd77e7e915843c355a4044",
+    "372": "674a8793604ac34eae068742ff62a09eafbdfb7ef8f647527d1968c010817f5f",
+    "373": "5fcd3452641a6760d08b83a76c583e2b825432ef9892b790f8574d9a03666d07",
+    "387": "8d588d4b230663b896ef2a9a17578c4937e16b5da756548480e0a2cee37ee16c"
+  },
+  "release_ready": false,
+  "pagination_followup": {
+    "Q_5_074": {
+      "question": [
+        127,
+        128
+      ],
+      "explanation": [
+        329,
+        330
+      ]
+    },
+    "Q_M_016": {
+      "question": [
+        171,
+        172
+      ],
+      "explanation": [
+        372,
+        373
+      ]
+    },
+    "note": "日本語は判読可能で欠字・重なりなし。選択肢4および解説4の次頁分離は最終組版で再確認する。全頁最終QAは未了。"
+  }
+}
