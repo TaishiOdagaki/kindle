@@ -1,0 +1,163 @@
+{
+  "batch": 105,
+  "base_commit": "cd6b7809b3ebfb4ca8ac1caf611789c7befd1f6c",
+  "fully_rejudged": [
+    "Q_MO_014",
+    "Q_MO_015",
+    "Q_O_050"
+  ],
+  "edits": 27,
+  "status_counts": {
+    "確認済み": 270,
+    "修正必要": 41,
+    "要追加確認": 189
+  },
+  "remaining": 230,
+  "independent_answers": {
+    "Q_O_050": 4,
+    "Q_MO_014": 2,
+    "Q_MO_015": 2
+  },
+  "sources": {
+    "S163": {
+      "url": "https://www.mext.go.jp/content/20240321-ope_dev02-000034812_4.pdf",
+      "discovery_page": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_02667.html",
+      "date": "2024-04-01",
+      "retrieved": "2026-10-16 JST",
+      "bytes": 514031,
+      "sha256": "b534a9ae93f4d5ab0da201c0ec01a2edae1da2675d32cf6941fa40ba5157ee83",
+      "full_text_read": true,
+      "pages": 15,
+      "source_table_visually_reviewed_pdf_pages": [
+        3,
+        14
+      ],
+      "focused_scope": "Table1 practical use of learned knowledge; general goal12; mandatory content36 information-resource handling",
+      "first_download_truncated_not_used": true
+    },
+    "S162": "Official full legalcode acquired batch103; sections2,3",
+    "S26": "Original response acquired batch101; article35 reuse"
+  },
+  "machine_warnings": 64,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_O_050",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    158,
+    190,
+    191,
+    360,
+    394,
+    395
+  ],
+  "review_image_dpi": 150,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_O_050', 'stem', None)": [
+      158
+    ],
+    "('Q_O_050', 'options', 0)": [
+      158
+    ],
+    "('Q_O_050', 'options', 1)": [
+      158
+    ],
+    "('Q_O_050', 'options', 2)": [
+      158
+    ],
+    "('Q_O_050', 'options', 3)": [
+      158
+    ],
+    "('Q_O_050', 'explanations', 0)": [
+      360
+    ],
+    "('Q_O_050', 'explanations', 1)": [
+      360
+    ],
+    "('Q_O_050', 'explanations', 2)": [
+      360
+    ],
+    "('Q_O_050', 'explanations', 3)": [
+      360
+    ],
+    "('Q_MO_014', 'stem', None)": [
+      190
+    ],
+    "('Q_MO_014', 'options', 0)": [
+      190
+    ],
+    "('Q_MO_014', 'options', 1)": [
+      190
+    ],
+    "('Q_MO_014', 'options', 2)": [
+      190
+    ],
+    "('Q_MO_014', 'options', 3)": [
+      190
+    ],
+    "('Q_MO_014', 'explanations', 0)": [
+      394
+    ],
+    "('Q_MO_014', 'explanations', 1)": [
+      395
+    ],
+    "('Q_MO_014', 'explanations', 2)": [
+      395
+    ],
+    "('Q_MO_014', 'explanations', 3)": [
+      395
+    ],
+    "('Q_MO_015', 'stem', None)": [
+      190
+    ],
+    "('Q_MO_015', 'options', 0)": [
+      190
+    ],
+    "('Q_MO_015', 'options', 1)": [
+      190
+    ],
+    "('Q_MO_015', 'options', 2)": [
+      190
+    ],
+    "('Q_MO_015', 'options', 3)": [
+      191
+    ],
+    "('Q_MO_015', 'explanations', 0)": [
+      395
+    ],
+    "('Q_MO_015', 'explanations', 1)": [
+      395
+    ],
+    "('Q_MO_015', 'explanations', 2)": [
+      395
+    ],
+    "('Q_MO_015', 'explanations', 3)": [
+      395
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "font": "Noto Sans JP QA copy only",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "docx_sha256": "ea291231c6f764b1a3355ea910d671843bd40b97076ba66aafe0d61d16f64ea3",
+  "pdf_sha256": "a446e1ca8aad9a64d0ae1138078b8d0d704ea4d525e3c0eed471c37fb6a43b25",
+  "page_sha256": {
+    "158": "8b85c6fd40113a0318807d14f7618bc84fb81791f147b3b771141d0b3e9f82a4",
+    "190": "0db4a511f32c1d41d824957eedad5e7e1b0881960d1c579c811f5e62f1ac92d4",
+    "191": "d6caae0fd783974b44c9f0197913aefb3e45e9f3c0d0a274f1c9bc023b327586",
+    "360": "1dee2b28fd172c50b1d763ff02a54c44595c71923dd9cff82dda6805ad67142a",
+    "394": "17de3b447cb062531a99a6538f8ef9179a9a4284c6b842c9504a6114aae64866",
+    "395": "131032b06989e57959d6d513fcd634359e10c70cc5bddd3ef88131bef03d91e3"
+  },
+  "source_table_image_sha256": {
+    "3": "694ad41c719657669fdd5065dc2d162373e63773982699ca843843d40a9b01bb",
+    "14": "e3ad42e2ca7208f20b0cd3a09d866814210a75df012a78b463bbdbab0404edf6"
+  },
+  "pagination_followup": "MO14 exp1/2 split394/395; MO15 options3/4 split190/191. Review final pagination.",
+  "release_ready": false
+}
