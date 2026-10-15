@@ -27000,5 +27000,273 @@
     "before_version": "第87バッチ反映後の累積作業稿",
     "block_context": "A_4_032",
     "paragraph_prefix": "4（正）"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "stem",
+    "index": null,
+    "before": "コミュニケーション・ストラテジーの定義と分類に関する記述として、最も適切なものを一つ選びなさい。",
+    "after": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27〜28頁に示された分類に対応する説明を一つ選びなさい。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_2_013"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "options",
+    "index": 0,
+    "before": "語彙や文法規則の不足を理由に、話そうとしていたトピック自体を諦めたり別の話題に変えたりする行動は、「成就（達成）ストラテジー」に分類される。",
+    "after": "伝えようとした内容を諦めたり話題を避けたりする行動は、達成・補償ストラテジーの例である。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_2_013",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27〜28頁に示された分類に対応する説明を一つ選びなさい。"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "options",
+    "index": 1,
+    "before": "コミュニケーション・ストラテジーは、第二言語の習得初期段階（初級）にのみ現れる現象であり、上級者や母語話者が用いることはない。",
+    "after": "考える時間を得るためのフィラーや反復は、時間稼ぎではなく、すべて話題回避のストラテジーである。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_2_013",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27〜28頁に示された分類に対応する説明を一つ選びなさい。"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "options",
+    "index": 2,
+    "before": "母語の語彙にそのまま日本語の音韻変化を当てはめて発話する行為（例：英語の「desk」を「デスク」と発音する等）は、話題を避ける「回避ストラテジー」の典型例である。",
+    "after": "母語の語を目標言語風の発音にして不足を補う行動は、回避・縮小ストラテジーの例である。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_2_013",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27〜28頁に示された分類に対応する説明を一つ選びなさい。"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "options",
+    "index": 3,
+    "before": "コミュニケーション・ストラテジーとは、学習者が自身の目標言語の知識不足や不完全さを補い、相互理解を達成・維持するために用いる意図的な工夫や戦略のことである。",
+    "after": "使える言語資源を工夫して伝達目標を達成し、言語知識の不足などを補う行動は、達成・補償ストラテジーに対応する。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_2_013",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27〜28頁に示された分類に対応する説明を一つ選びなさい。"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "explanations",
+    "index": 0,
+    "before": "話題を諦めたり変更したりする行動は、意図した内容の伝達を避ける「回避ストラテジー」です。「成就（達成）ストラテジー」は、別の言葉や非言語的手段を用いてなんとか意思を伝えようとする行動を指します。",
+    "after": "同論文27頁と28頁の表5は、話題回避や伝達内容の放棄を回避・縮小ストラテジーに挙げています。伝えようとする内容を維持して不足を補う達成・補償とは区別します。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_2_013",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "explanations",
+    "index": 1,
+    "before": "コミュニケーション・ストラテジーは初級学習者に限らず、上級者や母語話者同士の対話（言葉が出てこないときのパラフレーズや確認行動など）においても日常的に用いられます。",
+    "after": "同論文27頁と表5は、考える時間を得るフィラーや反復を時間稼ぎの方略に挙げています。すべて話題回避と分類する説明は対応しません。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_2_013",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "explanations",
+    "index": 2,
+    "before": "母語や他言語の表現を転用・借用して補おうとする行為は、「言語間ストラテジー（L1ベースの達成ストラテジー／転移・借用）」に分類され、回避ストラテジーではありません。",
+    "after": "表5は母語の語を目標言語の発音に寄せる行動を達成・補償の欄に挙げています。この肢は、知識の不足を補って伝達しようとする行動を回避・縮小に分類しているため対応しません。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_2_013",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_2_013",
+    "field": "explanations",
+    "index": 3,
+    "before": "コミュニケーション・ストラテジーは、発話者が目標言語での表現において言語的リソースの不足などの障害に直面した際、意図した意味を伝えるため、または対話を維持するために用いる問題解決的な手段・工夫を指します。",
+    "after": "同論文27頁の達成・補償の説明に対応します。使える言語資源を用いて伝達目標に向かい、不足を補う行動です。あらゆる研究の分類が同一という意味ではなく、指定した論文の区分を問うています。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_2_013",
+    "paragraph_prefix": "4（正）"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "stem",
+    "index": null,
+    "before": "「意味の交渉」において用いられるストラテジーとその発話例の組み合わせとして、最も適切なものを一つ選びなさい。",
+    "after": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28頁表5を基準に、意味の交渉に関わる方略名と発話例が対応するものを一つ選びなさい。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_4_021"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "options",
+    "index": 0,
+    "before": "明確化要求 ── 話手が「私の言っていることが分かりますか？」と、相手が理解しているかを確かめる発話。",
+    "after": "明確化要求：話し手が「私の説明についてこられますか」と、聞き手が理解できているかを確かめる。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_4_021",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28頁表5を基準に、意味の交渉に関わる方略名と発話例が対応するものを一つ選びなさい。"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "options",
+    "index": 1,
+    "before": "リキャスト ── 話手が発話の途中で適切な単語が見つからず、辞書を引いたり別の言い方に変更したりする発話。",
+    "after": "時間稼ぎの方略：聞き手が「その言葉はどういう意味ですか」と、理解できない点の説明を求める。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_4_021",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28頁表5を基準に、意味の交渉に関わる方略名と発話例が対応するものを一つ選びなさい。"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "options",
+    "index": 2,
+    "before": "確認チェック ── 聞き手が「あなたが言ったのは〜という意味ですか？」と、自分の理解が正しいかを相手に確認する発話。",
+    "after": "確認要求（確認チェック）：聞き手が「今、火曜日とおっしゃいましたか」と、相手の発話を正しく聞き取ったか確かめる。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_4_021",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28頁表5を基準に、意味の交渉に関わる方略名と発話例が対応するものを一つ選びなさい。"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "options",
+    "index": 3,
+    "before": "理解チェック ── 聞き手が「すみません、もう一度言ってください」と、聞き取れなかった部分の言い直しを求める発話。",
+    "after": "理解チェック：聞き手が「すみません、もう一度言ってください」と、相手の発話の反復を求める。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "Q_4_021",
+    "stem_context": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28頁表5を基準に、意味の交渉に関わる方略名と発話例が対応するものを一つ選びなさい。"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "explanations",
+    "index": 0,
+    "before": "話手が「私の言っていることが分かりますか？（Do you understand?）」と尋ねるのは「理解チェック」です。設問の説明は誤りです（明確化要求は、聞き手が相手に理解不能な箇所の説明を求める行為です）。",
+    "after": "表5の理解チェックには、相手が話についてこられるか確かめる発話が挙げられています。この肢は話し手が相手の理解を確かめており、理解できない点の説明を求める明確化要求とは違います。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_4_021",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "explanations",
+    "index": 1,
+    "before": "リキャストは聞き手（主に教師）が相手の誤りを正しく言い直して返すフィードバック技術であり、話者自身の言い換えや辞書使用（コミュニケーション・ストラテジーの一種）ではありません。",
+    "after": "表5では、意味や説明を尋ねる発話は明確化要求に対応します。フィラーや反復によって考える時間を得る時間稼ぎの例ではありません。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_4_021",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "explanations",
+    "index": 2,
+    "before": "聞き手が相手の発話の意図を正しく捉えられたか確認するために「〜ということですか？」と問うのは「確認チェック」です。",
+    "after": "表5の確認要求には、相手が何と言ったかを確かめる発話が挙げられています。この肢は相手の発話の聞き取りを確認しており、方略名と行動が対応します。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_4_021",
+    "paragraph_prefix": "3（正）"
+  },
+  {
+    "id": "Q_4_021",
+    "field": "explanations",
+    "index": 3,
+    "before": "聞き手が「え？ 何ですか？」「もう一度言ってください」と再説明・明確化を求めるのは「明確化要求」です（理解チェックの説明ではありません）。",
+    "after": "表5は、もう一度言うよう求める反復要求と、理解できない点の説明を求める明確化要求を区別しています。この肢は反復要求であって、話し手が相手の理解を確かめる理解チェックではありません。",
+    "reason": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+    "sources": [
+      "S149"
+    ],
+    "applied": true,
+    "before_version": "第88バッチ反映後の累積作業稿",
+    "block_context": "A_4_021",
+    "paragraph_prefix": "4（誤）"
   }
 ]

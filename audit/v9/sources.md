@@ -372,3 +372,10 @@ Krashen [Principles and Practice in Second Language Acquisition](https://www.sdk
 S144 [Richards2006著者公開冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)印刷7頁（PDF11頁）の全五手順を本文・画像照合しQ_4_032の全4肢・4解説を改訂・確認済み。記述された歴史的授業手順に限定し普遍的教授効果・現代全授業への推奨としない。Richards/Rodgers2001著書全文は未取得。
 
 Canale/Swain1980 [出版社書誌](https://doi.org/10.1093/applin/I.1.1)：Applied Linguistics I(1),1–47、1980-03-01、出版社は有料アクセス表示。本文未取得。[UEfAP候補](https://www.uefap.com/tefsp/bibliog/canale_swain.pdf)は404。[ResearchGate著者公開表示](https://www.researchgate.net/publication/31260438_THEORETICAL_BASES_OF_COMMUNICATIVE_APPROACHES_TO_SECOND_LANGUAGE_TEACHING_AND_TESTING)はMerrill Swainアップロードと表示されたが表示全文リンクのクリック先404。検索抜粋・他研究の引用で代用承認しない。Q_2_013・018は要追加確認を維持。
+
+
+## S149 Celce-Murcia・Dörnyei・Thurrell（1995）原論文
+
+[Communicative Competence: A Pedagogically Motivated Model with Content Specifications 公開スキャン](https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true)、Issues in Applied Linguistics6(2),5〜35。全16PDF頁（見開きスキャン）を2026-10-15取得。題名・著者・刊年・誌名・頁はPDF1頁で画像確認。印刷26〜27頁→PDF12頁、28〜29頁→PDF13頁の本文・表5を画像照合。Q_2_013は回避縮小・達成補償・時間稼ぎ、Q_4_021は反復・明確化・確認要求・理解チェックを全4肢・4解説・独立正答まで照合。本人らの分類の一次資料として用い、引用先Canale/Swain1980、Canale1983、Varonis/Gass1985原著全文取得とはしない。Q_2_018は未確認を維持。母語話者での頻度、普遍的意図性、学習効果の保証まで承認しない。全論文を精読済みとはせず、SHA256と範囲をevidence/batch89_review.jsonへ記録。
+
+取得経路の制約：[大学リポジトリ書誌](https://escholarship.org/uc/item/2928w4zj)はロボット確認画面のためそこでの取得を中止し、独立公開スキャンを使用。Dörnyei/Thurrell1991の旧著者サイト候補 https://www.zoltandornyei.co.uk/uploads/1991-dornyei-thurrell-eltj.pdf は410、CiteSeer候補は403のため迂回せず未取得。
