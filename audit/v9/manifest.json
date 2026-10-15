@@ -6,9 +6,9 @@
   "answers": 500,
   "content_reviewed": 500,
   "status_counts": {
-    "確認済み": 206,
-    "修正必要": 60,
-    "要追加確認": 234
+    "確認済み": 208,
+    "修正必要": 59,
+    "要追加確認": 233
   },
   "v5_v6_priority_questions": 278,
   "release_ready": false,

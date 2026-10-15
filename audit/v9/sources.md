@@ -339,3 +339,8 @@ S144追加照合：著者公開52頁冊子の印刷18頁（PDF22頁）の説明�
 | S146 | Michael H. Long [Focus on form in Task-Based Language Teaching](https://woucentral.weebly.com/uploads/7/4/6/9/7469707/long_1997_intro_focus_on_form.pdf) 公開複製11頁版 | PDF1頁Option 1、3頁Option 2、5頁Option 3とform-focused instructionとの区別、6頁図2の七段階と1〜3の説明、7頁タスク系列と文脈内形式指導例 | 本文を取得。該当1・3・5・6・7頁は画像照合。本文に1997年秋への言及があるが正式刊年は保証しない。大学公式1998年メタデータの本文とCORE15頁版は403で未取得。1991年章や1998年章全体の承認ではない。引用された実証研究全てを取得したとは扱わない。 | Q_4_022・023・038 |
 
 S144追加照合：Richards2006著者公開52頁冊子の印刷10頁（PDF14頁）を本文と画像で確認。伝統的な文法項目・レベル配列の説明をQ_4_023の明示条件に適用する。すべての構造シラバスに語彙・音声を含める一律の定義や、話題名だけによる分類は採用しない。原著全文は転載せずURL・ハッシュと照合範囲をevidence/batch82_review.jsonに記録。
+
+
+## 第83バッチ S144の追加照合（2026-10-15）
+
+[Richards2006著者公開52頁冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)をWebでも再取得・同定し、印刷11頁（PDF15頁）の機能・技能・タスクの編成基準、19頁（PDF23頁）のジグソー活動の定義と例を本文・画像で確認した。対象Q_4_020・024。部分情報を交換して全体を完成させる仕組みと、実際の発話参加・習得効果を区別し、ジグソー原提唱者の原著まで読んだとは扱わない。Q_4_020の活動案は架空の適用例。機能シラバスの普遍的な利点・欠点や、タスクは成果物のみ評価するという主張は承認しない。PDF全文は転載せず、ハッシュと確認頁をevidence/batch83_review.jsonへ記録。

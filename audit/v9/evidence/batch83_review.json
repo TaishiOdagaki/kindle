@@ -1,0 +1,114 @@
+{
+  "batch": 83,
+  "base_commit": "3ef0834fba77018217a626d1c82d94c75ef184d5",
+  "questions": [
+    "Q_4_020",
+    "Q_4_024"
+  ],
+  "edits": 18,
+  "status_counts": {
+    "確認済み": 208,
+    "修正必要": 59,
+    "要追加確認": 233
+  },
+  "remaining": 292,
+  "independent_answers": {
+    "Q_4_020": 4,
+    "Q_4_024": 4
+  },
+  "sources": {
+    "S144": {
+      "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+      "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+      "pdf_pages": 52,
+      "image_verified_page_map": {
+        "11": 15,
+        "19": 23
+      },
+      "scope": "本人の編成単位・活動定義に限定。原提唱者の原著取得や効果保証ではない。"
+    }
+  },
+  "machine_warnings": 53,
+  "new_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 400,
+  "visually_reviewed_pages": [
+    62,
+    63,
+    64,
+    260,
+    261,
+    262
+  ],
+  "full_visual_qa_completed": false,
+  "all_changed_strings_found_in_pdf": {
+    "('Q_4_020', 'stem', None)": [
+      62
+    ],
+    "('Q_4_020', 'options', 0)": [
+      62
+    ],
+    "('Q_4_020', 'options', 1)": [
+      62
+    ],
+    "('Q_4_020', 'options', 2)": [
+      62
+    ],
+    "('Q_4_020', 'options', 3)": [
+      62
+    ],
+    "('Q_4_020', 'explanations', 0)": [
+      260
+    ],
+    "('Q_4_020', 'explanations', 1)": [
+      260
+    ],
+    "('Q_4_020', 'explanations', 2)": [
+      260
+    ],
+    "('Q_4_020', 'explanations', 3)": [
+      260
+    ],
+    "('Q_4_024', 'stem', None)": [
+      63
+    ],
+    "('Q_4_024', 'options', 0)": [
+      63
+    ],
+    "('Q_4_024', 'options', 1)": [
+      64
+    ],
+    "('Q_4_024', 'options', 2)": [
+      64
+    ],
+    "('Q_4_024', 'options', 3)": [
+      64
+    ],
+    "('Q_4_024', 'explanations', 0)": [
+      261
+    ],
+    "('Q_4_024', 'explanations', 1)": [
+      261
+    ],
+    "('Q_4_024', 'explanations', 2)": [
+      262
+    ],
+    "('Q_4_024', 'explanations', 3)": [
+      262
+    ]
+  },
+  "font": "Noto Sans JP Static Regular400 QA copy only",
+  "render_recovery": "Original PNG63 and262 failed PIL verification with Truncated File Read. Regenerated six reviewed pages from same completed PDF using pdftoppm; all review-N.png verified and visually read.",
+  "pagination_followup": "Q_4_024 stem/options63-64 and explanations261-262; final pagination adjustment pending",
+  "docx_sha256": "3e07bdd3983ce4a0c6543d57f613bd59638ecb4cfa7c56261054320b18da0bd7",
+  "pdf_sha256": "8a5f1fb693ea8ab87e999d8da7818ffeb7c3402bf98cd2581cffb88ddbe8a22c",
+  "page_sha256": {
+    "62": "bb5af378911bce32a079363c9c202efb15d19d0df181aee3a3c038ee66299a36",
+    "63": "1c27e1a7915c9fa56a692b629124b33040e4b27d59c47add0597def235d46c00",
+    "64": "81b7663d3843e8203461c6a4fba3312d1fb318f5efe3b602f3080929c05873ec",
+    "260": "45a5e1018c0ce99162784732b62accc91af2d1053b4dcbfe5502bedf6f96710f",
+    "261": "be1a8a2017c97cf8cb6e67e692b5e12301dbac64e5ca46aadb6d153230e771de",
+    "262": "be8023345d4fedce884d9313032ec19fc45b188617df90772e728f85c0abe3c2"
+  },
+  "release_ready": false
+}
