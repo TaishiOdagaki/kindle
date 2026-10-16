@@ -1,0 +1,14 @@
+{
+  "about": {
+    "bytes": 52606,
+    "sha256": "9728bc05bbeb9a81826ae00b801e4a1778f98911943ece15e3fe54e37214d609"
+  },
+  "course": {
+    "bytes": 17775,
+    "sha256": "c70a218f7789674f6ab6c4e7778c8d3d0c090f30f28e357ce0e8bde3256e242b"
+  },
+  "summary": {
+    "bytes": 26256,
+    "sha256": "f548248a0fbaa181e32416f406754f8c6914ca6532e179fc0ef284ed2f5c7325"
+  }
+}

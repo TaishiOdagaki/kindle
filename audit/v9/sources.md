@@ -500,3 +500,10 @@ S36の既存Q_5_026判定を上書きしない。原バイトのハッシュはe
 - S164 厚労省 [外国人労働者に対する安全衛生教育の推進等について](https://www.mhlw.go.jp/web/t_doc?dataId=00tc4244&dataType=1&pageNo=1)、2019-03-28基発0328第28号。未保存時に全文を取得・読了し、復旧時に原HTMLを再取得、1本文とイ（設備対策等）、ロ（母語・視聴覚教材）、ハ（理解度確認・反復）、ニ（必要な日本語・合図）を再照合。教育上の適用判断と因果的効果保証を区別する。旧14分野表や個別作業の安全技術を現在の網羅情報として使わない。
 - S165 厚労省 [安全衛生教育及び研修の推進について・別紙安全衛生教育等推進要綱](https://www.mhlw.go.jp/web/t_doc?dataId=00tc2631&dataType=1&pageNo=1)、1991-01-21基発第39号の公式掲載本文。4(4)・5(5)を照合。元通知の日付と改正反映本文を区別し、全改正の経過措置・別表・画像別図を承認したとはしない。
 - 原HTMLはevidence/S164_safety_education_notice.html.gz及びS165_safety_education_notice.html.gz。解凍一致・原バイト数・ハッシュを記録。HTML末尾と対象本文の存在を検査した。S163の必須内容〈31〉と目的・目標・評価の関係、S26本則第2・10条も対応箇所と照合。
+
+
+## 第107バッチ S11追加照合（2026-10-16）
+
+国際交流基金公式 [Can-doとは](https://www.jfstandard.jpf.go.jp/cando/about/summary/ja/render.do) の定義、種類（活動・テクスト・方略・能力）、言語構造的能力、留意点の言語材料・目標と評価の使い分け・MY Can-doを本文取得・照合。[活用方法](https://www.jfstandard.jpf.go.jp/course/ja/render.do) 全62行の目標・授業・評価の一貫性と必要な語彙・文法の準備、[JFスタンダードとは](https://www.jfstandard.jpf.go.jp/summary/ja/render.do) の目標共有・現場に応じた利用・自己評価（52〜108行）も本文照合。対象Q_4_013・026。検索抜粋だけの承認ではない。画像内の全表や他リンク先、CEFR全冊、実証的効果研究を承認したとはしない。刊年・更新日をフッターのcopyrightや取得日から推定しない。
+
+再取得HTML原バイトをevidence/S11_batch107_about.html.gz・course.html.gz・summary.html.gzに保存、バイト数・SHA256はbatch107_sources.json。注文例は独自作成で公式引用・認定レベルを付与しない。

@@ -1,0 +1,101 @@
+{
+  "batch": 107,
+  "base_commit": "76e7cce7e150c637fa5f0ef01a45c8f0804ada61",
+  "fully_rejudged": [
+    "Q_4_013",
+    "Q_4_026"
+  ],
+  "edits": 15,
+  "independent_answers": {
+    "Q_4_013": 2,
+    "Q_4_026": 3
+  },
+  "sources": [
+    "S11"
+  ],
+  "status_counts": {
+    "確認済み": 277,
+    "修正必要": 40,
+    "要追加確認": 183
+  },
+  "remaining": 223,
+  "machine_warnings": 67,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_026",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 402,
+  "visually_reviewed_pages": [
+    58,
+    63,
+    64,
+    256,
+    257,
+    262
+  ],
+  "image_scale_to_pixels": 1800,
+  "all_changed_strings_found": {
+    "('Q_4_013', 'stem', None)": [
+      58
+    ],
+    "('Q_4_013', 'options', 1)": [
+      58
+    ],
+    "('Q_4_013', 'explanations', 0)": [
+      256
+    ],
+    "('Q_4_013', 'explanations', 1)": [
+      256
+    ],
+    "('Q_4_013', 'explanations', 2)": [
+      257
+    ],
+    "('Q_4_013', 'explanations', 3)": [
+      257
+    ],
+    "('Q_4_026', 'stem', None)": [
+      63
+    ],
+    "('Q_4_026', 'options', 0)": [
+      63
+    ],
+    "('Q_4_026', 'options', 1)": [
+      63
+    ],
+    "('Q_4_026', 'options', 2)": [
+      64
+    ],
+    "('Q_4_026', 'options', 3)": [
+      64
+    ],
+    "('Q_4_026', 'explanations', 0)": [
+      262
+    ],
+    "('Q_4_026', 'explanations', 1)": [
+      262
+    ],
+    "('Q_4_026', 'explanations', 2)": [
+      262
+    ],
+    "('Q_4_026', 'explanations', 3)": [
+      262
+    ]
+  },
+  "docx_sha256": "c699f95f38885dcfd5994a926831f38a10c648c398e296f2246433ea39f9c85b",
+  "pdf_sha256": "c8eca3eb5cea1c03992e4852b9f231f69cb9238212862ac727308a3803e8567c",
+  "page_sha256": {
+    "58": "74a565b63923baee862aad383c05f9ceb64d0b9d41e0006cfc8370ca445b2f3e",
+    "63": "a5d3472a3940331933eca3d7bb73838536a59daa36ac3b590748973db71cb6db",
+    "64": "4c86747d0d6f54d747d2933eb2808ae40a224bbd2dabded1b02f6efaaa63df87",
+    "256": "8554828097ae2faa794b7d75f9ff970c349ba5386315d3aec00f4c5266d26d3d",
+    "257": "7e6e48afc7de0700dca7a6b275838fe125cf4d0a279d3c14588d08dcd6baa996",
+    "262": "8f7fffb9a1c425e113f514d2a1a5d6a65e4f8e8222098f2ed67118ddcf2b9862"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
