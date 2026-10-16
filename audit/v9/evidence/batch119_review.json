@@ -1,0 +1,95 @@
+{
+  "batch": 119,
+  "base_commit": "72fb1ff0b41e42e0816b784ac40f7d1b59c17b83",
+  "recovered_after_workspace_loss": true,
+  "fully_rejudged": [
+    "Q_1_039",
+    "Q_O_010",
+    "Q_M_030"
+  ],
+  "edits": 12,
+  "independent_answers": {
+    "Q_1_039": 4,
+    "Q_O_010": 1,
+    "Q_M_030": 2
+  },
+  "sources": [
+    "S179",
+    "S183"
+  ],
+  "status_counts": {
+    "確認済み": 311,
+    "修正必要": 35,
+    "要追加確認": 154
+  },
+  "remaining": 189,
+  "machine_warnings": 88,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_1_039",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positive: permission for finer levels not denial of correct option4",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 404,
+  "visually_reviewed_pages": [
+    21,
+    22,
+    176,
+    219,
+    347,
+    381
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      347
+    ],
+    "1": [
+      176
+    ],
+    "2": [
+      176
+    ],
+    "3": [
+      176
+    ],
+    "4": [
+      381
+    ],
+    "5": [
+      381
+    ],
+    "6": [
+      381
+    ],
+    "7": [
+      21
+    ],
+    "8": [
+      219
+    ],
+    "9": [
+      219
+    ],
+    "10": [
+      219
+    ],
+    "11": [
+      219
+    ]
+  },
+  "docx_sha256": "59ad773cd316c94f4e136946bf8e35f4fd4d8312e18d73b9b13c9945e128a900",
+  "pdf_sha256": "48a20b22984fe285e59fc6aaf1c3a823a352c3c7808a2c9d47b9ad4879f27ba0",
+  "page_sha256": {
+    "21": "82825d4083673489e080f6414bce465a0e6160bbb6fb2222d2bcb798a536cf00",
+    "22": "c664e881b12719f5bcdd55497dcd76a479ab0daff08fdf05306d4081771e69fe",
+    "176": "31829fd18feb88edfba5b4d46836c5ef66bb4742138a17a7ec51e0f85bfd0afe",
+    "219": "7a95922d0cfa23e7902504d2a70c41b80fadffbafbd1594ec4a5e9eb4cc620fc",
+    "347": "c33d4dd7b9b57cb1515c78ddfd5eef56a7c3825f75c7d83737ba46a7b82dc040",
+    "381": "4ee0cef75c13bdc53993ba3e12b93e239e5a6051ec806248fec08d6c0ffb9cb3"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

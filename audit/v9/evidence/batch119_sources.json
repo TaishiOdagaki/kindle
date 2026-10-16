@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S179",
+    "url": "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf",
+    "bytes": 1160999,
+    "sha256": "4dcaa6c71acc3ddd504d38c11396b199d61a418d224807ce039e468acdc8b062",
+    "body_read_scope": "CEFR2001printed4-5/PDF13-14,9-10/PDF18-19,23-25/PDF32-34 text and image review;3.2Figure1,3.3,3.4opening; prior9.3.2 and9.3.5 reused",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "bytes": 1162784,
+    "sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+    "body_read_scope": "TKT Assessment printed4-5/PDF5-6:Peer/Self/Diagnostic/Formative/Summative; prior batch118 full entry text/image review reused",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]

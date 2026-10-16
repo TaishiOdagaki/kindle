@@ -586,3 +586,8 @@ FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content
 - S179 CEFR2001公式PDFの印刷183〜185頁/PDF192〜194を新たに本文・画像精読。9.3.1到達度/熟達度、9.3.2規範/基準の区別を使用。9.3.3〜9.3.4の隣接本文も読んだが関連全問を自動承認しない。9.3.5〜9.3.8の第116バッチ取得・照合を再利用。S142採点仕様の既取得照合もQ_4_012に使用。
 
 原資料URL・原バイトSHA256・範囲はevidence/batch118_sources.json。資料全文は非転載。例の順位や算数は編集上の独立確認であり原資料の実験ではない。
+
+
+## 第119バッチ S179・S183再取得と追加照合（2026-10-16）
+
+S179 [CEFR2001公式原著](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf)の印刷4〜5/PDF13〜14、9〜10/PDF18〜19、23〜25/PDF32〜34を本文・画像照合。3.2図1・3.3・3.4冒頭と1.3・2.1の範囲を使用。途中の欠損PNGは除外し、単頁再描画やpdftocairoで有効画像を読んだ。9.3.2と9.3.5は既取得範囲を再利用。S183 [Cambridge TKT公式用語集](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)の印刷4〜5/PDF5〜6のAssessment各定義（Peer/Self/Diagnostic/Formative/Summative）を第118バッチ本文・画像照合から再利用。今回両原PDFを再取得して保存済みSHA256と一致を確認。刊年・現行仕様を推定しない。本文の全転載・全冊翻訳や引用先研究の取得ではない。原バイトURL・ハッシュ・範囲はevidence/batch119_sources.json。
