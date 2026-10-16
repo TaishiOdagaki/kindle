@@ -537,3 +537,9 @@ K. Anders Ericsson・Herbert A. Simon（1980）Verbal Reports as Data, Psycholog
 ## 第112バッチ S171（2026-10-16）
 
 文部科学省初等中等教育局「初等中等教育段階における生成AIの利活用に関するガイドライン」（2024-12-26、Ver.2.0）。[公式本文PDF](https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf)33頁を取得、7・17・18・20頁を本文精読、7・18・20頁を画像照合。公式掲載案内も照合。7頁は課題・指示・真偽の判断と人間主体、17頁は発達段階・学習状況・リスク対策、18頁Box5・20頁Box6は自己の文章へのAI修正をたたき台に本人が推敲する例とそのまま提出する問題。推奨と因果実証を区別し、Q_4_118の対象を指定版の初等中等教育に限定して承認。全33頁の精読、成人教育への一般効果、現行法や個別利用規約、各製品性能は承認対象外。evidence/batch112_source.jsonに原バイトのハッシュと照合範囲を保存。
+
+
+## 第113バッチ S172・S173（2026-10-16）
+
+- S172 Moodle4.5公式本文：[Quiz activity](https://docs.moodle.org/405/en/Quiz_activity)、[Quiz settings](https://docs.moodle.org/405/en/Quiz_settings)、[Forum activity](https://docs.moodle.org/405/en/Forum_activity)、[Activity completion report](https://docs.moodle.org/405/en/Activity_completion_report)。本文取得、Quiz/Forumの概要・教員表示、Review options、完了報告の権限・表示凡例を精読。HTML原バイトをgzipで保存しSHA256照合。Q_4_116の設定依存機能の根拠。他製品・全LMS・因果的学習効果の承認ではない。
+- S173 Flipped Learning Network (2014), What Is Flipped Learning? [公式原著PDF](https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf)。全2頁を本文精読・画像照合。定義、Flipped Classroomとの区別、F/L/I/P四本柱と11指標を確認。URLの2016ではなく本文の引用指定2014を採用。Q_4_117とQ_O_037〜040は枠組み・形成的評価・柔軟な支援への対応を問う形へ限定。効果実証、最適動画時間、他教授法の分類は承認対象外。原著PDF全体は転載せずURL・ハッシュ・照合範囲をbatch113_sources.jsonへ保存。日本語の独立した要約・問題改訂であり全文翻訳ではない。

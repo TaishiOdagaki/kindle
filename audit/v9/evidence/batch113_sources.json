@@ -1,0 +1,61 @@
+{
+  "S172": {
+    "title": "Moodle4.5 official documentation",
+    "pages": [
+      {
+        "url": "https://docs.moodle.org/405/en/Quiz_activity",
+        "bytes": 36166,
+        "sha256": "e8147e51ead6f2c517a82cffcc1e73c518539983c5eda6e14a10f433c2031366",
+        "archive": "batch113_moodle_Quiz_activity.html.gz",
+        "read_sections": [
+          "What is the Quiz activity?",
+          "Teacher view"
+        ]
+      },
+      {
+        "url": "https://docs.moodle.org/405/en/Quiz_settings",
+        "bytes": 70410,
+        "sha256": "9335f052aa7e4da1e5afd5fcaec8e0122b77b058759ff3e9aa175bb99de38419",
+        "archive": "batch113_moodle_Quiz_settings.html.gz",
+        "read_sections": [
+          "Review options"
+        ]
+      },
+      {
+        "url": "https://docs.moodle.org/405/en/Forum_activity",
+        "bytes": 34106,
+        "sha256": "21a1ed36277c64572edacccb3469c76e99c6f277feb863f944aea1feeac8b0a2",
+        "archive": "batch113_moodle_Forum_activity.html.gz",
+        "read_sections": [
+          "What is the Forum activity?",
+          "Teacher view"
+        ]
+      },
+      {
+        "url": "https://docs.moodle.org/405/en/Activity_completion_report",
+        "bytes": 35107,
+        "sha256": "a27ea136ae53688d17604c0508610eb02641ec23d6abeedf71b5aca9126c92ab",
+        "archive": "batch113_moodle_Activity_completion_report.html.gz",
+        "read_sections": [
+          "viewer permissions",
+          "completion key"
+        ]
+      }
+    ],
+    "limits": "Specified4.5 docs, not other products or current default installations, permissions/settings required; no causal learning-effect proof"
+  },
+  "S173": {
+    "title": "The Four Pillars of F-L-I-P",
+    "author": "Flipped Learning Network",
+    "year": 2014,
+    "url": "https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf",
+    "bytes": 178558,
+    "sha256": "8710b0c0f1a34f9ca2df143876659a96fb5d0e4795bdaf6d055ce5b21d09aa2e",
+    "pages": 2,
+    "read_and_image_review_pages": [
+      1,
+      2
+    ],
+    "limits": "Original definition/design framework only; case8 applications are independent editorial judgments, not quoted original experiments; not general blended-learning taxonomy or causal effect proof; copyrighted source PDF not redistributed"
+  }
+}

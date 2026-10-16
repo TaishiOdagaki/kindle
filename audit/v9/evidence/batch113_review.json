@@ -1,0 +1,203 @@
+{
+  "batch": 113,
+  "base_commit": "876060c95c24634f6a7f265b89a4ec2dfdfc879a",
+  "fully_rejudged": [
+    "Q_4_116",
+    "Q_4_117",
+    "Q_O_037",
+    "Q_O_038",
+    "Q_O_039",
+    "Q_O_040"
+  ],
+  "edits": 41,
+  "independent_answers": {
+    "Q_4_116": 1,
+    "Q_4_117": 4,
+    "Q_O_037": 4,
+    "Q_O_038": 4,
+    "Q_O_039": 3,
+    "Q_O_040": 3
+  },
+  "sources": [
+    "S172",
+    "S173"
+  ],
+  "status_counts": {
+    "確認済み": 291,
+    "修正必要": 39,
+    "要追加確認": 170
+  },
+  "remaining": 209,
+  "machine_warnings": 75,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_116",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ],
+    [
+      "P1",
+      "Q_O_037",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ],
+    [
+      "P1",
+      "Q_O_038",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positives from qualified guarantees/viewing evidence/causation, not denial of keys",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 402,
+  "visually_reviewed_pages": [
+    97,
+    98,
+    152,
+    153,
+    297,
+    298,
+    355,
+    356
+  ],
+  "all_changed_strings_found": {
+    "('Q_4_116', 'stem', None)": [
+      97
+    ],
+    "('Q_4_116', 'options', 0)": [
+      97
+    ],
+    "('Q_4_116', 'explanations', 0)": [
+      297
+    ],
+    "('Q_4_116', 'explanations', 1)": [
+      297
+    ],
+    "('Q_4_116', 'explanations', 2)": [
+      297
+    ],
+    "('Q_4_116', 'explanations', 3)": [
+      298
+    ],
+    "('Q_4_117', 'stem', None)": [
+      98
+    ],
+    "('Q_4_117', 'options', 0)": [
+      98
+    ],
+    "('Q_4_117', 'options', 1)": [
+      98
+    ],
+    "('Q_4_117', 'options', 2)": [
+      98
+    ],
+    "('Q_4_117', 'options', 3)": [
+      98
+    ],
+    "('Q_4_117', 'explanations', 0)": [
+      298
+    ],
+    "('Q_4_117', 'explanations', 1)": [
+      298
+    ],
+    "('Q_4_117', 'explanations', 2)": [
+      298
+    ],
+    "('Q_4_117', 'explanations', 3)": [
+      298
+    ],
+    "('Q_O_037', 'stem', None)": [
+      152
+    ],
+    "('Q_O_037', 'options', 3)": [
+      152
+    ],
+    "('Q_O_037', 'explanations', 0)": [
+      355
+    ],
+    "('Q_O_037', 'explanations', 1)": [
+      355
+    ],
+    "('Q_O_037', 'explanations', 2)": [
+      355
+    ],
+    "('Q_O_037', 'explanations', 3)": [
+      355
+    ],
+    "('Q_O_038', 'stem', None)": [
+      152
+    ],
+    "('Q_O_038', 'options', 0)": [
+      152
+    ],
+    "('Q_O_038', 'options', 2)": [
+      153
+    ],
+    "('Q_O_038', 'options', 3)": [
+      153
+    ],
+    "('Q_O_038', 'explanations', 0)": [
+      355
+    ],
+    "('Q_O_038', 'explanations', 1)": [
+      355
+    ],
+    "('Q_O_038', 'explanations', 2)": [
+      355
+    ],
+    "('Q_O_038', 'explanations', 3)": [
+      355
+    ],
+    "('Q_O_039', 'stem', None)": [
+      153
+    ],
+    "('Q_O_039', 'options', 2)": [
+      153
+    ],
+    "('Q_O_039', 'explanations', 0)": [
+      356
+    ],
+    "('Q_O_039', 'explanations', 1)": [
+      356
+    ],
+    "('Q_O_039', 'explanations', 2)": [
+      356
+    ],
+    "('Q_O_039', 'explanations', 3)": [
+      356
+    ],
+    "('Q_O_040', 'stem', None)": [
+      153
+    ],
+    "('Q_O_040', 'options', 2)": [
+      153
+    ],
+    "('Q_O_040', 'explanations', 0)": [
+      356
+    ],
+    "('Q_O_040', 'explanations', 1)": [
+      356
+    ],
+    "('Q_O_040', 'explanations', 2)": [
+      356
+    ],
+    "('Q_O_040', 'explanations', 3)": [
+      356
+    ]
+  },
+  "docx_sha256": "db1042770c4633dfa56c14a025cb9f27ab7156ae45ff3e781b9269e9bb828d27",
+  "pdf_sha256": "197f808b09103bcf97baf1e1a6b7b8f42c395f58949619a7ab58a02cb5a3b3b2",
+  "page_sha256": {
+    "97": "10ba734503f772a0fc799953834c8f67ef2ea62e9a72ec2bcc92303666f91939",
+    "98": "e21740397a9eb10f7f1c15caccfdcfec4768fe4f72c8630147f289ffb0bb0648",
+    "152": "68829db76c682f53c1651374b84330f3169ca120aa0634f204b27ade9ef1ecfd",
+    "153": "3384862f124d26fbdd15f8a9f93e53d3f3cb0b013c1fd245010341a0e886ea48",
+    "297": "0ab290c24884bc7e73223ef92ef2528df253cf2c02f946f93acf139c141d7e48",
+    "298": "a78c73000ea273599fea22a7f1f0cf8d55d32a2c78b136d5d044e1c3a951e903",
+    "355": "65cc2dd8fea030c99bbd6039998de243d35f529a2edac5b51be58c83601d5ec4",
+    "356": "bdf419396652f725dd45e9e3d18a06bfd50cb7277836ba58167ec412b2d6b4f9"
+  },
+  "font": "Noto Sans JP instantiated static400; Japanese glyphs visually checked",
+  "recovery": "fresh clone from base; source reacquisition; new render only",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
