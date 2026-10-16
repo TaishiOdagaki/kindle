@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "bytes": 1162784,
+    "sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+    "body_read_scope": "Assessment printed4-5/PDF5-6 and Test printed47/PDF48 full entries: diagnostic/formative/summative and achievement/placement/proficiency; not whole glossary or empirical effectiveness",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S184",
+    "url": "https://www.mext.go.jp/a_menu/shotou/gakuryoku/faq/001.htm",
+    "bytes": 37348,
+    "sha256": "5d3ab39777629469699fc01b9d2f27285bc8fc5ace5aff9d09234fb43891775c",
+    "body_read_scope": "Historical FAQ question defining criterion/group/intraindividual evaluation and its complete answer; not current2003-era curriculum statements or present legal obligations",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S179",
+    "url": "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf",
+    "bytes": 1160999,
+    "sha256": "4dcaa6c71acc3ddd504d38c11396b199d61a418d224807ce039e468acdc8b062",
+    "body_read_scope": "2001 original printed183-185/PDF192-194 read as text and images;9.3.1-9.3.2 used; prior186-189 review reused for9.3.5-9.3.8",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]

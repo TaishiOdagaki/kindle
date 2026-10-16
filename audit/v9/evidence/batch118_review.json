@@ -1,0 +1,161 @@
+{
+  "batch": 118,
+  "base_commit": "4113ee267c0ce1aaeb00bca99c69f99e35a854dc",
+  "fully_rejudged": [
+    "Q_4_010",
+    "Q_4_012",
+    "Q_4_051",
+    "Q_4_059"
+  ],
+  "edits": 25,
+  "content_edits": 24,
+  "explicit_old_stem_removals": 1,
+  "independent_answers": {
+    "Q_4_010": 2,
+    "Q_4_012": 3,
+    "Q_4_051": 4,
+    "Q_4_059": 3
+  },
+  "sources": [
+    "S183",
+    "S184",
+    "S179",
+    "S142"
+  ],
+  "status_counts": {
+    "確認済み": 308,
+    "修正必要": 36,
+    "要追加確認": 156
+  },
+  "remaining": 192,
+  "machine_warnings": 87,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_012",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [4]"
+    ],
+    [
+      "P1",
+      "Q_4_059",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [2, 4]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positives: denies automatic guarantee and permits combination with other evaluations",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 404,
+  "visually_reviewed_pages": [
+    57,
+    58,
+    73,
+    75,
+    76,
+    256,
+    257,
+    273,
+    276
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      57
+    ],
+    "1": [
+      256
+    ],
+    "2": [
+      256
+    ],
+    "3": [
+      256
+    ],
+    "4": [
+      256
+    ],
+    "5": [
+      58
+    ],
+    "7": [
+      58
+    ],
+    "8": [
+      256
+    ],
+    "9": [
+      256
+    ],
+    "10": [
+      256
+    ],
+    "11": [
+      257
+    ],
+    "12": [
+      73
+    ],
+    "13": [
+      273
+    ],
+    "14": [
+      273
+    ],
+    "15": [
+      273
+    ],
+    "16": [
+      273
+    ],
+    "17": [
+      75
+    ],
+    "18": [
+      75
+    ],
+    "19": [
+      75
+    ],
+    "20": [
+      76
+    ],
+    "21": [
+      276
+    ],
+    "22": [
+      276
+    ],
+    "23": [
+      276
+    ],
+    "24": [
+      276
+    ]
+  },
+  "docx_sha256": "06a530eda260afab73fa5635b81606fba605782fad9b82101f126d4df47f1833",
+  "pdf_sha256": "a143eea2d6ab7ad943dfc5c3f1682796449634393488a4f2759590f9ae54c43a",
+  "page_sha256": {
+    "57": "052248d13d773ec6d50f6b6f048d63be99e38a28d24ca1300192757ef2358405",
+    "58": "8204a6fe7dc66bbfcc6dbcc685647d7179bd252315f70a9fdd0f9d50a7dd2cb0",
+    "73": "d4544e9f1f194af3b108d4c6b6c525d6e8627fcd9fe17eba05dbac755ad848ad",
+    "75": "2cc3c52315d8bd6491587ef07e2ccf521f2b5d9bdae22cdcd5c6fcd341704583",
+    "76": "6d4f09267bed14dde196b2278580fc08bda09fae6bfa161c9644776ba3298eba",
+    "256": "94d4438d1d85e36707e6f00e229a6a9d3ecb21e8d336561e688ef9631ce46622",
+    "257": "8649d79e60b9fd1e6e14b4216423a45a8583307de2f4cef255908bd05022eb60",
+    "273": "e23ab65761efb98bc79e1dbb4381085900db1d85301f2a8e8bc4a8b5c9075823",
+    "276": "967bceca3d5c4d276ea2dc4d537f415a0e218f5054b2e8591effe9a00e983dd7"
+  },
+  "source_images": {
+    "TKT_printed": [
+      4,
+      5,
+      47
+    ],
+    "CEFR_printed": [
+      183,
+      184,
+      185
+    ]
+  },
+  "arithmetic": "85-70=15; mean alone does not determine percentile",
+  "initial_apply": "Edit-count assertion expected26 but actual25; aborted before writes, corrected count then applied once",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
