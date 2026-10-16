@@ -652,3 +652,8 @@ S191 Bower, Cross and Coyle, *CLIL in Multilingual and English-Background Contex
 - S193 WHO [Burn-out an occupational phenomenon](https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon)。2026-10-17に公式HTMLの定義本文全体を取得。ICD-11での職業上の現象、medical conditionとは分類しない点、慢性的な職場ストレス、三側面、生活の他領域へ適用しない限定を照合。学習者研究、医療診断、治療・予防の有効性の承認ではない。
 
 原バイトの範囲・SHA256はevidence/batch128_sources.json。原資料非転載。TKTの最初のEOF欠落ファイルは除外した。
+
+
+## 第129バッチ S183追加照合（2026-10-17）
+
+Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)を再取得、全59頁読込みを確認。印刷14/PDF15のDrill項目を本文・画像精読。guided repetitionと提示文/提示語による同構造の置換の公式用語定義を、ケース11のA教師の活動へ照合。学習効果の短期定着、他方式への比較優位、即時訂正と不安の因果、学習スタイルの実証を承認する資料として用いない。取得範囲・原バイトSHA256はevidence/batch129_sources.json。原資料は非転載。
