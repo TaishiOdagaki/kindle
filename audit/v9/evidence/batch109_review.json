@@ -1,0 +1,93 @@
+{
+  "batch": 109,
+  "base_commit": "ef39dfa649297d8373104fe337e30059b343d0e3",
+  "fully_rejudged": [
+    "Q_4_003",
+    "Q_4_007"
+  ],
+  "edits": 15,
+  "independent_answers": {
+    "Q_4_003": 2,
+    "Q_4_007": 1
+  },
+  "sources": [
+    "S167",
+    "S168"
+  ],
+  "status_counts": {
+    "確認済み": 282,
+    "修正必要": 39,
+    "要追加確認": 179
+  },
+  "remaining": 218,
+  "machine_warnings": 69,
+  "machine_warnings_unchanged": true,
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    54,
+    56,
+    252,
+    253,
+    254
+  ],
+  "image_scale_to_pixels": 1800,
+  "all_changed_strings_found": {
+    "('Q_4_003', 'stem', None)": [
+      54
+    ],
+    "('Q_4_003', 'options', 1)": [
+      54
+    ],
+    "('Q_4_003', 'explanations', 0)": [
+      252
+    ],
+    "('Q_4_003', 'explanations', 1)": [
+      252
+    ],
+    "('Q_4_003', 'explanations', 2)": [
+      252
+    ],
+    "('Q_4_003', 'explanations', 3)": [
+      252
+    ],
+    "('Q_4_007', 'stem', None)": [
+      56
+    ],
+    "('Q_4_007', 'options', 0)": [
+      56
+    ],
+    "('Q_4_007', 'options', 1)": [
+      56
+    ],
+    "('Q_4_007', 'options', 2)": [
+      56
+    ],
+    "('Q_4_007', 'options', 3)": [
+      56
+    ],
+    "('Q_4_007', 'explanations', 0)": [
+      253
+    ],
+    "('Q_4_007', 'explanations', 1)": [
+      253
+    ],
+    "('Q_4_007', 'explanations', 2)": [
+      253
+    ],
+    "('Q_4_007', 'explanations', 3)": [
+      254
+    ]
+  },
+  "docx_sha256": "2c410dd5caed837e5e7e29c90cbc72979c1ccb97a92936629b4698d4fc643ccc",
+  "pdf_sha256": "91b179905e4033f3ef571c9e0385ae167b5627af91939def28599fbcab2e2271",
+  "page_sha256": {
+    "54": "1c4191dd26f345ffcc4f8f5a1fb4db174f091fa24cf8c35cbdab2226db3e0ec4",
+    "56": "34854e4a9ed6ccf8c6730a11e6be4480913b33d0e93e913eb5e84b1bfdb56c66",
+    "252": "c9be6c4cce375c4971f1d606b819ac1835ad627496bf4d44ebad3ecff3eb8347",
+    "253": "5e83ec8f719704098345fdcec60dba771269877f0b396e9bd76dd1bb8a527b48",
+    "254": "ad274d2b62122e2d1e28af93fe1b726ce5f928fe40ad7f5e331e0a3ade81628c"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

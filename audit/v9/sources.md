@@ -514,3 +514,11 @@ S36の既存Q_5_026判定を上書きしない。原バイトのハッシュはe
 Donald A. Schön, The Reflective Practitioner How Professionals Think in Action（著作権表記1983、Basic Books後刷の公開複製）[原著PDF](https://www.socialworkerskills.eu/uploads/1/4/4/7/144711219/sch%C3%B6n_d._a.__1983_._the_reflective_practitioner.pdf)。全380頁・28811364バイトを通常取得。Web抽出は容量上限だったがローカルで原PDFを取得して本文と画像を照合。印刷21頁（PDF30）の技術的合理性、40頁（PDF49）の問題設定、61〜63頁（PDF70〜72）の過度の習熟による固定・振り返り・action-present・対象・試行を精読。表題PDF3頁も画像確認。周辺49〜60頁の本文も参照したが、全冊・周辺全頁の完全精読とは扱わない。原著の他研究への言及を、その引用元研究の取得と混同しない。2018年スキャン日を刊年にしない。本文は再配布せず、ハッシュ・頁対応・照合範囲をevidence/batch108_source.jsonに保存。
 
 対象Q_4_001・004・083。日本語授業の変更例は本問独自の適用例で、原著掲載の実験事例ではない。省察の唯一性や教授効果を普遍的に承認しない。
+
+
+## 第109バッチ S167・S168（2026-10-16）
+
+- S167 Richards・Farrell（2005）, Professional Development for Language Teachers Strategies for Teacher Learning。[出版社公開抜粋](https://assets.cambridge.org/97805218/49111/excerpt/9780521849111_excerpt.pdf)全10頁を通常取得・本文読了、2〜4頁を画像照合。[出版社書誌](https://www.cambridge.org/core/books/professional-development-for-language-teachers/6CD2038A178603982F4FFE8AFC44A22D)で印刷版2005-04-04とオンライン2010-02-01を区別。第1章全22頁のうち1〜10頁だけの取得であり全書・第12章・引用先研究の取得ではない。Q_4_003の承認範囲は継続的学習・知識更新・共有・個人と機関の支援。ハッシュはbatch109_source.json。
+- S168 Simon Borg（2003）, Teacher cognition in language teaching A review of research on what language teachers think know believe and do, Language Teaching36(2),81–109。[所属大学リポジトリ公開原文](https://eprints.whiterose.ac.uk/1652/1/borgs1_language_teaching_36-2.pdf)、DOI10.1017/S0261444803001903。全30PDF頁を取得、原著81〜82頁（PDF2〜3）の定義・枠組み・図1と91頁（PDF12）の要約を本文・画像照合。Q_4_007はBorgが提示する整理に限定。研究史全体・全論文・全30頁を精読承認したとはしない。図1の1997年初出、引用先の全個別実証研究は未取得。原著者自身による総説の枠組みと、個別の因果・介入効果の証明を区別。ハッシュ・範囲はbatch109_source_borg.json。
+
+資料本文は再配布せず、取得バイト数・ハッシュ・URL・照合範囲を保存する。検索抜粋だけでの承認ではない。
