@@ -657,3 +657,8 @@ S191 Bower, Cross and Coyle, *CLIL in Multilingual and English-Background Contex
 ## 第129バッチ S183追加照合（2026-10-17）
 
 Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)を再取得、全59頁読込みを確認。印刷14/PDF15のDrill項目を本文・画像精読。guided repetitionと提示文/提示語による同構造の置換の公式用語定義を、ケース11のA教師の活動へ照合。学習効果の短期定着、他方式への比較優位、即時訂正と不安の因果、学習スタイルの実証を承認する資料として用いない。取得範囲・原バイトSHA256はevidence/batch129_sources.json。原資料は非転載。
+
+
+## 第130バッチ S145再取得（2026-10-17）
+
+Jane Willis [From priming tasks and target tasks to language focus and grammar](https://www.teachingenglish.org.uk/comment/1307)、British Council TeachingEnglish。本人署名と記事本文全体を再取得・精読。Use the book but change the order、Task Cycle、Focus on Form: At the end of the task cycle、Conclusionの提案をQ_O_054に使用。タスク後に教材の文法部分で形式を学ぶ提案を確認し、全方式での文法先行/排除の一律規則にはしない。時間・効果の比較やフィードバックの因果実証、1996年書籍、コメント欄、リンク先原著の承認はしない。刊年の未表示は維持し、コメントやクロールの日付を刊年にしない。原バイトSHA256・範囲はevidence/batch130_sources.json。原記事非転載。

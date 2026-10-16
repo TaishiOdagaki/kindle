@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Q_O_054",
+    "field": "stem",
+    "index": null,
+    "before": "B教師の授業設計の課題として最も適切なものを、次の1〜4の中から一つ選べ。",
+    "after": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "Q_O_054"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "options",
+    "index": 0,
+    "before": "文型の正確さの定着に時間がかかり、事後フィードバックの質が効果を左右する",
+    "after": "タスクで言語を使った経験を踏まえ、教材の文法項目などを用いて形式に焦点を当てる学習を組み込む。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "Q_O_054",
+    "stem_context": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "options",
+    "index": 1,
+    "before": "ロールプレイを行っても、学習者が自分から発話する機会は一切生まれない",
+    "after": "タスクを先に行った授業では、その後も文法形式に焦点を当てる学習は一切行えないとする。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "Q_O_054",
+    "stem_context": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "options",
+    "index": 2,
+    "before": "場面設定やタスクの準備が不要になり、教師の準備が全く必要なくなる",
+    "after": "新しい文法をすべて先に教え終えることを必須条件とし、その順序を変えることを認めない。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "Q_O_054",
+    "stem_context": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "options",
+    "index": 3,
+    "before": "タスク後の整理でも、文法規則を扱うことは一切できなくなる",
+    "after": "言語の学習は教師の説明だけで成立するとし、学習者が自分で言語を使う経験を除く。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "Q_O_054",
+    "stem_context": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "explanations",
+    "index": 0,
+    "before": "タスク先行型の設計では、正確さの定着に時間がかかる場合があり、タスク後のフィードバックをどれだけ丁寧に行えるかが授業の効果を大きく左右する点が課題として指摘される。",
+    "after": "記事はタスクの経験の後に教材の文法部分を使う形式学習を提案します。ケースの事後整理を計画する際の参考にできます。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "A_O_054",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "explanations",
+    "index": 1,
+    "before": "ロールプレイという形で学習者自身が発話する機会は十分に確保されている。",
+    "after": "記事にはタスク・サイクル後の形式学習が明示されています。文法を一切扱えないとする肢は逆です。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "A_O_054",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "explanations",
+    "index": 2,
+    "before": "場面設定やタスクの準備、フィードバックの準備など、教師側の入念な準備が必要となる。",
+    "after": "記事は教材の順序を変え、文法部分をタスクの後で扱う案を述べます。必ず文法を先に終えるという規則ではありません。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "A_O_054",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_O_054",
+    "field": "explanations",
+    "index": 3,
+    "before": "タスク後の整理段階で、必要な文法規則を扱うことは可能である。",
+    "after": "記事は学習者が自ら言語を使い経験して学ぶことを重視しています。その経験を除くという方針とは異なります。",
+    "reason": "Jane Willis本人署名のBritish Council公開記事本文を再取得し、Use the book but change the order、Task Cycle、Focus on Form、Conclusionを精読。ケース11のB教師の事後整理を計画する際の適用案として照合。元の正答肢の定着に時間がかかるという普遍的比較や、フィードバックの質が効果を大きく左右するという未取得の因果効果を承認せず、原著者のタスク後の形式学習の提案に限定。1996年書籍全体・全TBL手法・全員の上達効果を承認しない。",
+    "sources": [
+      "S145"
+    ],
+    "applied": true,
+    "before_version": "第129バッチ反映後",
+    "block_context": "A_O_054",
+    "paragraph_prefix": "4（誤）"
+  }
+]
