@@ -1,0 +1,151 @@
+{
+  "batch": 128,
+  "base_commit": "66a196c15eaf6e208b86b6710908f0a4b26851ae",
+  "fully_rejudged": [
+    "Q_O_069",
+    "Q_O_070",
+    "Q_M_019"
+  ],
+  "edits": 27,
+  "independent_answers": {
+    "Q_O_069": 3,
+    "Q_O_070": 3,
+    "Q_M_019": 4
+  },
+  "sources": [
+    "S191",
+    "S192",
+    "S193"
+  ],
+  "status_counts": {
+    "確認済み": 331,
+    "修正必要": 28,
+    "要追加確認": 141
+  },
+  "remaining": 169,
+  "machine_warnings": 98,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_O_069",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ],
+    [
+      "P1",
+      "Q_M_019",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 3]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    163,
+    164,
+    172,
+    370,
+    371,
+    379
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      163
+    ],
+    "1": [
+      163
+    ],
+    "2": [
+      164
+    ],
+    "3": [
+      164
+    ],
+    "4": [
+      164
+    ],
+    "5": [
+      370
+    ],
+    "6": [
+      370
+    ],
+    "7": [
+      370
+    ],
+    "8": [
+      370
+    ],
+    "9": [
+      164
+    ],
+    "10": [
+      164
+    ],
+    "11": [
+      164
+    ],
+    "12": [
+      164
+    ],
+    "13": [
+      164
+    ],
+    "14": [
+      370
+    ],
+    "15": [
+      370
+    ],
+    "16": [
+      371
+    ],
+    "17": [
+      371
+    ],
+    "18": [
+      172
+    ],
+    "19": [
+      172
+    ],
+    "20": [
+      172
+    ],
+    "21": [
+      172
+    ],
+    "22": [
+      172
+    ],
+    "23": [
+      379
+    ],
+    "24": [
+      379
+    ],
+    "25": [
+      379
+    ],
+    "26": [
+      379
+    ]
+  },
+  "docx_sha256": "ba4209692d8e8475a07e069ca019abcd13fc86c8b9892439d8f1ed8bc5469791",
+  "pdf_sha256": "030b19b12f9367566651fa57f36c6b2cb44374c3cee170252d50787168be25e8",
+  "page_sha256": {
+    "163": "d905034e8683d78cbda86019c84e7a25ac5b43e8d56befad72fae3ea308242b6",
+    "164": "eaeb61a814fe07bb09c69625bb3ab668d516228ea5e33af314bc875122ab418d",
+    "172": "30eb3432a703027ec5a54ac5396ff3df6b32037292cdcb56db5329c1160608cb",
+    "370": "3e6c77346e761e590778c3ac332f1acc3afbc42a60cd31a194ae55541348fee9",
+    "371": "ddb63b00a58e771473354095908c902b03bd1ee1def3eeb6054d2fb4f073ffe3",
+    "379": "91c7fbff4220da7b9b505eb6111e2bcea99bc1d5327d5527d7daa71041a4bd84"
+  },
+  "source_images": {
+    "S192_PDF": [
+      15,
+      16
+    ]
+  },
+  "excluded_source": "first TKT CLIL download lacked EOF; retry validated 31 pages and used instead",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

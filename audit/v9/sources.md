@@ -644,3 +644,11 @@ Cummins (2008), *BICS and CALP: Empirical and Theoretical Status of the Distinct
 ## 第127バッチ S191・S190再利用（2026-10-16）
 
 S191 Bower, Cross and Coyle, *CLIL in Multilingual and English-Background Contexts*, in *Curriculum Integrated Language Teaching: CLIL in Practice*。[出版社公開章抜粋](https://assets.cambridge.org/97811087/29734/excerpt/9781108729734_excerpt.pdf)、ISBN9781108729734。印刷9〜11/PDF8〜10の定義・4Cs・Language Triptych本文と画像を精読。提唱者Coyleを含む著者による概念枠組みの一次説明として使用し、引用先個別実験の実証結果を独立に再検証したとはしない。抜粋以外の全章・全書籍・全学習者への効果は未承認。S190はCALPの口頭/書面と課題の相対性を再利用。取得範囲・原バイトSHA256はevidence/batch127_sources.json。原PDFは非転載。
+
+
+## 第128バッチ S192・S193／S191再利用（2026-10-17）
+
+- S192 Cambridge Assessment English [TKT:CLIL Handbook for teachers](https://www.cambridgeenglish.org/images/22191-tkt-clil-handbook.pdf)。再取得した全31頁原PDFを検証し、印刷14〜15/PDF15〜16の本文・画像を精読。内容と言語への足場掛け、語彙・文の枠組み・視覚的支援・課題分割、負担の調整、content and/or language等の評価焦点・基準・支援方略を使用。資料作成機関自身の教育枠組みとして用い、引用先の効果研究や全学習者への因果効果は未承認。S191の二重焦点・思考と言語を結び付ける設計も使用。
+- S193 WHO [Burn-out an occupational phenomenon](https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon)。2026-10-17に公式HTMLの定義本文全体を取得。ICD-11での職業上の現象、medical conditionとは分類しない点、慢性的な職場ストレス、三側面、生活の他領域へ適用しない限定を照合。学習者研究、医療診断、治療・予防の有効性の承認ではない。
+
+原バイトの範囲・SHA256はevidence/batch128_sources.json。原資料非転載。TKTの最初のEOF欠落ファイルは除外した。

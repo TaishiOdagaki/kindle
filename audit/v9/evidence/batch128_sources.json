@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S192",
+    "url": "https://www.cambridgeenglish.org/images/22191-tkt-clil-handbook.pdf",
+    "bytes": 1214922,
+    "sha256": "1a8d64343ddf539351efc2ff8a4d048e8d44d8c3a090095e0171902abdabafda",
+    "retrieved": "2026-10-17",
+    "body_read_scope": "Official handbook full31-page PDF acquired; printed14-15/PDF15-16 body+images. Assessment content and/or language, criteria, scaffolding, differentiation. No cited efficacy-study approval.",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S193",
+    "url": "https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon",
+    "bytes": 85536,
+    "sha256": "f6fb277f9d4fbae0e739118d9ed5bb73b29750c0fb040e055caac950f5cd1534",
+    "retrieved": "2026-10-17",
+    "body_read_scope": "Complete FAQ definition body, occupational context, three dimensions, not a medical condition. No learner burnout/diagnosis/treatment approval.",
+    "full_source_redistributed": false
+  }
+]
