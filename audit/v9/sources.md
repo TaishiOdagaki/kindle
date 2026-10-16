@@ -522,3 +522,8 @@ Donald A. Schön, The Reflective Practitioner How Professionals Think in Action�
 - S168 Simon Borg（2003）, Teacher cognition in language teaching A review of research on what language teachers think know believe and do, Language Teaching36(2),81–109。[所属大学リポジトリ公開原文](https://eprints.whiterose.ac.uk/1652/1/borgs1_language_teaching_36-2.pdf)、DOI10.1017/S0261444803001903。全30PDF頁を取得、原著81〜82頁（PDF2〜3）の定義・枠組み・図1と91頁（PDF12）の要約を本文・画像照合。Q_4_007はBorgが提示する整理に限定。研究史全体・全論文・全30頁を精読承認したとはしない。図1の1997年初出、引用先の全個別実証研究は未取得。原著者自身による総説の枠組みと、個別の因果・介入効果の証明を区別。ハッシュ・範囲はbatch109_source_borg.json。
 
 資料本文は再配布せず、取得バイト数・ハッシュ・URL・照合範囲を保存する。検索抜粋だけでの承認ではない。
+
+
+## 第110バッチ S169（2026-10-16）
+
+Anne Burns・Hanan Khalifa（2017）Engaging action research to explore use of assessment for improving language ability, in Second Language Assessment and Action Research, 第1章。[出版社公開抜粋](https://assets.cambridge.org/97811084/36700/excerpt/9781108436700_excerpt.pdf)1〜10頁のみ取得・本文読了、4〜5頁画像照合。[前付け](https://assets.cambridge.org/97811084/36700/frontmatter/9781108436700_frontmatter.pdf)の著作権頁で2017初版を確認。Q_4_077を実施者本人が説明する当該プログラムの方法（4・5・7頁）に限定して承認。4頁は現場の系統的探究、5頁は四段階の相互関連と反復・研究者との協働、7頁は計画の練り直し。4段階モデルの原初文献Kemmis・McTaggart1988、Burns2010その他引用元の全原著は未取得。個別実証章の効果を抜粋の概要だけで承認しない。Figure1の事業運営サイクルとは区別。本文PDFは再配布せずハッシュと取得範囲をevidence/batch110_source.jsonへ記録。

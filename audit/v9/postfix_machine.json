@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 287,
+  "changed_questions": 288,
   "case_replacements": 18,
-  "replacements": 2463,
+  "replacements": 2469,
   "issues": [
     [
       "S2",
@@ -147,6 +147,11 @@
       "A1",
       "Q_4_066",
       "正解選択肢4に断定語、他に断定語なし2つ以上"
+    ],
+    [
+      "P1",
+      "Q_4_077",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
     ],
     [
       "P1",

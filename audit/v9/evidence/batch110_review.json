@@ -1,0 +1,65 @@
+{
+  "batch": 110,
+  "base_commit": "448e45f46da925dc3f9fd0804783659453f9b6e8",
+  "fully_rejudged": [
+    "Q_4_077"
+  ],
+  "edits": 6,
+  "independent_answers": {
+    "Q_4_077": 4
+  },
+  "sources": [
+    "S169"
+  ],
+  "status_counts": {
+    "確認済み": 283,
+    "修正必要": 39,
+    "要追加確認": 178
+  },
+  "remaining": 217,
+  "machine_warnings": 70,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_077",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positive: qualifying fixed procedure/success guarantee, not negating correct option",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    82,
+    281,
+    282
+  ],
+  "all_changed_strings_found": {
+    "('Q_4_077', 'stem', None)": [
+      82
+    ],
+    "('Q_4_077', 'options', 3)": [
+      82
+    ],
+    "('Q_4_077', 'explanations', 0)": [
+      281
+    ],
+    "('Q_4_077', 'explanations', 1)": [
+      281
+    ],
+    "('Q_4_077', 'explanations', 2)": [
+      281
+    ],
+    "('Q_4_077', 'explanations', 3)": [
+      282
+    ]
+  },
+  "docx_sha256": "5a7e617980d921f282dc134fbc6b64a97c26b0be502f82adc54b3146cbc54db0",
+  "pdf_sha256": "5c45ad85b13e131a42b6f542219906077eb040dbbc4b56080a9f438f3a950594",
+  "page_sha256": {
+    "82": "3d24b95b47997566b7781c5aa435ff6192d6159b46766588957f0755d7e1f37a",
+    "281": "350b73072c59a42d179d1a597677c030236dab281692257653aaed47b082d0c9",
+    "282": "85deaad7dc0199b4c9e06874535128bd49a767d01abdb8ffcb2943af0d7f4a36"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
