@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S185",
+    "url": "https://www.actfl.org/uploads/files/general/OPI_Familiarization_Guide_2024_FINAL.pdf",
+    "bytes": 544070,
+    "sha256": "c6e4ef322a4b4b55c77b680c3e322040e0805667e06d49a717979ca22ba3454c",
+    "body_read_scope": "2024author guide3-8 complete text/image:interview,FACT,OPIrange/sublevels and tester certification; cited empirical validation studies and current accommodations not approved",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S142",
+    "url": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+    "bytes": 1912044,
+    "sha256": "78182353e8cd877535f6f3c8967da52d4d3af64725146c08606d38825941ac61",
+    "body_read_scope": "2014printed11/PDF21 and33-34/PDF43-44 text/images;11-14 additional text read but no whole book endorsement",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]

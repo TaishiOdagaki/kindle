@@ -1,0 +1,111 @@
+{
+  "batch": 120,
+  "base_commit": "edb602c53558bef644e46fb04728f1d7b82055e5",
+  "fully_rejudged": [
+    "Q_1_036",
+    "Q_1_037"
+  ],
+  "edits": 13,
+  "independent_answers": {
+    "Q_1_036": 4,
+    "Q_1_037": 3
+  },
+  "sources": [
+    "S185",
+    "S142",
+    "S179",
+    "S183"
+  ],
+  "status_counts": {
+    "確認済み": 313,
+    "修正必要": 34,
+    "要追加確認": 153
+  },
+  "remaining": 187,
+  "machine_warnings": 90,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_1_036",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2]"
+    ],
+    [
+      "P1",
+      "Q_1_037",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positives from qualifications about all-level paragraph requirement and error-free scoring",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 404,
+  "visually_reviewed_pages": [
+    20,
+    21,
+    218
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      20
+    ],
+    "1": [
+      218
+    ],
+    "2": [
+      218
+    ],
+    "3": [
+      218
+    ],
+    "4": [
+      218
+    ],
+    "5": [
+      20
+    ],
+    "6": [
+      20
+    ],
+    "7": [
+      20
+    ],
+    "8": [
+      21
+    ],
+    "9": [
+      218
+    ],
+    "10": [
+      218
+    ],
+    "11": [
+      218
+    ],
+    "12": [
+      218
+    ]
+  },
+  "docx_sha256": "6010ada960afd950e98ce75b2404b7a564a41f4e167afadfa39f0073908cba45",
+  "pdf_sha256": "9feac12dddb2198b3aa08d102b46714fda791be56a63775449083081259a327a",
+  "page_sha256": {
+    "20": "ae954d1f80c237f6abaa3d017a90dd08bfcf47028552443d252f37ee12fddbff",
+    "21": "ed6c546178083d5a4b85fa4afeeabfece710a766221dcde0e297c2a232d2a1e1",
+    "218": "cdbd88bbc5931ef6040b7feaba5528e1829495ffd645fe9ac0471910ae62d152"
+  },
+  "source_images": {
+    "OPI2024": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "Standards2014_printed": [
+      11,
+      33,
+      34
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

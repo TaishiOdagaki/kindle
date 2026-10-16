@@ -591,3 +591,11 @@ FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content
 ## 第119バッチ S179・S183再取得と追加照合（2026-10-16）
 
 S179 [CEFR2001公式原著](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf)の印刷4〜5/PDF13〜14、9〜10/PDF18〜19、23〜25/PDF32〜34を本文・画像照合。3.2図1・3.3・3.4冒頭と1.3・2.1の範囲を使用。途中の欠損PNGは除外し、単頁再描画やpdftocairoで有効画像を読んだ。9.3.2と9.3.5は既取得範囲を再利用。S183 [Cambridge TKT公式用語集](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)の印刷4〜5/PDF5〜6のAssessment各定義（Peer/Self/Diagnostic/Formative/Summative）を第118バッチ本文・画像照合から再利用。今回両原PDFを再取得して保存済みSHA256と一致を確認。刊年・現行仕様を推定しない。本文の全転載・全冊翻訳や引用先研究の取得ではない。原バイトURL・ハッシュ・範囲はevidence/batch119_sources.json。
+
+
+## 第120バッチ S185とS142追加照合（2026-10-16）
+
+- S185 ACTFL [OPI Familiarization Guide 2024](https://www.actfl.org/uploads/files/general/OPI_Familiarization_Guide_2024_FINAL.pdf)。11頁の通常取得、3〜8頁を本文・画像精読。表1・FACT・範囲と下位区分・認定を使用。出版年は著作権頁2024から確認。OPIはNovice〜Superior、Guidelines全体はDistinguishedも含むという区別を維持。引用された個別の妥当性研究は未取得。認定手続きを、それ自体で全採点の完全一致を示す因果実証と扱わない。現行料金・予約条件等の承認ではない。
+- S142 AERA/APA/NCME [Testing Standards 2014](https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf)を再取得。印刷11/PDF21、33〜34/PDF43〜44を本文・画像精読。妥当性の用途別得点解釈と信頼性/精度、測定手続きの反復・課題/時点/採点者の変動を使用。印刷12〜14も本文参照したが全書・全理論を承認しない。S179 CEFR2001の9.3.1とS183 TKT Assessment客観採点は既取得照合を使用。
+
+原バイトのURL・SHA256・範囲はevidence/batch120_sources.json。原資料は非転載、独立した問題改訂・解説への要約である。
