@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S186",
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/coordinator_kenshu/",
+    "bytes": 20849,
+    "sha256": "22406c7873e8b6a99f52b20bc77100a917d4e07da5688c23beda10ab144cda03",
+    "body_read_scope": "main introduction and all five roles; historical training notice, not current-year admissions or all linked practice studies",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S187",
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_02998.html",
+    "bytes": 13282,
+    "sha256": "5a60f5991292f760262da9c94c64adb17afe4df6ef8bee9fa3cbe61d80fe946a",
+    "body_read_scope": "purpose and funded activities; distinguishes general and regional coordinator; budgets, grant details and deadlines outside approval",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S188",
+    "url": "https://www.bunka.go.jp/seisaku/kokugo_nihongo/kyoiku/taikai/r02/pdf/92746701_03.pdf",
+    "bytes": 3245064,
+    "sha256": "a85b4cc30926a42c179ff023ad195df80121ae31c960ad85f7a48a36dd17016b",
+    "body_read_scope": "author on PDF1 and full PDF14/printed13 text+images; multilingual including easy Japanese, regional needs, media, access/counseling; other59 pages not fully approved",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]

@@ -599,3 +599,12 @@ S179 [CEFR2001公式原著](https://rm.coe.int/common-european-framework-of-refe
 - S142 AERA/APA/NCME [Testing Standards 2014](https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf)を再取得。印刷11/PDF21、33〜34/PDF43〜44を本文・画像精読。妥当性の用途別得点解釈と信頼性/精度、測定手続きの反復・課題/時点/採点者の変動を使用。印刷12〜14も本文参照したが全書・全理論を承認しない。S179 CEFR2001の9.3.1とS183 TKT Assessment客観採点は既取得照合を使用。
 
 原バイトのURL・SHA256・範囲はevidence/batch120_sources.json。原資料は非転載、独立した問題改訂・解説への要約である。
+
+
+## 第121バッチ S186〜S188（2026-10-16）
+
+- S186 文科省公開[地域日本語教育コーディネーター研修](https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/coordinator_kenshu/)の本文冒頭・5役割を取得照合。旧文化庁による研修の歴史的案内であり、現在の全研修要件やリンク先実践研究の全承認ではない。
+- S187 文科省[地域日本語教育の総合的な体制づくり推進事業](https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_02998.html)の目的と対象取組を取得照合。総括・地域の担当を区別。補助率、当年度の募集・採択条件、全実施状況は承認対象外。S06所管移管は既確認を維持。
+- S188 総務省自治行政局国際室[地域における多文化共生推進プランの改訂について](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kyoiku/taikai/r02/pdf/92746701_03.pdf)。原60頁取得、表紙とPDF14/印刷13を本文・画像精読。「多言語」にやさしい日本語を含む明示、地域の実情に応じる言語検討、多様な媒体・経路、情報入手・相談を使用。他の施策・補助金の現行要件・因果効果は未承認。検索抜粋による承認ではない。
+
+原バイトURL・SHA256・照合範囲はevidence/batch121_sources.json。著作物の原PDF/HTMLは非転載。資料内の定義と一般語義を混同しない。
