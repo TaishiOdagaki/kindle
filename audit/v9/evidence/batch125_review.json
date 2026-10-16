@@ -1,0 +1,76 @@
+{
+  "batch": 125,
+  "base_commit": "b3474c327e8a6895e5056bedaca5b2a95b4d853c",
+  "fully_rejudged": [
+    "Q_3_008"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_3_008": 4
+  },
+  "sources": [
+    "S13"
+  ],
+  "status_counts": {
+    "確認済み": 323,
+    "修正必要": 30,
+    "要追加確認": 147
+  },
+  "remaining": 177,
+  "machine_warnings": 94,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 405,
+  "visually_reviewed_pages": [
+    40,
+    41,
+    238,
+    239
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      40
+    ],
+    "1": [
+      40
+    ],
+    "2": [
+      40
+    ],
+    "3": [
+      41
+    ],
+    "4": [
+      41
+    ],
+    "5": [
+      238
+    ],
+    "6": [
+      238
+    ],
+    "7": [
+      238
+    ],
+    "8": [
+      239
+    ]
+  },
+  "docx_sha256": "02acefaaba675540d657c102dce724a7e053906bc7a17922a22510d7af2cee5c",
+  "pdf_sha256": "1a2042ca6436aaa9696f90033e3c7820ab82b3708530e84d8c1c0a0ddb3fa3d6",
+  "page_sha256": {
+    "40": "7f1873fbdf1a08681a08781f824b74b1a5572a4fb3cd359d8ebbf3708b09c145",
+    "41": "60b7dcbb5c388c92aa8e8144d940843f6e80d52cf45d8a7dcb74aef0560e8e8b",
+    "238": "24769fbafbf4aeac8e9b1962b38890fe65a1263d382e58fe592d4635bb01be84",
+    "239": "6a113ad43bc14b2a8c539550bf5799e0dda8cd669d7c17afd6a92f5025c6d236"
+  },
+  "source_images": {
+    "S13_PDF": [
+      17,
+      18
+    ]
+  },
+  "previous_write_transient_error": "batch124 update_ref UNPROCESSABLE missing; original lease retry succeeded and fetched",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

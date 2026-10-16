@@ -629,3 +629,8 @@ Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-t
 - S189 [2020年版やさしい日本語ガイドライン](https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/pdf/92484001_01.pdf)印刷5〜10/PDF6〜11の既取得本文・画像照合を使用。ワークシートの作業案内への適用は具体例であって、全教材へ例題数を義務付ける規則や効果実験ではない。
 
 原バイトURL・SHA256・範囲はevidence/batch124_sources.json。原PDFは非転載。
+
+
+## 第125バッチ S13追加照合（2026-10-16）
+
+Krashen [Principles and Practice in Second Language Acquisition](https://www.sdkrashen.com/content/books/principles_and_practice.pdf)印刷10〜11/PDF17〜18を本文・画像精読。成人の二過程、子供の第一言語発達と類似する無意識的習得、意識的規則知識としての学習、成人の母語話者並み到達を保証しない留保を使用。第一/第二言語習得の全般的な実証比較にせず1982年の仮説内主張に限定。引用先原研究・現在の全理論的合意・転移や明示指導の普遍的効果を承認しない。原バイトURL・SHA256・範囲はevidence/batch125_sources.json。原PDFは非転載。
