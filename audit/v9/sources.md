@@ -559,3 +559,12 @@ FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content
 - S178 Cornell CTI [Write a Course Syllabus](https://teaching.cornell.edu/teaching-resources/preparing-teach/designing-your-course/write-course-syllabus)。本文取得、導入とFunctions of a Syllabus全体を精読。学習内容・時期・方法、成績評価の方針、課題・試験の日程などを伝える機能をQ_O_026へ照合。個々の大学の法的義務・全シラバスの記載項目を認定しない。
 
 6原HTMLの取得日・バイト数・SHA256・照合範囲はevidence/batch115_sources.json。資料全文は非転載。上記以外のリンク先研究・実例は未取得であり、それらの内容を承認していない。
+
+
+## 第116バッチ S179・S180とS142追加照合（2026-10-16）
+
+- S179 Council of Europe, CEFR（2001）[公式公開本文](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf)。273頁を通常取得、印刷186〜189頁（PDF195〜198）を本文・画像照合。9.3.5の総括的評価の診断的利用、9.3.6直接/間接、9.3.7運用/知識、9.3.8主観/客観と共通基準・複数判断・採点者訓練・データ分析までの全節を確認。Q_4_060・Q_O_029・030に使用。公式AssessmentページからのCEFR2001リンクでも本文を同定。PDFの2013年更新日を出版年と混同しない。全273頁や引用研究全体の承認ではない。
+- S180 CMU Eberly Center [Grading and Feedback](https://www.cmu.edu/teaching/designteach/inclusiveexcellence/gradingandfeedback/index.html)。HTML本文取得、Grade anonymouslyのConsiderationsの採点前normingと解釈差の討議を精読。Q_O_027の会議目的へ対応づける。サイト全体や各科目実例の因果実証は承認対象外。
+- S142 AERA/APA/NCME（2014）[Testing Standards公式全文](https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf)を再取得。印刷79〜80頁（PDF89〜90）の採点仕様とその続き、複雑な文章応答へのアルゴリズム利用と検証の必要性を本文・画像照合。Q_4_060の人間採点必須という一般化を修正。2014年本文の記述であり、現在の製品性能やAI採点の妥当性を確認したものではない。
+
+原バイト数・SHA256・範囲はevidence/batch116_sources.json。原資料全文は非転載。画像の初回196頁PNGに末尾欠損があったため廃棄して単頁再描画・完全読込み後に目視し、欠損画像を根拠に使っていない。

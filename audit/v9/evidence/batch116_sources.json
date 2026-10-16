@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S179",
+    "url": "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf",
+    "bytes": 1160999,
+    "sha256": "4dcaa6c71acc3ddd504d38c11396b199d61a418d224807ce039e468acdc8b062",
+    "body_read_scope": "CEFR2001 official body; printed186-189/PDF195-198 read and image reviewed; 9.3.5-9.3.8 complete, 9.3.9/9.3.10 start incidental; not all273 pages",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S142",
+    "url": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+    "bytes": 1912044,
+    "sha256": "78182353e8cd877535f6f3c8967da52d4d3af64725146c08606d38825941ac61",
+    "body_read_scope": "2014 Standards printed79-80/PDF89-90 read/image reviewed: scoring specifications and continuation, including human/computer scoring; whole240 pages not approved",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S180",
+    "url": "https://www.cmu.edu/teaching/designteach/inclusiveexcellence/gradingandfeedback/index.html",
+    "bytes": 44031,
+    "sha256": "ed5acacad2cd85a2efa3dfb95df2df32c1983bdd50f788e5b89017459b74d218",
+    "body_read_scope": "Grade anonymously Considerations: prior norming with sample work, interpretation across graders; author guidance not universal causal guarantee",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]
