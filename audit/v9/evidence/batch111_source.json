@@ -1,0 +1,30 @@
+{
+  "id": "S170",
+  "authors": "K. Anders Ericsson and Herbert A. Simon",
+  "year": 1980,
+  "title": "Verbal Reports as Data",
+  "journal": "Psychological Review87(3),215-251",
+  "doi": "10.1037/0033-295X.87.3.215",
+  "url": "https://acs.ist.psu.edu/ist597/papers/ericssonS80.pdf",
+  "bytes": 3163687,
+  "sha256": "13b9e4278a25a27ee53337a7116b218f1155be2e69e317e9afdeab0e14597427",
+  "obtained_pdf_pages": 37,
+  "image_review_printed_pages": [
+    215,
+    216,
+    217,
+    218,
+    220
+  ],
+  "ocr_read_pages": [
+    218,
+    219,
+    220
+  ],
+  "high_resolution_verified_pages": [
+    217,
+    218,
+    220
+  ],
+  "limits": "Image-only scan. Relevant body pages visually verified, not abstract-only. Not full37-page reading; no blanket validation of all cited empirical studies or all educational contexts. PDF scan2004 not publication year."
+}

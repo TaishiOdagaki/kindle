@@ -527,3 +527,8 @@ Donald A. Schön, The Reflective Practitioner How Professionals Think in Action�
 ## 第110バッチ S169（2026-10-16）
 
 Anne Burns・Hanan Khalifa（2017）Engaging action research to explore use of assessment for improving language ability, in Second Language Assessment and Action Research, 第1章。[出版社公開抜粋](https://assets.cambridge.org/97811084/36700/excerpt/9781108436700_excerpt.pdf)1〜10頁のみ取得・本文読了、4〜5頁画像照合。[前付け](https://assets.cambridge.org/97811084/36700/frontmatter/9781108436700_frontmatter.pdf)の著作権頁で2017初版を確認。Q_4_077を実施者本人が説明する当該プログラムの方法（4・5・7頁）に限定して承認。4頁は現場の系統的探究、5頁は四段階の相互関連と反復・研究者との協働、7頁は計画の練り直し。4段階モデルの原初文献Kemmis・McTaggart1988、Burns2010その他引用元の全原著は未取得。個別実証章の効果を抜粋の概要だけで承認しない。Figure1の事業運営サイクルとは区別。本文PDFは再配布せずハッシュと取得範囲をevidence/batch110_source.jsonへ記録。
+
+
+## 第111バッチ S170（2026-10-16）
+
+K. Anders Ericsson・Herbert A. Simon（1980）Verbal Reports as Data, Psychological Review87(3),215–251, DOI10.1037/0033-295X.87.3.215。[大学サーバ公開原論文](https://acs.ist.psu.edu/ist597/papers/ericssonS80.pdf)画像PDF37頁を取得。215〜218頁と220頁を画像精読、217・218・220頁を1800pxで再確認、219頁はOCR補助読解。Q_4_078は原著者本人による方法論の区別に限定して承認。217頁の直接観察の非仮定、218頁の同時・回顧と記憶間隔、220頁の思考発話手続きと動機・理由の可用性の留保に対応。原論文の全37頁や引用先実証研究をすべて照合したとはしない。スキャン2004年と出版1980年を区別する。ハッシュ・取得範囲はevidence/batch111_source.json、PDF本文は再配布しない。
