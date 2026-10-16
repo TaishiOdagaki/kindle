@@ -1,0 +1,145 @@
+{
+  "batch": 122,
+  "base_commit": "1f725c69d7de27aece9ce83e5671373a10fcea6c",
+  "fully_rejudged": [
+    "Q_1_005",
+    "Q_1_018",
+    "Q_1_021"
+  ],
+  "edits": 22,
+  "independent_answers": {
+    "Q_1_005": 3,
+    "Q_1_018": 1,
+    "Q_1_021": 3
+  },
+  "sources": [
+    "S189"
+  ],
+  "status_counts": {
+    "確認済み": 318,
+    "修正必要": 32,
+    "要追加確認": 150
+  },
+  "remaining": 182,
+  "machine_warnings": 92,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_1_018",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [3]"
+    ],
+    [
+      "P1",
+      "Q_1_021",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [2, 4]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positives from qualified rejections of uniform test levels and universally guaranteed comprehension",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 405,
+  "visually_reviewed_pages": [
+    7,
+    12,
+    13,
+    14,
+    204,
+    205,
+    210,
+    211,
+    212
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      7
+    ],
+    "1": [
+      7
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      204
+    ],
+    "4": [
+      205
+    ],
+    "5": [
+      205
+    ],
+    "6": [
+      205
+    ],
+    "7": [
+      12
+    ],
+    "8": [
+      13
+    ],
+    "9": [
+      13
+    ],
+    "10": [
+      13
+    ],
+    "11": [
+      210
+    ],
+    "12": [
+      210
+    ],
+    "13": [
+      210
+    ],
+    "14": [
+      210
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      14
+    ],
+    "17": [
+      14
+    ],
+    "18": [
+      211
+    ],
+    "19": [
+      212
+    ],
+    "20": [
+      212
+    ],
+    "21": [
+      212
+    ]
+  },
+  "docx_sha256": "63090189a802f47cf9201d807e554c94968eaf8bd22f4abe238adb15c708a72c",
+  "pdf_sha256": "348ec081abceb1411fcc336b088071eae889ef45925a2968dff06519ac362230",
+  "page_sha256": {
+    "7": "5cd537294c5068f79909ec79b6544eaa24d72c993c4404dd940a96b99a6dbf8d",
+    "12": "186063931a90d63ba6271612fc61373fb88026f8ab100aa05cf22e0cdfd21a4a",
+    "13": "65937f13880f6c54cd9c4a538e6bb3f326ded7f4609c3b0420a033f3bd7b2176",
+    "14": "94d7a8aeb8cb0a051ccdab21fdb79be069225b6cdd66a7057736f7bf9da8b1ac",
+    "204": "fce92715f6c390c6a2eacc32dc36553ab999e3dd7da4fe0907fdff3d94d60de5",
+    "205": "bf5a9851d758a7c5053a8bb95691670482a4a38f2c097e328bf2c0c0c8ca3f64",
+    "210": "550174c17e8f9bc70ad6e61c3aaaefe84a0479a7e0e9fdf2fb367037cfe9fd1b",
+    "211": "07e3f82fdf6b904de5d9061dc6ef996959521bbae295dbd173cdce6ff16391fd",
+    "212": "f0b651ef0172d435cea967a29fd8e22a3764488e4912d88c535bb136474e848e"
+  },
+  "source_images": {
+    "S189_PDF": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
