@@ -620,3 +620,12 @@ S179 [CEFR2001公式原著](https://rm.coe.int/common-european-framework-of-refe
 ## 第123バッチ S183追加照合（2026-10-16）
 
 Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)。既取得原59頁の印刷2・6・38・44・48/PDF3・7・39・45・49を本文・画像精読。Adapt/Book/Reflect on teaching/Reflective/Supplementary material/Timingの当事者用語定義と例を使用。授業実施後の時間見積り見直しは定義に沿う適用例であり、配分変更の効果を証明した実験ではない。刊年推定・他項目の全承認・引用研究の取得は主張しない。原バイトURL・SHA256・照合範囲はevidence/batch123_sources.json。原PDFは非転載。
+
+
+## 第124バッチ S13・S183・S189追加照合（2026-10-16）
+
+- S13 Krashen [Principles and Practice in Second Language Acquisition](https://www.sdkrashen.com/content/books/principles_and_practice.pdf)を著者サイトから再取得。印刷31〜32/PDF38〜39を本文・画像精読。低不安・低フィルターは1982年の仮説内主張であり全原研究の取得や現在の実証的承認ではない。
+- S183 [TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)印刷16・37・44/PDF17・38・45を本文・画像精読。Feedback/Rapport/Supportiveの当事者用語集内の定義と例を使用。心理的安全性の原著、特定訂正手法の信頼・上達効果の証明として扱わない。
+- S189 [2020年版やさしい日本語ガイドライン](https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/pdf/92484001_01.pdf)印刷5〜10/PDF6〜11の既取得本文・画像照合を使用。ワークシートの作業案内への適用は具体例であって、全教材へ例題数を義務付ける規則や効果実験ではない。
+
+原バイトURL・SHA256・範囲はevidence/batch124_sources.json。原PDFは非転載。

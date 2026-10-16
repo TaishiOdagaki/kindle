@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S189",
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/pdf/92484001_01.pdf",
+    "bytes": 1430064,
+    "sha256": "548497460f13033d2bcb82a753e0d22612a71fcac1e5521cf6448c2225d31f54",
+    "retrieved": "2026-10-16",
+    "body_read_scope": "2020 guide printed5-10/PDF6-11 already text+image read; application to worksheet instructions is an explicit example, not a worksheet experiment",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S13",
+    "url": "https://www.sdkrashen.com/content/books/principles_and_practice.pdf",
+    "bytes": 989105,
+    "sha256": "082f7954a3ee0b6e1f164cf9269b4a94146153a2e31fa4c3b52d947c4c5970e9",
+    "retrieved": "2026-10-16",
+    "body_read_scope": "printed31-32/PDF38-39 text+images: within-theory affective filter, not all underlying studies",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "bytes": 1162784,
+    "sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+    "retrieved": "2026-10-16",
+    "body_read_scope": "printed16/37/44 PDF17/38/45 text+images: Feedback, Rapport, Supportive; not psychological-safety construct or guaranteed correction effects",
+    "full_source_redistributed": false
+  }
+]

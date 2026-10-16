@@ -1,0 +1,116 @@
+{
+  "batch": 124,
+  "base_commit": "dee7a5868bef90cff912e79f451d98c13b1cb523",
+  "fully_rejudged": [
+    "Q_4_047",
+    "Q_4_016"
+  ],
+  "edits": 16,
+  "independent_answers": {
+    "Q_4_047": 1,
+    "Q_4_016": 2
+  },
+  "sources": [
+    "S13",
+    "S183",
+    "S189"
+  ],
+  "status_counts": {
+    "確認済み": 322,
+    "修正必要": 31,
+    "要追加確認": 147
+  },
+  "remaining": 178,
+  "machine_warnings": 94,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_047",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3, 4]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positive: rejects universally guaranteed understanding, not the example itself",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 405,
+  "visually_reviewed_pages": [
+    59,
+    71,
+    258,
+    259,
+    271,
+    272
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      71
+    ],
+    "1": [
+      71
+    ],
+    "2": [
+      71
+    ],
+    "3": [
+      71
+    ],
+    "4": [
+      271
+    ],
+    "5": [
+      271
+    ],
+    "6": [
+      271
+    ],
+    "7": [
+      272
+    ],
+    "8": [
+      59
+    ],
+    "9": [
+      59
+    ],
+    "10": [
+      59
+    ],
+    "11": [
+      59
+    ],
+    "12": [
+      258
+    ],
+    "13": [
+      258
+    ],
+    "14": [
+      258
+    ],
+    "15": [
+      259
+    ]
+  },
+  "docx_sha256": "ca4645b7597fa4fec55df07b1aad9c1961714ac9fd4332d87f51537df4ccb22e",
+  "pdf_sha256": "db2d16021b7604ca18928252c5110d16f60c8e2a19bdd553ea371263efb3f068",
+  "page_sha256": {
+    "59": "39c4082977d9a57e9dc2a170922c63016434d3c784b9f9afdc9ea3c84a1b18a2",
+    "71": "6c0f1867b9d81198e6e95c62accd24e29edc9de2f72c51b3859b57a083c70da0",
+    "258": "96e52fee2585eaaa9d68679e5fa4207367f8e8f144bd230825cf49d443f8127f",
+    "259": "4a6561fb78b0572ecd8e4a5cb02e67d9a037dc500cae8dd0c25a3be86f46cc53",
+    "271": "ba885cadf50eda828971e12a9ca12ea2d69791af0bb728a4b09a2a30cdbb976d",
+    "272": "7cc2f44a351f651609bd8357df9910e2739837be3bf7fdedc6b845690d52f02b"
+  },
+  "source_images": {
+    "S13_PDF": [
+      38,
+      39
+    ],
+    "S183_PDF": [
+      17,
+      38,
+      45
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
