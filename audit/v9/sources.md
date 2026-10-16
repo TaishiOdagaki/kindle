@@ -548,3 +548,14 @@ K. Anders Ericsson・Herbert A. Simon（1980）Verbal Reports as Data, Psycholog
 ## 第114バッチ S173再利用（2026-10-16）
 
 FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf) 全2頁を再照合。原バイトSHA256はbatch113_sources.jsonと一致。1頁のClassroomとLearningの非同義・四本柱条件、2頁F.2/P.1/I.2をQ_O_036全体へ照合。動画指示と応用活動という記録から全柱の充足を認定しない判断、観察・支援の位置づけ、媒体の非限定を問う。旧問題の他教授法やブレンディッド学習の一般的分類は根拠未取得のため改訂本文から除去し、承認対象外。原著の全訳やPDF転載ではなく独立した日本語問題と解説への改訂。
+
+
+## 第115バッチ S174〜S178（2026-10-16）
+
+- S174 CMU Eberly Center [Creating and Using Rubrics](https://www.cmu.edu/teaching/assessment/assesslearning/rubrics.html)。本文取得、冒頭の定義・criteria/descriptors/performance levelsを精読。Q_O_026の表の構成に照合。全効果・全課題での保証ではない。
+- S175 Cornell CTI [Using rubrics](https://teaching.cornell.edu/teaching-resources/assessing-student-learning/using-rubrics)。本文取得、定義・Why use・Considerations・Getting Startedを精読。Q_O_028全体の基準明確化・段階記述・説明方針への適用判断に使用。利用者との確認・改訂を含み、保護者の納得の実験や法的説明義務を根拠づけない。
+- S176 Council of Europe [What is the ELP?](https://www.coe.int/en/web/portfolio/introduction)、[The Dossier](https://www.coe.int/en/web/portfolio/the-dossier)。両本文取得・主記事全文を精読。ELPの記録と省察・三構成要素、作品の選択・蓄積と過程/展示ドシエ、形成的評価等の用途をQ_O_026のポートフォリオ具体例に使用。全ポートフォリオをELPと同一視しない。
+- S177 国立国語研究所「[鼎談 プロジェクトリーダーが語る 日本語の個性 ②](https://kotoba.ninjal.ac.jp/digest/03/d-03-02/)」（2018-04-18）。本文取得、最初のコーパス定義への小木曽氏の回答を精読。開発者本人によるデータの収集・検索・研究情報の説明をQ_O_026へ使用。記事全体の全事実・個々のコーパスの最新規模や現行仕様は承認対象外。
+- S178 Cornell CTI [Write a Course Syllabus](https://teaching.cornell.edu/teaching-resources/preparing-teach/designing-your-course/write-course-syllabus)。本文取得、導入とFunctions of a Syllabus全体を精読。学習内容・時期・方法、成績評価の方針、課題・試験の日程などを伝える機能をQ_O_026へ照合。個々の大学の法的義務・全シラバスの記載項目を認定しない。
+
+6原HTMLの取得日・バイト数・SHA256・照合範囲はevidence/batch115_sources.json。資料全文は非転載。上記以外のリンク先研究・実例は未取得であり、それらの内容を承認していない。

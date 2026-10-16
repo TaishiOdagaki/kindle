@@ -1,0 +1,68 @@
+[
+  {
+    "source_id": "S174",
+    "url": "https://www.cmu.edu/teaching/assessment/assesslearning/rubrics.html",
+    "bytes": 34896,
+    "sha256": "5b806c5d91e00e7a47bce31c99855aa41cd63a2e0cd701312d0dd86c9a7ed893",
+    "archive": null,
+    "body_read_scope": "definition: criteria, descriptors, performance levels; not universal effect proof",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  },
+  {
+    "source_id": "S175",
+    "url": "https://teaching.cornell.edu/teaching-resources/assessing-student-learning/using-rubrics",
+    "bytes": 42447,
+    "sha256": "20d53bfa56184e70206cda4c87bf2fcb6fdb8f449bbccab93e98480b689b14d8",
+    "archive": null,
+    "body_read_scope": "definition, Why use, Considerations, Getting started; case6 parent explanation is editorial application, not parent experiment",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  },
+  {
+    "source_id": "S176",
+    "url": "https://www.coe.int/en/web/portfolio/introduction",
+    "bytes": 84904,
+    "sha256": "fcb711ef663ce4569271cf54af9db828e9156199311c8156fee3c834ecf8edd6",
+    "archive": null,
+    "body_read_scope": "definition and components; ELP is example, not all portfolios identical",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  },
+  {
+    "source_id": "S176",
+    "url": "https://www.coe.int/en/web/portfolio/the-dossier",
+    "bytes": 82526,
+    "sha256": "37b532e5083ab9234609f9e1952e0f5efe7cfdcb70dd14dc847a0bef87314cca",
+    "archive": null,
+    "body_read_scope": "selected work/records, process/display dossiers; not grading rubric itself",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  },
+  {
+    "source_id": "S177",
+    "url": "https://kotoba.ninjal.ac.jp/digest/03/d-03-02/",
+    "bytes": 126413,
+    "sha256": "5bd72b05fd3abd027783ac8e8d34711ca10020949c1cf0954b459b2b083a6a83",
+    "archive": null,
+    "body_read_scope": "2018-04-18 interview: Ogiso answer to first corpus-definition question only",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  },
+  {
+    "source_id": "S178",
+    "url": "https://teaching.cornell.edu/teaching-resources/preparing-teach/designing-your-course/write-course-syllabus",
+    "bytes": 45717,
+    "sha256": "31455f8a521ceb68555bd53b27cfa575accd1c640448d1128e5c8bb93276a15d",
+    "archive": null,
+    "body_read_scope": "introduction and Functions of a Syllabus; not every syllabus or law",
+    "retrieved": "2026-10-16",
+    "approval": "source body acquired; no snippet-only approval; independent Japanese paraphrase, not full translation",
+    "archival_limit": "full source HTML cached privately for inspection, not redistributed in repository"
+  }
+]
