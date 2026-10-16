@@ -6,7 +6,7 @@
   "unmodified_questions_unchanged": true,
   "changed_questions": 296,
   "case_replacements": 18,
-  "replacements": 2523,
+  "replacements": 2532,
   "issues": [
     [
       "S2",
@@ -312,6 +312,11 @@
       "P1",
       "Q_O_035",
       "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ],
+    [
+      "A1",
+      "Q_O_036",
+      "正解選択肢1に断定語、他に断定語なし2つ以上"
     ],
     [
       "P1",

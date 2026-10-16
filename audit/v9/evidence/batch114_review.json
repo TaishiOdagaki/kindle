@@ -1,0 +1,80 @@
+{
+  "batch": 114,
+  "base_commit": "69d3aace39bbe9a35300632be814eb33a588cb75",
+  "fully_rejudged": [
+    "Q_O_036"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_O_036": 1
+  },
+  "sources": [
+    "S173"
+  ],
+  "source_sha256": "8710b0c0f1a34f9ca2df143876659a96fb5d0e4795bdaf6d055ce5b21d09aa2e",
+  "source_body_read_pages": [
+    1,
+    2
+  ],
+  "status_counts": {
+    "確認済み": 292,
+    "修正必要": 38,
+    "要追加確認": 170
+  },
+  "remaining": 208,
+  "machine_warnings": 76,
+  "new_warnings": [
+    [
+      "A1",
+      "Q_O_036",
+      "正解選択肢1に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "new_warning_judgment": "A1 wording cue, not unsupported universal claim; independent key1 retained",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 403,
+  "visually_reviewed_pages": [
+    152,
+    355,
+    356
+  ],
+  "all_changed_strings_found": {
+    "('Q_O_036', 'stem', None)": [
+      152
+    ],
+    "('Q_O_036', 'options', 0)": [
+      152
+    ],
+    "('Q_O_036', 'options', 1)": [
+      152
+    ],
+    "('Q_O_036', 'options', 2)": [
+      152
+    ],
+    "('Q_O_036', 'options', 3)": [
+      152
+    ],
+    "('Q_O_036', 'explanations', 0)": [
+      355
+    ],
+    "('Q_O_036', 'explanations', 1)": [
+      356
+    ],
+    "('Q_O_036', 'explanations', 2)": [
+      356
+    ],
+    "('Q_O_036', 'explanations', 3)": [
+      356
+    ]
+  },
+  "docx_sha256": "e84f3735d3b941c197e7dcdaa06465d5d534ccd2eb6513462a6da6ff4d4647dd",
+  "pdf_sha256": "f8d434cc635785a16358e455e8fc704f94a3e0255f1fc6807847266d8fa4f487",
+  "page_sha256": {
+    "152": "51ececb9e2b670e0ceaa98c7af28d2f804310ddb55ed5e5f45d233f3564a2f5b",
+    "355": "0c052981998025761a23062b6a53e0b5ee3cb9d04ee51eda22994c73117898e3",
+    "356": "82844f30360a9a373f9381b185ca121e771fd63520f77ece68d74027ca58f462"
+  },
+  "pagination_todo": "Q_O_036 explanations split355/356; improve final pagination",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

@@ -543,3 +543,8 @@ K. Anders Ericsson・Herbert A. Simon（1980）Verbal Reports as Data, Psycholog
 
 - S172 Moodle4.5公式本文：[Quiz activity](https://docs.moodle.org/405/en/Quiz_activity)、[Quiz settings](https://docs.moodle.org/405/en/Quiz_settings)、[Forum activity](https://docs.moodle.org/405/en/Forum_activity)、[Activity completion report](https://docs.moodle.org/405/en/Activity_completion_report)。本文取得、Quiz/Forumの概要・教員表示、Review options、完了報告の権限・表示凡例を精読。HTML原バイトをgzipで保存しSHA256照合。Q_4_116の設定依存機能の根拠。他製品・全LMS・因果的学習効果の承認ではない。
 - S173 Flipped Learning Network (2014), What Is Flipped Learning? [公式原著PDF](https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf)。全2頁を本文精読・画像照合。定義、Flipped Classroomとの区別、F/L/I/P四本柱と11指標を確認。URLの2016ではなく本文の引用指定2014を採用。Q_4_117とQ_O_037〜040は枠組み・形成的評価・柔軟な支援への対応を問う形へ限定。効果実証、最適動画時間、他教授法の分類は承認対象外。原著PDF全体は転載せずURL・ハッシュ・照合範囲をbatch113_sources.jsonへ保存。日本語の独立した要約・問題改訂であり全文翻訳ではない。
+
+
+## 第114バッチ S173再利用（2026-10-16）
+
+FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf) 全2頁を再照合。原バイトSHA256はbatch113_sources.jsonと一致。1頁のClassroomとLearningの非同義・四本柱条件、2頁F.2/P.1/I.2をQ_O_036全体へ照合。動画指示と応用活動という記録から全柱の充足を認定しない判断、観察・支援の位置づけ、媒体の非限定を問う。旧問題の他教授法やブレンディッド学習の一般的分類は根拠未取得のため改訂本文から除去し、承認対象外。原著の全訳やPDF転載ではなく独立した日本語問題と解説への改訂。
