@@ -507,3 +507,10 @@ S36の既存Q_5_026判定を上書きしない。原バイトのハッシュはe
 国際交流基金公式 [Can-doとは](https://www.jfstandard.jpf.go.jp/cando/about/summary/ja/render.do) の定義、種類（活動・テクスト・方略・能力）、言語構造的能力、留意点の言語材料・目標と評価の使い分け・MY Can-doを本文取得・照合。[活用方法](https://www.jfstandard.jpf.go.jp/course/ja/render.do) 全62行の目標・授業・評価の一貫性と必要な語彙・文法の準備、[JFスタンダードとは](https://www.jfstandard.jpf.go.jp/summary/ja/render.do) の目標共有・現場に応じた利用・自己評価（52〜108行）も本文照合。対象Q_4_013・026。検索抜粋だけの承認ではない。画像内の全表や他リンク先、CEFR全冊、実証的効果研究を承認したとはしない。刊年・更新日をフッターのcopyrightや取得日から推定しない。
 
 再取得HTML原バイトをevidence/S11_batch107_about.html.gz・course.html.gz・summary.html.gzに保存、バイト数・SHA256はbatch107_sources.json。注文例は独自作成で公式引用・認定レベルを付与しない。
+
+
+## 第108バッチ S166（2026-10-16）
+
+Donald A. Schön, The Reflective Practitioner How Professionals Think in Action（著作権表記1983、Basic Books後刷の公開複製）[原著PDF](https://www.socialworkerskills.eu/uploads/1/4/4/7/144711219/sch%C3%B6n_d._a.__1983_._the_reflective_practitioner.pdf)。全380頁・28811364バイトを通常取得。Web抽出は容量上限だったがローカルで原PDFを取得して本文と画像を照合。印刷21頁（PDF30）の技術的合理性、40頁（PDF49）の問題設定、61〜63頁（PDF70〜72）の過度の習熟による固定・振り返り・action-present・対象・試行を精読。表題PDF3頁も画像確認。周辺49〜60頁の本文も参照したが、全冊・周辺全頁の完全精読とは扱わない。原著の他研究への言及を、その引用元研究の取得と混同しない。2018年スキャン日を刊年にしない。本文は再配布せず、ハッシュ・頁対応・照合範囲をevidence/batch108_source.jsonに保存。
+
+対象Q_4_001・004・083。日本語授業の変更例は本問独自の適用例で、原著掲載の実験事例ではない。省察の唯一性や教授効果を普遍的に承認しない。

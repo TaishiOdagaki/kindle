@@ -1,0 +1,148 @@
+{
+  "batch": 108,
+  "base_commit": "d813798f55576d4f372a1fe56196a594e0371399",
+  "fully_rejudged": [
+    "Q_4_001",
+    "Q_4_004",
+    "Q_4_083"
+  ],
+  "edits": 28,
+  "field_edits": 27,
+  "removed_stem_continuations": 1,
+  "independent_answers": {
+    "Q_4_001": 4,
+    "Q_4_004": 4,
+    "Q_4_083": 4
+  },
+  "sources": [
+    "S166"
+  ],
+  "status_counts": {
+    "確認済み": 280,
+    "修正必要": 39,
+    "要追加確認": 181
+  },
+  "remaining": 220,
+  "machine_warnings": 69,
+  "new_machine_warnings": [
+    [
+      "P1",
+      "Q_4_001",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ],
+    [
+      "P1",
+      "Q_4_083",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "removed_machine_warnings": [],
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    53,
+    54,
+    55,
+    84,
+    251,
+    252,
+    284
+  ],
+  "image_scale_to_pixels": 1800,
+  "all_changed_strings_found": {
+    "('Q_4_001', 'stem', None)": [
+      53
+    ],
+    "('Q_4_001', 'options', 0)": [
+      53
+    ],
+    "('Q_4_001', 'options', 1)": [
+      54
+    ],
+    "('Q_4_001', 'options', 2)": [
+      54
+    ],
+    "('Q_4_001', 'options', 3)": [
+      54
+    ],
+    "('Q_4_001', 'explanations', 0)": [
+      251
+    ],
+    "('Q_4_001', 'explanations', 1)": [
+      251
+    ],
+    "('Q_4_001', 'explanations', 2)": [
+      251
+    ],
+    "('Q_4_001', 'explanations', 3)": [
+      251
+    ],
+    "('Q_4_004', 'stem', None)": [
+      55
+    ],
+    "('Q_4_004', 'options', 0)": [
+      55
+    ],
+    "('Q_4_004', 'options', 1)": [
+      55
+    ],
+    "('Q_4_004', 'options', 2)": [
+      55
+    ],
+    "('Q_4_004', 'options', 3)": [
+      55
+    ],
+    "('Q_4_004', 'explanations', 0)": [
+      252
+    ],
+    "('Q_4_004', 'explanations', 1)": [
+      252
+    ],
+    "('Q_4_004', 'explanations', 2)": [
+      252
+    ],
+    "('Q_4_004', 'explanations', 3)": [
+      252
+    ],
+    "('Q_4_083', 'stem', None)": [
+      84
+    ],
+    "('Q_4_083', 'options', 0)": [
+      84
+    ],
+    "('Q_4_083', 'options', 1)": [
+      84
+    ],
+    "('Q_4_083', 'options', 2)": [
+      84
+    ],
+    "('Q_4_083', 'options', 3)": [
+      84
+    ],
+    "('Q_4_083', 'explanations', 0)": [
+      284
+    ],
+    "('Q_4_083', 'explanations', 1)": [
+      284
+    ],
+    "('Q_4_083', 'explanations', 2)": [
+      284
+    ],
+    "('Q_4_083', 'explanations', 3)": [
+      284
+    ]
+  },
+  "docx_sha256": "53fe68a2c45cd904c0dabc80892633a9673c2099cccfc11ef17e534f1d922519",
+  "pdf_sha256": "ca365e6cd07344223fa55c66875492cf067d5ff48d296e68861e58c624ddcb5b",
+  "page_sha256": {
+    "53": "e22825f6a315b9098a70d44dc0a115cb9a1a0db1541a1ab94714a2d72fe111af",
+    "54": "56aea1584d1053057af2eb84171e2423a9c2eb4b27236abec6336569f24616cf",
+    "55": "7a0a3fdfd4c8b4e89876f211ab1ec7b6fca4870abbe588c9cfe6ddb05bb46f27",
+    "84": "169930c8af2979483015a81aa6babbe5a6add839fe994e36db86c4eaa99b499a",
+    "251": "1c2beecb19223c4fa66ddc82cdb87a2a674910b9f248768aeeaea7a2575d5846",
+    "252": "b2cd94ee5501b4ee68bbd4a13f0fa9b6c90500a727a4a16ec238a08d48d1d014",
+    "284": "28cdc5e0edb8edbb3ed5842fb137e58931ec2acef21e919d0085788f432e6d59"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
