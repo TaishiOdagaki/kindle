@@ -1,0 +1,198 @@
+{
+  "batch": 117,
+  "base_commit": "d343a77a2a0eed9ddd8e4dd7cf4becd3b801de89",
+  "fully_rejudged": [
+    "Q_4_085",
+    "Q_4_086",
+    "Q_O_042",
+    "Q_O_043",
+    "Q_O_044",
+    "Q_O_045"
+  ],
+  "edits": 36,
+  "content_edits": 35,
+  "explicit_old_stem_removals": 1,
+  "independent_answers": {
+    "Q_4_085": 1,
+    "Q_4_086": 3,
+    "Q_O_042": 4,
+    "Q_O_043": 4,
+    "Q_O_044": 3,
+    "Q_O_045": 1
+  },
+  "sources": [
+    "S23",
+    "S181",
+    "S182"
+  ],
+  "status_counts": {
+    "確認済み": 304,
+    "修正必要": 36,
+    "要追加確認": 160
+  },
+  "remaining": 196,
+  "machine_warnings": 85,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_086",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1]"
+    ],
+    [
+      "P1",
+      "Q_O_042",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [3]"
+    ],
+    [
+      "P1",
+      "Q_O_043",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ],
+    [
+      "P1",
+      "Q_O_044",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ],
+    [
+      "P1",
+      "Q_O_045",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [4]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positives from explicit limits on causal diagnosis, JSL identification, collaboration effect, identical activities, and causal proof",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 404,
+  "visually_reviewed_pages": [
+    85,
+    154,
+    155,
+    286,
+    287,
+    359,
+    360
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      85
+    ],
+    "1": [
+      85
+    ],
+    "2": [
+      286
+    ],
+    "3": [
+      286
+    ],
+    "4": [
+      286
+    ],
+    "5": [
+      286
+    ],
+    "6": [
+      85
+    ],
+    "8": [
+      85
+    ],
+    "9": [
+      286
+    ],
+    "10": [
+      286
+    ],
+    "11": [
+      287
+    ],
+    "12": [
+      359
+    ],
+    "13": [
+      359
+    ],
+    "14": [
+      359
+    ],
+    "15": [
+      359
+    ],
+    "16": [
+      154
+    ],
+    "17": [
+      154
+    ],
+    "18": [
+      154
+    ],
+    "19": [
+      155
+    ],
+    "20": [
+      359
+    ],
+    "21": [
+      359
+    ],
+    "22": [
+      359
+    ],
+    "23": [
+      359
+    ],
+    "24": [
+      155
+    ],
+    "25": [
+      155
+    ],
+    "26": [
+      360
+    ],
+    "27": [
+      360
+    ],
+    "28": [
+      360
+    ],
+    "29": [
+      360
+    ],
+    "30": [
+      155
+    ],
+    "31": [
+      155
+    ],
+    "32": [
+      360
+    ],
+    "33": [
+      360
+    ],
+    "34": [
+      360
+    ],
+    "35": [
+      360
+    ]
+  },
+  "docx_sha256": "685d20456d990ed91b56c68e630551a1bf727d0ed4c10497f6d9cbb31b4b5be2",
+  "pdf_sha256": "bfa9804adf874c4c1c3bd7c658b2cb89b8dd3ed2b4b23689c99fc560e29ffc03",
+  "page_sha256": {
+    "85": "e73b59ca9a05c11dc7d3dc4bebd8542b1388e3b1c7a7ec020db6ca851d51279e",
+    "154": "dc7515df641de8a2d3b66a3fc21c41c9bf97b6113275e4e29c9ff7288df07699",
+    "155": "286e8b7d5aed681275dce7df66f7302a2cc131da69edb0040f8f4dff09c02e26",
+    "286": "175c78a69bf7efc36042b0a92955a361e48a0030cea780a335d4b05431174472",
+    "287": "7a9c8315be6ec243d1ae689bff238494a4792380443d0b8269c209f0aba9d928",
+    "359": "223e7d00814e9001f9c3d877ea4b5f6748ea0f1695c4a896ae4bccd5b5d72623",
+    "360": "ae0958208939695a6157a333692a4c845abacb6a26f4e4f19f65f846ef7fddad"
+  },
+  "case9_other_question": "Q_O_041 remains unverified",
+  "arithmetic": "9 and21 independently checked; prior correction retained",
+  "rebuild_guard": "Ambiguous old paragraph match rejected; explicit block and previous-paragraph context made removal unique",
+  "png_recovery": "155/359 regenerated before accepted image review",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

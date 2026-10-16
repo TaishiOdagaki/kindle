@@ -568,3 +568,12 @@ FLN2014原著 [What Is Flipped Learning?](https://flippedlearning.org/wp-content
 - S142 AERA/APA/NCME（2014）[Testing Standards公式全文](https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf)を再取得。印刷79〜80頁（PDF89〜90）の採点仕様とその続き、複雑な文章応答へのアルゴリズム利用と検証の必要性を本文・画像照合。Q_4_060の人間採点必須という一般化を修正。2014年本文の記述であり、現在の製品性能やAI採点の妥当性を確認したものではない。
 
 原バイト数・SHA256・範囲はevidence/batch116_sources.json。原資料全文は非転載。画像の初回196頁PNGに末尾欠損があったため廃棄して単頁再描画・完全読込み後に目視し、欠損画像を根拠に使っていない。
+
+
+## 第117バッチ S23追加・S181・S182（2026-10-16）
+
+- S23 文部科学省JSL小学校編最終報告 [基本的な考え方](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/001.htm)、[教科志向型JSLカリキュラム](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/006.htm)。基本構想の本文と教科志向型1〜2.3を取得・精読。教科と言語の統合、授業参加、母語・文化支援、個別の把握、取り出しと在籍学級支援を照合。
+- S181 同報告 [算数科](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/015.htm)。5.1.1〜5.2と5.4.1を精読。既習の算数や就学歴・言語理解等の複数の困難を視野に入れ、計算だけでなく活動への参加を支援する。Q_4_086の例は本問の算術例として独立検算し、報告に掲載された実験と称さない。
+- S182 同報告 [JSLカリキュラムを支える支援体制](https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/1295288.htm)。1.1〜1.2本文を精読。教師間の共有・協働、家庭・母語支援。協働の因果効果や現在のインターネット普及率、個別の法的要件を承認しない。
+
+取得原バイトのURL・SHA256・範囲はevidence/batch117_sources.json。登録日を報告出版年とみなさず、小学校編の過去の報告として扱う。原資料全文は非転載。関連概念の原著未取得問は未確認を維持。

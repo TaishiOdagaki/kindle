@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "S23",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/001.htm",
+    "bytes": 27613,
+    "sha256": "c3bb7ee53aa228b43c7aa4c49e60531b9df5f9b9fee3e1b08c9b35be67014ed2",
+    "body_read_scope": "elementary final report basic conception main body: integration, participation, mother language/culture, individual assessment, topic/subject types, pull-out and regular class",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S23",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/006.htm",
+    "bytes": 19017,
+    "sha256": "b2aea471e162b952ee930314cd3b3d80a33328ea88f248df84a6298482aae49c",
+    "body_read_scope": "main body1-2.3: subject learning participation, support integration, development principles and subject-specific expressions",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S181",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/015.htm",
+    "bytes": 34008,
+    "sha256": "845f88e649cb60bf307fe847ed9861783f69641c7351da7f4cb7d4519d7b81f6",
+    "body_read_scope": "5.1.1-5.2 and5.4.1: language and prior subject learning, multiple possible difficulties, individual context; arithmetic examples independently calculated, not reported experiments",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S182",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/1295288.htm",
+    "bytes": 15029,
+    "sha256": "956f557dd8918b35def2de44a2cd0d3c4a01ba6124075084fda05cebcf1064a2",
+    "body_read_scope": "1.1-1.2: collaboration and shared practice, mother-language support; no current internet-access statistics or legal procedures",
+    "retrieved": "2026-10-16",
+    "full_source_redistributed": false
+  }
+]
