@@ -634,3 +634,8 @@ Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-t
 ## 第125バッチ S13追加照合（2026-10-16）
 
 Krashen [Principles and Practice in Second Language Acquisition](https://www.sdkrashen.com/content/books/principles_and_practice.pdf)印刷10〜11/PDF17〜18を本文・画像精読。成人の二過程、子供の第一言語発達と類似する無意識的習得、意識的規則知識としての学習、成人の母語話者並み到達を保証しない留保を使用。第一/第二言語習得の全般的な実証比較にせず1982年の仮説内主張に限定。引用先原研究・現在の全理論的合意・転移や明示指導の普遍的効果を承認しない。原バイトURL・SHA256・範囲はevidence/batch125_sources.json。原PDFは非転載。
+
+
+## 第126バッチ S190（2026-10-16）
+
+Cummins (2008), *BICS and CALP: Empirical and Theoretical Status of the Distinction*, Encyclopedia of Language and Education, Volume 2, pp.71–83。[大学公開著者稿PDF](https://eclass.upatras.gr/modules/document/file.php/PDE1535/CumminsBICSCALPSpringer2007.pdf)を取得。表紙の著者・書誌、PDF2〜3・5頁の本文・画像を精読。原稿頁には印刷頁番号がないためPDF頁を指定。会話と学術的言語の概念的区別、全能力の網羅理論ではない留保、口頭/書面の両側面、会話から教科学習を推定する危険、文脈と認知的要求の相対性を使用。日本の全JSL児童の期間・支援効果・認知能力不足、言語間転移、引用先の旧個別研究の再検証は承認対象外。全文ファイル取得は論文の全主張の承認を意味しない。URL・原バイトSHA256・範囲はevidence/batch126_sources.json。原PDFは非転載。

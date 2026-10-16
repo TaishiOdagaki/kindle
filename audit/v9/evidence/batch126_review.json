@@ -1,0 +1,125 @@
+{
+  "batch": 126,
+  "base_commit": "ac56a89ab3e5eaf23d76e2fe2cf3a0896897e2e0",
+  "fully_rejudged": [
+    "Q_2_004",
+    "Q_4_084"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_2_004": 3,
+    "Q_4_084": 3
+  },
+  "sources": [
+    "S190"
+  ],
+  "status_counts": {
+    "確認済み": 325,
+    "修正必要": 30,
+    "要追加確認": 145
+  },
+  "remaining": 175,
+  "machine_warnings": 95,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_2_004",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ],
+    [
+      "P1",
+      "Q_4_084",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "removed_warnings": [
+    [
+      "A1",
+      "Q_2_004",
+      "正解選択肢3に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "warning_review": "P1 matches qualifications in correct explanations, not wrong key or multiple correct answers",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 405,
+  "visually_reviewed_pages": [
+    24,
+    84,
+    222,
+    286
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      24
+    ],
+    "1": [
+      24
+    ],
+    "2": [
+      24
+    ],
+    "3": [
+      24
+    ],
+    "4": [
+      24
+    ],
+    "5": [
+      222
+    ],
+    "6": [
+      222
+    ],
+    "7": [
+      222
+    ],
+    "8": [
+      222
+    ],
+    "9": [
+      84
+    ],
+    "10": [
+      84
+    ],
+    "11": [
+      84
+    ],
+    "12": [
+      84
+    ],
+    "13": [
+      84
+    ],
+    "14": [
+      286
+    ],
+    "15": [
+      286
+    ],
+    "16": [
+      286
+    ],
+    "17": [
+      286
+    ]
+  },
+  "docx_sha256": "d04b862602f6268c2aedffdce198f19ac1937ec17ee15adb3fa0c0669fdb0681",
+  "pdf_sha256": "b19cf0f7bf3e9ca29252282d270d125fa2170da3dd030ef7e44bcd3af83a9907",
+  "page_sha256": {
+    "24": "0776971e4e272c013d0b178c9a13df040b4c3576e51754ef26ba7c9145114d76",
+    "84": "138337e3c00d189b424a7d1ee3dd9b7e6a8ff5ead6fd726d22e4ee6a77365f48",
+    "222": "21bc29980c117b1b0511b89d53d0fd23ac72bf4731a42b71dd4fad26a1e5f177",
+    "286": "29494ba4ac4c6acae1e1601350d7243337c1e14922b3eca5e531786a4ead9bd4"
+  },
+  "source_images": {
+    "S190_PDF": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
