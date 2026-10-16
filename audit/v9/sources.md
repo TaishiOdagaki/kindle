@@ -639,3 +639,8 @@ Krashen [Principles and Practice in Second Language Acquisition](https://www.sdk
 ## 第126バッチ S190（2026-10-16）
 
 Cummins (2008), *BICS and CALP: Empirical and Theoretical Status of the Distinction*, Encyclopedia of Language and Education, Volume 2, pp.71–83。[大学公開著者稿PDF](https://eclass.upatras.gr/modules/document/file.php/PDE1535/CumminsBICSCALPSpringer2007.pdf)を取得。表紙の著者・書誌、PDF2〜3・5頁の本文・画像を精読。原稿頁には印刷頁番号がないためPDF頁を指定。会話と学術的言語の概念的区別、全能力の網羅理論ではない留保、口頭/書面の両側面、会話から教科学習を推定する危険、文脈と認知的要求の相対性を使用。日本の全JSL児童の期間・支援効果・認知能力不足、言語間転移、引用先の旧個別研究の再検証は承認対象外。全文ファイル取得は論文の全主張の承認を意味しない。URL・原バイトSHA256・範囲はevidence/batch126_sources.json。原PDFは非転載。
+
+
+## 第127バッチ S191・S190再利用（2026-10-16）
+
+S191 Bower, Cross and Coyle, *CLIL in Multilingual and English-Background Contexts*, in *Curriculum Integrated Language Teaching: CLIL in Practice*。[出版社公開章抜粋](https://assets.cambridge.org/97811087/29734/excerpt/9781108729734_excerpt.pdf)、ISBN9781108729734。印刷9〜11/PDF8〜10の定義・4Cs・Language Triptych本文と画像を精読。提唱者Coyleを含む著者による概念枠組みの一次説明として使用し、引用先個別実験の実証結果を独立に再検証したとはしない。抜粋以外の全章・全書籍・全学習者への効果は未承認。S190はCALPの口頭/書面と課題の相対性を再利用。取得範囲・原バイトSHA256はevidence/batch127_sources.json。原PDFは非転載。

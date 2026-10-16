@@ -61,7 +61,9 @@ def replace_paragraph(paragraph,old,new):
         prefix=s[:max(0,start-a)]; suffix=s[max(0,end-a):] if end<b else ''
         run.text=prefix+(new if not inserted else '')+suffix
         inserted=True
-    assert inserted and old not in paragraph.text
+    # A legitimate expansion can contain the old text (e.g. 内容 -> 内容（Content）).
+    # Check the exact resulting paragraph, not absence of a substring.
+    assert inserted and paragraph.text==txt[:start]+new+txt[end:]
     return True
 
 def main():
