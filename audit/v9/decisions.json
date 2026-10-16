@@ -3316,22 +3316,25 @@
     "fixes_applied": true
   },
   "Q_4_043": {
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 1,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "Cambridge公式TKT GlossaryのBook/Adapt/Supplementary material/Reflect on teaching/Reflective/Timingの本文と画像を独立照合。全4肢の排他性を資料内定義と具体例に限定して判断。",
+    "explanation_review": "全4解説を照合。教材の分類と調整、時間の見積りと改善の省察を区別。用語集の定義を、特定調整が必ず学習効果を向上させる実証や日本語教育全体での統一用語の証拠にしない。",
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "正：通常のコースブックと追加教材の役割に対応",
+      "誤：教材調整の例を排し無条件の全内容完遂を原則とする",
+      "誤：adaptationの定義を無変更使用と取り違える",
+      "誤：追加教材を副教材から除きコースブック自体に限定する"
     ],
-    "reason": "主教材・補助教材の役割候補1。補助教材の使用量・形式は目的で変わる。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "TKT公式用語集印刷2・6・44頁/PDF3・7・45の定義と例を本文・画像照合。全コースブックの体系性や学習者分析が常に最優先という未取得の順位付けを断定せず、通常の特徴と調整の定義に範囲限定。副教材をあらゆる教具・全メディアへ無条件に拡張する説明を除き、追加して使う教材という機能を問う。",
+    "sources": [
+      "S183"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：独立正答1のみ適切",
+    "no_correct_risk": "なし：独立正答1",
+    "fixes_applied": true
   },
   "Q_4_044": {
     "status": "確認済み",
@@ -9162,22 +9165,25 @@
     "fixes_applied": true
   },
   "Q_M_032": {
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 1,
-    "stem_review": "設問・4選択肢を全文精読し各選択肢の分類を独立比較。",
-    "explanation_review": "4解説を精読し用語と補助的定義の精密性を点検。",
+    "stem_review": "Cambridge公式TKT GlossaryのBook/Adapt/Supplementary material/Reflect on teaching/Reflective/Timingの本文と画像を独立照合。全4肢の排他性を資料内定義と具体例に限定して判断。",
+    "explanation_review": "全4解説を照合。教材の分類と調整、時間の見積りと改善の省察を区別。用語集の定義を、特定調整が必ず学習効果を向上させる実証や日本語教育全体での統一用語の証拠にしない。",
     "option_verdicts": [
-      "正答候補",
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）"
+      "正：実施後の振り返りから時間の見積りを改善検討する例",
+      "誤：今後の見直しを一切禁止する",
+      "誤：無作為配分だけでは実施後の省察を示さない",
+      "誤：授業計画の時間見積りと改善の省察を無関係と断定"
     ],
-    "reason": "時間配分省察1候補。2永久固定3無計画4事務のみは学習者反応への調整と不一致。",
-    "sources": [],
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了"
+    "reason": "TKT公式用語集印刷38・48頁/PDF39・49のReflect on teaching/ReflectiveとTimingを本文・画像照合。時間見直しを省察の具体例として独立判定し、あらゆる配分変更で学習効果が必ず上がるという実証的保証にしない。固定禁止・無作為・無関係という誤答を定義との不一致で説明。",
+    "sources": [
+      "S183"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：独立正答1のみ適切",
+    "no_correct_risk": "なし：独立正答1",
+    "fixes_applied": true
   },
   "Q_M_033": {
     "status": "確認済み",

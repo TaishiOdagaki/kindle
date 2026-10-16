@@ -615,3 +615,8 @@ S179 [CEFR2001公式原著](https://rm.coe.int/common-european-framework-of-refe
 出入国在留管理庁・文化庁[在留支援のためのやさしい日本語ガイドライン 2020年8月](https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/pdf/92484001_01.pdf)。文科省の[公開案内](https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/92484001.html)から原18頁を通常取得。印刷3・5〜10/PDF4・6〜11の本文・全画像を精読。用途・柔軟な調節・多言語との使い分け、情報整理、短文、外来語、二重否定・受身・使役、敬語、重要語説明、表記、読み手等の確認を使用。印刷4は追加本文参照にとどまり成立史の独立原著照合とはしない。印刷3の統計は注記・調査対象も読んだが引用一次調査未取得のため数値や全外国人への一般化を承認しない。参照先ツールの現行挙動も未承認。書き言葉中心の2020文書を全時代・全話し言葉の絶対基準にしない。
 
 原バイトURL・SHA256・範囲はevidence/batch122_sources.json。原文PDFは非転載。途中の不正PNGはQAから除外し、単頁再描画で完全読込みを確認した有効画像だけを使用。
+
+
+## 第123バッチ S183追加照合（2026-10-16）
+
+Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)。既取得原59頁の印刷2・6・38・44・48/PDF3・7・39・45・49を本文・画像精読。Adapt/Book/Reflect on teaching/Reflective/Supplementary material/Timingの当事者用語定義と例を使用。授業実施後の時間見積り見直しは定義に沿う適用例であり、配分変更の効果を証明した実験ではない。刊年推定・他項目の全承認・引用研究の取得は主張しない。原バイトURL・SHA256・照合範囲はevidence/batch123_sources.json。原PDFは非転載。

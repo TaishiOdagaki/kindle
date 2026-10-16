@@ -1,0 +1,104 @@
+{
+  "batch": 123,
+  "base_commit": "6d42c205a2911c372feebe2310f06697fdf504da",
+  "fully_rejudged": [
+    "Q_4_043",
+    "Q_M_032"
+  ],
+  "edits": 14,
+  "independent_answers": {
+    "Q_4_043": 1,
+    "Q_M_032": 1
+  },
+  "sources": [
+    "S183"
+  ],
+  "status_counts": {
+    "確認済み": 320,
+    "修正必要": 32,
+    "要追加確認": 148
+  },
+  "remaining": 180,
+  "machine_warnings": 93,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_M_032",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3, 4]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positive: qualification rejecting guaranteed effect, not negating the reflective example",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 405,
+  "visually_reviewed_pages": [
+    69,
+    70,
+    176,
+    270,
+    383
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      69
+    ],
+    "1": [
+      70
+    ],
+    "2": [
+      70
+    ],
+    "3": [
+      70
+    ],
+    "4": [
+      270
+    ],
+    "5": [
+      270
+    ],
+    "6": [
+      270
+    ],
+    "7": [
+      270
+    ],
+    "8": [
+      176
+    ],
+    "9": [
+      176
+    ],
+    "10": [
+      383
+    ],
+    "11": [
+      383
+    ],
+    "12": [
+      383
+    ],
+    "13": [
+      383
+    ]
+  },
+  "docx_sha256": "02bd745ce30e5a966a597f28a85e814bb1e1b1346507b7edf18448a695d2edec",
+  "pdf_sha256": "40a4bb02b596975ce51f4d285198c4ce8035442757ff9dc91c431f52279ad8e2",
+  "page_sha256": {
+    "69": "1ac21a54feb383b22638d4643fc2f8742ff7489aaee1f4c1367d31e532e3ac47",
+    "70": "e2b31035526063d2558629937f2483be7188e5139441b2dfad8a7358cdd4497b",
+    "176": "b92cf240cb9d9cde4467a10bf9e5ebbf00f8d6dfe6f81db03b584c49b8877d25",
+    "270": "aa60b46edffe0bddb1f5668d11673455b8dd25e43ed1d2344a79fded336ab315",
+    "383": "1f10e50d0e4e766547dc9eb61fae9568b209a0cae8b65bf45bf91b1f99f1d700"
+  },
+  "source_images": {
+    "S183_PDF": [
+      3,
+      7,
+      39,
+      45,
+      49
+    ]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
