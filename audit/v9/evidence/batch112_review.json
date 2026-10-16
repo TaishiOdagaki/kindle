@@ -1,0 +1,69 @@
+{
+  "batch": 112,
+  "base_commit": "3a407d83121eece4bc67778a96b819ee568976a7",
+  "fully_rejudged": [
+    "Q_4_118"
+  ],
+  "edits": 7,
+  "independent_answers": {
+    "Q_4_118": 4
+  },
+  "sources": [
+    "S171"
+  ],
+  "status_counts": {
+    "確認済み": 285,
+    "修正必要": 39,
+    "要追加確認": 176
+  },
+  "remaining": 215,
+  "machine_warnings": 72,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_118",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "new_warning_judgment": "P1 false positive: correct explanation qualifies unsupported causal effect, not correct option",
+  "readiness_gate": "8 cases passed",
+  "render_pages": 401,
+  "visually_reviewed_pages": [
+    98,
+    99,
+    298
+  ],
+  "all_changed_strings_found": {
+    "('Q_4_118', 'stem', None)": [
+      98
+    ],
+    "('Q_4_118', 'options', 1)": [
+      98
+    ],
+    "('Q_4_118', 'options', 3)": [
+      99
+    ],
+    "('Q_4_118', 'explanations', 0)": [
+      298
+    ],
+    "('Q_4_118', 'explanations', 1)": [
+      298
+    ],
+    "('Q_4_118', 'explanations', 2)": [
+      298
+    ],
+    "('Q_4_118', 'explanations', 3)": [
+      298
+    ]
+  },
+  "docx_sha256": "ed0300807151e3d2573a1bfd218ac6ff7cda6ebc63a82784323afc7b920d3710",
+  "pdf_sha256": "9c74af04e8b7a249bf3c7dbe0aa876b8deea8d5be630140feedaeed7ff8e7d02",
+  "page_sha256": {
+    "98": "dd13191e65a740571eba5f699d9e6e9f9986fcf5134c952f1cc75e3ae050ba5b",
+    "99": "f233073498156d52035867c9799c8b5b33ba110bb1d20d7324f4a055f37de5b3",
+    "298": "11233eafeb480d02ba258d34fd2a2af127c6842c318a242c95235ea6c43652e4"
+  },
+  "pagination_todo": "Q_4_118 option4 on next page; improve final pagination",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
