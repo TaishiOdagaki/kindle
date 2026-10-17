@@ -1,0 +1,84 @@
+{
+  "batch": 139,
+  "base_commit": "9ec5ed1cbf9075aef099b9450329f84d319e3472",
+  "fully_rejudged": [
+    "Q_MO_001",
+    "Q_MO_005"
+  ],
+  "edits": 12,
+  "independent_answers": {
+    "Q_MO_001": 4,
+    "Q_MO_005": 4
+  },
+  "sources": [
+    "S99"
+  ],
+  "source_acquisition": "evidence/batch137_sources.json",
+  "status_counts": {
+    "確認済み": 343,
+    "修正必要": 18,
+    "要追加確認": 139
+  },
+  "remaining": 157,
+  "machine_warnings": 98,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    186,
+    187,
+    394,
+    395,
+    396
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      186
+    ],
+    "1": [
+      186
+    ],
+    "2": [
+      394
+    ],
+    "3": [
+      394
+    ],
+    "4": [
+      394
+    ],
+    "5": [
+      394
+    ],
+    "6": [
+      187
+    ],
+    "7": [
+      187
+    ],
+    "8": [
+      395
+    ],
+    "9": [
+      395
+    ],
+    "10": [
+      396
+    ],
+    "11": [
+      396
+    ]
+  },
+  "docx_sha256": "11e5560a01ed764f2ceb93363aab0680bd384cb555246f9f42d1364286d68c64",
+  "pdf_sha256": "d00de263acd4e6103292b741b9cd897320f6720af8020b8936db3dee6b30fc0e",
+  "page_sha256": {
+    "186": "6094bd008897ef912b194683a59b5e424ac033c41dc6fcc918a98de1eb33861e",
+    "187": "55138c8847ab1bc8dcbc6004495afd065e682a77482d7243655b7744f0338661",
+    "394": "1884198346de1cbbc32f55f0493eba61f2df0a521c8c8f37f55026aefa146375",
+    "395": "5303894c86d8f1be78576c4061803c64071841aea851fc376a364a091b1ea0cd",
+    "396": "4f8c00017a0dd5134168c41e299ac60b075286c88a2dfbeb078718812de95079"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

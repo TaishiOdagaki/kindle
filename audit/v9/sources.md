@@ -707,3 +707,8 @@ Paul Nation, What Should Every ESL Teacher Know?、[著者公式大学サイト�
 渡邉俊彦（2015年3月）「対訳日本語教材における伊沢修二の教育観とその台湾語の文体」『拓殖大学語学研究』132、169–193頁。[大学公開の第132号全文PDF](https://journal.takushoku-u.ac.jp/lcri/lcri_132.pdf)全312頁を取得・全頁テキスト読込み。精読範囲は印刷170–178頁（PDF181–189頁）：背景、対訳例、用途、台湾語の媒介利用と語順の影響、1895年教授書の引用とその解釈。印刷177–178頁は日本語の正常な画像描画でも確認。原文は転載しない。
 
 Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂し、全4肢・全4解説を照合。論文の他の章や他論文の全精読を完了したとはしない。1895年教授書全冊は未取得であり、原著全冊の全主張の承認に代用しない。引用される1900年資料の全冊や、学堂事件史の全照合もしていない。Q_1_006は残存主張未照合のため修正必要を維持。原バイトSHA256、取得頁数・精読範囲はevidence/batch138_sources.json。
+
+
+## 第139バッチ S99継続照合（2026-10-17）
+
+第137バッチで再取得したCatherine Morleyの[Listening Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom)の本文「Bottom-up listening activities」冒頭、背景知識による予測と両処理の併用の節を、Q_MO_001・Q_MO_005へ照合。語を知らない場合と、知っていても速い連続音声中で認識できない場合を区別。ケースへの適用は学習者の実態を確認する観点と支援の検討であり、教材・オンライン形式の原因の確定や成功の保証ではない。原バイトの取得記録はevidence/batch137_sources.jsonを継承。新たに原著を取得したとの扱いにはしない。
