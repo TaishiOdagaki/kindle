@@ -712,3 +712,12 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 ## 第139バッチ S99継続照合（2026-10-17）
 
 第137バッチで再取得したCatherine Morleyの[Listening Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom)の本文「Bottom-up listening activities」冒頭、背景知識による予測と両処理の併用の節を、Q_MO_001・Q_MO_005へ照合。語を知らない場合と、知っていても速い連続音声中で認識できない場合を区別。ケースへの適用は学習者の実態を確認する観点と支援の検討であり、教材・オンライン形式の原因の確定や成功の保証ではない。原バイトの取得記録はevidence/batch137_sources.jsonを継承。新たに原著を取得したとの扱いにはしない。
+
+
+## 第140バッチ S201 S202 S203（2026-10-18）
+
+- S201 金水敏（2011年12月）「役割語と日本語教育」『日本語教育』150、34–41頁。[原論文全8頁](https://www.jstage.jst.go.jp/article/nihongokyoiku/150/0/150_34/_pdf/-char/ja)を取得し、全8頁を画像で精読。定義（34頁）、現実性（36頁）、スタイルとキャラクタ・日常会話での発言引用（38–39頁）をQ_M_010へ照合。要旨のみではなく本文で承認。論文に引用される2003年書籍や他研究の全冊は未取得。別の講演PDFの欠損取得は承認根拠に含めない。
+- S202 Google [Jargon 文書作成ガイド](https://developers.google.com/style/jargon)、更新表示2025-06-25。自動Page Summaryを除く本文全体で専門集団の用語・理解されにくい傾向・広く理解される場合を確認し、Q_M_012の絶対限定を修正。Googleの文書作成上の推奨を普遍的な語史や言語変化の法則に広げない。
+- S203 三井はるみ、国立国語研究所 [共通語と標準語](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-138/)（2021-07-19再掲）・[方言の定義](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-137/)（2021-07-13再掲）の本文全節を取得。規範性・方言を越えた通用性・地域差の着眼点、現実には標準語と共通語に明確な実体差がないこと、地域内の多様性を確認。初出2003年書籍全冊の取得ではない。
+
+原バイトSHA256と照合範囲はevidence/batch140_sources.json。原文非転載。

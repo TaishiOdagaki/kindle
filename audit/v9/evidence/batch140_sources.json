@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "S201",
+    "url": "https://www.jstage.jst.go.jp/article/nihongokyoiku/150/0/150_34/_pdf/-char/ja",
+    "retrieved": "2026-10-18",
+    "bytes": 3390457,
+    "sha256": "3987f26367275100d48699b48b4135fee2b42ddec9ee774403e594bd4a87883a",
+    "read_scope": "金水敏（2011年12月）役割語と日本語教育 日本語教育150:34–41。全8頁画像精読。2003年の引用元書籍全冊は未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S202",
+    "url": "https://developers.google.com/style/jargon",
+    "retrieved": "2026-10-18",
+    "bytes": 79124,
+    "sha256": "f36d92b8cf48497f931142448ec421cc311b356712c172f90d0ab3754a8dcfbe",
+    "read_scope": "Jargon公式本文全体。2025-06-25更新表示。自動生成Page Summaryではなく本文で定義・例外・使用条件を照合。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S203",
+    "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-138/",
+    "retrieved": "2026-10-18",
+    "bytes": 109492,
+    "sha256": "b691246c669692da53659c40accd10103da860af79148512332a258e2eefc411",
+    "read_scope": "三井はるみ 共通語と標準語 本文全節。2021-07-19再掲。2003年初出の全文書籍取得ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S203",
+    "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-137/",
+    "retrieved": "2026-10-18",
+    "bytes": 118416,
+    "sha256": "ada518e27eb9d302a1de40cf8d4db0ca07bfb0a54fd31cc89e2187dd3b17f9df",
+    "read_scope": "三井はるみ 方言の定義 本文全節。2021-07-13再掲。地域方言と社会方言の区分、地域内多様性を確認。",
+    "full_source_redistributed": false
+  }
+]

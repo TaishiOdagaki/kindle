@@ -1,0 +1,112 @@
+{
+  "batch": 140,
+  "base_commit": "3670230efac865859ad8e7949caabc03bf4aa7b1",
+  "fully_rejudged": [
+    "Q_M_010",
+    "Q_M_012"
+  ],
+  "edits": 16,
+  "independent_answers": {
+    "Q_M_010": 3,
+    "Q_M_012": 1
+  },
+  "sources": [
+    "S201",
+    "S202",
+    "S203"
+  ],
+  "status_counts": {
+    "確認済み": 345,
+    "修正必要": 16,
+    "要追加確認": 139
+  },
+  "remaining": 155,
+  "machine_warnings": 99,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_M_010",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [2, 4]"
+    ]
+  ],
+  "new_warning_review": "P1 false positive: negated fiction-only restriction in correct explanation; true explanatory content in wrong-option explanations does not make those options correct.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    169,
+    170,
+    376,
+    377
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      169
+    ],
+    "1": [
+      170
+    ],
+    "2": [
+      170
+    ],
+    "3": [
+      170
+    ],
+    "4": [
+      170
+    ],
+    "5": [
+      376
+    ],
+    "6": [
+      376
+    ],
+    "7": [
+      376
+    ],
+    "8": [
+      376
+    ],
+    "9": [
+      170
+    ],
+    "10": [
+      170
+    ],
+    "11": [
+      170
+    ],
+    "12": [
+      376
+    ],
+    "13": [
+      376
+    ],
+    "14": [
+      376
+    ],
+    "15": [
+      377
+    ]
+  },
+  "docx_sha256": "a7f60f2846e26cb21e745e18988d1bb70edfc71dee15e637233f172b3dc88e02",
+  "pdf_sha256": "fc1a9871128fddd3a80f674fa059b96e400bd10c83c96fd879ca387dcda9f9e6",
+  "page_sha256": {
+    "169": "9a1647d8d1a2e3235bec5f2ca2e11400cfd88e93facbee497452847148672179",
+    "170": "a944238caa849a2ab80899228b34009605efa3a38180fc3a853acdf6d1089349",
+    "376": "0fa6371bae68eae182038690746cfb5141769d586ad8bac63f93d949bcecf21b",
+    "377": "2a6994cec6783e1daff8d5f3b58493a7510e1fdb768a4bff00a9983f056cfd71"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_pdf_page_sha256": {
+    "1": "90dd0828a2603169ef771daa991b85e85969c76aed0115a0bb9505b898c4f00e",
+    "2": "32f0f1e9d741d074585dbfd2f66887fd8db37c965d1a4b3ad23aba63887838c8",
+    "3": "51b527b74d6175fdfbecadcaaed7144160f60d58879d764fd9f7534617c70e6a",
+    "4": "1f93a19b0daefbc0e35b63720c41c2dd3608bb39449e482024e87b084ea56cbb",
+    "5": "01880dbc66e5bb31b0eb9373e76c43285027eeabdb1613b798bf418421ec14ae",
+    "6": "2f0b490e380be569c24ed4c11ccd7df45688a4430eed581e3b6c683f29e505ec",
+    "7": "4ab8c41d769ff15bdafde3358496e90b1eb1ef29a0fe237305a837d3e82b75b7",
+    "8": "81bf95486ca2d9cec89c0358a55e861b4b923d26c8e7493fa6363f1d30c4b5c6"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
