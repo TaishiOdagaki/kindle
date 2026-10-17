@@ -1,0 +1,103 @@
+{
+  "batch": 142,
+  "base_commit": "31725d8df5dcc3ceb4ead8571844482f9e5ee25d",
+  "fully_rejudged": [
+    "Q_3_005",
+    "Q_3_006"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_3_005": 4,
+    "Q_3_006": 1
+  },
+  "sources": [
+    "S205"
+  ],
+  "status_counts": {
+    "確認済み": 348,
+    "修正必要": 14,
+    "要追加確認": 138
+  },
+  "remaining": 152,
+  "machine_warnings": 99,
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    39,
+    40,
+    237,
+    238
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      39
+    ],
+    "1": [
+      39
+    ],
+    "2": [
+      39
+    ],
+    "3": [
+      39
+    ],
+    "4": [
+      39
+    ],
+    "5": [
+      237
+    ],
+    "6": [
+      237
+    ],
+    "7": [
+      237
+    ],
+    "8": [
+      237
+    ],
+    "9": [
+      40
+    ],
+    "10": [
+      40
+    ],
+    "11": [
+      40
+    ],
+    "12": [
+      40
+    ],
+    "13": [
+      40
+    ],
+    "14": [
+      238
+    ],
+    "15": [
+      238
+    ],
+    "16": [
+      238
+    ],
+    "17": [
+      238
+    ]
+  },
+  "docx_sha256": "a3146fa5a3262b3f1a11e31cb1724785bade01d83658841cbceadc156e38b697",
+  "pdf_sha256": "26c5e5f28c0c6e7b0183453c81983d9fdec936086bec0fcd6fa598a93941dadb",
+  "page_sha256": {
+    "39": "f26d52f738936bc3449088aa5d04dce26a75f134626c2291be72bfdec13f1399",
+    "40": "7df8c55f218ddffb1a3c683037e000b028bb8727d17ac556fd76dea2d3569227",
+    "237": "2a022e75cea0459a50ce227e60807552d3d577a2613277e2a3be9b31d3ad8fc5",
+    "238": "b53f8cfab06ab6f8c82ab33bc0ab11e71e219248562ddd0fe5aea30aaae05f8c"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_pdf_page_sha256": {
+    "374": "185ffa7acc51ca1cbd04b1a5563c0299d8d50bad56fdb174548dca5284fe974f",
+    "375": "2da1b944eab719983d3373f4121cc5baf11c951213028fb522b6976fc06e89ec",
+    "376": "cdd11480a20e9f9a0ab43154e0b54261bd8a08c1fcea18f97aa933eadf4eadf3"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

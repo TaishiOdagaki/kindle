@@ -728,3 +728,10 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 - S204 シンガポール選挙局公開 [Constitution of the Republic of Singapore PDF](https://www.eld.gov.sg/Resources/Constitution%20of%20the%20Republic%20of%20Singapore.pdf)。表紙は2020 Revised Edition、欄外はInformal Consolidation – version in force from 24/4/2023。全203頁のPDFを取得し、表紙と印刷172頁の第153A条全項・ただし書(a)(b)の本文を精読・頁画像で照合。公用語と国家語の指定、他言語の使用・教授・学習の禁止・妨害を否定する条文をQ_2_008の設問・4肢・4解説へ照合。設問の対象は2023年版と明示。現行SSOは403で未取得、検索表示を承認根拠に含めない。全203頁精読・2026年法全体照合ではない。
 
 取得原バイトSHA256・版・読了範囲・制約はevidence/batch141_sources.json。原文非転載。
+
+
+## 第142バッチ S205（2026-10-18）
+
+- S205 Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. Psychological Review, 101(3), 371–395. DOI 10.1037/0033-295X.101.3.371。[著者業績ページ](https://sites.google.com/site/graesserart/publications/1994-1993)の[原論文PDFリンク](https://drive.google.com/file/d/1pP-xIo8wTKMvuWAthukgLVkfXHbXqy6E/view)から全25頁を取得。本文371–378頁を精読し、374–376頁は画像でも照合。知識に基づく非明示情報の補完、Table 1の因果連鎖・予測・状態、精緻化と生成条件をQ_3_005・Q_3_006に照合。全25頁精読や全談話ジャンル・全理論の同一分類への一般化はしない。花瓶例は監査者作例で、原論文の実験刺激の引用ではない。
+
+取得原バイトSHA256・読了範囲・制約はevidence/batch142_sources.json。原論文本文・頁画像は転載しない。
