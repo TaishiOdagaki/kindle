@@ -667,3 +667,8 @@ Jane Willis [From priming tasks and target tasks to language focus and grammar](
 ## 第131バッチ S194（2026-10-17）
 
 公益財団法人日本漢字能力検定協会のBJT公式 [特徴＆メリット](https://www.kanken.or.jp/bjt/about/feature_merit.html) 冒頭の測定対象説明と、[第1部聴解サンプル](https://www.kanken.or.jp/bjt/sample/sample01.html) の発言聴解セクション2の取引先初面会・商品紹介の設問および公開解説本文を取得・精読。Q_M_036のあいさつの位置付けと相手・場面に応じた表現選択の範囲に使用。音声・写真・全サンプル項目は未照合。個別敬語説明の全命題、就職効果、在留資格・点数の法的要件は承認対象に含めない。原資料の問題文は転載せず、学習内容について独自に改訂。原バイトSHA256と使用範囲はevidence/batch131_sources.json。
+
+
+## 第132バッチ S195 部分照合（2026-10-17）
+
+長田佳奈子、国際交流基金クアラルンプール日本文化センター、2021年9月4日研修『初級文法の導入・練習を楽しく！ 絵教材の活用』。[公式PDF](https://www.jfkl.org.my/files/user/Saturday/20210904_SW%20JFKL%20Website.pdf)全65頁を取得し、PDF40・44頁の本文と画像を精読。40頁の練習名の列挙、44頁の変換練習と活用形式を確認。ただし結合・応答の定義、スロット分類、Q_4_033の全4解説を承認する根拠には不足。正答2は候補にとどめ修正必要を維持。検索本文のfind不一致があったため原PDFの抽出と画像で位置を確認。資料中の教授効果の一律化は承認しない。原バイトのSHA256と照合範囲はevidence/batch132_source_review.json。原資料非転載。

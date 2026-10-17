@@ -1,0 +1,33 @@
+{
+  "batch": 132,
+  "source_id": "S195",
+  "url": "https://www.jfkl.org.my/files/user/Saturday/20210904_SW%20JFKL%20Website.pdf",
+  "title": "初級文法の導入・練習を楽しく 絵教材の活用",
+  "author": "長田佳奈子",
+  "institution": "国際交流基金クアラルンプール日本文化センター",
+  "event_date": "2021-09-04",
+  "retrieved": "2026-10-17",
+  "sha256": "5948e504824ca2506f48758fdd730f15ec9b1481ecb96f3635562551278b95e3",
+  "bytes": 1987128,
+  "pages": 65,
+  "body_and_images_read": [
+    40,
+    44
+  ],
+  "question": "Q_4_033",
+  "status": "修正必要を維持",
+  "confirmed_scope": [
+    "PDF40頁は反復・代入・変換・結合・応答・拡大の練習名を列挙する。",
+    "PDF44頁は変換練習という見出しと肯定・否定、非過去・過去の形式を示す。"
+  ],
+  "not_confirmed": [
+    "列挙だけでは結合練習・応答練習の定義を確定できない。",
+    "単一／複数スロットの分類や、現在の全4解説の全命題は未照合。",
+    "資料の『覚える練習がないとコミュニケーションがうまくできない』等の一般化を効果の実証として承認しない。"
+  ],
+  "independent_answer": 2,
+  "answer_status": "候補のまま",
+  "new_edits": 0,
+  "counts_changed": false,
+  "full_source_redistributed": false
+}
