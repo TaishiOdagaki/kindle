@@ -677,3 +677,8 @@ Jane Willis [From priming tasks and target tasks to language focus and grammar](
 ## 第133バッチ S183追加照合（2026-10-17）
 
 [Cambridge TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)を再取得。印刷14/PDF15頁のDrill項目全体を本文・画像精読。変換・置換・斉唱反復・個別反復の定義をQ_4_033の全4肢・全4解説に使用。全用語集、ドリルの学習効果、結合・応答の定義やスロット分類を承認しない。原バイトSHA256と範囲はevidence/batch133_sources.json。原資料の例文の転載・翻訳はせず、独自の会話で照合した。
+
+
+## 第134バッチ S196（2026-10-17）
+
+Jim Cummins (2001), Bilingual Children's Mother Tongue: Why is it important for education?, Sprogforum19, 15–20。[原記事誌面公開ミラー](https://lavplu.eu/central/bibliografie/cummins_eng.pdf)全6頁を取得・通読、著者署名・誌名・巻号年頁を原PDFで照合。Q_4_093には17–19頁の概念・読み書きの言語間関連、二言語へのアクセス、母語減退の環境差と母語使用機会を使用し、PDF4・5頁の画像も精読した。引用先研究・書籍の個別取得ではなく、全効果・喪失年数・権利法制・現在の日本の政策を承認しない。範囲と原バイトSHA256はevidence/batch134_sources.json。原記事非転載。

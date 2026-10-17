@@ -1,0 +1,65 @@
+{
+  "batch": 134,
+  "base_commit": "7c9f024ff95104b7cd3941d92b15ca6f0e9edb52",
+  "fully_rejudged": [
+    "Q_4_093"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_4_093": 1
+  },
+  "sources": [
+    "S196"
+  ],
+  "status_counts": {
+    "確認済み": 336,
+    "修正必要": 23,
+    "要追加確認": 141
+  },
+  "remaining": 164,
+  "machine_warnings": 98,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    88,
+    290
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      88
+    ],
+    "1": [
+      88
+    ],
+    "2": [
+      88
+    ],
+    "3": [
+      88
+    ],
+    "4": [
+      88
+    ],
+    "5": [
+      290
+    ],
+    "6": [
+      290
+    ],
+    "7": [
+      290
+    ],
+    "8": [
+      290
+    ]
+  },
+  "docx_sha256": "d73a8babe6cdd6a77cb063a84c86f66ce4da83890be9be458adc21b316b40ae4",
+  "pdf_sha256": "2812c3cd7fc8399a9e42f43e423a2c71efe59843c388c0064bb59872c68038de",
+  "page_sha256": {
+    "88": "21e9876115ccd1399cad1de6a5eb7454fdc168e6b50435017b76b777ccd1a49c",
+    "290": "e2dfc67f18dfb0064b579c0388bce7a0a0ef49e9009ca9cd48933880ddbd7e76"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
