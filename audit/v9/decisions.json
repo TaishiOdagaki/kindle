@@ -3091,22 +3091,25 @@
     "no_correct_risk": "未確定（所見参照）"
   },
   "Q_4_031": {
-    "status": "修正必要",
+    "status": "確認済み",
     "content_reviewed": true,
     "independent_answer": 2,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
+    "stem_review": "教授法の理念と指導上の特徴を問う対象へ明確化し、4肢をそれぞれの解説本文に独立照合。",
+    "explanation_review": "全4解説をALM2頁、TPR18–19頁、Silent Way32–33頁、CA41–42頁に照合。方法の理念と効果の無条件な実証を区別し、CAでの文法不要という別の過剰一般化も避ける。",
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "誤：TPRの理解先行・身体反応を逆転",
+      "正：ALMの習慣形成・反復・文型練習・正の強化に一致",
+      "誤：CAの場面に適切な使用・意味のやり取りを否定",
+      "誤：Silent Wayの自己修正とモデル反復の位置付けを逆転"
     ],
-    "reason": "Hymesの提唱はコミュニケーション能力。社会言語学的能力だけと同一視する帰属を修正候補。",
-    "sources": [],
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。",
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）"
+    "reason": "Diane Larsen-Freeman（1990）Language Teaching Methodsの教師用ハンドブック全65頁を米国国務省公式サイトから取得。導入1頁と、ALM2頁、TPR18–19頁、Silent Way32–33頁、Communicative Approach41–42頁の解説本文全体を精読。各方法の開始頁は画像でも確認。元の教授法の理念・理論的観点という学習領域を保ち、未取得の原著にまたがる広範な発展史・影響関係を、取得本文で直接比較できる理念と指導上の特徴へ改訂。Hymesの提唱を社会言語学的能力だけと同一視する帰属を撤回。Skinner・Bloomfield・Hymes・CLIL・直接法の未取得原著を取得済みとはせず、新稿にその補助主張を残さない。",
+    "sources": [
+      "S208"
+    ],
+    "unresolved": "",
+    "multiple_correct_risk": "なし：取得本文の特徴と一致するのは2のみ",
+    "no_correct_risk": "なし：独立正答2",
+    "fixes_applied": true
   },
   "Q_4_032": {
     "status": "確認済み",

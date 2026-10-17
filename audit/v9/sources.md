@@ -743,3 +743,10 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 - S207 東京外国語大学言語モジュール [普通形の体系：カード](https://www.coelang.tufs.ac.jp/modules/ja/gmod/courses/c01/lesson11/step1/card/038.html)。本文全3表を取得・読了。表2の読む・食べるの行の辞書形・連用形・た形・て形をQ_M_052全4肢・全4解説と照合。派生／複合の分類理論を証明する資料ではなく、設問も語形対応へ限定。
 
 取得原バイトSHA256・読了範囲・制約はevidence/batch143_sources.json。資料本文・頁画像は転載しない。
+
+
+## 第144バッチ S208（2026-10-18）
+
+- S208 Diane Larsen-Freeman (1990), [Language Teaching Methods: Teacher’s Handbook for the Video Series](https://americanenglish.state.gov/files/ae/resource_files/language_teaching_methods_teachers_handbook.pdf)、米国国務省公式公開。全65頁PDFを取得。表紙と導入印刷1頁、ALM2頁、TPR18–19頁、Silent Way32–33頁、CA41–42頁の解説本文を精読し、4方法の開始頁は画像でも照合。Q_4_031の理念・指導上の特徴を全4肢・4解説へ照合。全65頁の精読、動画自体の視聴、1986年の著書や創始者原著全冊の取得ではない。理念の説明を、全対象での効果の実証へ一般化しない。
+
+取得原バイトSHA256・読了範囲・制約はevidence/batch144_sources.json。本文・頁画像は転載しない。

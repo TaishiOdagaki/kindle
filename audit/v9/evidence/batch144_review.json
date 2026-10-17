@@ -1,0 +1,87 @@
+{
+  "batch": 144,
+  "base_commit": "ebf46062d737e0a06ea9b4d1e7714b5019407b3d",
+  "fully_rejudged": [
+    "Q_4_031"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_4_031": 2
+  },
+  "sources": [
+    "S208"
+  ],
+  "status_counts": {
+    "確認済み": 351,
+    "修正必要": 11,
+    "要追加確認": 138
+  },
+  "remaining": 149,
+  "machine_warnings": 100,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_031",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "new_warning_review": "P1 false positive: the correct ALM explanation negates an unconditional effectiveness guarantee, not its own answer; descriptions of TPR/Silent Way in wrong-option explanations correct those options rather than affirming them.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    65,
+    264,
+    265
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      65
+    ],
+    "1": [
+      65
+    ],
+    "2": [
+      65
+    ],
+    "3": [
+      65
+    ],
+    "4": [
+      65
+    ],
+    "5": [
+      264
+    ],
+    "6": [
+      264
+    ],
+    "7": [
+      265
+    ],
+    "8": [
+      265
+    ]
+  },
+  "docx_sha256": "f71e8e5e65eef1eeb76a34be19bc94eb3c15aee9638f6ffb11ea89eeabc285bc",
+  "pdf_sha256": "049334f83596760677aa68ff1e9a7560c588887732fa6d112813cae90b1fa6d2",
+  "page_sha256": {
+    "65": "694cf3bde70bfa6d738ffe9cf3f19d38a8988e93dbd75e24a3956ffb5d0527be",
+    "264": "71adec063701e34e3396859c3eb3a7b9bed29667d28a7ef32303d4041ace2415",
+    "265": "1301aff69223ac7564dd690ed5b7021fe2cd785083bb62590e4d1d6cca962d8e"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_pdf_page_sha256": {
+    "7": "8f53bb24594ea834224b986aa405f2eb1cc4033150bdee7b8508e2dbe3469f68",
+    "23": "9c62a787eb30a0700e80215d1f0c74f459214d4fbdbd850601806a54b18a534a",
+    "37": "5b8063750eb3a83c355742981c32d25850627c42a21914713a34a934947fa2b7",
+    "46": "2bf979a702ad992186adb995b2d6c9a2d5f07fc9c9c4d854e56d5b75f32d1993"
+  },
+  "candidate_not_used": {
+    "url": "https://americanenglish.state.gov/files/ae/resource_files/50_2_6_larsen-freeman-pp28-38_0.pdf",
+    "sha256": "8b1aa907ccb955a470dea263b2e7f149d3255c3b47b0476973a830281f3ed6f8",
+    "read_scope": "2012年再掲の1987年論文、導入から印刷33頁途中、および35–38頁本文・文献。全11頁精読ではない。",
+    "reason": "折衷的アプローチという用語自体の定義は取得読了箇所で確認できず。結論の状況に即した選択の議論のみから用語の確認済み判定をしない。Q_M_028は要追加確認を維持。"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

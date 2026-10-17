@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 347,
+  "changed_questions": 348,
   "case_replacements": 18,
-  "replacements": 2954,
+  "replacements": 2963,
   "issues": [
     [
       "S2",
@@ -127,6 +127,11 @@
       "P1",
       "Q_4_026",
       "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ],
+    [
+      "P1",
+      "Q_4_031",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
     ],
     [
       "P1",
