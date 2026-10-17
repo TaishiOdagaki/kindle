@@ -1,0 +1,12 @@
+{
+  "source_id": "S204",
+  "url": "https://www.eld.gov.sg/Resources/Constitution%20of%20the%20Republic%20of%20Singapore.pdf",
+  "retrieved": "2026-10-18",
+  "bytes": 638143,
+  "sha256": "acc4aa28cdbdb7deb3f016573b15ced201a6cc162c0f616ccb93824ae5dab3b3",
+  "pdf_pages": 203,
+  "version": "2020 Revised Edition; Informal Consolidation – version in force from 24/4/2023",
+  "read_scope": "表紙の版表示、印刷172頁の第153A条第1項・第2項・ただし書(a)(b)全文。該当頁の抽出本文と1800px画像を直接照合。全203頁の精読ではない。",
+  "limitations": "SSO現行条文ページは403で取得不能。検索抜粋は承認根拠から除外。設問の時点を取得した2023年版に明示限定。",
+  "full_source_redistributed": false
+}

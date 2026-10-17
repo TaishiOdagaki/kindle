@@ -721,3 +721,10 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 - S203 三井はるみ、国立国語研究所 [共通語と標準語](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-138/)（2021-07-19再掲）・[方言の定義](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-137/)（2021-07-13再掲）の本文全節を取得。規範性・方言を越えた通用性・地域差の着眼点、現実には標準語と共通語に明確な実体差がないこと、地域内の多様性を確認。初出2003年書籍全冊の取得ではない。
 
 原バイトSHA256と照合範囲はevidence/batch140_sources.json。原文非転載。
+
+
+## 第141バッチ S204（2026-10-18）
+
+- S204 シンガポール選挙局公開 [Constitution of the Republic of Singapore PDF](https://www.eld.gov.sg/Resources/Constitution%20of%20the%20Republic%20of%20Singapore.pdf)。表紙は2020 Revised Edition、欄外はInformal Consolidation – version in force from 24/4/2023。全203頁のPDFを取得し、表紙と印刷172頁の第153A条全項・ただし書(a)(b)の本文を精読・頁画像で照合。公用語と国家語の指定、他言語の使用・教授・学習の禁止・妨害を否定する条文をQ_2_008の設問・4肢・4解説へ照合。設問の対象は2023年版と明示。現行SSOは403で未取得、検索表示を承認根拠に含めない。全203頁精読・2026年法全体照合ではない。
+
+取得原バイトSHA256・版・読了範囲・制約はevidence/batch141_sources.json。原文非転載。
