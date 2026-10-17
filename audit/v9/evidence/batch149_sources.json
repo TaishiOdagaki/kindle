@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "S118",
+    "title": "The Significance of Learner’s Errors",
+    "author": "S. P. Corder",
+    "year": 1967,
+    "url": "https://files.eric.ed.gov/fulltext/ED019903.pdf",
+    "pdf_pages": 12,
+    "read_scope": "原誌166–169頁本文全体を再精読。168頁（PDF10頁）全体を画像でも照合。全12頁精読ではない。",
+    "limitations": "当時の著者の立場に限定。個別日本語例文の誤用や原因を直接実証した資料ではない。従来のsources.mdの母語との関連を述べる頁の169（PDF11）という誤記は168（PDF10）へ訂正。",
+    "bytes": 592501,
+    "sha256": "9d5a9f2d9e7d2feeeead240edf880273e5a49c394985fa7f030fb2bd8f8dbdd2",
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S213",
+    "title": "Reference Framework of Competences for Democratic Culture Volume 1 Context, concepts and model",
+    "institution": "Council of Europe",
+    "year": 2018,
+    "url": "https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c",
+    "pdf_pages": 89,
+    "read_scope": "印刷41–50頁（PDF43–52頁）本文と注記を全て精読。印刷41・45・48頁（PDF43・47・50頁）を画像照合。全89頁精読ではない。",
+    "limitations": "態度・技能の枠組みを仮想事例の対応へ適用したもので、原因の実証・国別慣習の実証・カルチャーアシミレーターの原著承認ではない。",
+    "bytes": 4154359,
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  }
+]

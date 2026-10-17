@@ -1,0 +1,112 @@
+{
+  "batch": 149,
+  "base_remote_commit": "821220bfd58a20b48d46af6e07ac6381483d3eca",
+  "fully_rejudged": [
+    "Q_4_103",
+    "Q_O_032"
+  ],
+  "edits": 22,
+  "explicit_removed_stem_paragraphs": 4,
+  "independent_answers": {
+    "Q_4_103": 3,
+    "Q_O_032": 4
+  },
+  "sources": [
+    "S118",
+    "S213"
+  ],
+  "status_counts": {
+    "確認済み": 357,
+    "修正必要": 8,
+    "要追加確認": 135
+  },
+  "remaining": 143,
+  "machine_warnings": 104,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_103",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "new_warning_review": "P1: Correct explanation ends in a limitation on causal attribution, not a denial of the correct option. All four explanation/tag alignments inspected; warning retained.",
+  "operational_recovery": "Reordered only batch149 removals ahead of option context checks after rebuild assertion. Initial 3012 changes preserved. Checkpoint regenerated after successful rebuild. Stale qa149 excluded; fresh qa149b used.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    92,
+    93,
+    150,
+    294,
+    355
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      150
+    ],
+    "1": [
+      150
+    ],
+    "2": [
+      150
+    ],
+    "3": [
+      150
+    ],
+    "4": [
+      150
+    ],
+    "5": [
+      355
+    ],
+    "6": [
+      355
+    ],
+    "7": [
+      355
+    ],
+    "8": [
+      355
+    ],
+    "9": [
+      92,
+      93
+    ],
+    "14": [
+      93
+    ],
+    "15": [
+      93
+    ],
+    "16": [
+      93
+    ],
+    "17": [
+      93
+    ],
+    "18": [
+      294
+    ],
+    "19": [
+      294
+    ],
+    "20": [
+      294
+    ],
+    "21": [
+      294
+    ]
+  },
+  "docx_sha256": "6faf1ea1909c46e988dae18ed9349309f48d613374f749b27309505b2256aeb4",
+  "pdf_sha256": "7c88772788eb83c7ad0c8d3dc11ba2916695ae06a92010af9802b31a59fa1567",
+  "page_sha256": {
+    "92": "37d79ea2fe76cd2d1a7278f350dc172d4109d8015ce7f8174f1e299d464acb8a",
+    "93": "a2d484ef69ac5f162df6980a616fd5da9422eb3b2285905db90df1e9d9b9f6f1",
+    "150": "64392fc739b073b4fa8491aa74c43205493d1c99286c360aacfff6759505d101",
+    "294": "dcab438beca12493eff37c921a885bd0bebf1857877fa2a7a1722075894cb41b",
+    "355": "60959a0c99d5b0387ed89ac7ed7250d2e10b8590d9368579df776b11c2c7d1ba"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
