@@ -692,3 +692,11 @@ Paul Nation, What Should Every ESL Teacher Know?、[著者公式大学サイト�
 ## 第136バッチ S198（2026-10-17）
 
 文部科学省公開 [学制百二十年史 三 日本語教育施設の質的向上](https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318583.htm)の歴史記述本文全2段落を取得・精読。Q_1_027の1988年基準、1989年任意団体発足・審査認定開始、1990年財団法人許可・三省共管の経緯に使用。現在の法的認定制度、留学生政策の全対象、教師需要増加の因果を承認しない。「平成21年以前」のサイト登録表示を本文の刊年とはしない。原バイトSHA256と範囲はevidence/batch136_sources.json。原文非転載。
+
+
+## 第137バッチ S99再取得 S199（2026-10-17）
+
+- S99 Catherine Morley [Listening Top-down and bottom-up](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom)。署名付き記事本文全体を再取得・精読。Q_MO_003の背景知識・写真による予測、音声解読との併用を照合。実証的な効果量や常時優位性は承認しない。参考文献原著は未取得。
+- S199 早稲田大学 [アカデミック・ライティング力を磨こう](https://www.waseda.jp/inst/weekly/feature/2014/06/23/20860/)、2014年6月23日、ライティング・センター教員スタッフ監修。定義・作成上の注意・六つのポイント・引用作法を含む本文取得。Q_4_087の主張の根拠、構成、問いと答え、出典と自分の言の区別を照合。記事中の独自の引用分類や一般的な文体の禁止規範は採用していない。書誌のみの参考書は未取得、現在のセンターサービスも監査対象外。
+
+取得原バイトのSHA256と照合範囲はevidence/batch137_sources.json。原文は転載しない。

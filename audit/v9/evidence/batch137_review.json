@@ -1,0 +1,104 @@
+{
+  "batch": 137,
+  "base_commit": "d88b464f87ca474589e174d9bc562937e3edfe71",
+  "fully_rejudged": [
+    "Q_4_087",
+    "Q_MO_003"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_4_087": 4,
+    "Q_MO_003": 2
+  },
+  "sources": [
+    "S99",
+    "S199"
+  ],
+  "status_counts": {
+    "確認済み": 340,
+    "修正必要": 19,
+    "要追加確認": 141
+  },
+  "remaining": 160,
+  "machine_warnings": 98,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    85,
+    86,
+    186,
+    287,
+    288,
+    395
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      186
+    ],
+    "1": [
+      186
+    ],
+    "2": [
+      186
+    ],
+    "3": [
+      186
+    ],
+    "4": [
+      186
+    ],
+    "5": [
+      395
+    ],
+    "6": [
+      395
+    ],
+    "7": [
+      395
+    ],
+    "8": [
+      395
+    ],
+    "9": [
+      85
+    ],
+    "10": [
+      85
+    ],
+    "11": [
+      85
+    ],
+    "12": [
+      85
+    ],
+    "13": [
+      86
+    ],
+    "14": [
+      287
+    ],
+    "15": [
+      288
+    ],
+    "16": [
+      288
+    ],
+    "17": [
+      288
+    ]
+  },
+  "docx_sha256": "273eafa803c4166b316ec24cc9d1c3a94ecc0a388215e6813d3a9e47611effe8",
+  "pdf_sha256": "d6120c958b7436b0c2ea2b19b8ead29d8d97aaf5a36f373fe9755f8217310550",
+  "page_sha256": {
+    "85": "e49ad00ddc80313403efb2026793c72511d4cb7a1cb804daabdc4d59ce6c6fca",
+    "86": "a1df8c850e778c4fb237ca8b897baadec694e775ff78d656c9bb793231d54b43",
+    "186": "b3e014df4f57054ec324173be191d554c70017018b5f182450a4cf820f2492be",
+    "287": "065fb76da05c2ef60a4b73f9652a58e64a82a194a53602fb9ae0040b0040fadf",
+    "288": "031a551a888fe4a0270d225eaa0d9598c3baf8b74a91f1f8eec5d57a90402e18",
+    "395": "17c8b80419c5cd98c76bfd8d748562e5121b408a55535ab5111528597118d9e6"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
