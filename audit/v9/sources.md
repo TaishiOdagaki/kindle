@@ -682,3 +682,8 @@ Jane Willis [From priming tasks and target tasks to language focus and grammar](
 ## 第134バッチ S196（2026-10-17）
 
 Jim Cummins (2001), Bilingual Children's Mother Tongue: Why is it important for education?, Sprogforum19, 15–20。[原記事誌面公開ミラー](https://lavplu.eu/central/bibliografie/cummins_eng.pdf)全6頁を取得・通読、著者署名・誌名・巻号年頁を原PDFで照合。Q_4_093には17–19頁の概念・読み書きの言語間関連、二言語へのアクセス、母語減退の環境差と母語使用機会を使用し、PDF4・5頁の画像も精読した。引用先研究・書籍の個別取得ではなく、全効果・喪失年数・権利法制・現在の日本の政策を承認しない。範囲と原バイトSHA256はevidence/batch134_sources.json。原記事非転載。
+
+
+## 第135バッチ S197（2026-10-17）
+
+Paul Nation, What Should Every ESL Teacher Know?、[著者公式大学サイト公開稿](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/paul-nations-publications/publications/documents/what-should-every-esl-teacher-know-13-feb-2013-pdf)。全192頁を取得、印刷/PDF12–14頁の第2章導入・Needs Analysis・Environment Analysisの定義と例を本文・画像精読。Q_4_028の時間・人数・資源の例、および環境分析の学習者・教師・状況への広がりに使用。全書籍、引用先2000年論文、全学習効果を承認せず、ファイル名の日付を刊年としない。Web取得では410だが通常の直接ダウンロードは完全なPDFで成功。原バイトSHA256と範囲はevidence/batch135_sources.json。書籍本文は転載しない。
