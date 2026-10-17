@@ -662,3 +662,8 @@ Cambridge English [TKT Glossary](https://www.cambridgeenglish.org/images/22184-t
 ## 第130バッチ S145再取得（2026-10-17）
 
 Jane Willis [From priming tasks and target tasks to language focus and grammar](https://www.teachingenglish.org.uk/comment/1307)、British Council TeachingEnglish。本人署名と記事本文全体を再取得・精読。Use the book but change the order、Task Cycle、Focus on Form: At the end of the task cycle、Conclusionの提案をQ_O_054に使用。タスク後に教材の文法部分で形式を学ぶ提案を確認し、全方式での文法先行/排除の一律規則にはしない。時間・効果の比較やフィードバックの因果実証、1996年書籍、コメント欄、リンク先原著の承認はしない。刊年の未表示は維持し、コメントやクロールの日付を刊年にしない。原バイトSHA256・範囲はevidence/batch130_sources.json。原記事非転載。
+
+
+## 第131バッチ S194（2026-10-17）
+
+公益財団法人日本漢字能力検定協会のBJT公式 [特徴＆メリット](https://www.kanken.or.jp/bjt/about/feature_merit.html) 冒頭の測定対象説明と、[第1部聴解サンプル](https://www.kanken.or.jp/bjt/sample/sample01.html) の発言聴解セクション2の取引先初面会・商品紹介の設問および公開解説本文を取得・精読。Q_M_036のあいさつの位置付けと相手・場面に応じた表現選択の範囲に使用。音声・写真・全サンプル項目は未照合。個別敬語説明の全命題、就職効果、在留資格・点数の法的要件は承認対象に含めない。原資料の問題文は転載せず、学習内容について独自に改訂。原バイトSHA256と使用範囲はevidence/batch131_sources.json。
