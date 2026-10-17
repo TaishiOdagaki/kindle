@@ -672,3 +672,8 @@ Jane Willis [From priming tasks and target tasks to language focus and grammar](
 ## 第132バッチ S195 部分照合（2026-10-17）
 
 長田佳奈子、国際交流基金クアラルンプール日本文化センター、2021年9月4日研修『初級文法の導入・練習を楽しく！ 絵教材の活用』。[公式PDF](https://www.jfkl.org.my/files/user/Saturday/20210904_SW%20JFKL%20Website.pdf)全65頁を取得し、PDF40・44頁の本文と画像を精読。40頁の練習名の列挙、44頁の変換練習と活用形式を確認。ただし結合・応答の定義、スロット分類、Q_4_033の全4解説を承認する根拠には不足。正答2は候補にとどめ修正必要を維持。検索本文のfind不一致があったため原PDFの抽出と画像で位置を確認。資料中の教授効果の一律化は承認しない。原バイトのSHA256と照合範囲はevidence/batch132_source_review.json。原資料非転載。
+
+
+## 第133バッチ S183追加照合（2026-10-17）
+
+[Cambridge TKT Glossary](https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf)を再取得。印刷14/PDF15頁のDrill項目全体を本文・画像精読。変換・置換・斉唱反復・個別反復の定義をQ_4_033の全4肢・全4解説に使用。全用語集、ドリルの学習効果、結合・応答の定義やスロット分類を承認しない。原バイトSHA256と範囲はevidence/batch133_sources.json。原資料の例文の転載・翻訳はせず、独自の会話で照合した。
