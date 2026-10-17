@@ -1,0 +1,110 @@
+{
+  "batch": 150,
+  "base_remote_commit": "b28835fc330f718a66362ecdf3fc2d94908f61da",
+  "fully_rejudged": [
+    "Q_2_031",
+    "Q_3_034"
+  ],
+  "edits": 19,
+  "explicit_removed_stem_paragraphs": 1,
+  "independent_answers": {
+    "Q_2_031": 3,
+    "Q_3_034": 4
+  },
+  "sources": [
+    "S213"
+  ],
+  "status_counts": {
+    "確認済み": 359,
+    "修正必要": 6,
+    "要追加確認": 135
+  },
+  "remaining": 141,
+  "machine_warnings": 105,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_3_034",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2]"
+    ]
+  ],
+  "new_warning_review": "P1: correct explanation ends with limitation on psychological diagnosis, not denial of option4. All explanation/tag alignments directly inspected; warning retained.",
+  "operational_recovery": "Initial rebuild caught split Q_3_034 stem. New unpublished replacement metadata matched to actual first paragraph and explicit continuation removal added; prior3034 changes preserved; apply not rerun.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    35,
+    49,
+    50,
+    233,
+    249
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      35
+    ],
+    "1": [
+      35
+    ],
+    "2": [
+      35
+    ],
+    "3": [
+      35
+    ],
+    "4": [
+      35
+    ],
+    "5": [
+      233
+    ],
+    "6": [
+      233
+    ],
+    "7": [
+      233
+    ],
+    "8": [
+      233
+    ],
+    "9": [
+      49
+    ],
+    "11": [
+      49
+    ],
+    "12": [
+      50
+    ],
+    "13": [
+      50
+    ],
+    "14": [
+      50
+    ],
+    "15": [
+      249
+    ],
+    "16": [
+      249
+    ],
+    "17": [
+      249
+    ],
+    "18": [
+      249
+    ]
+  },
+  "docx_sha256": "ab805e8eea766d8b0a151b2e59f09642f3105381d26f4eaf90fe5997d1f633ea",
+  "pdf_sha256": "f9effb6e4c5c3dd802d17e620b835b22e5957bfd6e84eb758fee90c2a6fca9f7",
+  "page_sha256": {
+    "35": "9fe620976143b7a6bec42dbccd76f18e94ae1511cdfd15fb9b1b355e65dea7f8",
+    "49": "27d47d132404c18596d25262601100a8da3f9f14f67e3c56440fa18d80706188",
+    "50": "da51169a86524504bf0f500f3c45e6fe4b85e7472b762d5823f1287c03862b9c",
+    "233": "b70ec6f1a47be253c8fc6e5c112e2d8c5240fde97176061d4d787e266c1d3765",
+    "249": "9b8a65822d08abea70565772bd336469ae8a9dde9945be343a48000faefa2153"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
