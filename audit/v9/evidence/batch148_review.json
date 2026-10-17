@@ -1,0 +1,87 @@
+{
+  "batch": 148,
+  "base_remote_commit": "90da89da028c19718251155ea068f14b16d3436a",
+  "fully_rejudged": [
+    "Q_O_031"
+  ],
+  "shared_case": "CASE_O_07",
+  "case_impact_checked": [
+    "Q_O_032",
+    "Q_O_033",
+    "Q_O_034",
+    "Q_O_035"
+  ],
+  "case_impact_result": "Q_O_032 stem changed but remains unverified; confirmed Q_O_033–035 unchanged.",
+  "edits": 22,
+  "initial_edits": 10,
+  "followup_edits": 12,
+  "initial_draft_status": "Superseded before publication after checking past-experience teiru use; initial changes preserved in ordered history; qa148 and qa148b excluded from final changed-page QA.",
+  "independent_answers": {
+    "Q_O_031": 4
+  },
+  "sources": [
+    "S211",
+    "S212"
+  ],
+  "status_counts": {
+    "確認済み": 355,
+    "修正必要": 9,
+    "要追加確認": 136
+  },
+  "remaining": 145,
+  "machine_warnings": 103,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    150,
+    355
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      150
+    ],
+    "1": [
+      150
+    ],
+    "2": [
+      150
+    ],
+    "3": [
+      150
+    ],
+    "4": [
+      150
+    ],
+    "5": [
+      150
+    ],
+    "6": [
+      355
+    ],
+    "7": [
+      355
+    ],
+    "8": [
+      355
+    ],
+    "9": [
+      355
+    ],
+    "10": [
+      150
+    ],
+    "11": [
+      150
+    ]
+  },
+  "docx_sha256": "cebeb71002109f507629db0e1af2e895d0297c94d1af02453f2bbf3a6754f079",
+  "pdf_sha256": "59c12b8e1cc5cf896b76694191071b5c3019387088306fe58c519dfd8f156d2a",
+  "page_sha256": {
+    "150": "b34794d6d426abbf6c3608b362750cc31936dd8e37fe4663a16bbea125cd0a93",
+    "355": "0ed8a2bb01aa29f687d143638214f6578efebc6ef2e8b6ddcea47926f47d5049"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

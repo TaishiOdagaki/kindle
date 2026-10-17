@@ -765,3 +765,9 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 ## 第147バッチ S210（2026-10-18）
 
 - Agnieszka Sorokowska et al. (2017), Preferred Interpersonal Distances: A Global Comparison, Journal of Cross-Cultural Psychology 48(4), 577–592, DOI 10.1177/0022022117698039。Warwick公開機関リポジトリ https://wrap.warwick.ac.uk/id/eprint/100226/ のAccepted Version https://wrap.warwick.ac.uk/100226/7/WRAP-preferred-interpersonal-distances-global-comparison-Realo-2017.pdf 全36頁取得。本文番号9–18頁（PDF14–23頁）の方法・結果・考察・限界を全文精読し、方法9頁・結果11頁・限界17頁を画像照合。Q_4_107の方法・三つの相手区分・平均の国間差・一般化の限界に使用。全36頁精読や補足資料・Hall原著の取得ではない。希望を実際の行動と同一視せず、国別結果から個人を決め付けない。原バイトSHA256・読了範囲はevidence/batch147_sources.json。本文・頁画像は転載しない。
+
+
+## 第148バッチ S211（2026-10-18）
+
+- S211 東京外国語大学言語モジュール「Vています（進行）／Vていません」解説 https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/044.html 。本文1〜3、例文1〜5、注記を全て取得・精読。継続・過去形・日本語を勉強するの表記を照合。原バイトSHA256はevidence/batch148_sources.json。
+- S212 同「Vています（状態）」解説 https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/045.html 。本文1〜9、全例文・注記を取得・精読。第5項と例5の過去経験・記録用法に基づき、進行用法だけから判断した148初稿を148bで訂正。Q_O_031・ケース7の過去だから誤用という断定を撤回。母語干渉等の原因や本人の意図をこの教材だけで確定せず、Q_O_032は未了を維持。原バイトSHA256はevidence/batch148b_sources.json。両教材本文は転載しない。
