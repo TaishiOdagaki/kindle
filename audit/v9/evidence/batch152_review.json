@@ -1,0 +1,111 @@
+{
+  "batch": 152,
+  "base_remote_commit": "1acc0a72b920035c0d4d399b2796d99a658146f4",
+  "fully_rejudged": [
+    "Q_4_098",
+    "Q_4_104"
+  ],
+  "partial_source_only_kept_unverified": [
+    "Q_4_094"
+  ],
+  "decision_rows_updated": [
+    "Q_4_094",
+    "Q_4_098",
+    "Q_4_104"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_4_104": 2,
+    "Q_4_098": 1
+  },
+  "sources": [
+    "S214",
+    "S215",
+    "S216"
+  ],
+  "status_counts": {
+    "確認済み": 363,
+    "修正必要": 5,
+    "要追加確認": 132
+  },
+  "remaining": 137,
+  "machine_warnings": 105,
+  "new_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    90,
+    93,
+    292,
+    294,
+    295
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      90
+    ],
+    "1": [
+      90
+    ],
+    "2": [
+      90
+    ],
+    "3": [
+      90
+    ],
+    "4": [
+      90
+    ],
+    "5": [
+      292
+    ],
+    "6": [
+      292
+    ],
+    "7": [
+      292
+    ],
+    "8": [
+      292
+    ],
+    "9": [
+      93
+    ],
+    "10": [
+      93
+    ],
+    "11": [
+      93
+    ],
+    "12": [
+      93
+    ],
+    "13": [
+      93
+    ],
+    "14": [
+      294
+    ],
+    "15": [
+      294
+    ],
+    "16": [
+      294
+    ],
+    "17": [
+      295
+    ]
+  },
+  "docx_sha256": "2eb4d0ece8471f347c34a02a150a63150d1d304c03c958eca40ecc2ae728edc5",
+  "pdf_sha256": "d56dfecceb9af8e123afb526d07b1bd144daf8a7aefe79f3bbbda00294c266be",
+  "page_sha256": {
+    "90": "0671ad2a804326f52bc01b58ee63d3c04f4aa5836fe7f283ae43208a085ef046",
+    "93": "3f28bc7bf515935701e1959fb76f25394770441b1dace7b21d9f2112aad439c2",
+    "292": "be76fbcc15ceb0ab44a5ffc425c05e6f43cd25143ae859d0c296c618d6116145",
+    "294": "75e402ee0f09102c7212ee6312bf1573c326aec9df29e39c8d5357b08061ad03",
+    "295": "246d8c4e2ccbbb11cc0aa5209b5d0ca0ff152dd59e140a2e7d0945b37a93535a"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

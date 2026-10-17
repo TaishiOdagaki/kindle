@@ -788,3 +788,11 @@ RFCDC Volume1の印刷27–33頁（PDF29–35頁）全本文を追加通読、�
 ## 第151バッチ S214（2026-10-18）
 
 Council of Europe [Compass — Using Compass for human rights education](https://www.coe.int/en/web/compass/using-compass-for-human-rights-education)。公式HTML全頁を取得し、General tips on running activitiesからManaging conflict節末までの本文を通読。Managing time、Creating a safe environment、Setting ground rules、Facilitating discussions、Debriefing and evaluation、Giving feedback、Resistance from the participants、Managing conflictを前後とともに精読した。Q_4_095の振り返りと今後の活用への問い・時間確保・強制開示を避ける条件、Q_4_096の傾聴・意見の確認・共同ルール・安全と参加に全4肢・解説を照合。Compass全書や当ページ全節の精読ではなく、Kolb原著や国別規範、効果の実証研究も取得・承認していない。原バイトSHA256・取得範囲はevidence/batch151_sources.json。資料本文は転載しない。
+
+
+## 第152バッチ（2026-10-18）
+
+- S214 Compass公式HTMLを再取得しDrama・Role-playing・Simulations節の全本文を精読。Q_4_098の安全・役から離れる時間・人物像の振り返りと、Q_4_104の情報源と固定観念の批判的検討へ適用。ページ全体・全書の通読ではない。
+- S215 [THIAGI GAMELETTER August 2006 — Barnga: 25th Anniversary Edition](https://thiagi.net/archive/www/pfp/IE4H/august2006.html)。開発者側ニュースレターのGame AnnouncementからOther Details末までを精読。これは紹介記事であり完全な実施規則ではない。Q_4_094の学術承認には使わず、同問は要追加確認のまま。
+- S216 Josef Huber and Christopher Reynolds編、Martyn Barrettほか計5名寄稿（2014）[Developing intercultural competence through education](https://rm.coe.int/16808ce258)、Council of Europe Publishing、Pestalozzi Series No.3、ISBN978-92-871-7745-2。英仏合冊132頁PDFを取得。標題・著者・著作権・目次および印刷37–46頁（PDF38–47頁）の全本文を通読し、印刷41頁を画像照合。Q_4_104の4肢・4解説の根拠。著者の見解と公式政策を同一視せず、実証研究の効果を個別検証したとはしない。旧URLの入口HTMLは根拠PDFとして不使用。全132頁精読ではない。
+- 原バイトSHA256・取得範囲・限界はevidence/batch152_sources.json。資料本文は転載しない。

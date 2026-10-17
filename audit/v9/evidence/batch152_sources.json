@@ -1,0 +1,46 @@
+[
+  {
+    "source_id": "S214",
+    "url": "https://www.coe.int/en/web/compass/using-compass-for-human-rights-education",
+    "title": "Compass — Using Compass for human rights education",
+    "read_scope": "再取得。Drama・Role-playing・Simulations節の全本文を連続して精読。全書・全ウェブページの通読ではない。",
+    "bytes": 224997,
+    "sha256": "63396e776a976eddb52c792b0cbf11eb1e9c46c7561eed7695b874c7e8cee87a",
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S215",
+    "url": "https://thiagi.net/archive/www/pfp/IE4H/august2006.html",
+    "title": "THIAGI GAMELETTER August 2006 — Barnga: 25th Anniversary Edition",
+    "read_scope": "Game Announcementの見出しからOther Details節末までを全て精読。著者側の紹介記事であり、実施マニュアルではない。",
+    "limitations": "Q_4_094は要追加確認のまま。全文取得した紹介記事を完全な原著マニュアルの代わりにしない。",
+    "bytes": 29341,
+    "sha256": "fca2304a1c8d6858a996dba6c6f0d9b7ef579ff17040dc3b4aaf6868133b279c",
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S216",
+    "url": "https://rm.coe.int/16808ce258",
+    "title": "Developing intercultural competence through education",
+    "editors": "Josef Huber and Christopher Reynolds",
+    "contributors": [
+      "Martyn Barrett",
+      "Michael Byram",
+      "Ildikó Lázár",
+      "Pascale Mompoint-Gaillard",
+      "Stavroula Philippou"
+    ],
+    "publisher": "Council of Europe Publishing",
+    "year": 2014,
+    "isbn": "978-92-871-7745-2",
+    "pdf_pages": 132,
+    "read_scope": "PDF2–4頁の標題・著者・著作権・目次、第5章印刷37–46頁（PDF38–47頁）の全本文を通読。印刷41頁（PDF42頁）を全頁画像照合。英仏合冊全132頁精読ではない。",
+    "limitations": "著者の見解であり公式政策と同一視しない。引用先の実証研究を個別取得した効果評価ではない。旧coe.int/t/dg4/.../Pestalozzi3.pdfはプログラム入口HTMLへ転送されるためPDFとして使用せず、公式rm.coe.intのPDFを別取得。",
+    "bytes": 690224,
+    "sha256": "1ae5ad2700f8d7657894ac93f5e8db0afbaf24a7a985582b814edbd414d4188d",
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  }
+]
