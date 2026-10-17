@@ -1,0 +1,79 @@
+{
+  "batch": 145,
+  "base_commit": "80186ca2b199f9ed43f0021da22a258551d31f08",
+  "fully_rejudged": [
+    "Q_3_004"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_3_004": 3
+  },
+  "sources": [
+    "S205"
+  ],
+  "status_counts": {
+    "確認済み": 352,
+    "修正必要": 11,
+    "要追加確認": 137
+  },
+  "remaining": 148,
+  "machine_warnings": 102,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_3_004",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [2]"
+    ],
+    [
+      "A1",
+      "Q_3_004",
+      "正解選択肢3に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "new_warning_review": "P1: scope limitation is not negation of the answer. A1: always is the hypothetical reader belief, not an author assertion about all restaurants.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    39,
+    237
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      39
+    ],
+    "1": [
+      39
+    ],
+    "2": [
+      39
+    ],
+    "3": [
+      39
+    ],
+    "4": [
+      39
+    ],
+    "5": [
+      237
+    ],
+    "6": [
+      237
+    ],
+    "7": [
+      237
+    ],
+    "8": [
+      237
+    ]
+  },
+  "docx_sha256": "31d26cbd6d68a30c406aac57325c2b0b033459d0ea3f3336a10d2bc0de653544",
+  "pdf_sha256": "90ebd3ccccc901fcb1c5baf194b2997928c4e0b88f9578dc9e48794dd0c83be8",
+  "page_sha256": {
+    "39": "0150ad39417ec530973651c7d8ebb072a7a04904fe0ae191dab6f03332b549c0",
+    "237": "814eb778f47d6381cc4892a471f238a0c25f8dffeb9a3f8b63ca3a9aca4ddab9"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_page_sha256": "185ffa7acc51ca1cbd04b1a5563c0299d8d50bad56fdb174548dca5284fe974f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

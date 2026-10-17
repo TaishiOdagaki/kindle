@@ -1,0 +1,78 @@
+{
+  "batch": 146,
+  "base_remote_commit": "80186ca2b199f9ed43f0021da22a258551d31f08",
+  "after_local_batch145_commit": "bc5a12453ed3d68e922c2aa233fb2e340a777686",
+  "fully_rejudged": [
+    "Q_M_028"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_M_028": 1
+  },
+  "sources": [
+    "S209"
+  ],
+  "status_counts": {
+    "確認済み": 353,
+    "修正必要": 11,
+    "要追加確認": 136
+  },
+  "remaining": 147,
+  "machine_warnings": 103,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_M_028",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 4]"
+    ]
+  ],
+  "new_warning_review": "P1: the correct explanation rejects unconditional mixing, not informed selection; wrong-option explanations describe the author position in order to reject those options.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    175,
+    382
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      175
+    ],
+    "1": [
+      175
+    ],
+    "2": [
+      175
+    ],
+    "3": [
+      175
+    ],
+    "4": [
+      175
+    ],
+    "5": [
+      382
+    ],
+    "6": [
+      382
+    ],
+    "7": [
+      382
+    ],
+    "8": [
+      382
+    ]
+  },
+  "docx_sha256": "1032841b45b126f98a8f8908f940cee57044abfbbdb2cdcb9b513a890764b0e9",
+  "pdf_sha256": "5670bd4d19f7f7f383efc202369db7baec418099750195ffd3d0b15436bc2a74",
+  "page_sha256": {
+    "175": "5ea7778ca8c9d882179feda72594fd0148cd2d653c2df2f705e0146697c579df",
+    "382": "4f15f7234cd404556e998da1f9fb4b445a09d18264c76b5d30062385a879735c"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_page_sha256": {
+    "36": "b2b5f3f9a7b8b808a02d84b95d356e20af58e936873ab18ab342d6b9e77a1113",
+    "37": "db07786c5afa93a3fd2e53266da94c9a00414d79200ea9b3d68578578fc07721"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

@@ -750,3 +750,18 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 - S208 Diane Larsen-Freeman (1990), [Language Teaching Methods: Teacher’s Handbook for the Video Series](https://americanenglish.state.gov/files/ae/resource_files/language_teaching_methods_teachers_handbook.pdf)、米国国務省公式公開。全65頁PDFを取得。表紙と導入印刷1頁、ALM2頁、TPR18–19頁、Silent Way32–33頁、CA41–42頁の解説本文を精読し、4方法の開始頁は画像でも照合。Q_4_031の理念・指導上の特徴を全4肢・4解説へ照合。全65頁の精読、動画自体の視聴、1986年の著書や創始者原著全冊の取得ではない。理念の説明を、全対象での効果の実証へ一般化しない。
 
 取得原バイトSHA256・読了範囲・制約はevidence/batch144_sources.json。本文・頁画像は転載しない。
+
+
+## 第145バッチ S205再照合（2026-10-18）
+
+- Graesser, Singer & Trabasso (1994), Constructing Inferences During Narrative Text Comprehension, Psychological Review 101(3), 371–395。著者業績ページ https://sites.google.com/site/graesserart/publications/1994-1993 の公開PDFリンク https://drive.google.com/file/d/1pP-xIo8wTKMvuWAthukgLVkfXHbXqy6E/view から全25頁を再取得。印刷374頁全文と画像を再照合。スキーマ等の背景知識構造、経験に根ざしたレストランの出来事の枠組み、文章・読者の構成する意味の不一致に限定して使用。Q_3_004は定義の適用のための監査者作例であり、実験刺激の引用・国別慣習の実証ではない。全25頁精読や引用元の1977年書籍等の取得ではない。原バイトSHA256・読了範囲はevidence/batch145_sources.json。本文・頁画像は転載しない。
+
+
+## 第146バッチ S209（2026-10-18）
+
+- Diane Larsen-Freeman, From Unity to Diversity: Twenty-five Years of Language-Teaching Methodology。English Teaching Forum 25(4), 1987初出、50(2), 2012, 28–38再掲。https://americanenglish.state.gov/files/ae/resource_files/50_2_6_larsen-freeman-pp28-38_0.pdf から全11頁を取得。印刷36–38頁本文・文献を精読し、36–37頁Conclusion全体は画像でも照合。全11頁精読ではない。Q_M_028の目的・状況に基づく教授法選択と結果評価に限定して使用。折衷法の用語定義を確認したものではなく、2026年現在の効果研究の総括でもない。原バイトSHA256・読了範囲はevidence/batch146_sources.json。本文・頁画像は転載しない。
+
+
+## 第147バッチ S210（2026-10-18）
+
+- Agnieszka Sorokowska et al. (2017), Preferred Interpersonal Distances: A Global Comparison, Journal of Cross-Cultural Psychology 48(4), 577–592, DOI 10.1177/0022022117698039。Warwick公開機関リポジトリ https://wrap.warwick.ac.uk/id/eprint/100226/ のAccepted Version https://wrap.warwick.ac.uk/100226/7/WRAP-preferred-interpersonal-distances-global-comparison-Realo-2017.pdf 全36頁取得。本文番号9–18頁（PDF14–23頁）の方法・結果・考察・限界を全文精読し、方法9頁・結果11頁・限界17頁を画像照合。Q_4_107の方法・三つの相手区分・平均の国間差・一般化の限界に使用。全36頁精読や補足資料・Hall原著の取得ではない。希望を実際の行動と同一視せず、国別結果から個人を決め付けない。原バイトSHA256・読了範囲はevidence/batch147_sources.json。本文・頁画像は転載しない。
