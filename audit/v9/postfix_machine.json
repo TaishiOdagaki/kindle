@@ -6,7 +6,7 @@
   "unmodified_questions_unchanged": true,
   "changed_questions": 337,
   "case_replacements": 18,
-  "replacements": 2847,
+  "replacements": 2856,
   "issues": [
     [
       "S2",
@@ -560,8 +560,8 @@
     "正解の長さ順位(0=最長)": {
       "0": "231 (46%)",
       "1": "184 (37%)",
-      "2": "55 (11%)",
-      "3": "30 (6%)"
+      "2": "56 (11%)",
+      "3": "29 (6%)"
     }
   },
   "full_visual_qa_completed": false,

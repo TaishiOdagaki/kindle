@@ -687,3 +687,8 @@ Jim Cummins (2001), Bilingual Children's Mother Tongue: Why is it important for 
 ## 第135バッチ S197（2026-10-17）
 
 Paul Nation, What Should Every ESL Teacher Know?、[著者公式大学サイト公開稿](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/paul-nations-publications/publications/documents/what-should-every-esl-teacher-know-13-feb-2013-pdf)。全192頁を取得、印刷/PDF12–14頁の第2章導入・Needs Analysis・Environment Analysisの定義と例を本文・画像精読。Q_4_028の時間・人数・資源の例、および環境分析の学習者・教師・状況への広がりに使用。全書籍、引用先2000年論文、全学習効果を承認せず、ファイル名の日付を刊年としない。Web取得では410だが通常の直接ダウンロードは完全なPDFで成功。原バイトSHA256と範囲はevidence/batch135_sources.json。書籍本文は転載しない。
+
+
+## 第136バッチ S198（2026-10-17）
+
+文部科学省公開 [学制百二十年史 三 日本語教育施設の質的向上](https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318583.htm)の歴史記述本文全2段落を取得・精読。Q_1_027の1988年基準、1989年任意団体発足・審査認定開始、1990年財団法人許可・三省共管の経緯に使用。現在の法的認定制度、留学生政策の全対象、教師需要増加の因果を承認しない。「平成21年以前」のサイト登録表示を本文の刊年とはしない。原バイトSHA256と範囲はevidence/batch136_sources.json。原文非転載。
