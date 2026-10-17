@@ -783,3 +783,8 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 ## 第150バッチ S213追加照合（2026-10-18）
 
 RFCDC Volume1の印刷27–33頁（PDF29–35頁）全本文を追加通読、概念定義の29–33頁を精読。29・30頁を全頁画像で照合。29頁の個人・社会・文化のアイデンティティ、30頁の多様な集団への複数所属・個別性・社会的文脈や関心等による主観的重要性の変動をQ_3_034へ適用した。既読の48頁の本文と全6項を再照合し、Q_2_031の声・身体動作・不一致・社会的文脈・反応の類似と相違の観察に対応づけた。全89頁精読ではない。原資料SHA256と範囲・限界はevidence/batch150_sources.json。国別一般化や理論上の診断は承認せず、本文も転載しない。
+
+
+## 第151バッチ S214（2026-10-18）
+
+Council of Europe [Compass — Using Compass for human rights education](https://www.coe.int/en/web/compass/using-compass-for-human-rights-education)。公式HTML全頁を取得し、General tips on running activitiesからManaging conflict節末までの本文を通読。Managing time、Creating a safe environment、Setting ground rules、Facilitating discussions、Debriefing and evaluation、Giving feedback、Resistance from the participants、Managing conflictを前後とともに精読した。Q_4_095の振り返りと今後の活用への問い・時間確保・強制開示を避ける条件、Q_4_096の傾聴・意見の確認・共同ルール・安全と参加に全4肢・解説を照合。Compass全書や当ページ全節の精読ではなく、Kolb原著や国別規範、効果の実証研究も取得・承認していない。原バイトSHA256・取得範囲はevidence/batch151_sources.json。資料本文は転載しない。
