@@ -1,0 +1,99 @@
+{
+  "batch": 143,
+  "base_commit": "5889de7e2c798ac5d0844d65c7f40a752ef79e27",
+  "fully_rejudged": [
+    "Q_M_052",
+    "Q_M_057"
+  ],
+  "edits": 16,
+  "independent_answers": {
+    "Q_M_057": 3,
+    "Q_M_052": 3
+  },
+  "sources": [
+    "S206",
+    "S207"
+  ],
+  "status_counts": {
+    "確認済み": 350,
+    "修正必要": 12,
+    "要追加確認": 138
+  },
+  "remaining": 150,
+  "machine_warnings": 99,
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    183,
+    184,
+    391,
+    393
+  ],
+  "all_changed_strings_found": {
+    "0": [
+      184
+    ],
+    "1": [
+      184
+    ],
+    "2": [
+      184
+    ],
+    "3": [
+      184
+    ],
+    "4": [
+      393
+    ],
+    "5": [
+      393
+    ],
+    "6": [
+      393
+    ],
+    "7": [
+      183
+    ],
+    "8": [
+      183
+    ],
+    "9": [
+      183
+    ],
+    "10": [
+      183
+    ],
+    "11": [
+      183
+    ],
+    "12": [
+      391
+    ],
+    "13": [
+      391
+    ],
+    "14": [
+      391
+    ],
+    "15": [
+      391
+    ]
+  },
+  "docx_sha256": "a20cdaf33831b45aa5d187ee689ec8130a347a9b33d8e60206c46fa2a6f4d46f",
+  "pdf_sha256": "bb6b622e564ee8ac598c4ffbe428da9e8c1a31a3e5962d3a4a38da83bb58a508",
+  "page_sha256": {
+    "183": "cc5ae22f8eb973f40266347db8c88d4221ec032f0d9f5b0b9a713c4d77b34355",
+    "184": "a55b94e193546178c02b9ac039136741697c866367b08703ba67671bc38879c6",
+    "391": "dcc92d012e911d8636817e913ae2874ac9ea49d04aab72d1d217fb5bbd02e30e",
+    "393": "f168d5fbcc812f09a2392999608f1b6c73c09f2af946bea247b979c0c6e102e6"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "source_pdf_page_sha256": {
+    "1": "b0526eefde4cf41c4683efb8a8221ba4b5d571d8e9fda03b54e228e2eaa09499",
+    "2": "cbba65cb13ae163af430fa52799cdb36bca9f3002670dfa82bb6273306e97830",
+    "3": "386dcdb262fa4fcd34948f29682565fc202c048918986d5d9c462c62a5bed8ad",
+    "4": "935384441c6215f086fface83e7ce281cbec708bd81033ffa70280f69fa23fa4"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

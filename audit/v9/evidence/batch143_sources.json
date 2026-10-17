@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S206",
+    "url": "https://www.jpf.or.kr/index/data/file/publish/3555240129_sHYuZjeG_201702.pdf",
+    "retrieved": "2026-10-18",
+    "bytes": 1276679,
+    "sha256": "cbb479d4693adf73b0caa6868ccd2e370e7e5f9dc5d899e663000cfe491f6a37",
+    "read_scope": "全4頁の日本語本文全節と注記を精読・全頁画像でも照合。韓国語対訳の独立監査ではない。山口敏幸署名、2017年2月、カチカチの声119号。佐藤信夫の引用元書籍全冊は未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S207",
+    "url": "https://www.coelang.tufs.ac.jp/modules/ja/gmod/courses/c01/lesson11/step1/card/038.html",
+    "retrieved": "2026-10-18",
+    "bytes": 77515,
+    "sha256": "74edc9d784400bd2c48372f6a502312eb3d066824dd3f86a8f0bf29b28a7a311",
+    "read_scope": "カード本文全3表を読了。表2の読む・食べるの行の辞書形・連用形・た形・て形を全4肢・解説に直接照合。語形成の派生と複合の分類理論を証明する資料としては使わない。",
+    "full_source_redistributed": false
+  }
+]

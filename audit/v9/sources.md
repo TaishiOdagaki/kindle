@@ -735,3 +735,11 @@ Q_1_023はこの取得済み教材分析に合う説明を問う条件へ改訂�
 - S205 Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. Psychological Review, 101(3), 371–395. DOI 10.1037/0033-295X.101.3.371。[著者業績ページ](https://sites.google.com/site/graesserart/publications/1994-1993)の[原論文PDFリンク](https://drive.google.com/file/d/1pP-xIo8wTKMvuWAthukgLVkfXHbXqy6E/view)から全25頁を取得。本文371–378頁を精読し、374–376頁は画像でも照合。知識に基づく非明示情報の補完、Table 1の因果連鎖・予測・状態、精緻化と生成条件をQ_3_005・Q_3_006に照合。全25頁精読や全談話ジャンル・全理論の同一分類への一般化はしない。花瓶例は監査者作例で、原論文の実験刺激の引用ではない。
 
 取得原バイトSHA256・読了範囲・制約はevidence/batch142_sources.json。原論文本文・頁画像は転載しない。
+
+
+## 第143バッチ S206 S207（2026-10-18）
+
+- S206 山口敏幸（国際交流基金ソウル日本文化センター日本語教育アドバイザー）「日本語あれこれ(3) 換喩（メトニミー）」『カチカチの声』119号、2017年2月。[公式PDF全4頁](https://www.jpf.or.kr/index/data/file/publish/3555240129_sHYuZjeG_201702.pdf)を取得し、日本語本文全節・注記を抽出本文と全頁画像で精読。1頁の定義・日常使用、3頁の白バイ、4頁の永田町・注3の分類差をQ_M_057全体へ照合。韓国語対訳の独立監査、引用元書籍全冊の取得ではない。本文中の男女差の推測や各国政治機関の現時点の呼称は監査対象の根拠に使わない。
+- S207 東京外国語大学言語モジュール [普通形の体系：カード](https://www.coelang.tufs.ac.jp/modules/ja/gmod/courses/c01/lesson11/step1/card/038.html)。本文全3表を取得・読了。表2の読む・食べるの行の辞書形・連用形・た形・て形をQ_M_052全4肢・全4解説と照合。派生／複合の分類理論を証明する資料ではなく、設問も語形対応へ限定。
+
+取得原バイトSHA256・読了範囲・制約はevidence/batch143_sources.json。資料本文・頁画像は転載しない。
