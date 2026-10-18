@@ -910,3 +910,11 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 - S227 [文化庁令和8年度著作権テキスト](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf)。全119頁原PDF取得。印刷75頁の引用条件・注記、77頁の出所説明本文、PDF78・80頁画像を確認。出所だけでは不十分、全部引用が考えられる作品の留保も照合。全119頁精読・判例全件や個別事例の適法性判断ではない。
 
 Q_M_042の全4肢・全4解説を対応。S10は第35条の別資料のため本問根拠から除外。原バイトSHA256・範囲はevidence/batch170_sources.json。原資料全体非転載。
+
+
+## 第171バッチ S228 S229 2026-10-18
+
+- S228 [UNH Institute on Disability Barnga実施報告](https://iod.unh.edu/blog/2019/02/barnga-simulation-game-cultural-clashes)。2019-02-19付本文全体を取得・精読。無言の対戦、勝者の卓移動、異なるルールへの気づき、言語・文化と感情に関する振り返り。実施機関自身の一次記録であり効果を比較した統制研究ではない。
+- S229 [Thiagi Gameletter2006年8月](https://thiagi.net/archive/www/pfp/IE4H/august2006.html)。編集者名とGame Announcement Barnga:25th Anniversary Edition全節。異なる解釈を理解・調整するという開発者側の目的説明。マニュアルや振り返りガイドの存在の説明は、その全冊取得と区別。全版の唯一手順・普遍的効果を承認しない。
+
+Q_4_094の全4肢・全4解説を対応。原バイトSHA256・範囲はevidence/batch171_sources.json。Michigan旧参照URLは404、マニュアル全冊未取得。原資料全体非転載。

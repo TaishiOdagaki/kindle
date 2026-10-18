@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S228",
+    "url": "https://iod.unh.edu/blog/2019/02/barnga-simulation-game-cultural-clashes",
+    "bytes": 92306,
+    "sha256": "dbc0022b6dc755422cb59cf3e5541ec1bd47a96ac687732e794609a8924194da",
+    "checked": "2026-10-18",
+    "read_scope": "2019-02-19付UNH Institute on Disabilityの実施報告本文全体。記録された手順と振り返りであり統制研究ではない。リンク先Michigan旧URLは404、マニュアル全冊未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S229",
+    "url": "https://thiagi.net/archive/www/pfp/IE4H/august2006.html",
+    "bytes": 29341,
+    "sha256": "fca2304a1c8d6858a996dba6c6f0d9b7ef579ff17040dc3b4aaf6868133b279c",
+    "checked": "2026-10-18",
+    "read_scope": "2006年8月Gameletterの編集者名とGame Announcement Barnga:25th Anniversary Edition全節。目的、改訂版・振り返りガイドの存在。ゲーム原マニュアル本文自体の取得とは区別。",
+    "full_source_redistributed": false
+  }
+]
