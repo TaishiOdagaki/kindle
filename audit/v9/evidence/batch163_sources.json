@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S191",
+    "url": "https://assets.cambridge.org/97811087/29734/excerpt/9781108729734_excerpt.pdf",
+    "bytes": 166168,
+    "sha256": "fb242ad4c4cec5ef59e0e25564ff0c28cc6e55993ccb58be3eca4904be49017e",
+    "checked": "2026-10-18",
+    "read_scope": "出版社公開抜粋の印刷9–11/PDF8–10頁本文、9・10頁画像。Coyleを含む著者自身の概念枠組み。引用実験の原データ再検証ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S213",
+    "url": "https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c",
+    "bytes": 4154359,
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "checked": "2026-10-18",
+    "read_scope": "41–43頁本文（注7・8含む）、用語集73頁本文。42・73頁画像。29–30頁本文も参照。第156バッチ原バイトとハッシュ一致確認。Web再取得はタイムアウトしたため、検証した取得済みPDFを使用。",
+    "full_source_redistributed": false
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "batch": 163,
+  "base_remote_commit": "7b0365aecc81c11dcfdaf40fa3b5f3299a975755",
+  "fully_rejudged": [
+    "Q_4_099",
+    "Q_O_066"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_4_099": 1,
+    "Q_O_066": 1
+  },
+  "sources": [
+    "S191",
+    "S213"
+  ],
+  "status_counts": {
+    "確認済み": 386,
+    "修正必要": 2,
+    "要追加確認": 112
+  },
+  "remaining": 114,
+  "machine_warnings": 114,
+  "new_warnings": [],
+  "removed_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 407,
+  "visually_reviewed_pages": [
+    90,
+    162,
+    291,
+    292,
+    370
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      162
+    ],
+    "1": [
+      162
+    ],
+    "2": [
+      162
+    ],
+    "3": [
+      162
+    ],
+    "4": [
+      162
+    ],
+    "5": [
+      370
+    ],
+    "6": [
+      370
+    ],
+    "7": [
+      370
+    ],
+    "8": [
+      370
+    ],
+    "9": [
+      90
+    ],
+    "10": [
+      90
+    ],
+    "11": [
+      90
+    ],
+    "12": [
+      90
+    ],
+    "13": [
+      90
+    ],
+    "14": [
+      291
+    ],
+    "15": [
+      291
+    ],
+    "16": [
+      291
+    ],
+    "17": [
+      292
+    ]
+  },
+  "docx_sha256": "07384e006e159f62ea58b0214851f3fd3edb40308e7330c0c86ba6e515576176",
+  "pdf_sha256": "93ba2aaeee1039a1220a9e143eeaf2486599f4ebc63006f44edd59cedc5af11c",
+  "page_sha256": {
+    "90": "a7cf8e27c39d3bf314041f6c5cffa54137706c3940b0dce88beab6216014e41e",
+    "162": "1eccdd59cda36919c6e63b7316613e6848aca4189374ee8b9957ec7f741831df",
+    "291": "a0e54a567a57806d3847ab610dfcc6deffef09e99e52ce066894feeb738e6114",
+    "292": "998dbd06d34cf9529900fc0a5d717f8c269a5142d62bc1abbdc0d3ca90faf2e1",
+    "370": "17387d6dd7bd3e67eef9371527531b8ac3a871107c961c31fea02962775c088a"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "pending_pagination": [
+    "Q_4_099の解説1–3が291頁、解説4が292頁に分割",
+    "Q_O_066は設問・全4肢が162頁、全4解説が370頁で各ブロック内の分割なし"
+  ]
+}
