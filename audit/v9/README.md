@@ -57,4 +57,9 @@
 
 
 ## 日本語描画QAの再構成
-`tools/v9_render_checkpoint.py`は、元の作業DOCXを変更せず、Noto Sans JP Regular400を適用したQAコピーをdocumentsのrender_docx.pyへ渡す。`--input`、空の新しい`--output`、取得済みNoto Sans JP可変フォントの`--font`、書込み可能な実行環境同梱LibreOfficeの`--soffice`を明示する。既存PNGがある出力先は拒否し、古い描画と新しいPDFを混在させない。primary runtimeのPythonで実行し、作成前にはdocumentsスキルの指定マーカーを一度実行する。画像の学術的・視覚的判断は自動承認しない。日本語欠字のないことを確認し、最終版は全頁目視が必要。
+`tools/v9_render_checkpoint.py`は、元の作業DOCXを変更せず、全文字を収録したCJKフォントを適用したQAコピーをdocumentsのrender_docx.pyへ渡す。`--input`、空の新しい`--output`、取得済み完全版Noto Sans CJK JP等の`--font`、同梱Noto Serifを含む書込み可能な実行環境同梱LibreOfficeの`--soffice`を明示する。可変フォントはRegular400へ固定し、静的フォントにも対応する。CJK収録と非CJKフォールバック収録を検査し、既存PNGがある出力先も拒否して古い描画と新しいPDFを混在させない。primary runtimeのPythonで実行し、作成前にはdocumentsスキルの指定マーカーを一度実行する。画像の学術的・視覚的判断は自動承認しない。日本語欠字のないことを確認し、最終版は全頁目視が必要。
+
+
+## 描画フォントの再開条件
+
+第168バッチでNoto Sans JPのWebfontサブセットが中国語例字「书」を欠くことを検出。以後は完全版Noto Sans CJK JP等を使用する。取得先：https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/NotoSansCJKjp-VF.ttf 。原バイトSHA256はevidence/batch168_font_qa.json。tools/v9_render_checkpoint.pyはCJK収録と同梱Noto Serifの非CJKフォールバックを検査し、不足なら描画前に停止する。完全版での最新描画は354頁、全頁最終QAは未了。旧408頁の座標は流用せず再探索する。

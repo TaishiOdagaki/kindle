@@ -1,0 +1,81 @@
+{
+  "batch": 168,
+  "kind": "QA font recovery, no manuscript or academic status changes",
+  "base_remote_commit": "ee6471ce873d1f4e0f4bb88a53367c46f6ca357d",
+  "old_font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "old_missing_cjk": [
+    "书"
+  ],
+  "full_font_url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/NotoSansCJKjp-VF.ttf",
+  "full_font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "full_font_bytes": 36174296,
+  "cjk_characters": 1448,
+  "missing_cjk": [],
+  "fallback_characters": [
+    "ŋ",
+    "ɕ",
+    "ɯ",
+    "ɸ"
+  ],
+  "fallback_font": "NotoSerif-Regular.ttf",
+  "fallback_sha256": "19e72cd8d595fae5bd74a5206f5d938512e1183d4fed7abb1ec1be1d7efa5f88",
+  "missing_visible_with_fallback": [],
+  "incomplete_subset_rejected_before_render": true,
+  "deficient_font_render_used_as_qa": false,
+  "docx_sha256": "41599c73654a00ed37f1d9dfaa98458547a5664bcde61201bd258941c30f23d2",
+  "pdf_sha256": "5d5a906ea502a53df7540dda3a2a2d2ae445e5254fcf15edd00cffbc659930d8",
+  "render_pages": 354,
+  "visually_reviewed_pages": [
+    74,
+    93,
+    250,
+    267,
+    270
+  ],
+  "page_sha256": {
+    "74": "bb676d9f63d3487661ed714530acf6bdf247bce07b8d30a80d5d35e94396f1d6",
+    "93": "dee3e69fa1faab1d563ff214697909d5d5da89fca167fb0d42a39209e2e61f3e",
+    "250": "4f6515fa1559869952bff5fd8674521aaaff4724e457ac0aeab7c0673459294e",
+    "267": "c79d3db57ac3cba30563ec6110d5bbf57de9cd98cf7e997d3d2359908f9d378b",
+    "270": "3ab1ff07976cba83f5353fe573b69670de4bbf94841fb1a9cc3f072b4291a246"
+  },
+  "latest_batch167_text_matches": {
+    "0": [
+      74
+    ],
+    "1": [],
+    "2": [
+      74
+    ],
+    "3": [
+      74
+    ],
+    "4": [
+      74
+    ],
+    "5": [
+      74
+    ],
+    "6": [
+      250
+    ],
+    "7": [
+      250
+    ],
+    "8": [
+      250
+    ],
+    "9": [
+      250
+    ]
+  },
+  "pdf_fonts": "name                                 type              encoding         emb sub uni object ID\n------------------------------------ ----------------- ---------------- --- --- --- ---------\nBAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26230  0\nCAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26235  0\nDAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26240  0\nEAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26275  0\nFAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26245  0\nGAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26280  0\nHAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26225  0\nIAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26250  0\nJAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26255  0\nKAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26260  0\nLAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26265  0\nMAAAAA+NotoSerif-Regular             TrueType          WinAnsi          yes yes yes  26290  0\nNAAAAA+LiberationSerif               TrueType          WinAnsi          yes yes yes  26285  0\nOAAAAA+V9CJKQAStatic                 TrueType          WinAnsi          yes yes yes  26270  0\n",
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "academic_status_counts": {
+    "確認済み": 397,
+    "修正必要": 2,
+    "要追加確認": 101
+  },
+  "remaining": 103
+}
