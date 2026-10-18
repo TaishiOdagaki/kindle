@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-18",
+  "pending_questions": [
+    "Q_2_022",
+    "Q_2_026",
+    "Q_2_027",
+    "Q_4_106"
+  ],
+  "urls": [
+    "https://www.mpi.nl/publications/item66744/politeness-some-universals-language-usage",
+    "https://www.scribd.com/doc/175689403/Brown-and-Levinson-1987-Politeness-Some-Universals-in-Language-Usage",
+    "https://pure.mpg.de/pubman/item/item_1719314_10/component/file_2152013/Brown_Politeness_2015.pdf"
+  ],
+  "result": "MPI1987は書誌・概要のみ。Scribd13頁の表示は今回本文が取得できず推薦一覧のみ。Brown2015著者本人の解説PDFはWeb・curlとも403。抜粋・概要だけで承認せず全該当問の保留を維持。",
+  "full_task_blocked": false
+}
