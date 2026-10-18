@@ -1,0 +1,80 @@
+{
+  "batch": 153,
+  "base_remote_commit": "3c3ed121006193f130300436888c250b0f6fabb6",
+  "fully_rejudged": [
+    "Q_2_003"
+  ],
+  "decision_rows_updated": [
+    "Q_2_003"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_2_003": 2
+  },
+  "sources": [
+    "S217"
+  ],
+  "status_counts": {
+    "確認済み": 364,
+    "修正必要": 4,
+    "要追加確認": 132
+  },
+  "remaining": 136,
+  "machine_warnings": 106,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_2_003",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [3, 4]"
+    ]
+  ],
+  "new_warning_review": "P1 is a false positive on the limitation sentence, not a negation of answer2. Retained in machine issue list.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 406,
+  "visually_reviewed_pages": [
+    23,
+    24,
+    221,
+    222
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      23
+    ],
+    "1": [
+      23
+    ],
+    "2": [
+      24
+    ],
+    "3": [
+      24
+    ],
+    "4": [
+      24
+    ],
+    "5": [
+      222
+    ],
+    "6": [
+      222
+    ],
+    "7": [
+      222
+    ],
+    "8": [
+      222
+    ]
+  },
+  "docx_sha256": "ee24c8afc8a1fe7675d66bdfa926fc48619c95c469b3bc72fa67c0bcd2cd73e6",
+  "pdf_sha256": "b1fda6859e4fc6a40783e3c1d324eb8a2a6b415dce204f61cd5a6ef8b53f9881",
+  "page_sha256": {
+    "23": "e72f25fec0ec7c58fce0beb68920a26c7f34c04ec7067661bab0c73561abf9fd",
+    "24": "08de07a5a791ab5584fa54e0fe2e8f53f9125f712160f76f24ca6e595d94aac6",
+    "221": "38668f942a4ecc83da8d255996a9ca3bd553b0780412415b2e6f112342343df2",
+    "222": "c3d494be63f1c8ed64e9f9fc4f9c1144e3e0df9b72c375bd09193ed15eb1a70d"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

@@ -796,3 +796,9 @@ Council of Europe [Compass — Using Compass for human rights education](https:/
 - S215 [THIAGI GAMELETTER August 2006 — Barnga: 25th Anniversary Edition](https://thiagi.net/archive/www/pfp/IE4H/august2006.html)。開発者側ニュースレターのGame AnnouncementからOther Details末までを精読。これは紹介記事であり完全な実施規則ではない。Q_4_094の学術承認には使わず、同問は要追加確認のまま。
 - S216 Josef Huber and Christopher Reynolds編、Martyn Barrettほか計5名寄稿（2014）[Developing intercultural competence through education](https://rm.coe.int/16808ce258)、Council of Europe Publishing、Pestalozzi Series No.3、ISBN978-92-871-7745-2。英仏合冊132頁PDFを取得。標題・著者・著作権・目次および印刷37–46頁（PDF38–47頁）の全本文を通読し、印刷41頁を画像照合。Q_4_104の4肢・4解説の根拠。著者の見解と公式政策を同一視せず、実証研究の効果を個別検証したとはしない。旧URLの入口HTMLは根拠PDFとして不使用。全132頁精読ではない。
 - 原バイトSHA256・取得範囲・限界はevidence/batch152_sources.json。資料本文は転載しない。
+
+
+## 第153バッチ（2026-10-18）
+
+- S217 James Cummins（1976年4月）[The Influence of Bilingualism on Cognitive Growth: A Synthesis of Research Findings and Explanatory Hypotheses](https://files.eric.ed.gov/fulltext/ED125311.pdf)、Working Papers on Bilingualism No.9、ERIC ED125311。44頁PDF取得。書誌・標題・要旨、印刷20–27頁（PDF21–28頁）の全本文を連続精読。印刷20・23・24・27頁を画像照合。Q_2_003の設問・4肢・4解説に用いた。23頁の媒介変数、24頁の絶対的な閾値の否定と変動条件、27頁の仮説の限界、20頁が紹介する加算/減算の区別に限定する。歴史的仮説を現在の確定的な因果法則や個人の知的能力診断として扱わない。引用先のLambert原著・個別実験は未独立取得であり、その再検証を承認したものではない。現在の呼称普及度の旧記述も根拠未確認のため撤回。取得ファイルの全44頁精読ではない。
+- 原バイトSHA256と読了範囲はevidence/batch153_sources.json。原PDFは転載しない。
