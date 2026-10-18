@@ -902,3 +902,11 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 ## 第169バッチ S226 大学教材 2026-10-18
 
 [S226 北海道大学 見延庄士郎 レポート・卒論の書き方初級編](https://geodynamics.sci.hokudai.ac.jp/poc/minobe/class/how2write_1.htm)のHTML原バイトを取得。2.2段落全文と注3、6.1チェックのポイント全文、2.1.1段落構成のスペース条件を確認。Q_4_088の全4肢・全4解説へ対応。旧メタ言語表現の効果、受動態頻度・客観性、口頭発表文体、教育史一般化は承認対象外。原バイトSHA256と範囲はevidence/batch169_sources.json、原文全体非転載。関西大学旧PDF404等はevidence/batch169_source_attempts.json。
+
+
+## 第170バッチ S26再取得 S227 2026-10-18
+
+- S26 [e-Gov著作権法API](https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048)。Result Code0、945280バイト、既取得原応答SHA256と一致。本則第32条全項・第48条全項を精読。API1の施行日メタデータ不足により全改正・経過措置の承認ではない。
+- S227 [文化庁令和8年度著作権テキスト](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf)。全119頁原PDF取得。印刷75頁の引用条件・注記、77頁の出所説明本文、PDF78・80頁画像を確認。出所だけでは不十分、全部引用が考えられる作品の留保も照合。全119頁精読・判例全件や個別事例の適法性判断ではない。
+
+Q_M_042の全4肢・全4解説を対応。S10は第35条の別資料のため本問根拠から除外。原バイトSHA256・範囲はevidence/batch170_sources.json。原資料全体非転載。

@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S26",
+    "url": "https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048",
+    "bytes": 945280,
+    "sha256": "175e7c3bda1de44a747713629b9ef613258ef2fca202438e70ad611b4a014169",
+    "checked": "2026-10-18",
+    "read_scope": "本則第32条全項と第48条全項。第169バッチ時点以前の既取得応答とSHA256同一。API1の施行日メタデータは不明のため全改正・経過措置を確認済みとはせず、2026年度文化庁資料の対象説明と照合。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S227",
+    "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/pdf/94383901_01.pdf",
+    "bytes": 3214126,
+    "sha256": "e58edafa1b29113bf643b5a4d6ea080aab98c0f3590e9f90d354be73ba3232e7",
+    "checked": "2026-10-18",
+    "read_scope": "令和8年度版、全119頁の原PDF取得。印刷75頁引用全条件・注記、印刷77頁出所説明の本文、PDF78・80頁画像。全119頁精読ではない。",
+    "full_source_redistributed": false
+  }
+]
