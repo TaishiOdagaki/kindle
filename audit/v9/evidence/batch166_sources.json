@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S223",
+    "url": "https://www.jpf.go.jp/j/project/japanese/survey/result/dl/survey2021/overview.pdf",
+    "bytes": 1647459,
+    "sha256": "6abd6a9a9f84735149539ff02d955cf3161e1f0ad104ef8942be4313a98713e0",
+    "checked": "2026-10-18",
+    "read_scope": "原PDF第1章17頁を取得、印刷7・10～13・18・22頁本文、11・18・22頁画像。2021年度回答機関集計、独習者除外。2024年度最新統計の照合ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S224",
+    "url": "https://www.jpf.go.jp/j/about/",
+    "bytes": 44965,
+    "sha256": "108dec02c840ac582e6d1a03f06aacbd029c4524fdb52d083d3fa8543f4d498e",
+    "checked": "2026-10-18",
+    "read_scope": "公式紹介本文の設立年・所管・組織変更日付。政策史全般は未検証。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S224",
+    "url": "https://www.jpf.go.jp/j/world/",
+    "bytes": 46744,
+    "sha256": "cf1a62af6d3e201c1211e49d4b633f32e1e6a2efee8b2752536d57f1399a872e",
+    "checked": "2026-10-18",
+    "read_scope": "導入本文と拠点一覧。国内外の基盤と連携機関。網羅的権限の検証ではない。",
+    "full_source_redistributed": false
+  }
+]

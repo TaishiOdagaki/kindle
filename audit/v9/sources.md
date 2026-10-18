@@ -884,3 +884,11 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 - S222 [opi165.html](https://www.actfl.org/assessments/postsecondary-assessments/opi)：目的、自発的発話、面接4段階、レベルチェック/プローブ。列記された妥当性信頼性原著は未検証。
 
 原バイトSHA256と再取得範囲はevidence/batch165_sources.json。原文全体非転載。
+
+
+## 第166バッチ 原表と公式紹介 2026-10-18
+
+- S223 [国際交流基金2021年度調査第1章](https://www.jpf.go.jp/j/project/japanese/survey/result/dl/survey2021/overview.pdf)。印刷7・10～13・18・22頁本文、11・18・22頁画像。対象は回答機関、独習者除外。Q_1_038・Q_M_005。最新2024年度値の承認ではない。
+- S224 [基金公式紹介](https://www.jpf.go.jp/j/about/)の沿革本文、[世界の拠点紹介](https://www.jpf.go.jp/j/world/)の導入と一覧。Q_1_026・Q_M_001。政策史全般、全拠点の全業務・法的権限の独立検証ではない。
+
+原バイトSHA256と照合範囲はevidence/batch166_sources.json。原資料全文は非転載。
