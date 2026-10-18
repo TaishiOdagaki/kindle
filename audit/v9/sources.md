@@ -839,3 +839,15 @@ S129 [共同開発者KilmannのTKI解説](https://kilmanndiagnostics.com/a-brief
 ## 第160バッチ S213追加照合とポライトネス資料取得保留（2026-10-18）
 
 S213 [RFCDC第1巻](https://rm.coe.int/16807bc66c)の取得済み原PDFを第159バッチのサイズ・SHA256へ照合し一致。41–43頁（注7–8含む）、47・52–53・73頁本文を精読し42・43・53頁を全頁画像照合。Q_1_002の開放性・尊重、Q_O_005の証拠に基づく評価と自分の前提・判断の点検へ対応。全89頁精読、心理診断、過剰同化モデル原著、自己点検・録画の因果効果の実証ではない。evidence/batch160_sources.json参照。原PDF非転載。Brown・Levinson関連の検索抜粋やMPI書誌・概要は学術的承認に不使用、必要本文取得失敗はevidence/batch160_source_attempts.json参照。
+
+
+## 第161バッチ S218（2026-10-18）
+
+S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取得。Intro2.2・4.1・4.2の全本文とSoundのInside a Sound・Limitations本文を精読し、Q_4_120の全4肢・4解説を独立照合した。
+
+- [Intro 2.2 Viewing and editing a sound](https://www.fon.hum.uva.nl/praat/manual/Intro_2_2__Viewing_and_editing_a_sound.html) 波形表示・解析表示・区間再生。
+- [Intro 4.1 Viewing a pitch contour](https://www.fon.hum.uva.nl/praat/manual/Intro_4_1__Viewing_a_pitch_contour.html) ピッチ曲線の時間変化と青線・点の表示。
+- [Intro 4.2 Configuring the pitch contour](https://www.fon.hum.uva.nl/praat/manual/Intro_4_2__Configuring_the_pitch_contour.html) 話者差、下限設定と時間分解能、解析範囲とView rangeの違い。
+- [Sound](https://www.fon.hum.uva.nl/praat/manual/Sound.html) 時間・サンプル・振幅の内部データとメモリ制限。コマンドの全リンク先の読了ではない。
+
+版の異なるページの初期値を混ぜず、数値の固定暗記を出題しない。仕様の本文照合であり、ソフト実行、授業効果・メタ認知効果・ASR性能・発音習得を実証したものではない。evidence/batch161_sources.jsonに原バイトSHA256・サイズ・取得日・読了範囲。原HTML非転載。

@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "S218",
+    "url": "https://www.fon.hum.uva.nl/praat/manual/Intro_2_2__Viewing_and_editing_a_sound.html",
+    "title": "Intro 2.2. Viewing and editing a sound",
+    "retrieved": "2026-10-18",
+    "manual_page_revision": "20230202",
+    "bytes": 2358,
+    "sha256": "7ff037c9fdfa3ab1ef2482b1e06e1af3022665af2dea168b61e206fe31891920",
+    "read_scope": "Intro2.2・4.1・4.2は全本文。Soundは内部データと制限の本文（コマンドのリンク先全頁は未読）。Web本文とも照合。",
+    "limitations": "開発者公式の機能・解析制約を確認。ソフト実行試験や授業介入、メタ認知効果、ASR性能、発音習得の実証研究ではない。原HTML非転載。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S218",
+    "url": "https://www.fon.hum.uva.nl/praat/manual/Intro_4_1__Viewing_a_pitch_contour.html",
+    "title": "Intro 4.1. Viewing a pitch contour",
+    "retrieved": "2026-10-18",
+    "manual_page_revision": "20110128",
+    "bytes": 1726,
+    "sha256": "9a542d12e9f9f043b92b8f8f68e31160072170a3510fe99faafdee0f128fc390",
+    "read_scope": "Intro2.2・4.1・4.2は全本文。Soundは内部データと制限の本文（コマンドのリンク先全頁は未読）。Web本文とも照合。",
+    "limitations": "開発者公式の機能・解析制約を確認。ソフト実行試験や授業介入、メタ認知効果、ASR性能、発音習得の実証研究ではない。原HTML非転載。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S218",
+    "url": "https://www.fon.hum.uva.nl/praat/manual/Intro_4_2__Configuring_the_pitch_contour.html",
+    "title": "Intro 4.2. Configuring the pitch contour",
+    "retrieved": "2026-10-18",
+    "manual_page_revision": "20231115",
+    "bytes": 5405,
+    "sha256": "8b444c113a08f18f482f8695b2b8fbd51b0cc0efdf91e121dadd96c9003231c8",
+    "read_scope": "Intro2.2・4.1・4.2は全本文。Soundは内部データと制限の本文（コマンドのリンク先全頁は未読）。Web本文とも照合。",
+    "limitations": "開発者公式の機能・解析制約を確認。ソフト実行試験や授業介入、メタ認知効果、ASR性能、発音習得の実証研究ではない。原HTML非転載。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S218",
+    "url": "https://www.fon.hum.uva.nl/praat/manual/Sound.html",
+    "title": "Sound",
+    "retrieved": "2026-10-18",
+    "manual_page_revision": "2016-10-13",
+    "bytes": 26861,
+    "sha256": "f820272fbc64462e435cdc3811cb9d5dedf920e39ea81554e09680b47124a6a2",
+    "read_scope": "Intro2.2・4.1・4.2は全本文。Soundは内部データと制限の本文（コマンドのリンク先全頁は未読）。Web本文とも照合。",
+    "limitations": "開発者公式の機能・解析制約を確認。ソフト実行試験や授業介入、メタ認知効果、ASR性能、発音習得の実証研究ではない。原HTML非転載。",
+    "full_source_redistributed": false
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "batch": 161,
+  "base_remote_commit": "4645f8f36902d29f5f6f49ff2561d3196ccb4dd5",
+  "fully_rejudged": [
+    "Q_4_120"
+  ],
+  "edits": 9,
+  "independent_answers": {
+    "Q_4_120": 2
+  },
+  "sources": [
+    "S218"
+  ],
+  "status_counts": {
+    "確認済み": 382,
+    "修正必要": 2,
+    "要追加確認": 116
+  },
+  "remaining": 118,
+  "machine_warnings": 113,
+  "new_warnings": [],
+  "removed_warnings": [],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 407,
+  "visually_reviewed_pages": [
+    98,
+    99,
+    300
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      98
+    ],
+    "1": [
+      98
+    ],
+    "2": [
+      98
+    ],
+    "3": [
+      98
+    ],
+    "4": [
+      99
+    ],
+    "5": [
+      300
+    ],
+    "6": [
+      300
+    ],
+    "7": [
+      300
+    ],
+    "8": [
+      300
+    ]
+  },
+  "docx_sha256": "034d8df484043874a8221b4c96a05cfeb9cecfc3fac4d8eeb6d51f6582283438",
+  "pdf_sha256": "5d9f956975a011a78631cdee708f09ed2c6493b6353c2b2a40e11ddc371d0392",
+  "page_sha256": {
+    "98": "d7788657a981ddffe270eea0e043ee811b7563833973420be542b2bd280f4634",
+    "99": "1f076010b9fa55d0fe2a8ab5369d8fc961b852137fd2cea7ff3f7e06a95fb7be",
+    "300": "045e14f86c440810cb6512599e0340731df4d3a8762b4e14b2ed9325520360e2"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "pending_pagination": [
+    "Q_4_120の設問・肢1–3が98頁、肢4が99頁"
+  ]
+}
