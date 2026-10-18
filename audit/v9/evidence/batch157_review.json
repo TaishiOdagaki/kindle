@@ -1,0 +1,188 @@
+{
+  "batch": 157,
+  "base_remote_commit": "440fb7a4abb0691518e0dce48df2644346cf62ed",
+  "fully_rejudged": [
+    "Q_O_016",
+    "Q_O_017",
+    "Q_O_018",
+    "Q_O_019",
+    "Q_O_020"
+  ],
+  "edits": 30,
+  "case_entries": 2,
+  "case_heading_occurrences": 2,
+  "independent_answers": {
+    "Q_O_016": 2,
+    "Q_O_017": 2,
+    "Q_O_018": 2,
+    "Q_O_019": 1,
+    "Q_O_020": 3
+  },
+  "sources": [
+    "S213"
+  ],
+  "status_counts": {
+    "確認済み": 373,
+    "修正必要": 2,
+    "要追加確認": 125
+  },
+  "remaining": 127,
+  "machine_warnings": 109,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_O_017",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 3, 4]"
+    ],
+    [
+      "P1",
+      "Q_O_018",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ],
+    [
+      "P1",
+      "Q_O_019",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2]"
+    ],
+    [
+      "P1",
+      "Q_O_020",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [1, 2, 4]"
+    ]
+  ],
+  "removed_warnings": [
+    [
+      "A1",
+      "Q_O_017",
+      "正解選択肢2に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "new_warning_review": "P1は正答末尾の事実承認・効果保証・未取得理論原著の承認を否定する留保を検出。正答自体の否定でないことと誤答解説の否定対象を全肢対照。",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 408,
+  "visually_reviewed_pages": [
+    144,
+    145,
+    146,
+    349,
+    350,
+    351,
+    352
+  ],
+  "regenerated_corrupt_review_pngs": [
+    351,
+    352
+  ],
+  "pending_pagination": [
+    "349頁末尾ケース4解説見出し孤立",
+    "Q_O_018解説350–351頁",
+    "Q_O_020解説351–352頁"
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      144,
+      349
+    ],
+    "1": [
+      144
+    ],
+    "2": [
+      145
+    ],
+    "3": [
+      145
+    ],
+    "4": [
+      350
+    ],
+    "5": [
+      350
+    ],
+    "6": [
+      350
+    ],
+    "7": [
+      350
+    ],
+    "8": [
+      145
+    ],
+    "9": [
+      145
+    ],
+    "10": [
+      350
+    ],
+    "11": [
+      350
+    ],
+    "12": [
+      350
+    ],
+    "13": [
+      350
+    ],
+    "14": [
+      145
+    ],
+    "15": [
+      350
+    ],
+    "16": [
+      351
+    ],
+    "17": [
+      351
+    ],
+    "18": [
+      351
+    ],
+    "19": [
+      146
+    ],
+    "20": [
+      351
+    ],
+    "21": [
+      351
+    ],
+    "22": [
+      351
+    ],
+    "23": [
+      351
+    ],
+    "24": [
+      146
+    ],
+    "25": [
+      146
+    ],
+    "26": [
+      351
+    ],
+    "27": [
+      352
+    ],
+    "28": [
+      352
+    ],
+    "29": [
+      352
+    ]
+  },
+  "docx_sha256": "e14664441869ba64603bd0905f61b5cb679c65091432c92a3a627cb43abf3abd",
+  "pdf_sha256": "24fc585c7238aeb93ae9ef256f0c7bb7bcdc9a5762fbe2afc70124a72d74c22b",
+  "page_sha256": {
+    "144": "d5c2e4b3abbc50dd697f68ac242054ef6dec107d2aa302b0aefa18531f339487",
+    "145": "d9c00fea67f507d5dd007b090903490c665700d67cfc749a33a436164aa2bb39",
+    "146": "a3de6342c38d8ce4e49e1ff75eade5ff16accba8830ff4cf10071a6eb2837f60",
+    "349": "574c8a7d66160db90ecb70b22d1e4bbc7944518887b30f953aabe891f85841d9",
+    "350": "78799a47093fe358f8fb123211aa88abfcbe0afba4a33972f19e0fc6ffd1a6f6",
+    "351": "60f40355f84afba9fec6514de3192b11a6e451a8bd48db6c98e813aece626587",
+    "352": "0cbda2b414cea85fd86af5b9cde6205517716c7496b622bd1ccd4ea3ffd94017"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

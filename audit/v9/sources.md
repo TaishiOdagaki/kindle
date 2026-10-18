@@ -819,3 +819,8 @@ S30 Richard W. Schmidt（1990）[The Role of Consciousness in Second Language Le
 ## 第156バッチ S213追加照合（2026-10-18）
 
 [RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)を公式サイトから再取得。47–49頁の本文・注10、用語集73–74頁を精読。48・49・73頁（PDF50・51・75頁）を全頁画像で照合。Q_1_001の全4肢・4解説を73頁Ethnocentrism項、Q_M_038を48–49頁Empathy項・注10と73頁Empathy項へ対応。定義の流派・モデル依存性を明示し、心理学全般の合意、Bennett等の原著、旧解説の別概念を取得・承認したものとしない。全89頁精読ではない。原バイトSHA256・読了範囲はevidence/batch156_sources.json。原PDF非転載。
+
+
+## 第157バッチ S213追加照合（2026-10-18）
+
+[RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)全89頁PDFを再取得。29–32頁全文、51–53頁全文を精読。51・52・53頁（PDF53・54・55頁）を全頁画像照合。ケース4と全5問Q_O_016–020の全4肢・4解説を、本人の発言に基づく文脈の把握、相互の視点理解、合意形成、一時休止、協働、自己の前提と判断の点検へ対応させた。ケース本文を証拠とする論理的判断と、指定モデルへの教育的適用を区別。日本の慣習、国籍別傾向、授業効果、対立再発率、引用先原著の承認ではない。全89頁精読ではない。原バイトSHA256・読了範囲はevidence/batch157_sources.json。原PDF非転載。
