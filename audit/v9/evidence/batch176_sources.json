@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "S238",
+    "url": "https://www2.ninjal.ac.jp/gairaigo/Teian1_4/index.html",
+    "bytes": 3742,
+    "sha256": "cec0586f18f797b5452e01875c09004c23da0dc1ad6a20ad99b105649e53a264",
+    "checked": "2026-10-19",
+    "read_scope": "2006年総集編概要、提案主体・日付・目的。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S238",
+    "url": "https://www2.ninjal.ac.jp/gairaigo/Teian1_4/tebiki.html",
+    "bytes": 12344,
+    "sha256": "d7083de20316cfc53c11d279dfcdb648214003f5031f879b33b2041047c8bac7",
+    "checked": "2026-10-19",
+    "read_scope": "利用の手引き全節。背景、理解度の当時の目安、世代差、原語との区別、文脈別選択、専門概念の説明、概念普及。理解度数値を現在値とは扱わない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S238",
+    "url": "https://www2.ninjal.ac.jp/gairaigo/Teian1_4/Words/informed_consent.gen.html",
+    "bytes": 3767,
+    "sha256": "75c9a84669b4f9b70cca88967b08b5e8f2578cef3f78c6512dcc77e979f43752",
+    "checked": "2026-10-19",
+    "read_scope": "提案項目本文全体。納得診療／説明と同意、意味説明、手引き、2006-03-13。現行医療の法的要件・1980年代語史の独立検証ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S239",
+    "url": "https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/kikigengo/",
+    "bytes": 23021,
+    "sha256": "c36f2f219975452ecc3f3b1e054dfe2eb5d1add31a40da6181236e2dd35ccbd2",
+    "checked": "2026-10-19",
+    "read_scope": "文化庁本文・2009年発表資料掲載8言語と危機度一覧、言語／方言注記、事業一覧。UNESCO原Atlas本文・最新話者数・全方言の危機度を独立検証したとはしない。",
+    "full_source_redistributed": false
+  }
+]

@@ -948,3 +948,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S237 [Weldon et al.1974 Technical Report20](https://files.eric.ed.gov/fulltext/ED095249.pdf)。A Laboratory Test of the Effects of Culture Assimilator Training、1974年3月、Illinois大学研究者の原報告43頁PDF。表紙・Triandis序、本文1～6・25・32頁、本文3頁画像。事例・解釈選択・分岐フィードバックと両集団パネルによる訓練目的上の正解選定をQ_4_097・102へ対応。1971原著・1970原報告本文や全実験の再検証ではない。
 
 原バイトSHA256と精読範囲はevidence/batch175_sources.json。未取得はbatch175_source_attempts.json。原資料全体非転載。
+
+
+## 第176バッチ S238 S239 2026-10-19
+
+- S238 国立国語研究所「外来語」委員会の[2006年総集編概要](https://www2.ninjal.ac.jp/gairaigo/Teian1_4/index.html)、[利用の手引き全節](https://www2.ninjal.ac.jp/gairaigo/Teian1_4/tebiki.html)、[インフォームドコンセント項目全体](https://www2.ninjal.ac.jp/gairaigo/Teian1_4/Words/informed_consent.gen.html)のHTML原文を取得。受け手・文脈別の言い換えと説明、原語との区別、納得診療／説明と同意をQ_2_012の全肢・全解説へ対応。資料当時の理解度を現在値としない。医療の法的要件・別の公用文政策の承認ではない。
+- S239 [文化庁 消滅の危機にある言語・方言](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/kikigengo/)の本文・8言語と危機度一覧・注記・事業一覧を取得精読。文化庁が紹介する2009年発表資料の掲載をQ_2_010の全肢全解説へ対応。UNESCO Atlas原本文・最新話者数・全危機言語を独立検証したとはしない。
+
+原バイトSHA256と範囲はevidence/batch176_sources.json。原資料全体非転載。
