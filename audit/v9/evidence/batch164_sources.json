@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S144",
+    "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+    "bytes": 195150,
+    "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+    "checked": "2026-10-18",
+    "read_scope": "2006年著者公開冊子52頁を再取得。印刷14–16・31–35・45頁本文を精読、15・31–33頁画像。引用先Willis等の全原著と介入効果の独立検証は未実施。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S213",
+    "url": "https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c",
+    "bytes": 4154359,
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "checked": "2026-10-18",
+    "read_scope": "取得済みPDFの52–53頁本文・全6項目、両頁画像、47頁批判的思考本文を確認。第156バッチ原バイトSHA256と一致。授業分析という技法名の定義資料ではない。",
+    "full_source_redistributed": false
+  }
+]

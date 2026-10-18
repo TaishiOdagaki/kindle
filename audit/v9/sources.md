@@ -864,3 +864,11 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 - S213 [RFCDC Volume1](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)。Web再取得はタイムアウト。既取得PDF原バイトのSHA256を第156バッチと照合し、41–43頁本文・注7/8、73頁用語集本文、42・73頁画像を再確認。29–30頁本文も参照。Q_4_099をRFCDC自身の定義・姿勢に限定し、哲学的文化相対主義の全学説や適応効果へ拡張しない。
 
 原バイトハッシュ・サイズ・読了範囲はevidence/batch163_sources.json。PDF本文は非転載。
+
+
+## 第164バッチ S144再取得・S213本文検証（2026-10-18）
+
+- S144 [Richards2006著者公開冊子](https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf)。印刷14–16・31–35・45頁本文、15・31–33頁画像。Q_O_052・055のタスクの意味・成果・既有資源、PPP順序、正確さと流暢さの活動の関係を照合。引用されるWillis等の全原著や介入効果の独立検証ではない。
+- S213 [RFCDC第1巻](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)。取得済みPDFの原バイトSHA256を第156バッチと照合。52–53頁本文・自己理解全6項目・両頁画像、47頁批判的思考本文。Q_MO_004は観点のケース適用であり、授業分析という技法名の定義や相談効果の実証ではない。
+
+取得範囲と原バイトのハッシュ・サイズはevidence/batch164_sources.json。原PDFは非転載。
