@@ -809,3 +809,8 @@ Council of Europe [Compass — Using Compass for human rights education](https:/
 - S179 [CEFR2001公式PDF](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf)を再取得。5.2冒頭（108頁）、5.2.1.2の定義・列挙（112–113頁）、5.2.1.4–5.2.1.5本文（116–117頁）、5.2.2冒頭から5.2.2.4末（118–120頁）を精読。118・119頁（PDF127・128頁）を画像照合。Q_O_012の4肢・4解説へ使用。文法・音韻・正書法の焦点と社会的関係に応じた言葉遣いを区別。全273頁精読やCanale/Swain原著取得を意味しない。
 - S04 [敬語の指針](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf)を再取得。18頁・22–23頁・43–44頁を本文精読し、43・44頁（今回のPDF46・47頁）を画像照合。会社内外のウチ扱い、学校の呼称との違い、謙譲語IIを現行ケースへ照合。今回の取得版のページ対応をcatalogへ明記。全書精読・現在の慣習頻度の再調査ではない。
 - URL、原バイトSHA256、読了範囲と限界はevidence/batch154_sources.json。原PDFは転載しない。
+
+
+## 第155バッチ S30追加照合（2026-10-18）
+
+S30 Richard W. Schmidt（1990）[The Role of Consciousness in Second Language Learning](https://www.nflrc.hawaii.edu/PDFs/SCHMIDT%20The%20role%20of%20consciousness%20in%20second%20language%20learning.pdf)、Applied Linguistics11(2),129–158を再取得。131–133頁の2.1–2.2、138–141頁の4冒頭・4.1、149–150頁の結論を精読。132・139・141・149頁（PDF4・11・13・21頁）を画像照合。Q_O_004の全4肢・全4解説を、気づきと理解、提示とpreliminary intake、一時的反復と保持・習得の区別へ対応させた。141頁の紹介研究の十分性・必要性の実証上の留保と、成人中心の範囲を重視。引用先原著の独立取得・現代の全理論の合意・当該日本語授業の効果の実測ではない。全30頁精読ではない。原バイトSHA256・読了範囲はevidence/batch155_sources.json。原PDF非転載。

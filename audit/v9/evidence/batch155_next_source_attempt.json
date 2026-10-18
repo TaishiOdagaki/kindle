@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "question": "Q_1_013",
+  "status_unchanged": "修正必要",
+  "attempts": [
+    {
+      "url": "https://www.moj.go.jp/isa/content/930001663.pdf",
+      "title": "高度人材ポイント制 Q＆A",
+      "result": "HTTP 403 Forbidden",
+      "methods": ["web open", "curl --fail"],
+      "curl_exit_code": 22,
+      "full_body_acquired": false
+    },
+    {
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html",
+      "title": "高度人材ポイント制とは？",
+      "result": "HTTP 403 Forbidden",
+      "methods": ["web open"],
+      "full_body_acquired": false
+    }
+  ],
+  "decision": "公式検索結果で候補資料を同定したが、本文は未取得。検索抜粋や行政書士等の二次解説から全4肢・4解説を承認しない。既存原稿と判定は変更しない。",
+  "still_required": "公式原文の取得と全肢・全解説の条件照合。制度変更の可能性があるため、取得日・適用時点を明示し、旧時点の情報を現行制度と推定しない。",
+  "overall_audit_fully_blocked": false
+}
