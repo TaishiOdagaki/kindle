@@ -1,0 +1,132 @@
+{
+  "batch": 165,
+  "base_remote_commit": "7cd8470586e2f5b07408e49c0b67bef6a611a47e",
+  "fully_rejudged": [
+    "Q_1_008",
+    "Q_1_034",
+    "Q_1_035"
+  ],
+  "edits": 27,
+  "independent_answers": {
+    "Q_1_034": 4,
+    "Q_1_035": 2,
+    "Q_1_008": 1
+  },
+  "status_counts": {
+    "確認済み": 392,
+    "修正必要": 2,
+    "要追加確認": 106
+  },
+  "remaining": 108,
+  "machine_warnings": 118,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_1_008",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "render_pages": 408,
+  "visually_reviewed_pages": [
+    8,
+    19,
+    205,
+    216,
+    217
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      19
+    ],
+    "1": [
+      19
+    ],
+    "2": [
+      19
+    ],
+    "3": [
+      19
+    ],
+    "4": [
+      19
+    ],
+    "5": [
+      216
+    ],
+    "6": [
+      216
+    ],
+    "7": [
+      216
+    ],
+    "8": [
+      216
+    ],
+    "9": [
+      19
+    ],
+    "10": [
+      19
+    ],
+    "11": [
+      19
+    ],
+    "12": [
+      19
+    ],
+    "13": [
+      19
+    ],
+    "14": [
+      217
+    ],
+    "15": [
+      217
+    ],
+    "16": [
+      217
+    ],
+    "17": [
+      217
+    ],
+    "18": [
+      8
+    ],
+    "19": [
+      8
+    ],
+    "20": [
+      8
+    ],
+    "21": [
+      8
+    ],
+    "22": [
+      8
+    ],
+    "23": [
+      205
+    ],
+    "24": [
+      205
+    ],
+    "25": [
+      205
+    ],
+    "26": [
+      205
+    ]
+  },
+  "docx_sha256": "11af92f016a5afbc6d6a8bc78b06fa81c6ed2a1b0c47b54f99aff97a14e3987d",
+  "pdf_sha256": "faa9babfcf098aea2efb91d27e6d02d73ff5b498cc9673fe1a128051bf63557e",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "page_sha256": {
+    "8": "0f24234d730a4420d5202377997c90d977c3f71a7a1f31d360ea95a09f7ccd0a",
+    "19": "7eabf31a1b3d07983f0d9a46455c23bbd14958e653205b8ad9d552c86968f3c0",
+    "205": "9c5c7218535777f941fd567f7b9eb803a20157c242f0c2697a14256c7a3cd78e",
+    "216": "4c7fe999b2ab7dfe50e0cd57f043af5afd75fad85098fcae636ee3c7f82f7578",
+    "217": "df3133b4ec0d793b3c3f135644f92bf8fcb7bfd6d322499d5da183ed74ea34b4"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

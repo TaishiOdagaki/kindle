@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "S219",
+    "url": "https://jlpt.jp/sp/faq/index.html",
+    "bytes": 153386,
+    "sha256": "ea6559961aa4657a6bab1866b7a209b86b4d41ab160bdd5c0d8539c0c591b11c",
+    "checked": "2026-10-18",
+    "read_scope": "目的、会話・作文、解答方式、項目応答理論/配点、認定期限の各Q/A。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S220",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2026.html",
+    "bytes": 127457,
+    "sha256": "4b274fe021f26346ff3498db33750cbfef56a7cfde712e6888461a77004d7a72",
+    "checked": "2026-10-18",
+    "read_scope": "目的、出題科目等、備考1/5。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S220",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/score/index.html",
+    "bytes": 116902,
+    "sha256": "734d658b62a325e687167abccfa25580444da5fd824fc0578a45500fec0e9c80",
+    "checked": "2026-10-18",
+    "read_scope": "得点説明本文全体。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S220",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/syllabus/japanese.html",
+    "bytes": 120305,
+    "sha256": "b62febe2c58f8314edfa21ce5863437482cb8c777d897c6b5e19e285029d297d",
+    "checked": "2026-10-18",
+    "read_scope": "目的・構成・各領域説明全文。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S221",
+    "url": "https://www.kanken.or.jp/bjt/about/level_sample.html",
+    "bytes": 31443,
+    "sha256": "abb665e4bff730e14790b0c5ecc2b95620a17e035e47020ad2cb00d360634bf2",
+    "checked": "2026-10-18",
+    "read_scope": "冒頭の0～800点・6段階・非合否。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S222",
+    "url": "https://www.actfl.org/assessments/postsecondary-assessments/opi",
+    "bytes": 93571,
+    "sha256": "6f15b747aa6e3ce8cfea97c012ab027006a1b74a08ece4b701cba2ed9339dbce",
+    "checked": "2026-10-18",
+    "read_scope": "目的、自発的発話、面接4段階、レベルチェック/プローブ。列記された妥当性信頼性原著は未検証。",
+    "full_source_redistributed": false
+  }
+]

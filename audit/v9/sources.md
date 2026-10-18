@@ -872,3 +872,15 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 - S213 [RFCDC第1巻](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)。取得済みPDFの原バイトSHA256を第156バッチと照合。52–53頁本文・自己理解全6項目・両頁画像、47頁批判的思考本文。Q_MO_004は観点のケース適用であり、授業分析という技法名の定義や相談効果の実証ではない。
 
 取得範囲と原バイトのハッシュ・サイズはevidence/batch164_sources.json。原PDFは非転載。
+
+
+## 第165バッチ 公式試験本文 2026-10-18
+
+- S219 [jlpt165.html](https://jlpt.jp/sp/faq/index.html)：目的、会話・作文、解答方式、項目応答理論/配点、認定期限の各Q/A。
+- S220 [eju165.html](https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2026.html)：目的、出題科目等、備考1/5。
+- S220 [score165.html](https://www.jasso.go.jp/ryugaku/eju/about/score/index.html)：得点説明本文全体。
+- S220 [syllabus165.html](https://www.jasso.go.jp/ryugaku/eju/examinee/syllabus/japanese.html)：目的・構成・各領域説明全文。
+- S221 [bjt165.html](https://www.kanken.or.jp/bjt/about/level_sample.html)：冒頭の0～800点・6段階・非合否。
+- S222 [opi165.html](https://www.actfl.org/assessments/postsecondary-assessments/opi)：目的、自発的発話、面接4段階、レベルチェック/プローブ。列記された妥当性信頼性原著は未検証。
+
+原バイトSHA256と再取得範囲はevidence/batch165_sources.json。原文全体非転載。
