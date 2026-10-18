@@ -1,0 +1,7 @@
+[
+  {
+    "url": "https://www.kansai-u.ac.jp/ctl/labo/useful/pdf/report/20170426_hatten.pdf",
+    "result": "検索・初回web展開では旧PDFテキストが得られたが、直接原バイト取得と再openは404。検索抜粋を承認に使用せず。2025新版はLMSログイン要求のため未取得。",
+    "used_for_approval": false
+  }
+]

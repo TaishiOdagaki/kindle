@@ -897,3 +897,8 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 ## 第167バッチ S225 大学教材 2026-10-18
 
 [S225 名古屋大学 レポート課題に備える](https://web.cshe.nagoya-u.ac.jp/resources/asg/prepareessay.html)の本文全節と作成者・発行者・改訂日を確認。問いへの回答・理由根拠の吟味、資料の調査過程、自分の考察と資料の区別。Q_4_089の具体的適用。推薦書籍・社会的読書統計は未取得。原バイトSHA256と範囲はevidence/batch167_sources.json、原文全体非転載。
+
+
+## 第169バッチ S226 大学教材 2026-10-18
+
+[S226 北海道大学 見延庄士郎 レポート・卒論の書き方初級編](https://geodynamics.sci.hokudai.ac.jp/poc/minobe/class/how2write_1.htm)のHTML原バイトを取得。2.2段落全文と注3、6.1チェックのポイント全文、2.1.1段落構成のスペース条件を確認。Q_4_088の全4肢・全4解説へ対応。旧メタ言語表現の効果、受動態頻度・客観性、口頭発表文体、教育史一般化は承認対象外。原バイトSHA256と範囲はevidence/batch169_sources.json、原文全体非転載。関西大学旧PDF404等はevidence/batch169_source_attempts.json。
