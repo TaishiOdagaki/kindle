@@ -824,3 +824,8 @@ S30 Richard W. Schmidt（1990）[The Role of Consciousness in Second Language Le
 ## 第157バッチ S213追加照合（2026-10-18）
 
 [RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)全89頁PDFを再取得。29–32頁全文、51–53頁全文を精読。51・52・53頁（PDF53・54・55頁）を全頁画像照合。ケース4と全5問Q_O_016–020の全4肢・4解説を、本人の発言に基づく文脈の把握、相互の視点理解、合意形成、一時休止、協働、自己の前提と判断の点検へ対応させた。ケース本文を証拠とする論理的判断と、指定モデルへの教育的適用を区別。日本の慣習、国籍別傾向、授業効果、対立再発率、引用先原著の承認ではない。全89頁精読ではない。原バイトSHA256・読了範囲はevidence/batch157_sources.json。原PDF非転載。
+
+
+## 第158バッチ S213の原本再検証とS179取得保留（2026-10-18）
+
+S213 [RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)の取得済み原PDFをGitHub第157バッチのバイト数・SHA256と照合し一致。今回の再取得はタイムアウトのため、新規取得成功とは記録しない。29–32頁本文を精読、29・30頁（PDF31・32頁）を全頁画像照合。Q_1_003の全4肢・4解説を、複数帰属・主観的重要さの変動・文化集団の多様性へ対応。未取得理論や同化の頻度・言語習得の因果効果を承認しない。全89頁精読ではない。evidence/batch158_sources.jsonに原本再検証と範囲を記録。原PDF非転載。S179 CEFR2001は必要本文の再取得・画像確認に失敗、Q_2_032の要追加確認を維持。evidence/batch158_source_attempts.json参照。

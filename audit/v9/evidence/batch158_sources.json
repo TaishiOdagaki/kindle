@@ -1,0 +1,17 @@
+[
+  {
+    "source_id": "S213",
+    "url": "https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c",
+    "title": "Reference Framework of Competences for Democratic Culture, Volume 1: Context, concepts and model",
+    "year": 2018,
+    "original_acquisition_record": "evidence/batch157_sources.json",
+    "revalidated": "2026-10-18",
+    "bytes": 4154359,
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "pdf_pages": 89,
+    "fresh_download_succeeded": false,
+    "read_scope": "取得済み同一原PDFの29–32頁本文を精読。29・30頁（PDF31・32頁）を1800px全頁画像照合。",
+    "limitations": "全89頁精読ではない。全心理学の統一定義、引用先理論原著、言語学習の因果効果・同化頻度の実証ではない。今回の公式URL再取得はタイムアウト。取得済み原本の再検証と明示。",
+    "full_source_redistributed": false
+  }
+]

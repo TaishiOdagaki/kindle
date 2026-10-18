@@ -1,0 +1,79 @@
+{
+  "batch": 158,
+  "base_remote_commit": "e1505318f944faaf489bd3f075c38787ea343b58",
+  "fully_rejudged": [
+    "Q_1_003"
+  ],
+  "edits": 7,
+  "independent_answers": {
+    "Q_1_003": 1
+  },
+  "sources": [
+    "S213"
+  ],
+  "status_counts": {
+    "確認済み": 374,
+    "修正必要": 2,
+    "要追加確認": 124
+  },
+  "remaining": 126,
+  "pending_unchanged": [
+    "Q_2_032"
+  ],
+  "machine_warnings": 110,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_1_003",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3]"
+    ]
+  ],
+  "removed_warnings": [],
+  "new_warning_review": "P1は変容頻度を実測した説明ではないという留保を検出。正答の否定でなく、全4解説と原本文を対照済み。",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 408,
+  "visually_reviewed_pages": [
+    6,
+    203,
+    204
+  ],
+  "additional_context_pages": [
+    203
+  ],
+  "pending_pagination": [
+    "Q_1_003の解説見出し・キー203頁末尾、本文204頁"
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      6
+    ],
+    "1": [
+      6
+    ],
+    "2": [
+      6
+    ],
+    "3": [
+      204
+    ],
+    "4": [
+      204
+    ],
+    "5": [
+      204
+    ],
+    "6": [
+      204
+    ]
+  },
+  "docx_sha256": "471fdb61397c82ac23bf55e7696d2bff784db22a14ec3964e597cd7e21126486",
+  "pdf_sha256": "38b0eb75b8bafc79c24a7d8b75bd6340e2a408823a393fec84921bc3c9fff502",
+  "page_sha256": {
+    "6": "55df9444e1a275409a8747ac5aef27ce521b71d80b20de17532bef97a55b7e88",
+    "203": "cbc371ccb9f04984f50bbb06b5e3ba15c60cca74782d5795a0a5f93bd751716b",
+    "204": "28b4282daa3920a9b7d2a3e9636d08944f66213c5f319862f322a45cfe54ec16"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

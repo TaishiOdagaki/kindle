@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-18",
+  "pending_question": "Q_2_032",
+  "source_id": "S179",
+  "urls": [
+    "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf",
+    "https://rm.coe.int/16802fc1bf"
+  ],
+  "result": "WebでPDF273頁の概要は一度得られたが、必要本文の再取得・find・画像確認はタイムアウト。短縮URLのcurlは45秒・受信0バイト、exit28。検索抜粋やPDF概要を根拠本文として承認しない。",
+  "status_unchanged": "要追加確認",
+  "full_task_blocked": false
+}
