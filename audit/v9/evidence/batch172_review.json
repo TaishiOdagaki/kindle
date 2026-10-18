@@ -1,0 +1,141 @@
+{
+  "batch": 172,
+  "base_remote_commit": "08acbc21f30e9356c4a2c69cd1cd99eca7bd6fc2",
+  "fully_rejudged": [
+    "Q_3_009",
+    "Q_3_010",
+    "Q_3_011"
+  ],
+  "edits": 27,
+  "independent_answers": {
+    "Q_3_009": 4,
+    "Q_3_010": 4,
+    "Q_3_011": 1
+  },
+  "sources": [
+    "S230",
+    "S231",
+    "S232"
+  ],
+  "status_counts": {
+    "確認済み": 403,
+    "修正必要": 2,
+    "要追加確認": 95
+  },
+  "remaining": 97,
+  "machine_warnings": 124,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_3_009",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "regressions": "readiness8; replacement4",
+  "render_pages": 353,
+  "visually_reviewed_pages": [
+    35,
+    36,
+    206,
+    207
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      35
+    ],
+    "1": [
+      35
+    ],
+    "2": [
+      35
+    ],
+    "3": [
+      35
+    ],
+    "4": [
+      35
+    ],
+    "5": [
+      206
+    ],
+    "6": [
+      206
+    ],
+    "7": [
+      207
+    ],
+    "8": [
+      207
+    ],
+    "9": [
+      35
+    ],
+    "10": [
+      35
+    ],
+    "11": [
+      35
+    ],
+    "12": [
+      35
+    ],
+    "13": [
+      35
+    ],
+    "14": [
+      207
+    ],
+    "15": [
+      207
+    ],
+    "16": [
+      207
+    ],
+    "17": [
+      207
+    ],
+    "18": [
+      35
+    ],
+    "19": [
+      35
+    ],
+    "20": [
+      35
+    ],
+    "21": [
+      35
+    ],
+    "22": [
+      36
+    ],
+    "23": [
+      207
+    ],
+    "24": [
+      207
+    ],
+    "25": [
+      207
+    ],
+    "26": [
+      207
+    ]
+  },
+  "docx_sha256": "9b22617fde1c8207d6df9fa39e03ed775d6db9bfd269259254c8e4b8d5dab1e8",
+  "pdf_sha256": "2e79bb9e94bed94907ee9b595c38c1655de04ac7cece4d1f407497a48209757c",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "page_sha256": {
+    "35": "8c6c9f9d38b44b919cb6426dda3ae2351fbb8cd3c9d3111a0005b17241ebdfac",
+    "36": "f76450ff650b0eb3a614f19157d1dcc5a0fe25029264e7c93e9f5b3ede24dbfd",
+    "206": "c168da4482746af5d0ac6e7d20ca0b4ed13fe9b3fb5c4f542c892a1d6cd763c7",
+    "207": "c2ca2419c1933689523d527002e426d506bd9a5b72f381c662d8119d362d1539"
+  },
+  "pending_pagination": [
+    "Q_3_011 option4 on next page",
+    "Q_3_009 explanations split",
+    "Q_3_012 heading and key before next page explanations"
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

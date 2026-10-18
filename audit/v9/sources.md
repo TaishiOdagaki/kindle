@@ -918,3 +918,12 @@ Q_M_042の全4肢・全4解説を対応。S10は第35条の別資料のため本
 - S229 [Thiagi Gameletter2006年8月](https://thiagi.net/archive/www/pfp/IE4H/august2006.html)。編集者名とGame Announcement Barnga:25th Anniversary Edition全節。異なる解釈を理解・調整するという開発者側の目的説明。マニュアルや振り返りガイドの存在の説明は、その全冊取得と区別。全版の唯一手順・普遍的効果を承認しない。
 
 Q_4_094の全4肢・全4解説を対応。原バイトSHA256・範囲はevidence/batch171_sources.json。Michigan旧参照URLは404、マニュアル全冊未取得。原資料全体非転載。
+
+
+## 第172バッチ S230 S231 S232 2026-10-19
+
+- S230 [Anderson1982 Acquisition of Cognitive Skill 原論文スキャン](https://gwern.net/doc/iq/1982-anderson-2.pdf?download=1)。Psychological Review89(4)369–406、第三者保管の原論文38頁。369～370・373・381～383頁本文、370・383頁画像。命題ネットワーク／プロダクション、コンパイルの合成と手続き化、手続化後の学習、宣言的表象の必然的消失ではないこと。ACT1976書籍・Fitts1964原著・NevesAnderson1981は未取得。
+- S231 [Atkinson Shiffrin Human Memory 著者公刊前原稿](https://web.stanford.edu/group/csli-suppes/techreports/IMSSS_110.pdf)。Stanford公開194頁。表紙、原稿2・3・5～10頁本文、図1（6頁）と8頁画像。貯蔵と制御過程、写す転送と検索、視覚の短い登録時間、未確定の直接経路。1968出版版の最終本文や頁との同一視、全194頁精読・引用先原著の検証とはしない。
+- S232 [東京外国語大学 Vて 解説](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/043.html)。本文と全表。「かきます→かいて」の形を照合。架空事例の誤用原因の実証とは区別。
+
+Q_3_009・010・011の全肢全解説を対応。取得原バイトのSHA256・精読範囲はevidence/batch172_sources.json。原資料全体非転載。

@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "S230",
+    "url": "https://gwern.net/doc/iq/1982-anderson-2.pdf?download=1",
+    "bytes": 1523265,
+    "sha256": "87c5bae5c41b5c3fa4f2d5e9b9bd4064901ef2d1025779cbc25da55221db247d",
+    "checked": "2026-10-19",
+    "read_scope": "Anderson1982原論文の第三者保管スキャン全38頁を取得。369～370・373・381～383頁本文、370・383頁画像。ACT1976書籍、Fitts1964原著、NevesAnderson1981未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S231",
+    "url": "https://web.stanford.edu/group/csli-suppes/techreports/IMSSS_110.pdf",
+    "bytes": 5085769,
+    "sha256": "f208504022ff61bc0a30de7c884a01ec7993d7f9d4b2d4cd462a100e567a1006",
+    "checked": "2026-10-19",
+    "read_scope": "Stanford公開の著者公刊前原稿全194頁取得。表紙・原稿2・5～10頁本文、図1（6頁）・8頁画像。出版版の頁と同一視しない。全実験・引用先原著精読ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S232",
+    "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/043.html",
+    "bytes": 14419,
+    "sha256": "9d5d6c17e0ebdfc64883dab6a65041fc32087dde0ea6880cf192792d14184f7e",
+    "checked": "2026-10-19",
+    "read_scope": "東京外国語大学て形解説本文全体・全表。かきます→かいて。架空事例の誤用原因を実証する資料とはしない。",
+    "full_source_redistributed": false
+  }
+]
