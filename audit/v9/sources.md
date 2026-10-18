@@ -814,3 +814,8 @@ Council of Europe [Compass — Using Compass for human rights education](https:/
 ## 第155バッチ S30追加照合（2026-10-18）
 
 S30 Richard W. Schmidt（1990）[The Role of Consciousness in Second Language Learning](https://www.nflrc.hawaii.edu/PDFs/SCHMIDT%20The%20role%20of%20consciousness%20in%20second%20language%20learning.pdf)、Applied Linguistics11(2),129–158を再取得。131–133頁の2.1–2.2、138–141頁の4冒頭・4.1、149–150頁の結論を精読。132・139・141・149頁（PDF4・11・13・21頁）を画像照合。Q_O_004の全4肢・全4解説を、気づきと理解、提示とpreliminary intake、一時的反復と保持・習得の区別へ対応させた。141頁の紹介研究の十分性・必要性の実証上の留保と、成人中心の範囲を重視。引用先原著の独立取得・現代の全理論の合意・当該日本語授業の効果の実測ではない。全30頁精読ではない。原バイトSHA256・読了範囲はevidence/batch155_sources.json。原PDF非転載。
+
+
+## 第156バッチ S213追加照合（2026-10-18）
+
+[RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)を公式サイトから再取得。47–49頁の本文・注10、用語集73–74頁を精読。48・49・73頁（PDF50・51・75頁）を全頁画像で照合。Q_1_001の全4肢・4解説を73頁Ethnocentrism項、Q_M_038を48–49頁Empathy項・注10と73頁Empathy項へ対応。定義の流派・モデル依存性を明示し、心理学全般の合意、Bennett等の原著、旧解説の別概念を取得・承認したものとしない。全89頁精読ではない。原バイトSHA256・読了範囲はevidence/batch156_sources.json。原PDF非転載。
