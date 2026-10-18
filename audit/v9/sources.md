@@ -940,3 +940,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 ## 第174バッチ S235 2026-10-19
 
 [S235 Oberg原著のcurare2006再録](https://project-tree.net/wp-content/uploads/2019/10/Cultural_Shock_Adjustment_to_new_cultura.pdf)。全5頁の英語本文・再録注記を精読、142～143頁を画像照合。本文の出典注記はPractical Anthropology7:177–182(1960)。日常の合図、影響の個人差、第2段階の生活上の困難、自己のやり方を捨てない理解をQ_3_030・032の全肢全解説に対応した。1960原誌との全字比較、1954講演、Lysgaard原著、現在の医学的診断基準を取得したとはしない。病理的比喩や性別・国籍の一般化を現行知見として承認しない。取得原バイトSHA256と範囲はevidence/batch174_sources.json。原資料全体非転載。
+
+
+## 第175バッチ S236 S237 2026-10-19
+
+- S236 [外務省 高度専門職査証案内](https://www.mofa.go.jp/mofaj/toko/visa/chouki/visa16.html)。2026-01-22付の表・注1/2本文全体。滞在期間5年、在留資格認定証明書の提示と原本・写し・電子証明書、国籍による追加、家族等への認定証明書。Q_1_013を同じ高度専門職領域の査証手続へ差替え、全肢全解説へ対応。2号国内手続、ポイント項目、親帯同・配偶者就労・永住等の詳細は今回の照合外。ISA本文2ページは403。
+- S237 [Weldon et al.1974 Technical Report20](https://files.eric.ed.gov/fulltext/ED095249.pdf)。A Laboratory Test of the Effects of Culture Assimilator Training、1974年3月、Illinois大学研究者の原報告43頁PDF。表紙・Triandis序、本文1～6・25・32頁、本文3頁画像。事例・解釈選択・分岐フィードバックと両集団パネルによる訓練目的上の正解選定をQ_4_097・102へ対応。1971原著・1970原報告本文や全実験の再検証ではない。
+
+原バイトSHA256と精読範囲はevidence/batch175_sources.json。未取得はbatch175_source_attempts.json。原資料全体非転載。

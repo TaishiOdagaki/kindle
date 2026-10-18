@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_qa.html",
+    "outcome": "本文取得403。検索結果に本文らしき記載があるが本文照合の代用としない。",
+    "used_to_approve": false
+  },
+  {
+    "url": "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_preferential_index.html",
+    "outcome": "本文取得403。ブラウザ迂回なし。",
+    "used_to_approve": false
+  },
+  {
+    "url": "https://files.eric.ed.gov/fulltext/ED042343.pdf",
+    "outcome": "curl --failのHTTP404。1970原報告本文未取得。1974共同著者を含む別の一次研究報告を取得し、明示して採用。",
+    "used_to_approve": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S236",
+    "url": "https://www.mofa.go.jp/mofaj/toko/visa/chouki/visa16.html",
+    "bytes": 22857,
+    "sha256": "f4c95444ce59affe1bb20e01e982792203a5055c05e1a0b82aa1b97fbf0c3e88",
+    "checked": "2026-10-19",
+    "read_scope": "外務省2026-01-22付高度専門職査証案内の表・注1/2本文全体。原本／写し／電子証明、国籍条件、家族等への認定証明書、滞在期間5年。同2号の国内手続、ポイント全項目、親帯同・配偶者就労・永住の条件全般は照合対象外。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S237",
+    "url": "https://files.eric.ed.gov/fulltext/ED095249.pdf",
+    "bytes": 607462,
+    "sha256": "8ca02e205ce49376f6ceda5f6d32c95e5a4c77cd323862e44455a87aabb3b179",
+    "checked": "2026-10-19",
+    "read_scope": "Weldon et al.1974 Technical Report20の43頁PDF。表紙、Triandis序、本文1～6頁、25・32頁を精読、本文3頁の画像確認。形式・パネルによる訓練目的上の正解の選定。1971原著・1970報告・全実証研究の再検証ではない。",
+    "full_source_redistributed": false
+  }
+]
