@@ -1,0 +1,83 @@
+{
+  "batch": 167,
+  "base_remote_commit": "d1dc443fae5d40ec05078a478c5157e657ef1149",
+  "fully_rejudged": [
+    "Q_4_089"
+  ],
+  "edits": 10,
+  "new_text_passages": 9,
+  "explicit_paragraph_deletions": 1,
+  "deleted_standalone_paragraph_absent": true,
+  "independent_answers": {
+    "Q_4_089": 2
+  },
+  "sources": [
+    "S225"
+  ],
+  "status_counts": {
+    "確認済み": 397,
+    "修正必要": 2,
+    "要追加確認": 101
+  },
+  "remaining": 103,
+  "machine_warnings": 121,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_4_089",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 408,
+  "visually_reviewed_pages": [
+    86,
+    287,
+    288
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      86
+    ],
+    "1": [],
+    "2": [
+      86
+    ],
+    "3": [
+      86
+    ],
+    "4": [
+      86
+    ],
+    "5": [
+      86
+    ],
+    "6": [
+      287
+    ],
+    "7": [
+      287
+    ],
+    "8": [
+      287
+    ],
+    "9": [
+      288
+    ]
+  },
+  "docx_sha256": "41599c73654a00ed37f1d9dfaa98458547a5664bcde61201bd258941c30f23d2",
+  "pdf_sha256": "94c34615233a3853013ac5c6381068997fc2ad48bddd9ca7fcdb27024179ae7f",
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "page_sha256": {
+    "86": "7a526782aea3166a8e903270b848842432bfc06baa90e6e14838f0843577e1b8",
+    "287": "80d5d728adcbbd92522f84c73c76135b24fefe0f0de8ede1c06685973676cf3f",
+    "288": "9309067bdd953af6e4c389fa9eb924c009d230be902723698c313fb2a9831833"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "pending_pagination": [
+    "Q_4_089の設問・引用・4肢は86頁内に統合され、旧引用の独立段落は不存在",
+    "解説1～3は287頁、解説4は288頁に分割しており最終組版で解消する",
+    "288頁画像を再描画し原寸で再確認。欠字・タグ重なりなし"
+  ]
+}

@@ -892,3 +892,8 @@ S218 Praat開発者公式マニュアル。以下4頁のHTML原バイトを取�
 - S224 [基金公式紹介](https://www.jpf.go.jp/j/about/)の沿革本文、[世界の拠点紹介](https://www.jpf.go.jp/j/world/)の導入と一覧。Q_1_026・Q_M_001。政策史全般、全拠点の全業務・法的権限の独立検証ではない。
 
 原バイトSHA256と照合範囲はevidence/batch166_sources.json。原資料全文は非転載。
+
+
+## 第167バッチ S225 大学教材 2026-10-18
+
+[S225 名古屋大学 レポート課題に備える](https://web.cshe.nagoya-u.ac.jp/resources/asg/prepareessay.html)の本文全節と作成者・発行者・改訂日を確認。問いへの回答・理由根拠の吟味、資料の調査過程、自分の考察と資料の区別。Q_4_089の具体的適用。推薦書籍・社会的読書統計は未取得。原バイトSHA256と範囲はevidence/batch167_sources.json、原文全体非転載。
