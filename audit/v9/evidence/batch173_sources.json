@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S233",
+    "url": "https://peda.net/jyu/ktk/educationalleadership/moemalm/efitic/s1itiaic/lectures/l1ita/l1ita/berry-pdf%3Afile/download/87dd958cb50d15350cc101aff1e0fb29ee3f7cdd/Berry.pdf",
+    "bytes": 1732628,
+    "sha256": "c9b5afd932f0cc70dbb40f44ef17aca41556c70acab4b5824b49fa89ee6fe9b2",
+    "checked": "2026-10-19",
+    "read_scope": "Berry1997原論文第三者公開スキャン30頁。印刷5～7・9～12・24～25頁本文、10頁図1と本文画像。保持／参加、自由選択の制約、双方の調整、適応との関連を総括する著者の留保。引用研究各原著は未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S234",
+    "url": "https://www.idrinstitute.org/wp-content/uploads/2019/02/DMIS-IDRI.pdf",
+    "bytes": 450322,
+    "sha256": "ad8082f0f88ea852e3734e31a21f57018231e9c50c684c9ee48b885b7bd1d8b7",
+    "checked": "2026-10-19",
+    "read_scope": "Bennett2017著者本文8頁を著者研究所から取得。PDF1～7頁本文、4～5頁画像。連続体と6段階、非必然性、受容と同意、防衛の逆転型、適応と統合、測定と批判の記述。1986原著、引用原著、IDI全項目の独立検証ではない。",
+    "full_source_redistributed": false
+  }
+]

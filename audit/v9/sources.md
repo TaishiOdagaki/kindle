@@ -927,3 +927,11 @@ Q_4_094の全4肢・全4解説を対応。原バイトSHA256・範囲はevidence
 - S232 [東京外国語大学 Vて 解説](https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/043.html)。本文と全表。「かきます→かいて」の形を照合。架空事例の誤用原因の実証とは区別。
 
 Q_3_009・010・011の全肢全解説を対応。取得原バイトのSHA256・精読範囲はevidence/batch172_sources.json。原資料全体非転載。
+
+
+## 第173バッチ S233 S234 2026-10-19
+
+- S233 [Berry1997 Immigration Acculturation and Adaptation 原論文](https://peda.net/jyu/ktk/educationalleadership/moemalm/efitic/s1itiaic/lectures/l1ita/l1ita/berry-pdf%3Afile/download/87dd958cb50d15350cc101aff1e0fb29ee3f7cdd/Berry.pdf)。Applied Psychology46(1)原論文の第三者公開スキャン30頁。印刷5～7・9～12・24～25頁本文、10頁図1・本文画像。2軸の4方略、自由選択と社会的制約、相互調整、適応の関連を総括する著者の留保。引用実証研究の各原著は未取得。
+- S234 [Bennett2017 DMIS 著者本文](https://www.idrinstitute.org/wp-content/uploads/2019/02/DMIS-IDRI.pdf)。著者研究所が2017年百科事典項目として公開する8頁PDF。1～7頁本文、4～5頁画像。連続体上の6位置、非必然的進行、受容と同意の区別、防衛の逆転型、統合の自己のあり方、測定・批判の記述。1986原著・IDI全項目・全引用先の確認ではない。
+
+Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はevidence/batch173_sources.json。原資料全体非転載。
