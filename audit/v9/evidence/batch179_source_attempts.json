@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16809ea0d4",
+    "result": "urllib直接取得HTTP403。迂回取得せず。CEFR2020原PDF取得成功とはしない。HTMLは別にWeb openで本文3段落を取得。"
+  },
+  {
+    "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/plurilingualism-and-pluriculturalism",
+    "result": "urllib直接取得HTTP403。迂回取得せず。CEFR2020原PDF取得成功とはしない。HTMLは別にWeb openで本文3段落を取得。"
+  }
+]

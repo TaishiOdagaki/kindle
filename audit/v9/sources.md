@@ -972,3 +972,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S241 [文化審議会2022年建議原PDF](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93651301_01.pdf)。全63頁のうち、表紙、PDF3～4頁基本的な考え方と分類例、7頁用語の扱い本文・画像、8～10頁本文参照。Q_1_007の全肢全解説。目的・読み手に応じた工夫、外来語の条件別対応、意味保持と正確さ。全63頁精読、別告示全体や介入効果の承認ではない。
 
 原バイトSHA256・サイズ・精読範囲はevidence/batch178_sources.json。旧URL404はbatch178_source_attempts.json。原資料全体非転載。
+
+
+## 第179バッチ S242 S243 2026-10-19
+
+- S242 [Larsen-Freeman Anderson2011年第3版原著書PDF](https://elearning.usm.md/pluginfile.php/190241/mod_resource/content/2/Larsen-freeman%203rd%20ed_techniques-in-language-teaching.pdf)。大学公開318頁電子再組版。著者・奥付、直接法PDF46・52～54頁、ALM59・70～72頁本文、52・53・59頁画像。Q_4_034・Q_O_051の全肢全解説。引用先原典・全318頁精読、教師本人の信念、授業効果の検証ではない。
+- S243 [欧州評議会CEFR公式概念説明](https://www.coe.int/en/web/common-european-framework-reference-languages/plurilingualism-and-pluriculturalism)。Web openで概念説明本文3段落全体を取得・精読。Q_2_032の全肢全解説。HTML原バイト・CEFR2020本体PDFは直接取得403で未取得、本文取得と原バイト保存を区別。CEFR2001/2020の全原典・別のトランスランゲージング論文の承認ではない。
+
+原PDFのSHA256・サイズ・精読範囲、HTML整形本文の取得方法はevidence/batch179_sources.json。403はbatch179_source_attempts.json。原資料全体非転載。

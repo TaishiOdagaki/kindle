@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "S242",
+    "url": "https://elearning.usm.md/pluginfile.php/190241/mod_resource/content/2/Larsen-freeman%203rd%20ed_techniques-in-language-teaching.pdf",
+    "title": "Diane Larsen-Freeman and Marti Anderson Techniques and Principles in Language Teaching third edition 2011",
+    "bytes": 2795276,
+    "sha256": "fb8071d46ae8d93f3b133c3c16ecea668af8b6d8ef54eaf2b437120b8d46ba55",
+    "checked": "2026-10-19",
+    "read_scope": "著者・奥付PDF3～4頁、直接法46・52～54頁、ALM59・70～72頁。52・53・59頁画像。318頁の電子的再組版PDFで印刷版の頁を推定しない。全書籍・引用先原典の精読ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S243",
+    "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/plurilingualism-and-pluriculturalism",
+    "checked": "2026-10-19",
+    "retrieval": "Web open によるページ本文取得。turn662view0 L128～132 の概念説明3段落全体。動画・別文献は未取得。",
+    "raw_bytes_obtained": false,
+    "raw_sha256": null,
+    "read_scope": "公式機関自身の概念説明の全文。検索抜粋・抄録ではない。CEFR2001/2020原PDFの独立取得とはしない。",
+    "full_source_redistributed": false
+  }
+]
