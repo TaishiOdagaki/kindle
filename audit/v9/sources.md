@@ -964,3 +964,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S188 [総務省説明資料 文化庁掲載PDF](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kyoiku/taikai/r02/pdf/92746701_03.pdf)再取得。表紙・PDF6頁概要と43頁の意識啓発と社会参画支援全本文、43頁画像。Q_1_017の全肢全解説。略の箇所、原プラン全条項・現行補助金要件や効果の実証は未確認。
 
 原バイトSHA256・サイズ・取得範囲はevidence/batch177_sources.json。原資料全体非転載。
+
+
+## 第178バッチ S240 S241 2026-10-19
+
+- S240 [文化庁 文化審議会について](https://www.bunka.go.jp/seisaku/bunkashingikai/about/)原HTML。設置経緯・主な所掌事務・構成表・主な答申一覧本文全体。Q_1_029の全肢全解説。現在の全行政所管・法令全改正や旧稿の歴史評価を独立検証したとはしない。
+- S241 [文化審議会2022年建議原PDF](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93651301_01.pdf)。全63頁のうち、表紙、PDF3～4頁基本的な考え方と分類例、7頁用語の扱い本文・画像、8～10頁本文参照。Q_1_007の全肢全解説。目的・読み手に応じた工夫、外来語の条件別対応、意味保持と正確さ。全63頁精読、別告示全体や介入効果の承認ではない。
+
+原バイトSHA256・サイズ・精読範囲はevidence/batch178_sources.json。旧URL404はbatch178_source_attempts.json。原資料全体非転載。

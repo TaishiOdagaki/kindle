@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S240",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/about/",
+    "bytes": 23894,
+    "sha256": "414ae1f01cf03768d4b905bf61411b428d63b522087818f3712c412c07af8124",
+    "checked": "2026-10-19",
+    "read_scope": "設置の経緯・主な所掌事務・構成表・主な答申一覧の本文全体。リンク先の組織図・名簿や法令原文全改正の確認ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S241",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93651301_01.pdf",
+    "bytes": 2257110,
+    "sha256": "47ad41d2b9ed689215b36aef6656f1d250cb872a74c3cb44b6174cfc4746a8cf",
+    "checked": "2026-10-19",
+    "read_scope": "63頁原PDF。表紙、PDF3～4頁／本文1～2頁の前書き・基本的な考え方・公用文分類例、PDF7頁／本文5頁の用語1～4を精読、7頁画像照合。PDF8～10頁本文も参照。全63頁精読ではない。",
+    "full_source_redistributed": false
+  }
+]
