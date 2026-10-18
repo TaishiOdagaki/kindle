@@ -1,0 +1,28 @@
+[
+  {
+    "source_id": "S179",
+    "url": "https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf",
+    "title": "Common European Framework of Reference for Languages: learning, teaching, assessment",
+    "year": 2001,
+    "read_scope": "再取得。5.2冒頭（108頁）、5.2.1.2の定義と列挙（112–113頁）、5.2.1.4・5.2.1.5本文（116–117頁）、5.2.2冒頭から5.2.2.4末（118–120頁）を精読。118・119頁（PDF127・128頁）を全頁画像照合。5.2.3.1本文も参照したが、本問の4肢には用いない。",
+    "limitations": "全273頁の精読ではない。CEFR2001の説明を用い、別の理論モデルや現在の試験仕様を同一視しない。",
+    "bytes": 1160999,
+    "sha256": "4dcaa6c71acc3ddd504d38c11396b199d61a418d224807ce039e468acdc8b062",
+    "pdf_pages": 273,
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S04",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+    "title": "敬語の指針",
+    "date": "2007-02-02",
+    "read_scope": "再取得。18頁の謙譲語II、22–23頁の立てる人物とウチ扱い、43–44頁の本文を精読。Q22–24は全文、Q25は44頁内まで。43・44頁（今回のPDF46・47頁）を画像照合。会社と学校の例の違いを確認。",
+    "limitations": "今回の取得版は印刷44頁がPDF47頁であり、従来catalog行の2頁差という表記は本取得版へ適用しない。全書精読・現在の慣習頻度の再調査ではない。",
+    "bytes": 613704,
+    "sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+    "pdf_pages": 82,
+    "retrieved": "2026-10-18",
+    "full_source_redistributed": false
+  }
+]

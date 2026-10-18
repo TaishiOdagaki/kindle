@@ -7,7 +7,7 @@
 | S01 | 王秋陽「日本統治時代の台湾における日本語教育―グアン氏言語教授法に関連して」『東アジア研究』9、41–54、2011。[山口大学公開PDF](https://petit.lib.yamaguchi-u.ac.jp/18505/files/152089) | 印刷頁42–43、§2-1。伊沢による台湾語・漢字漢文を媒介とする対訳法と、その後の山口らのグアン法導入を区別。 | 研究論文の本文確認。史料を引用して分析した研究であり、1895年当時の一次史料そのものではない。 | Q_1_006、Q_1_023 |
 | S02 | 出入国在留管理庁 [高度人材ポイント制](https://www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html)、[高度専門職](https://www.moj.go.jp/isa/applications/status/designatedactivities02_00004.html)、[優遇措置](https://www.moj.go.jp/isa/applications/resources/newimmiact_3_preferential_index.html) | 1号の5年と2号の無期限。活動区分別のポイント評価。1号ロ・ハの年収下限の説明を1号イへ一律に広げない。 | 公式検索抜粋確認。ページ/PDF本文取得は403等で失敗。修正後の問題全体は未承認。 | Q_1_013 |
 | S03 | 文化庁 [日本語教育推進法施行通知](https://www.bunka.go.jp/seisaku/bunka_gyosei/shokan_horei/other/suishin_houritsu/1418260.html)、[e-Gov法令](https://laws.e-gov.go.jp/law/501AC1000000048) | 通知の§1（1）～（8）、§2（2）。目的、外国人等の定義、国・地方の責務、政府の措置義務、地方の基本的な方針を確認。 | 公式通知の本文確認。e-Govページからは本文が返らず、現行法全文との突合せは未了。 | Q_1_032、Q_1_033 |
-| S04 | 文化審議会『[敬語の指針](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf)』、2007-02-02 | 第2章の5分類、謙譲語IIとウチ扱い、第2章6（2）（3）の二重敬語・敬語連結、第3章の場面による選択。PDF頁と印刷頁は2頁差。 | 公式答申本文確認。形式上の正しさと文脈での適切さを区別。 | Q_1_031、Q_2_019、Q_2_021、Q_2_023、Q_2_025、Q_4_091 |
+| S04 | 文化審議会『[敬語の指針](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf)』、2007-02-02 | 第2章の5分類、謙譲語IIとウチ扱い、第2章6（2）（3）の二重敬語・敬語連結、第3章の場面による選択。第154バッチ取得版では印刷44頁がPDF47頁であることを画像照合。 | 公式答申本文確認。形式上の正しさと文脈での適切さを区別。 | Q_1_031、Q_2_019、Q_2_021、Q_2_023、Q_2_025、Q_4_091 |
 | S05 | 文部科学省『[令和8年度日本語教員試験実施要項](https://www.mext.go.jp/content/20260206-mxt_nihongo02-000036014_1.pdf)』、2026-02-06 | 1頁の構成表：基礎120分100問、応用読解100分60問・聴解50分程度50問。2頁の合格基準と年度難易差調整。 | 公式PDF全2頁の本文確認。 | 前付け・模試の本番形式説明（前付け改訂未適用） |
 | S06 | 文部科学省 [日本語教育](https://www.mext.go.jp/a_menu/01_p.htm) | 冒頭の説明。2024年4月から文化庁所管の日本語教育が文部科学省へ移管。 | 公式本文確認。旧文化庁の資料名・策定当時の主体は機械的に置換しない。 | Q_1_019、前付けの現在の参照先 |
 | S07 | 日本語教育振興協会 [協会概要](https://www.nisshinkyo.org/about/index.html)、[パンフレット](https://www.nisshinkyo.org/about/pdf/pamphlet-j.pdf) | 1989年5月の任意団体設立、同年の日本語教育施設の審査・認定開始。 | 公式検索抜粋確認。PDFは画像主体で本文抽出0行。原図の目視による最終確認は未実施。 | Q_1_027 |
@@ -802,3 +802,10 @@ Council of Europe [Compass — Using Compass for human rights education](https:/
 
 - S217 James Cummins（1976年4月）[The Influence of Bilingualism on Cognitive Growth: A Synthesis of Research Findings and Explanatory Hypotheses](https://files.eric.ed.gov/fulltext/ED125311.pdf)、Working Papers on Bilingualism No.9、ERIC ED125311。44頁PDF取得。書誌・標題・要旨、印刷20–27頁（PDF21–28頁）の全本文を連続精読。印刷20・23・24・27頁を画像照合。Q_2_003の設問・4肢・4解説に用いた。23頁の媒介変数、24頁の絶対的な閾値の否定と変動条件、27頁の仮説の限界、20頁が紹介する加算/減算の区別に限定する。歴史的仮説を現在の確定的な因果法則や個人の知的能力診断として扱わない。引用先のLambert原著・個別実験は未独立取得であり、その再検証を承認したものではない。現在の呼称普及度の旧記述も根拠未確認のため撤回。取得ファイルの全44頁精読ではない。
 - 原バイトSHA256と読了範囲はevidence/batch153_sources.json。原PDFは転載しない。
+
+
+## 第154バッチ S04・S179追加照合（2026-10-18）
+
+- S179 [CEFR2001公式PDF](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16802fc1bf)を再取得。5.2冒頭（108頁）、5.2.1.2の定義・列挙（112–113頁）、5.2.1.4–5.2.1.5本文（116–117頁）、5.2.2冒頭から5.2.2.4末（118–120頁）を精読。118・119頁（PDF127・128頁）を画像照合。Q_O_012の4肢・4解説へ使用。文法・音韻・正書法の焦点と社会的関係に応じた言葉遣いを区別。全273頁精読やCanale/Swain原著取得を意味しない。
+- S04 [敬語の指針](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf)を再取得。18頁・22–23頁・43–44頁を本文精読し、43・44頁（今回のPDF46・47頁）を画像照合。会社内外のウチ扱い、学校の呼称との違い、謙譲語IIを現行ケースへ照合。今回の取得版のページ対応をcatalogへ明記。全書精読・現在の慣習頻度の再調査ではない。
+- URL、原バイトSHA256、読了範囲と限界はevidence/batch154_sources.json。原PDFは転載しない。

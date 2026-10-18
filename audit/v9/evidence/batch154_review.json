@@ -1,0 +1,72 @@
+{
+  "batch": 154,
+  "base_remote_commit": "bf6f26a8ab16aa9333d4588bb6b2b7f9a1e27c78",
+  "fully_rejudged": [
+    "Q_O_012"
+  ],
+  "decision_rows_updated": [
+    "Q_O_012"
+  ],
+  "edits": 7,
+  "case_changed": false,
+  "independent_answers": {
+    "Q_O_012": 2
+  },
+  "sources": [
+    "S04",
+    "S179"
+  ],
+  "status_counts": {
+    "確認済み": 365,
+    "修正必要": 3,
+    "要追加確認": 132
+  },
+  "remaining": 135,
+  "machine_warnings": 107,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_O_012",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "new_warning_review": "P1 false positive on the limitation about quoting an interlocutor; the correct option itself is not negated. Warning retained.",
+  "readiness_gate": "8 cases passed; replacement regression 4 conditions passed",
+  "render_pages": 407,
+  "visually_reviewed_pages": [
+    143,
+    348
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      143
+    ],
+    "1": [
+      143
+    ],
+    "2": [
+      143
+    ],
+    "3": [
+      348
+    ],
+    "4": [
+      348
+    ],
+    "5": [
+      348
+    ],
+    "6": [
+      348
+    ]
+  },
+  "docx_sha256": "f7039c0a3e41c989e99b0c4eeabfd7387101b42ddaa32109d39eef5eda200d3d",
+  "pdf_sha256": "3a34e6985ace43cf69b6b3d22e255abcdc896cc5b4b56f0791768900719c85e9",
+  "page_sha256": {
+    "143": "bc9983658d8e4ed214b3678167c20223b74ec7c30e553bd74bf3b596075e1e2b",
+    "348": "c3a764ae62c52814159a37a70c9b5d1d177528283e313095da49f3b9fdcb7be9"
+  },
+  "font_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
