@@ -1,0 +1,122 @@
+{
+  "batch": 174,
+  "base_remote_commit": "b20449841d9ec5f37c3ada56b2bce103036d0809",
+  "fully_rejudged": [
+    "Q_3_030",
+    "Q_3_032"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_3_030": 4,
+    "Q_3_032": 1
+  },
+  "sources": [
+    "S235"
+  ],
+  "status_counts": {
+    "確認済み": 407,
+    "修正必要": 2,
+    "要追加確認": 91
+  },
+  "remaining": 93,
+  "machine_warnings": 127,
+  "new_warnings": [
+    [
+      "P1",
+      "Q_3_030",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ],
+    [
+      "P1",
+      "Q_3_032",
+      "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 3, 4]"
+    ],
+    [
+      "V1",
+      "表記ゆれ",
+      "{'ハネムーン期': 2, '蜜月期': 4}"
+    ]
+  ],
+  "replaced_warnings": [
+    [
+      "V1",
+      "表記ゆれ",
+      "{'ハネムーン期': 3, '蜜月期': 4}"
+    ]
+  ],
+  "regressions": "readiness8; replacement4",
+  "render_pages": 353,
+  "visually_reviewed_pages": [
+    41,
+    42,
+    213,
+    214
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      41
+    ],
+    "1": [
+      41
+    ],
+    "2": [
+      41
+    ],
+    "3": [
+      41
+    ],
+    "4": [
+      41
+    ],
+    "5": [
+      214
+    ],
+    "6": [
+      214
+    ],
+    "7": [
+      214
+    ],
+    "8": [
+      214
+    ],
+    "9": [
+      42
+    ],
+    "10": [
+      42
+    ],
+    "11": [
+      42
+    ],
+    "12": [
+      42
+    ],
+    "13": [
+      42
+    ],
+    "14": [
+      214
+    ],
+    "15": [
+      214
+    ],
+    "16": [
+      214
+    ],
+    "17": [
+      214
+    ]
+  },
+  "docx_sha256": "9976d9f69fda06c3b069b6c1381b58649ac1899c1737024d6cf53a8fa120ec0a",
+  "pdf_sha256": "7a199fd00bee7097a2c663b9a537c330b688c782735f8abe4bc42c6b95acab36",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "page_sha256": {
+    "41": "14f3b6f68b9dea00b783a2650a033de07de4f008a2d8995140a35e9094384873",
+    "42": "0535198fea64d979df6f3be99ade393f6111c852e4d9f6ab0091a62f61ee5f3e",
+    "213": "297e3adeef47e6c7f2569ad62462fd6cc1e3c23634c809a093bd2a2c88a67e91",
+    "214": "7ec64df0a34f508addd710e42d04ff753c2a2230638662b244d1eae05c79267b"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

@@ -935,3 +935,8 @@ Q_3_009・010・011の全肢全解説を対応。取得原バイトのSHA256・�
 - S234 [Bennett2017 DMIS 著者本文](https://www.idrinstitute.org/wp-content/uploads/2019/02/DMIS-IDRI.pdf)。著者研究所が2017年百科事典項目として公開する8頁PDF。1～7頁本文、4～5頁画像。連続体上の6位置、非必然的進行、受容と同意の区別、防衛の逆転型、統合の自己のあり方、測定・批判の記述。1986原著・IDI全項目・全引用先の確認ではない。
 
 Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はevidence/batch173_sources.json。原資料全体非転載。
+
+
+## 第174バッチ S235 2026-10-19
+
+[S235 Oberg原著のcurare2006再録](https://project-tree.net/wp-content/uploads/2019/10/Cultural_Shock_Adjustment_to_new_cultura.pdf)。全5頁の英語本文・再録注記を精読、142～143頁を画像照合。本文の出典注記はPractical Anthropology7:177–182(1960)。日常の合図、影響の個人差、第2段階の生活上の困難、自己のやり方を捨てない理解をQ_3_030・032の全肢全解説に対応した。1960原誌との全字比較、1954講演、Lysgaard原著、現在の医学的診断基準を取得したとはしない。病理的比喩や性別・国籍の一般化を現行知見として承認しない。取得原バイトSHA256と範囲はevidence/batch174_sources.json。原資料全体非転載。
