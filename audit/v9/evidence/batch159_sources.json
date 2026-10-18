@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "S129",
+    "url": "https://kilmanndiagnostics.com/a-brief-overview-tki/",
+    "title": "Ralph Kilmann, A Brief Overview of the Thomas-Kilmann Instrument",
+    "retrieved": "2026-10-18",
+    "read_scope": "公開HTML本文195–212行の二軸定義、全5様式、譲歩・中間案、全様式の利用可能性と状況依存性を精読。",
+    "limitations": "共同開発者自身による定義説明の一次資料。1974年初版用紙・原マニュアルや妥当性実験を取得・承認したものではない。本文非転載。",
+    "full_source_redistributed": false,
+    "bytes": 201811,
+    "sha256": "4b41eea6877321b783cad18719421f7568c0a87e0c690ed43e9fb208fb5b0ca7",
+    "acquisition": "HTTPS HTML原バイト取得成功。Web取得本文とも照合。"
+  },
+  {
+    "source_id": "S213",
+    "url": "https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c",
+    "original_acquisition_record": "evidence/batch157_sources.json",
+    "revalidated": "2026-10-18",
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "bytes": 4154359,
+    "pdf_pages": 89,
+    "read_scope": "29–32・51–53頁本文を再精読、51–52頁（PDF53–54頁）を1800px全頁画像照合。",
+    "limitations": "取得済み原本の再検証。全89頁通読、国籍別価値観や授業効果の実証ではない。原PDF非転載。",
+    "full_source_redistributed": false
+  }
+]

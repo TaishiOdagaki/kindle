@@ -829,3 +829,8 @@ S30 Richard W. Schmidt（1990）[The Role of Consciousness in Second Language Le
 ## 第158バッチ S213の原本再検証とS179取得保留（2026-10-18）
 
 S213 [RFCDC第1巻（2018年）](https://rm.coe.int/prems-008318-gbr-2508-reference-framework-of-competences-vol-1-8573-co/16807bc66c)の取得済み原PDFをGitHub第157バッチのバイト数・SHA256と照合し一致。今回の再取得はタイムアウトのため、新規取得成功とは記録しない。29–32頁本文を精読、29・30頁（PDF31・32頁）を全頁画像照合。Q_1_003の全4肢・4解説を、複数帰属・主観的重要さの変動・文化集団の多様性へ対応。未取得理論や同化の頻度・言語習得の因果効果を承認しない。全89頁精読ではない。evidence/batch158_sources.jsonに原本再検証と範囲を記録。原PDF非転載。S179 CEFR2001は必要本文の再取得・画像確認に失敗、Q_2_032の要追加確認を維持。evidence/batch158_source_attempts.json参照。
+
+
+## 第159バッチ S129再取得とS213追加照合（2026-10-18）
+
+S129 [共同開発者KilmannのTKI解説](https://kilmanndiagnostics.com/a-brief-overview-tki/)の二軸・全5様式・譲歩と中間案・状況依存性の本文を再取得して精読。Q_O_061・062の全4肢と4解説を照合。1974年原マニュアル・心理測定資料の取得とは区別。S213 [RFCDC第1巻](https://rm.coe.int/16807bc66c)は取得済み原PDFを第158バッチのSHA256とサイズへ照合し一致、29–32・51–53頁を再精読、51–52頁を画像照合。Q_O_063–065と架空ケースの目標の根拠、Q_O_062の省察のための一時休止の区別に用いた。授業効果、国籍別傾向、原書全頁精読を承認したものではない。evidence/batch159_sources.json参照。本文非転載。
