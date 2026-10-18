@@ -956,3 +956,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S239 [文化庁 消滅の危機にある言語・方言](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/kikigengo/)の本文・8言語と危機度一覧・注記・事業一覧を取得精読。文化庁が紹介する2009年発表資料の掲載をQ_2_010の全肢全解説へ対応。UNESCO Atlas原本文・最新話者数・全危機言語を独立検証したとはしない。
 
 原バイトSHA256と範囲はevidence/batch176_sources.json。原資料全体非転載。
+
+
+## 第177バッチ S72 S188追加照合 2026-10-19
+
+- S72 [常用漢字表告示原PDF](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf)再取得。第1頁前書き1～5・表の見方1～6本文と画像、第2頁本文。Q_1_030の全肢全解説。読み書きの容易さから字数増を説明する推測、手書き不要の一般化を撤回。全164頁精読、改定原因・教育漢字・別告示の現代仮名遣いの承認ではない。
+- S188 [総務省説明資料 文化庁掲載PDF](https://www.bunka.go.jp/seisaku/kokugo_nihongo/kyoiku/taikai/r02/pdf/92746701_03.pdf)再取得。表紙・PDF6頁概要と43頁の意識啓発と社会参画支援全本文、43頁画像。Q_1_017の全肢全解説。略の箇所、原プラン全条項・現行補助金要件や効果の実証は未確認。
+
+原バイトSHA256・サイズ・取得範囲はevidence/batch177_sources.json。原資料全体非転載。

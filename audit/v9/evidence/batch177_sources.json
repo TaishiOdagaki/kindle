@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S72",
+    "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf",
+    "bytes": 3551021,
+    "sha256": "d9f28aeb4ce8250dbde07de20ac66cca71805ba09d94e4942c752dffa84d8d42",
+    "checked": "2026-10-19",
+    "read_scope": "原164頁PDF。第1頁の前書き1～5、表の見方1～6を本文・画像で照合、第2頁の説明も参照。全164頁精読ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S188",
+    "url": "https://www.bunka.go.jp/seisaku/kokugo_nihongo/kyoiku/taikai/r02/pdf/92746701_03.pdf",
+    "bytes": 3245064,
+    "sha256": "a85b4cc30926a42c179ff023ad195df80121ae31c960ad85f7a48a36dd17016b",
+    "checked": "2026-10-19",
+    "read_scope": "原60頁PDF。表紙、PDF6／印刷5頁の改訂概要、PDF43／印刷42頁の意識啓発と社会参画支援全本文を精読、PDF43頁画像照合。略と示された原プランの省略箇所や全60頁の精読ではない。",
+    "full_source_redistributed": false
+  }
+]
