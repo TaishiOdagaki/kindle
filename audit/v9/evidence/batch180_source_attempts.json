@@ -1,0 +1,6 @@
+[
+  {
+    "url": "https://www.th.gov.tw/Epaper_Content/236/7518/",
+    "result": "Web openはsys-rootのみで本文抽出なし。別途urllibで92184バイト原HTML取得、template内の記事本文全体を精読。検索抜粋・JSON-LDのみで承認していない。"
+  }
+]

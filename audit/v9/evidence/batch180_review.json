@@ -1,0 +1,114 @@
+{
+  "batch": 180,
+  "base_remote_commit": "30ae4d9a1a405bbc7f0ce9e30ce4b3a464321c04",
+  "fully_rejudged": [
+    "Q_1_006",
+    "Q_O_001"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_1_006": 4,
+    "Q_O_001": 1
+  },
+  "sources": [
+    "S242",
+    "S244"
+  ],
+  "status_counts": {
+    "確認済み": 421,
+    "修正必要": 0,
+    "要追加確認": 79
+  },
+  "remaining": 79,
+  "machine_warnings": 134,
+  "new_warnings": [
+    [
+      "D2",
+      "Q_1_006",
+      "解説の並びが入れ替わっている疑い (1, 2, 4, 3)"
+    ],
+    [
+      "P1",
+      "Q_1_006",
+      "(正)4の解説が否定で終わる/肯定の(誤)がある: [1, 2, 3]"
+    ]
+  ],
+  "regressions": "readiness8; replacement4; block-context",
+  "render_pages": 354,
+  "visually_reviewed_pages": [
+    7,
+    118,
+    179,
+    298,
+    299
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      7
+    ],
+    "1": [
+      7
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      7
+    ],
+    "4": [
+      7
+    ],
+    "5": [
+      179
+    ],
+    "6": [
+      179
+    ],
+    "7": [
+      179
+    ],
+    "8": [
+      179
+    ],
+    "9": [
+      118
+    ],
+    "10": [
+      118
+    ],
+    "11": [
+      118
+    ],
+    "12": [
+      118
+    ],
+    "13": [
+      118
+    ],
+    "14": [
+      298
+    ],
+    "15": [
+      299
+    ],
+    "16": [
+      299
+    ],
+    "17": [
+      299
+    ]
+  },
+  "docx_sha256": "5fc0bd8bf3adb8a1e579b6a8e541d5767c47e7f288fd03e3973278de85a963b3",
+  "pdf_sha256": "95b70e61d17e80bb2b6dcfbf28fe4fc58017e103415d4148a51397b98ba1f8bd",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "page_sha256": {
+    "7": "4f38ac4f2dc91a16e503a1b7df76524a80f0cb2996fe13fcdb8b53c3065f054f",
+    "118": "7d0d6ed88482767a0b0002b7979714a1db6aad47b9284b1b0c275e23b678fbd3",
+    "179": "1c3d5e37b90ea95c839a5c7863ebcdd3a1a8629c2225fd69649a87e36d0c2a83",
+    "298": "f89cbdf43a882b8ee406b0dc3b08b144321196d69e8889c3b2d383d4a7709179",
+    "299": "595436e67cbedb1c3128e50088f40d062254c2af69a4e4c1d0011144fe8336f0"
+  },
+  "image_retry": "299頁の最初の表示に一部欠落の疑い、同バイトの再表示でも異常。最終PDFからpdftoppmで別PNGを生成し、正誤タグと全本文が正常なことを直接確認。299頁ハッシュはこの再生成画像。",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

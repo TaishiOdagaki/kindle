@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "S242",
+    "url": "https://elearning.usm.md/pluginfile.php/190241/mod_resource/content/2/Larsen-freeman%203rd%20ed_techniques-in-language-teaching.pdf",
+    "title": "Larsen-Freeman and Anderson 2011 Techniques and Principles in Language Teaching third edition",
+    "checked": "2026-10-19",
+    "bytes": 2795276,
+    "sha256": "fb8071d46ae8d93f3b133c3c16ecea668af8b6d8ef54eaf2b437120b8d46ba55",
+    "read_scope": "直接法PDF52～53、文法訳読法39～40、デサジェストペディア110、CLL127～128頁。39・52・110・127頁画像。全書・引用先原典の精読ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S244",
+    "url": "https://www.th.gov.tw/Epaper_Content/236/7518/",
+    "title": "國史館臺灣文獻館 2013-09-30 電子報114 臺灣總督府首任學務部長伊澤修二來臺推展日語教育",
+    "checked": "2026-10-19",
+    "bytes": 92184,
+    "sha256": "898e5694e99b4b96926e0e09fe82d86787d48fc0ec1b9e1a386e7b337f02eb55",
+    "read_scope": "HTML template内の記事本文全体。2013年の公的史料機関の解説。引用された1895年原史料全冊・任命画像は未取得。",
+    "full_source_redistributed": false
+  }
+]

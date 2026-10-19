@@ -980,3 +980,11 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S243 [欧州評議会CEFR公式概念説明](https://www.coe.int/en/web/common-european-framework-reference-languages/plurilingualism-and-pluriculturalism)。Web openで概念説明本文3段落全体を取得・精読。Q_2_032の全肢全解説。HTML原バイト・CEFR2020本体PDFは直接取得403で未取得、本文取得と原バイト保存を区別。CEFR2001/2020の全原典・別のトランスランゲージング論文の承認ではない。
 
 原PDFのSHA256・サイズ・精読範囲、HTML整形本文の取得方法はevidence/batch179_sources.json。403はbatch179_source_attempts.json。原資料全体非転載。
+
+
+## 第180バッチ S242 S244 2026-10-19
+
+- S242 [Larsen-Freeman Anderson2011年第3版原著書PDF](https://elearning.usm.md/pluginfile.php/190241/mod_resource/content/2/Larsen-freeman%203rd%20ed_techniques-in-language-teaching.pdf)。再取得SHA256一致。直接法PDF52～53、文法訳読法39～40、デサジェストペディア110、CLL127～128頁本文、39・52・110・127頁画像。Q_O_001の全肢全解説を母語・翻訳利用の原則で区別。引用先原典・脳機能・促進効果の承認ではない。
+- S244 [國史館臺灣文獻館2013-09-30電子報114期の伊沢修二と日本語教育の解説](https://www.th.gov.tw/Epaper_Content/236/7518/)。原HTML取得、template内の記事本文全体を精読。Q_1_006全肢全解説を場所選定・対象・内容・学務部活動に限定。公的史料機関の2013年解説と1895年原史料全冊の取得を混同しない。旧稿の松本・満州・教授法分類等の未照合主張は撤回。
+
+原資料サイズ・SHA256・範囲はevidence/batch180_sources.json、本文抽出失敗と代替本文取得の区別はbatch180_source_attempts.json。原資料全体非転載。
