@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://pure.mpg.de/rest/items/item_64421/component/file_2225570/content",
+    "result": "Web open403。一方、同一URLへの通常の直接ダウンロードは1374070バイトの14頁PDFで成功。認証操作・保護回避なし。取得本文スキャンを全頁確認。"
+  },
+  {
+    "url": "https://pure.mpg.de/pubman/item/item_58246_4/component/file_2628453/Brown_%2BLinguistic%2BPoliteness.pdf",
+    "result": "Web open・通常直接取得403。別章Linguistic Politenessの本文取得済みとはしない。"
+  }
+]

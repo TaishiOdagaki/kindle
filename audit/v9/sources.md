@@ -995,3 +995,8 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 [Paul Nation原著書 What Should Every ESL Teacher Know? 無料公開PDF](https://wjcompass.com/userfiles/downloads/20130213132738_DW11.pdf)、[出版社の商品説明](https://www.compasspub.com/eng/compass/level_view.asp?h_seq=1721)。現物192頁。印刷/PDF12～15・23～25頁本文、12・13・14・25頁画像。Q_4_027・Q_4_030・Q_O_006・Q_O_007の全肢全解説とケース2の必要性／利用時間の指定部分を照合。大学公開稿S197と同一著作だが原バイトハッシュ・サイズは異なり、出版社240p表示とも区別。既有知識もニーズの観点であること、環境要因、交渉・実現可能性、継続分析を確認。全書・引用先2000年論文、Hutchinson/Waters1987本文、国内施策、効果の検証ではない。
 
 原資料サイズ・SHA256・範囲はevidence/batch181_sources.json。410・403・章要約しか得ていない資料はbatch181_source_attempts.json。原資料全体非転載。
+
+
+## 第182バッチ S245 2026-10-19
+
+[Brown・Levinson1987原著の再録抜粋公開PDF](https://pure.mpg.de/rest/items/item_64421/component/file_2225570/content)。The Discourse Reader第2版Chapter22、再録本文311～322頁冒頭、編集者付録322～323頁、標題頁を含む14頁スキャン。全頁画像・OCR補助で精読。8問の全肢全解説を著者本文のフェイス定義、FTA、図22.1、直接性の条件、慣習化した間接性、三要因と評価差へ対応。ケース12は分析の適用であり内心・反応・教育効果の実証でない。編集者付録と原著本文を区別し、付録のGrice分類等は今回の承認根拠に使わない。原著全巻や後続批判原典は未取得。原資料サイズ・SHA256・範囲はevidence/batch182_sources.json。Web open403と通常直接取得成功の区別、別章の403はbatch182_source_attempts.json。原PDF・OCR全文は非転載。
