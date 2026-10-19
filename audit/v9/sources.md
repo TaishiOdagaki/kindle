@@ -1016,3 +1016,14 @@ S248 [静岡県 地域日本語教育体制構築事業](https://www.pref.shizuo
 ## 第184バッチ S249 2026-10-19
 
 S249 [CMU Eberly Center Teaching Portfolios](https://www.cmu.edu/teaching/resources/teachingportfolios/index.html)。公式ページ本文取得。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsをQ_M_021の全肢全解説へ照合。単なる無選別の蓄積と区別し、選択・根拠・省察・文脈説明と研修参加／影響の違いを反映。原著の起源・全大学の制度・実証効果を承認しない。推薦原著は全文未取得。原資料非転載。取得ハッシュと範囲はevidence/batch184_sources.json。
+
+
+## 第185バッチ S250 S251 S252 2026-10-19
+
+S250 [Yale Poorvu Center Classroom Seating Arrangements](https://poorvucenter.yale.edu/teaching/teaching-resource-library/classroom-seating-arrangements)。本文の各配置、活動と目標への整合、固定席での隣同士の活動。参照研究の原著未取得で因果効果・語学授業効果を実証したとの承認ではない。仮想教室の節も読んだがZoom現行仕様の根拠にしない。
+
+S251 [ASQ Plan Do Check Act Cycle](https://asq.org/quality-resources/pdca-cycle)。本文の4段階と継続的反復、Checkの分析と学び、Actの学びの活用を照合。Pearl River事例は読んだが全教育プログラムへの効果保証にしない。The Quality Toolbox原著全文未取得。
+
+S252 [The W Edwards Deming Institute PDSA Cycle](https://deming.org/explore/pdsa/)。本文のPlan Do Study ActとPDSA and PDCA節。StudyをCheckと同一展開語にせず、ASQのCheckにも分析と学びがある説明を保持。Deming本人の原著全文やリンク先論文は今回未取得で起源史を承認しない。
+
+各公式ページ本文を取得・精読し、Q_4_018・Q_M_023とQ_M_022の全肢全解説へ照合。検索抜粋だけの承認ではない。原資料全体非転載。サイズ・SHA256・範囲はevidence/batch185_sources.json。

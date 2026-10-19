@@ -4,9 +4,9 @@
   "v8_unchanged": true,
   "answers_unchanged": true,
   "unmodified_questions_unchanged": true,
-  "changed_questions": 432,
+  "changed_questions": 435,
   "case_replacements": 25,
-  "replacements": 3741,
+  "replacements": 3768,
   "issues": [
     [
       "S2",
@@ -640,6 +640,11 @@
     ],
     [
       "P1",
+      "Q_M_023",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ],
+    [
+      "P1",
       "Q_M_028",
       "(正)1の解説が否定で終わる/肯定の(誤)がある: [2, 4]"
     ],
@@ -765,8 +770,8 @@
     "正解の長さ順位(0=最長)": {
       "0": "278 (56%)",
       "1": "138 (28%)",
-      "2": "51 (10%)",
-      "3": "33 (7%)"
+      "2": "52 (10%)",
+      "3": "32 (6%)"
     }
   },
   "full_visual_qa_completed": false,

@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "S250",
+    "title": "Yale Poorvu Center Classroom Seating Arrangements",
+    "url": "https://poorvucenter.yale.edu/teaching/teaching-resource-library/classroom-seating-arrangements",
+    "checked": "2026-10-19",
+    "bytes": 97901,
+    "sha256": "271712843c59126764f27a9ede457a08463677fe7457e00c3d029ce38d31c6e0",
+    "body_read": "本文の各配置、活動と目標への整合、固定席での隣同士の活動。参照研究の原著未取得で因果効果・語学授業効果を実証したとの承認ではない。仮想教室の節も読んだがZoom現行仕様の根拠にしない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S251",
+    "title": "ASQ Plan Do Check Act Cycle",
+    "url": "https://asq.org/quality-resources/pdca-cycle",
+    "checked": "2026-10-19",
+    "bytes": 69500,
+    "sha256": "edddb4313595615ccc7a7eeffef5615fb556024616b07e01513455191d433a40",
+    "body_read": "本文の4段階と継続的反復、Checkの分析と学び、Actの学びの活用を照合。Pearl River事例は読んだが全教育プログラムへの効果保証にしない。The Quality Toolbox原著全文未取得。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S252",
+    "title": "The W Edwards Deming Institute PDSA Cycle",
+    "url": "https://deming.org/explore/pdsa/",
+    "checked": "2026-10-19",
+    "bytes": 495958,
+    "sha256": "c06956c4bf62724a2bd57fda4de941a0439eb0f4f4ac50dbae061669f00f6bac",
+    "body_read": "本文のPlan Do Study ActとPDSA and PDCA節。StudyをCheckと同一展開語にせず、ASQのCheckにも分析と学びがある説明を保持。Deming本人の原著全文やリンク先論文は今回未取得で起源史を承認しない。",
+    "full_source_redistributed": false
+  }
+]

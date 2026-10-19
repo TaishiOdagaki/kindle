@@ -53697,5 +53697,416 @@
     "before_version": "第183バッチ後",
     "block_context": "A_M_021",
     "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "stem",
+    "index": null,
+    "before": "語学教室におけるデスクやチェアーの配置（空間設定）とその特徴の組み合わせとして、最も適切なものを一つ選びなさい。",
+    "after": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_4_018"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "options",
+    "index": 0,
+    "before": "スクール型（一斉授業型）配置 ── 学習者同士の顔が見えやすく、ペアワークやグループワークへの移行が最も容易である。",
+    "after": "列型の固定席では全員が互いに向き合うため、教師の方を向く配置とは区別される。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_4_018",
+    "stem_context": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "options",
+    "index": 1,
+    "before": "サークル型（円形）配置 ── 学習者間の心理的距離を遠ざけ、権威主義的な緊張感を高める効果がある。",
+    "after": "円卓型は互いの顔が見えない構造なので、全体での対話にも隣同士の対話にも使えない。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_4_018",
+    "stem_context": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "options",
+    "index": 2,
+    "before": "島型（グループ型）配置 ── 小グループでの協働学習や協調学習に適しているが、教師への注視や全体への集中が削がれやすい側面がある。",
+    "after": "グループ型やペア型の配置は、授業時間の多くを共同作業に充てる場合の選択肢となる。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_4_018",
+    "stem_context": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "options",
+    "index": 3,
+    "before": "馬の蹄型（U字型）配置 ── 教師と全員の視線が合いやすく、板書を中心とした教師主導の講義スタイルに最も特化している。",
+    "after": "U字型は前方の教材を投影して議論する活動には使えないため、ガイドはその用途を除外する。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_4_018",
+    "stem_context": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "explanations",
+    "index": 0,
+    "before": "スクール型（前方を向く配置）は板書や教師に集中しやすい反面、学習者の後頭部しか見えないため、学習者同士のやり取りやペア・グループワークへの迅速な移行には不向きです。",
+    "after": "同ガイドの列型は、学習者が教師の方を向き、互いには背を向ける配置です。固定席であっても、隣同士で行う活動を取り入れる案は別途示されています。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_4_018",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "explanations",
+    "index": 1,
+    "before": "サークル型（円形）は全員がフラットに対面するため、過度な緊張感を和らげ、対等で開かれたコミュニケーションやラポール形成を促進する効果があります。",
+    "after": "同ガイドの円卓型では教師と学習者が互いに向き合います。全体での対話や相手と組んでの対話を支える配置として説明されています。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_4_018",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "explanations",
+    "index": 2,
+    "before": "島型（数人で机を囲む配置）はグループ内の相互交渉に非常に適していますが、前方（黒板や教師）を向く際に体をひねる必要があり、一斉説明時の集中に課題が出ることがあります。",
+    "after": "同ガイドのGroup and Pair Podsの用途に対応します。座席配置は授業の活動や目標に合わせて選び、必要に応じて変えるという推奨と合わせて理解します。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_4_018",
+    "paragraph_prefix": "3（正）"
+  },
+  {
+    "id": "Q_4_018",
+    "field": "explanations",
+    "index": 3,
+    "before": "U字型は学習者同士やお互いの顔が見えやすく、全体での議論やコミュニケーション活動に向いていますが、「教師主導の一斉講義に最も特化している」わけではありません（一斉講義向けはスクール型です）。",
+    "after": "同ガイドのHorseshoe or Semicircleは、前方の教材を投影しながら議論する場合にも適する配置として説明されています。その用途を除外する記述は逆です。",
+    "reason": "S250 Yale Poorvu Center公式Classroom Seating Arrangements本文を取得。各配置の説明とAlign Arrangement with Activity、Be Intentional about Engagementを全肢全解説へ照合。旧稿の円形配置による緊張緩和・ラポール形成の一律効果、島型の集中低下を根拠不足のまま承認せず、大学ガイドの用途説明に限定。引用研究原著は未取得で因果効果の実証には用いない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_4_018",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "stem",
+    "index": null,
+    "before": "教室に電子黒板やタブレット等のICT機器を導入する際、物理的な環境設定として配慮すべき点として最も適当なものを選べ。",
+    "after": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_023"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "options",
+    "index": 0,
+    "before": "機器を導入すれば教室環境への配慮は一切不要になる",
+    "after": "投影機器を置けば活動と座席配置の関係を考える必要はなくなるので、授業の目標は配置の検討から外す。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_023",
+    "stem_context": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "options",
+    "index": 1,
+    "before": "機器の配置が学習者同士の対話やグループ活動の妨げにならないよう工夫する",
+    "after": "U字型や半円型を候補にし、前方の教材の投影と参加者間の議論という活動に合わせて配置を検討する。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_023",
+    "stem_context": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "options",
+    "index": 2,
+    "before": "ICT機器の導入は言語環境の設定とは無関係である",
+    "after": "U字型は学習者間の議論を妨げるための配置なので、教材の議論を行わないことを目的に採用する。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_023",
+    "stem_context": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "options",
+    "index": 3,
+    "before": "ICT機器は教室の中央に固定し、グループ活動など他の活動は一切できないようにする",
+    "after": "固定席の教室では隣同士で行う活動もできないため、配置を動かせなければペアで考える活動をすべて取りやめる。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_023",
+    "stem_context": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "explanations",
+    "index": 0,
+    "before": "機器の導入によっても、座席配置等の環境設定への配慮は引き続き必要とされる。",
+    "after": "同ガイドは、座席配置を授業の目標や活動に合わせることを推奨しています。投影機器の存在を理由に、その検討を不要とする案は合いません。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_023",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "explanations",
+    "index": 1,
+    "before": "機器の配置によっては学習者同士の対話やグループ活動の妨げになる可能性があり、活動の目的に応じた配置の工夫が求められる。",
+    "after": "同ガイドは、U字型や半円型について、参加者間の議論と前方の教材の投影を扱っています。指定された活動に応じて候補とする案であり、特定機器の導入効果を保証する判断ではありません。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_023",
+    "paragraph_prefix": "2（正）"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "explanations",
+    "index": 2,
+    "before": "ICT機器の配置も教室・言語環境の設定に関わる要素の一つとして検討される。",
+    "after": "同ガイドは、U字型を学習者同士や教師との議論を促す配置として説明しています。議論を妨げることを採用目的とする案は、その説明と逆です。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_023",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_M_023",
+    "field": "explanations",
+    "index": 3,
+    "before": "機器の配置を固定し他の活動を制限することは、多様な活動を行う教室運営の観点から望ましいとは言えない。",
+    "after": "同ガイドは、配置を変えられない列型の教室でも、隣同士で行うThink-Pair-Shareなどの活動を挙げています。固定席であることだけで相互活動を全面的に排除する案は合いません。",
+    "reason": "S250同公式ガイド本文を取得。U字・半円の投影と議論、活動目標に合わせた配置、固定席でも隣同士のThink-Pair-Shareが可能との説明を全肢全解説へ照合。同じICTを含む教室環境の領域で、投影と議論という活動を明示。特定機器・サービスの現行仕様や導入効果の保証は問わない。",
+    "sources": [
+      "S250"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_023",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "stem",
+    "index": null,
+    "before": "教育プログラムの改善サイクルとして知られる「計画→実行→評価→改善」を繰り返す考え方を指す用語として最も適当なものを選べ。",
+    "after": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_022"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "options",
+    "index": 0,
+    "before": "PDCAサイクル",
+    "after": "変更を計画して小規模に試し、結果を分析して学んだことを確かめ、それに基づいて対応し、次の改善へつなげる。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_022",
+    "stem_context": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "options",
+    "index": 1,
+    "before": "CLIL（内容言語統合）",
+    "after": "Checkは変更を試す前だけに行い、試行後の結果の分析はPDCAの手順には含めない。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_022",
+    "stem_context": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "options",
+    "index": 2,
+    "before": "PPP（提示・練習・産出）",
+    "after": "Actでは試行から学んだ内容を使わず、変更がうまくいかなかった場合も同じ計画だけを繰り返す。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_022",
+    "stem_context": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "options",
+    "index": 3,
+    "before": "TBLT（タスク中心）",
+    "after": "PDCAは一度だけで終了する手順であり、結果を使って新しい改善を計画したりサイクルを繰り返したりしない。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "Q_M_022",
+    "stem_context": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "explanations",
+    "index": 0,
+    "before": "計画・実行・評価・改善を繰り返しながら継続的に改善を図る考え方を「PDCAサイクル」と呼び、教育プログラムの運営・改善にも応用される。",
+    "after": "ASQは、Planで変更を計画し、Doで小規模に試し、Checkで試行結果を検討・分析して学びを確かめ、Actでそれに基づき対応すると説明しています。継続的な改善のために繰り返す手順です。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_022",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "explanations",
+    "index": 1,
+    "before": "CLILは内容言語統合型学習を指す用語である。",
+    "after": "ASQのCheckは、試行の結果を検討し、分析して学んだことを確かめる段階です。試行前だけに限定し、その後の分析を排除する説明は合いません。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_022",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "explanations",
+    "index": 2,
+    "before": "PPPは提示・練習・産出という授業構成の枠組みであり、プログラム改善サイクルとは異なる。",
+    "after": "ASQは、変更がうまくいかなければ別の計画で再び進め、成功した場合は得た学びをより広い変更へ生かすとしています。学びを使わず同じ計画だけを繰り返す案は逆です。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_022",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_M_022",
+    "field": "explanations",
+    "index": 3,
+    "before": "TBLTはタスク中心の教授法を指す用語である。",
+    "after": "ASQはPDCAを継続的な改善のために繰り返すと説明しています。なお、Deming Instituteが説明するPDSAのSはStudyです。PDCAのCheckという語をそのままPDSAの展開語にしないよう区別します。",
+    "reason": "S251 ASQ公式PDCA Cycle本文の4段階・反復とS252 Deming Institute公式PDSA Cycle本文を取得照合。Checkにも結果分析と学びが含まれるASQの説明を保持し、PDSAのStudyと展開語を区別。PDCAは学びを含まないという一般化をしない。旧誤答のCLIL・PPP・TBLTは今回各原著を取得していないため承認せず、同じ改善サイクル領域内の段階判断へ差替え。Deming本人の原著全文・発祥史や授業効果の実証を承認したものではない。",
+    "sources": [
+      "S251",
+      "S252"
+    ],
+    "applied": true,
+    "before_version": "第184バッチ後",
+    "block_context": "A_M_022",
+    "paragraph_prefix": "4（誤）"
   }
 ]
