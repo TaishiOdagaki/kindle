@@ -988,3 +988,10 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 - S244 [國史館臺灣文獻館2013-09-30電子報114期の伊沢修二と日本語教育の解説](https://www.th.gov.tw/Epaper_Content/236/7518/)。原HTML取得、template内の記事本文全体を精読。Q_1_006全肢全解説を場所選定・対象・内容・学務部活動に限定。公的史料機関の2013年解説と1895年原史料全冊の取得を混同しない。旧稿の松本・満州・教授法分類等の未照合主張は撤回。
 
 原資料サイズ・SHA256・範囲はevidence/batch180_sources.json、本文抽出失敗と代替本文取得の区別はbatch180_source_attempts.json。原資料全体非転載。
+
+
+## 第181バッチ S197出版社公開版 2026-10-19
+
+[Paul Nation原著書 What Should Every ESL Teacher Know? 無料公開PDF](https://wjcompass.com/userfiles/downloads/20130213132738_DW11.pdf)、[出版社の商品説明](https://www.compasspub.com/eng/compass/level_view.asp?h_seq=1721)。現物192頁。印刷/PDF12～15・23～25頁本文、12・13・14・25頁画像。Q_4_027・Q_4_030・Q_O_006・Q_O_007の全肢全解説とケース2の必要性／利用時間の指定部分を照合。大学公開稿S197と同一著作だが原バイトハッシュ・サイズは異なり、出版社240p表示とも区別。既有知識もニーズの観点であること、環境要因、交渉・実現可能性、継続分析を確認。全書・引用先2000年論文、Hutchinson/Waters1987本文、国内施策、効果の検証ではない。
+
+原資料サイズ・SHA256・範囲はevidence/batch181_sources.json。410・403・章要約しか得ていない資料はbatch181_source_attempts.json。原資料全体非転載。
