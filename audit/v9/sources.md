@@ -1000,3 +1000,14 @@ Q_3_033・035の全肢全解説に対応。原バイトSHA256と精読範囲はe
 ## 第182バッチ S245 2026-10-19
 
 [Brown・Levinson1987原著の再録抜粋公開PDF](https://pure.mpg.de/rest/items/item_64421/component/file_2225570/content)。The Discourse Reader第2版Chapter22、再録本文311～322頁冒頭、編集者付録322～323頁、標題頁を含む14頁スキャン。全頁画像・OCR補助で精読。8問の全肢全解説を著者本文のフェイス定義、FTA、図22.1、直接性の条件、慣習化した間接性、三要因と評価差へ対応。ケース12は分析の適用であり内心・反応・教育効果の実証でない。編集者付録と原著本文を区別し、付録のGrice分類等は今回の承認根拠に使わない。原著全巻や後続批判原典は未取得。原資料サイズ・SHA256・範囲はevidence/batch182_sources.json。Web open403と通常直接取得成功の区別、別章の403はbatch182_source_attempts.json。原PDF・OCR全文は非転載。
+
+
+## 第183バッチ S246 S247 S248 2026-10-19
+
+S246 [文科省EWS生活Can do説明本文](https://www.nihongo-ews.mext.go.jp/information/framework_of_reference)と[説明資料3頁](https://www.nihongo-ews.mext.go.jp/information/download/370)。全説明・全3頁画像。例示・状況による選択・現場Can do・多言語情報・他の学びとの組合せ。Q_1_020全肢全解説を照合。尺度検証を授業効果の保証へ一般化しない。
+
+S247 [文化審議会国語分科会 地域における日本語教育の在り方について 報告](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93798801_01.pdf)、2022年11月29日。114頁を取得、印刷35・58～62頁（PDF38・61～65頁）を本文・画像で精読。Q_M_006・008・037全肢全解説と目的・目標、対象の重なり、個人の習得段階・文字指導の背景配慮を照合。全書精読、在留要件、医学的年齢効果や特定方法の実証ではない。
+
+S248 [静岡県 地域日本語教育体制構築事業](https://www.pref.shizuoka.jp/kurashikankyo/1049844/tabunkachiiki/1044858/1015564.html)。更新2025年9月5日、確認2026年10月19日、本文全文取得。Q_1_022全肢全解説と県の対話交流型の定義・双方の学習・初期教室の実施を照合。R2～R6旧方針とR7以降の方針を混同せず、全地域への一般化や効果実証には用いない。
+
+資料のサイズ・SHA256・精読範囲はevidence/batch183_sources.json。サイズ超過、404、途中・不正PDFの不採用と完全な新規取得をbatch183_source_attempts.jsonへ記録。原資料全体非転載。

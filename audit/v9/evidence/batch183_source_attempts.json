@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93798801_01.pdf",
+    "result": "Web openは11480319バイトでサイズ上限。通常直接取得の初回40秒制限で部分ファイルとなり、再開ファイルは11672831バイトでPDF構造不正。いずれも本文承認や画像QAに使わず、新しい別ファイルへ最初から通常取得。11480319バイト・114頁・本文抽出成功と該当頁画像を確認。"
+  },
+  {
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/94029601_01.pdf",
+    "result": "文化庁案内ページの旧別冊リンクは404。別冊全文・現行全Can do一覧は未取得で承認根拠に使わず、公式説明本文・3頁資料と2022報告の指定範囲を用いた。"
+  },
+  {
+    "url": "https://www.nihongo-ews.mext.go.jp/information/framework_of_reference",
+    "result": "検索システム1の結果が不適合だったため引用せず、システム2で公式ページを特定し本文を取得。検索抜粋では判定していない。"
+  }
+]

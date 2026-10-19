@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "S246",
+    "title": "文部科学省 日本語教育コンテンツ共有システム 生活Can do説明本文",
+    "url": "https://www.nihongo-ews.mext.go.jp/information/framework_of_reference",
+    "checked": "2026-10-19",
+    "bytes": 47675,
+    "sha256": "0ee6fc92f18e77310aaf19c7672708d18f3f7587937fb8a9c86add0d213d6841",
+    "body_read": "生活Can do節全文。日本語教育の参照枠の説明節との関係も確認。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S246",
+    "title": "生活Can doについて 説明資料",
+    "url": "https://www.nihongo-ews.mext.go.jp/information/download/370",
+    "checked": "2026-10-19",
+    "bytes": 283874,
+    "sha256": "55ba68793ab344794fcdf4541993599cbe7322fa2cb45d906f39cf02aa8326e5",
+    "body_read": "全3頁の本文と全頁画像。定義、分野別Can do、検証手順、利用時留意事項。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S247",
+    "title": "文化審議会国語分科会 地域における日本語教育の在り方について 報告 2022-11-29",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93798801_01.pdf",
+    "checked": "2026-10-19",
+    "bytes": 11480319,
+    "sha256": "53e535d13727897297392fdb6bdf88bcf463a63262b644a32592e77982c73a9b",
+    "body_read": "全114頁PDFを取得。印刷35・58～62頁（PDF38・61～65頁）の本文と全該当画像を精読。標題の年月日を確認。全114頁精読ではない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S248",
+    "title": "静岡県 地域日本語教育体制構築事業トップページ",
+    "url": "https://www.pref.shizuoka.jp/kurashikankyo/1049844/tabunkachiiki/1044858/1015564.html",
+    "checked": "2026-10-19",
+    "bytes": 31282,
+    "sha256": "d2727d31d4b50a75135543d25557fd1229848c51ef22f5e17b903a6c9a529595",
+    "body_read": "本文全文。更新日2025-09-05。対話交流型の定義、双方の学び、初期教室の設置運営。R2～R6旧方針とR7以降の方針を区別。",
+    "full_source_redistributed": false
+  }
+]
