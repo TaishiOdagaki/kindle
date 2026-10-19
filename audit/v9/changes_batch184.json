@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Q_M_021",
+    "field": "stem",
+    "index": null,
+    "before": "教師が自身の授業実践や研修受講の記録を継続的に蓄積し、専門性の成長過程を可視化する取り組みを指す用語として最も適当なものを選べ。",
+    "after": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "Q_M_021"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "options",
+    "index": 0,
+    "before": "ティーチング・ポートフォリオ",
+    "after": "教育理念や目標を示し、それらと関連する代表的な資料を選び、資料の文脈や意味を説明しながら自らの教育実践を省察する。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "Q_M_021",
+    "stem_context": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "options",
+    "index": 1,
+    "before": "情意フィルター（学習者の不安）",
+    "after": "教育理念との関係や資料の意味は説明せず、授業関係の資料をすべて無選別に保存したものを提出する。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "Q_M_021",
+    "stem_context": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "options",
+    "index": 2,
+    "before": "コーパス（言語資料の集積）",
+    "after": "授業評価の数値だけを掲載し、教育理念、実践の説明、省察、質的な資料は含めない。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "Q_M_021",
+    "stem_context": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "options",
+    "index": 3,
+    "before": "ダイグロシア（変種の使い分け）",
+    "after": "研修に出席した記録だけで授業への影響が実証されたと判断し、研修で得た知識を実践にどう生かしたかは説明しない。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "Q_M_021",
+    "stem_context": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "explanations",
+    "index": 0,
+    "before": "教師自身の授業実践・研修記録等を継続的に蓄積し、専門性の成長過程を可視化する取り組みを「ティーチング・ポートフォリオ」と呼ぶ。",
+    "after": "同ガイドは、教育理念・責任・目標を示す資料と、それらを実践する姿を示す量的・質的な根拠を組み合わせると説明しています。代表的で意味のある資料を選び、その文脈や意味を説明する構成に対応します。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "A_M_021",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "explanations",
+    "index": 1,
+    "before": "情意フィルターは学習者の情意面に関する第二言語習得の概念であり、教師の記録蓄積とは異なる。",
+    "after": "同ガイドは、すべての資料を網羅する保管庫ではなく、代表的で意味のある資料を選ぶとしています。また、資料の意味と文脈の説明を求めており、無選別の保存だけではその構成に合いません。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "A_M_021",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "explanations",
+    "index": 2,
+    "before": "コーパスは言語資料の集積を指す用語であり、教師の成長記録とは異なる。",
+    "after": "同ガイドは、数値評価だけでは教育上の取組や成果を十分に表しにくいと述べ、理念・省察と量的・質的な根拠の組合せを示しています。数値の使用自体を否定する説明ではありません。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "A_M_021",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_M_021",
+    "field": "explanations",
+    "index": 3,
+    "before": "ダイグロシアは言語変種の使い分けに関する社会言語学の概念である。",
+    "after": "同ガイドは、研修への参加記録を教育への取組姿勢の根拠とし、影響を示すには研修で得た知識が実践にどう結びついたかを説明する必要があるとしています。参加した事実だけを授業への影響の実証とする判断は合いません。",
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "sources": [
+      "S249"
+    ],
+    "applied": true,
+    "before_version": "第183バッチ後",
+    "block_context": "A_M_021",
+    "paragraph_prefix": "4（誤）"
+  }
+]

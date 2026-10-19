@@ -20875,7 +20875,7 @@
   },
   {
     "id": "Q_M_021",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "教師が自身の授業実践や研修受講の記録を継続的に蓄積し、専門性の成長過程を可視化する取り組みを指す用語として最も適当なものを選べ。",
@@ -20905,20 +20905,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）"
+      "正：理念・選択資料・文脈説明と省察",
+      "誤：代表資料の選択と意味の説明を排除",
+      "誤：数値だけへ限定し理念や省察を排除",
+      "誤：参加の記録と授業への影響を同一視"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を全文精読し各選択肢の分類を独立比較。",
-    "explanation_review": "4解説を精読し用語と補助的定義の精密性を点検。",
-    "sources": [],
-    "reason": "教授ポートフォリオ1候補。単なる蓄積でなく選択・根拠・省察がある定義を追加確認。",
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。"
+    "multiple_correct_risk": "なし：1のみ指定ガイドの構成に対応",
+    "no_correct_risk": "なし：1の本文根拠を取得",
+    "fixes_applied": true,
+    "stem_review": "大学公式ガイドの構成判断へ範囲を明示。",
+    "explanation_review": "全4肢・4解説を取得本文と照合。数値の全面否定ではなく数値だけへの限定を誤りとした。",
+    "sources": [
+      "S249"
+    ],
+    "reason": "S249 CMU Eberly Center公式Teaching Portfolios本文を取得精読。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsを全肢全解説へ照合。旧稿の単なる授業・研修記録の蓄積への還元を修正。旧誤答の情意フィルター・コーパス・ダイグロシアは各原典未取得のため承認せず、同じ教授ポートフォリオ領域内の構成判断へ差替え。Seldin等の原著全文を取得したとの扱いはしない。",
+    "unresolved": ""
   },
   {
     "id": "Q_M_022",

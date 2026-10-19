@@ -1011,3 +1011,8 @@ S247 [文化審議会国語分科会 地域における日本語教育の在り�
 S248 [静岡県 地域日本語教育体制構築事業](https://www.pref.shizuoka.jp/kurashikankyo/1049844/tabunkachiiki/1044858/1015564.html)。更新2025年9月5日、確認2026年10月19日、本文全文取得。Q_1_022全肢全解説と県の対話交流型の定義・双方の学習・初期教室の実施を照合。R2～R6旧方針とR7以降の方針を混同せず、全地域への一般化や効果実証には用いない。
 
 資料のサイズ・SHA256・精読範囲はevidence/batch183_sources.json。サイズ超過、404、途中・不正PDFの不採用と完全な新規取得をbatch183_source_attempts.jsonへ記録。原資料全体非転載。
+
+
+## 第184バッチ S249 2026-10-19
+
+S249 [CMU Eberly Center Teaching Portfolios](https://www.cmu.edu/teaching/resources/teachingportfolios/index.html)。公式ページ本文取得。定義、Select your supporting materials、Consider where you are in your career、Write descriptions of your supporting materialsをQ_M_021の全肢全解説へ照合。単なる無選別の蓄積と区別し、選択・根拠・省察・文脈説明と研修参加／影響の違いを反映。原著の起源・全大学の制度・実証効果を承認しない。推薦原著は全文未取得。原資料非転載。取得ハッシュと範囲はevidence/batch184_sources.json。
