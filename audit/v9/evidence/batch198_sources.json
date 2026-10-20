@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "S04",
+    "title": "文化審議会 敬語の指針 2007年2月2日",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+    "retrieved": "2026-10-20",
+    "sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+    "bytes": 613704,
+    "body_read": "全82頁原PDF再取得。印刷9～12頁の手引と敬語教育を精読、10・11頁の画像確認。ケース整合として43～44頁の本文も照合。知識・複数表現の選択・経験と意図的学習の両立に限定。即時訂正・教育効果の普遍性を承認しない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S297",
+    "title": "British Council Interactive Whiteboard IWB",
+    "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/interactive-whiteboard-iwb",
+    "retrieved": "2026-10-20",
+    "sha256": "7279c3c569b9d52a9e36497fedd8bcd1df7d665b2b7429e32b29a6c66614aaeb",
+    "bytes": 68827,
+    "body_read": "機器説明、Example、In the classroomの全本文をHTML原バイトとWeb本文で取得・精読。コメントは除外。学習者操作と発音・発表・授業進行の例に限定。全製品仕様や機器導入の自動的効果としない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S298",
+    "title": "Trudgill 1972 Sex covert prestige and linguistic change in the urban British English of Norwich",
+    "url": "https://web.stanford.edu/~eckert/PDF/trudgill1972.pdf",
+    "retrieved": "2026-10-20",
+    "sha256": "8bfc87d35f081d1c0d4f1eb51404000414cdf527bb4444d55eb876e37ca99186",
+    "bytes": 1319875,
+    "body_read": "全9PDF頁（原著179～195頁見開き）を大学研究者公開ページから取得。原著186～189頁/PDF5～6頁の原画像精読。過少申告・表立たない好意・連帯・非標準形の潜在的威信を全肢全解説照合。全社会・全男女の普遍的傾向へ一般化しない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S299",
+    "title": "総務省 地域における多文化共生推進プラン 2020年改訂",
+    "url": "https://www.soumu.go.jp/main_content/000706218.pdf",
+    "retrieved": "2026-10-20",
+    "sha256": "bb56046987892128b17e38b2a271027c2749c955362009a3373782ccbd2f1f50",
+    "bytes": 425087,
+    "body_read": "全23頁公式PDF取得。1～7頁本文と7頁原画像精読、3（1）①ア・ウとICT時の理解への配慮を全肢全解説に照合。2020年版の方針であり最新全制度・実現済みサービスとしない。改訂年はMEXT掲載総務省説明資料の本文5頁でも確認済み。",
+    "full_source_redistributed": false
+  }
+]

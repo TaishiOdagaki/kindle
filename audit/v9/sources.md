@@ -1141,3 +1141,16 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 [S296 Ekman & Friesen 1969 The Repertoire of Nonverbal Behavior](https://www.paulekman.com/wp-content/uploads/2013/07/The-Repertoire-Of-Nonverbal-Behavior-Categories-Origins-.pdf)。著者公式サイトの全51頁PDFを取得。Regulators節の印刷82～84頁/PDF35～37頁の原画像を直接精読。37頁PNGはツール読込不可のため同PDFからJPEG再描画して確認。会話の流れと進み方、形と機能、他分類の調節機能、意識性の区別を全肢全解説へ照合。著者は調節行動について自ら研究を実施していないと記すため、説明を新しい実証研究結果として扱わない。
 
 取得URL・原バイトSHA256・サイズ・精読範囲はevidence/batch197_sources.json。原資料全体は転載しない。
+
+
+## 第198バッチ S04 S297 S298 S299
+
+[S04 文化審議会 敬語の指針 2007年2月2日](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf)。全82頁原PDF再取得。印刷9～12頁の手引と敬語教育を精読、10・11頁の画像確認。ケース整合として43～44頁の本文も照合。知識・複数表現の選択・経験と意図的学習の両立に限定。即時訂正・教育効果の普遍性を承認しない。
+
+[S297 British Council Interactive Whiteboard IWB](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/interactive-whiteboard-iwb)。機器説明、Example、In the classroomの全本文をHTML原バイトとWeb本文で取得・精読。コメントは除外。学習者操作と発音・発表・授業進行の例に限定。全製品仕様や機器導入の自動的効果としない。
+
+[S298 Trudgill 1972 Sex covert prestige and linguistic change in the urban British English of Norwich](https://web.stanford.edu/~eckert/PDF/trudgill1972.pdf)。全9PDF頁（原著179～195頁見開き）を大学研究者公開ページから取得。原著186～189頁/PDF5～6頁の原画像精読。過少申告・表立たない好意・連帯・非標準形の潜在的威信を全肢全解説照合。全社会・全男女の普遍的傾向へ一般化しない。
+
+[S299 総務省 地域における多文化共生推進プラン 2020年改訂](https://www.soumu.go.jp/main_content/000706218.pdf)。全23頁公式PDF取得。1～7頁本文と7頁原画像精読、3（1）①ア・ウとICT時の理解への配慮を全肢全解説に照合。2020年版の方針であり最新全制度・実現済みサービスとしない。改訂年はMEXT掲載総務省説明資料の本文5頁でも確認済み。
+
+S279・S285は原著本文未取得のため該当2問を再開。取得URL・SHA256・サイズ・精読範囲はevidence/batch198_sources.json。原資料全体は転載しない。
