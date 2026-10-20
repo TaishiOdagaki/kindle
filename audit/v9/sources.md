@@ -1132,3 +1132,12 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 - S293 https://www.teachingenglish.org.uk/professional-development/teachers/planning-lessons-and-courses/online-storytelling-engaging — Heathfield本人記事Before/After telling本文取得精読。
 - S294 https://www.jstage.jst.go.jp/article/kotoba/38/0/38_46/_pdf — 髙橋・谷部・本田2017原論文印刷50頁4.2著者定義をWeb本文取得精読。
 - S183 https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf — 取得済み原PDFの印刷22頁Interaction項再精読。
+
+
+## 第197バッチ S295 S296
+
+[S295 OHCHR Minority Rights 附属1992年少数者権利宣言](https://www.ohchr.org/Documents/Publications/MinorityRights_en.pdf)。宣言全前文・全9条（印刷45～48頁/PDF51～54頁）を精読。第4条第3・4項を全肢全解説に照合。PDF52～54頁画像も直接確認。母語教育の可能な限りという条件、少数者の歴史等と社会全体を知る機会を区別。規範と教育効果の実証を区別。Web openは403だが公式PDF原バイトは取得。
+
+[S296 Ekman & Friesen 1969 The Repertoire of Nonverbal Behavior](https://www.paulekman.com/wp-content/uploads/2013/07/The-Repertoire-Of-Nonverbal-Behavior-Categories-Origins-.pdf)。著者公式サイトの全51頁PDFを取得。Regulators節の印刷82～84頁/PDF35～37頁の原画像を直接精読。37頁PNGはツール読込不可のため同PDFからJPEG再描画して確認。会話の流れと進み方、形と機能、他分類の調節機能、意識性の区別を全肢全解説へ照合。著者は調節行動について自ら研究を実施していないと記すため、説明を新しい実証研究結果として扱わない。
+
+取得URL・原バイトSHA256・サイズ・精読範囲はevidence/batch197_sources.json。原資料全体は転載しない。

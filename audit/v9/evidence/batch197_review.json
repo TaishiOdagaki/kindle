@@ -1,0 +1,113 @@
+{
+  "batch": 197,
+  "base_remote_commit": "7fb429ba646d16242f68408a1adb09acafd02055",
+  "fully_rejudged": [
+    "Q_2_034",
+    "Q_2_030"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_2_034": 3,
+    "Q_2_030": 4
+  },
+  "sources": [
+    "S295",
+    "S296"
+  ],
+  "status_counts": {
+    "確認済み": 496,
+    "修正必要": 0,
+    "要追加確認": 4
+  },
+  "remaining": 4,
+  "machine_warnings": 158,
+  "added_warnings": [
+    [
+      "P1",
+      "Q_2_034",
+      "(正)3の解説が否定で終わる/肯定の(誤)がある: [2]"
+    ]
+  ],
+  "removed_warnings": [],
+  "render_pages": 351,
+  "visually_reviewed_pages": [
+    28,
+    29,
+    30,
+    199,
+    200
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      29
+    ],
+    "1": [
+      29
+    ],
+    "2": [
+      29
+    ],
+    "3": [
+      30
+    ],
+    "4": [
+      30
+    ],
+    "5": [
+      200
+    ],
+    "6": [
+      200
+    ],
+    "7": [
+      200
+    ],
+    "8": [
+      200
+    ],
+    "9": [
+      28
+    ],
+    "10": [
+      28
+    ],
+    "11": [
+      28
+    ],
+    "12": [
+      28
+    ],
+    "13": [
+      28
+    ],
+    "14": [
+      199
+    ],
+    "15": [
+      199
+    ],
+    "16": [
+      199
+    ],
+    "17": [
+      199
+    ]
+  },
+  "docx_sha256": "19093d3d7a140985989a7b69a5686616b73e7b22c19d364d3128f0016f51f13c",
+  "pdf_sha256": "ff1adfd01c734e9746d33d339aa791c50d17a22ec28342297767547fecd4b13f",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "page_sha256": {
+    "28": "e6517ed55fd9d4b365786b0024cd4aabdc67481fab49a70614ff53ff22f0e637",
+    "29": "eb3fa5bc649248be8ab8806f92c942caac2455a22b6b70c2ced4d5641edaf1c9",
+    "30": "13de2a4818202edbdb97bb2e62b0f7e5ace476d2db97aaa9d054f381d98efbae",
+    "199": "3703bfd8f08ecd45d767f07f9150212833170ec04512d58b8fba04900914fb26",
+    "200": "8021a1f049039e42df09e21a0d211f5153ba186226121fc1327654d8e32df272"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "layout_and_image_note": "Q_2_034の選択肢が29～30頁に分かれ、Q_2_030解説の見出しと正答が198頁末に孤立するため最終改頁調整対象。200頁PNGの画像ツール表示で一部ラベルが欠けて見えたため、同じ最新PDFをJPEG再描画し、全ラベル・見出し・正答が正常に見えることを直接確認。198頁もJPEGで追加確認。",
+  "additional_reviewed_images": {
+    "198": "d53408d0b6222a7f1952c41e600785cc9de3ba63b1a70ace63c746c4a48613b5",
+    "200": "493a73ad41548ae8894899d0924aeaf4d563dfd5de5563dd35bc5bcc0459ad33"
+  }
+}

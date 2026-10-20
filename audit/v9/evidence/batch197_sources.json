@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "S295",
+    "title": "OHCHR Minority Rights 附属1992年少数者権利宣言",
+    "url": "https://www.ohchr.org/Documents/Publications/MinorityRights_en.pdf",
+    "retrieved": "2026-10-20",
+    "sha256": "d107892696250720fb78fc1dc38630dc420f958b9557d39c097bb829dd2e2a09",
+    "bytes": 414586,
+    "pdf_pages": 54,
+    "body_read": "宣言全前文・全9条（印刷45～48頁/PDF51～54頁）を精読。第4条第3・4項を全肢全解説に照合。PDF52～54頁画像も直接確認。母語教育の可能な限りという条件、少数者の歴史等と社会全体を知る機会を区別。規範と教育効果の実証を区別。Web openは403だが公式PDF原バイトは取得。",
+    "method": "原バイト取得、該当本文精読、原頁画像直接確認",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S296",
+    "title": "Ekman & Friesen 1969 The Repertoire of Nonverbal Behavior",
+    "url": "https://www.paulekman.com/wp-content/uploads/2013/07/The-Repertoire-Of-Nonverbal-Behavior-Categories-Origins-.pdf",
+    "retrieved": "2026-10-20",
+    "sha256": "be31aadfffb24c97beecee8d5bcf993262934646ffe6bd5432ff32d346308ba1",
+    "bytes": 2468969,
+    "pdf_pages": 51,
+    "body_read": "著者公式サイトの全51頁PDFを取得。Regulators節の印刷82～84頁/PDF35～37頁の原画像を直接精読。37頁PNGはツール読込不可のため同PDFからJPEG再描画して確認。会話の流れと進み方、形と機能、他分類の調節機能、意識性の区別を全肢全解説へ照合。著者は調節行動について自ら研究を実施していないと記すため、説明を新しい実証研究結果として扱わない。",
+    "method": "原バイト取得、該当本文精読、原頁画像直接確認",
+    "full_source_redistributed": false
+  }
+]
