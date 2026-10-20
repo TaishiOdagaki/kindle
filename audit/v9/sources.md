@@ -1063,3 +1063,12 @@ S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization
 [S260 Canale Swain1980原論文の公開ページ画像](https://djvu.online/file/cGlEHZTi5twtH)。Canale Michael and Swain Merrill 1980, Theoretical Bases of Communicative Approaches to Second Language Teaching and Testing, Applied Linguistics I(1),1–47, DOI10.1093/applin/I.1.1。第三者公開の原論文スキャンを掲載ページからたどり印刷1・29・30・31頁の原画像を通常直接取得し直接精読。学説の要約・検索抜粋ではない。本文29頁の文法能力、30頁の社会言語学的能力と談話規則・結束性/一貫性・ストラテジー能力、31頁への続き・3要素・理論段階の留保を照合。論文全47頁や1983年Canale原著、Halliday Hasan1976等の引用原著は未取得。
 
 画像ごとの取得URL・SHA256・サイズ・印刷頁はevidence/batch189_sources.json。原画像・原論文全体非転載。取得段階の区別はbatch189_source_attempts.json。
+
+
+## 第190バッチ S261 S262
+
+[S261 JASSO 国際学友会の沿革](https://www.jasso.go.jp/about/organization/history/gakuyu.html)。沿革表全項目を取得・精読。1935年12月・1936年2月・1940年12月・1943年1月を団体創立・会館/教室開設・法人設立許可・学校設置許可で区別。JASSOの公表沿革を問い、学校史の全一次史料や他の戦前機関の歴史を確認したとはしない。
+
+[S262 長沼スクール 標準日本語讀本の解説](https://www.naganuma-school.ac.jp/jp/japanese_teachers/reader.html)。標準日本語讀本とは・歴史の全本文と書影説明を取得・精読。自作教材、構文/語彙/漢字、オーラル・メソッド、試用改良、1931年巻一自費出版と全七巻、1948年改訂八巻完成と1950年一般向け出版、1964～67年再訂・1997年復刻の版区別。学校による教材史の説明に限定、原教材全巻の現物精読や教育効果・歴史的評価を承認したとはしない。
+
+原HTML本文全体非転載。取得URL・SHA256・サイズ・精読範囲はevidence/batch190_sources.json。
