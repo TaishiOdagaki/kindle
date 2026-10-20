@@ -58163,5 +58163,1077 @@
     "before_version": "第192バッチ後",
     "block_context": "A_M_002",
     "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "stem",
+    "index": null,
+    "before": "ガラーホーン夫妻による「Wカーブ・モデル」に関する記述として、最も適切なものを一つ選びなさい。",
+    "after": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_031"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "options",
+    "index": 0,
+    "before": "異文化に入った直後から徐々に生活への不満が溜まり、帰国直前に最も心理的状態が好調になる一方向の降下曲線を指す。",
+    "after": "案内のWカーブは、渡航直後から帰国まで一方向に悪化するだけの経過を描く。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_031",
+    "stem_context": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "options",
+    "index": 1,
+    "before": "言語習得能力の限界年齢（クリティカル・ピリオド）と異文化適応度との相関関係を数学的な波形として示したものである。",
+    "after": "案内のWカーブは、言語習得の年齢限界だけを横軸にしたモデルである。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_031",
+    "stem_context": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "options",
+    "index": 2,
+    "before": "異文化滞在中の適応プロセス（Uカーブ）に加えて、母国に帰国した後に生じる「リエントリー・ショック（逆カルチャーショック）」とその再適応過程を含めたモデルである。",
+    "after": "案内のWカーブは、留学中の気持ちの高低に加え、帰国後の再適応に伴う高低も扱う。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_031",
+    "stem_context": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "options",
+    "index": 3,
+    "before": "カルチャーショックは一度経験すれば免疫ができるため、母国へ戻った際には再適応の困難も心理的混乱も一切生じないと仮定し、W字ではなく右肩下がりの単純な直線で示すモデルである。",
+    "after": "案内のWカーブは、帰国後の生活を対象から除き、渡航先にいる期間だけを扱う。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_031",
+    "stem_context": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "explanations",
+    "index": 0,
+    "before": "Wカーブは二度の谷（渡航先でのショックと帰国後のショック）を持つ曲線であり、一方向の降下曲線ではありません。",
+    "after": "案内は蜜月のような高揚と危機・落込み、その後の持ち直しを説明しています。単調に悪化する曲線ではありません。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_031",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "explanations",
+    "index": 1,
+    "before": "クリティカル・ピリオド（年齢と習得率の相関）とは直接関係ありません。",
+    "after": "案内は留学と帰国に伴う適応の経過を扱っています。言語習得の年齢限界のモデルではありません。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_031",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "explanations",
+    "index": 2,
+    "before": "Wカーブ・モデルは、滞在国での適応過程（蜜月期→不適応期→回復期）のUカーブに続き、自国へ戻った際（帰国後）に生じる自文化への違和感（リエントリー・ショック）とそこからの再適応の過程を連結してW字型で表したものです。",
+    "after": "案内の二つの質問への説明に対応します。留学中と帰国後の両方を含めて理解します。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_031",
+    "paragraph_prefix": "3（正）"
+  },
+  {
+    "id": "Q_3_031",
+    "field": "explanations",
+    "index": 3,
+    "before": "長期滞在によって異文化の価値観や生活様式に慣れ親しんだ者ほど、自国の当たり前だった日常に違和感（帰国後のショック）を覚えることがあり、「一度慣れればショックが生じない」という仮定は誤りです。",
+    "after": "案内は帰国後にも曲線が続くと説明しています。帰国後を除外する説明は合いません。",
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_031",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "stem",
+    "index": null,
+    "before": "カルチャーショックの段階的プロセス（Wカーブ・モデル等）に関する記述として、最も適切なものはどれか。",
+    "after": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_100"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "options",
+    "index": 0,
+    "before": "不満や焦燥感が高まる「落ち込み（危機期）」の段階にある学習者に対しては、速やかに母国文化を否定させ、滞在国文化への過剰適応を強いる指導が最も有効である。",
+    "after": "モデルの危機という言葉だけで、特定の学習者に精神疾患があると診断する。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_100",
+    "stem_context": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "options",
+    "index": 1,
+    "before": "カルチャーショックは精神的に脆弱な人にのみ起こる特殊な症状であり、渡航前の知識学習によって完全に予防・回避できる。",
+    "after": "モデルの説明があれば、全員の適応に必要な期間を同じ日数で確定できると教える。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_100",
+    "stem_context": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "options",
+    "index": 2,
+    "before": "異文化に入った初期段階では、見るものすべてが珍しく肯定的に捉えられる「ハネムーン期（蜜月期）」をたどることが多い。",
+    "after": "新しい経験への高揚やその後の落込み・持ち直しを示す説明上のモデルとして紹介し、個人の経過を一律に決めない。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_100",
+    "stem_context": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "options",
+    "index": 3,
+    "before": "異文化に適応して長期滞在した学習者が自国へ帰国した際、母国文化に対して違和感やストレスを感じる現象（リバース・カルチャーショック）が生じることはない。",
+    "after": "帰国後の適応はこのモデルに含まれないとして、帰国時の戸惑いの説明には触れない。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_100",
+    "stem_context": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "explanations",
+    "index": 0,
+    "before": "危機期にある学習者に母文化の否定や無理な過剰適応を求めることは、心理的危機を増幅させます。母文化による安心感を保ちつつ、段階的な再適応を支援することが重要です。",
+    "after": "案内の適応モデルを紹介することと、個人の精神疾患を診断することは異なります。モデルの語だけでは診断の根拠になりません。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_100",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "explanations",
+    "index": 1,
+    "before": "カルチャーショックは異なる文化環境に入った人間にとって極めて自然な反応であり、知識の有無にかかわらず発生し得るものです。",
+    "after": "案内は全員共通の日数を示していません。モデルから固定日程を導くことはできません。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_100",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "explanations",
+    "index": 2,
+    "before": "異文化適応モデル（Uカーブ・Wカーブモデル）において、初期の段階は興奮や好奇心から異文化を肯定的に評価する「ハネムーン期」と呼ばれます。",
+    "after": "案内に示された高低の説明を、範囲を限定して紹介する扱いです。特定の個人の状態を曲線だけで確定しません。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_100",
+    "paragraph_prefix": "3（正）"
+  },
+  {
+    "id": "Q_4_100",
+    "field": "explanations",
+    "index": 3,
+    "before": "異文化に深く適応した後に自国へ戻った際、母国の習慣や価値観に対して再適応の困難を覚える現象を「リバース・カルチャーショック（逆カルチャーショック）」と呼び、Wカーブモデルで説明されます。",
+    "after": "案内は帰国後の戸惑いと再適応にも触れています。そこを含まないとする説明は合いません。",
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_100",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "stem",
+    "index": null,
+    "before": "海外生活から帰国した後、自国の文化に再適応する際に生じる戸惑いも含めて、異文化適応の過程をより複雑な曲線で描くモデルの説明として最も適当なものを選べ。",
+    "after": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_M_018"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "options",
+    "index": 0,
+    "before": "フォーカス・オン・フォーム（指導法）",
+    "after": "帰国後の過程を描かず、滞在中の落込みと回復だけを一つの谷で示すモデル",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_M_018",
+    "stem_context": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "options",
+    "index": 1,
+    "before": "PPPモデル（授業構成の枠組み）",
+    "after": "適応の高低を描かず、学習した語の個数だけを示すモデル",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_M_018",
+    "stem_context": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "options",
+    "index": 2,
+    "before": "バックワード・デザイン（目標から逆算するコース設計の手法）",
+    "after": "渡航先と母国の言語の語順だけを比較するモデル",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_M_018",
+    "stem_context": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "options",
+    "index": 3,
+    "before": "Wカーブ・モデル（帰国後の再適応過程も含むモデル）",
+    "after": "Wカーブ・モデル",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_M_018",
+    "stem_context": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "explanations",
+    "index": 0,
+    "before": "フォーカス・オン・フォームは指導法上の考え方であり、異文化適応のモデルとは異なる。",
+    "after": "設問は帰国後も含む案内のモデルを問います。滞在中の一つの谷だけに限定する説明は合いません。",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_M_018",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "explanations",
+    "index": 1,
+    "before": "PPPモデルは授業構成に関する教授法上の枠組みであり、異文化適応のモデルではない。",
+    "after": "設問は適応の経過を問うもので、語数を示すモデルではありません。",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_M_018",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "explanations",
+    "index": 2,
+    "before": "バックワード・デザインはコースデザインの手法である。",
+    "after": "案内は語順比較ではなく、留学中と帰国後の適応を説明しています。",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_M_018",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_M_018",
+    "field": "explanations",
+    "index": 3,
+    "before": "異文化への適応過程（U字カーブ）に加え、帰国後の再適応過程（逆カルチャーショックからの回復）も含めてより複雑な曲線で描くモデルを「Wカーブ・モデル」と呼ぶ。",
+    "after": "案内ではWカーブが帰国後まで続くと説明しています。全員の経過を必ず同じ曲線で予測できるという意味ではありません。",
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "sources": [
+      "S277"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_M_018",
+    "paragraph_prefix": "4（正）"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "stem",
+    "index": null,
+    "before": "教師の自己点検・授業改善のための手法の一つである「FIAC（フランダースの言語相互作用分析システム：Flanders Interaction Analysis Categories）」の説明として、最も適切なものはどれか。",
+    "after": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_082"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "options",
+    "index": 0,
+    "before": "教師の年間授業コマ数や残業時間を数値化し、労働環境の改善を図るための管理ツールである。",
+    "after": "10個の番号は、番号が大きいほど優れた授業であるという評点を表す。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_082",
+    "stem_context": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "options",
+    "index": 1,
+    "before": "教師の発話・生徒の発話・沈黙などのカテゴリに分類して一定時間ごとに記録し、相互作用を数量的に把握する構造的観察法である。",
+    "after": "訓練した観察者が約3秒ごとにカテゴリ番号を記録し、発話等の連続を行列で扱う。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_082",
+    "stem_context": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "options",
+    "index": 2,
+    "before": "熟達教員が初心教員の授業を参観した際に、定性的な感想（エピソード）のみを文章で書きとめる記述観察法である。",
+    "after": "教師の発話だけを記録し、生徒の発話と沈黙・混乱はカテゴリに含めない。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_082",
+    "stem_context": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "options",
+    "index": 3,
+    "before": "学習者が提出した作文の誤用を「欠落・付加・代用」に分類し、誤用率をパーセンテージで試算し、学習者間で比較する記述的分析法である。",
+    "after": "あらかじめカテゴリを設けず、観察者の自由な感想文だけを集める。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_082",
+    "stem_context": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "explanations",
+    "index": 0,
+    "before": "FIACは教室内の「言語相互作用（インタラクション）」を分析する手法であり、労務管理ツールではありません。",
+    "after": "原論文の表1注記は、番号は分類であり尺度上の優劣ではないと明記しています。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_082",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "explanations",
+    "index": 1,
+    "before": "FIACは、教室内の言語的相互作用を客観的・定量的（3秒ごとの時間サンプリング等）に分析するための古典的観察システムです。発話を教師の発話（受け入れ・褒め・発問／講義・指示・批判等）、生徒の発話（応答・自発発話）、沈黙・混乱などに分類して行列（マトリックス）を作成し、TTTや授業パターンを客観化します。",
+    "after": "印刷3〜5頁の手続に対応します。表1は教師の発話、生徒の応答・自発発話、沈黙・混乱を分類しています。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_082",
+    "paragraph_prefix": "2（正）"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "explanations",
+    "index": 2,
+    "before": "FIACはあらかじめ設定されたカテゴリに基づいて数量的に記録する「構造的（定量的）観察法」であり、自由記述の定性的感想ではありません。",
+    "after": "表1には生徒の応答・自発発話、沈黙・混乱も含まれます。教師の発話だけに限定しません。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_082",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_4_082",
+    "field": "explanations",
+    "index": 3,
+    "before": "誤用分析の記述分類についての説明であり、FIACではありません。",
+    "after": "同論文は10カテゴリと記録・行列化の手続を示しています。自由な感想だけの方法ではありません。",
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "sources": [
+      "S278"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_082",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "stem",
+    "index": null,
+    "before": "誤用分析における「回避（アボイダンス）」の現象の説明として最も適当なものを選べ。",
+    "after": "Schachter（1974）「An Error in Error Analysis」の著者要旨で示される、回避を考慮する意義に合うものを一つ選べ。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_076"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "options",
+    "index": 0,
+    "before": "学習者が難しいと感じる構造の使用を避け、簡単な表現で済ませようとすること",
+    "after": "誤りが少なくても、困難な構造自体を使わないことで問題が表れにくい可能性を検討する。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_076",
+    "stem_context": "Schachter（1974）「An Error in Error Analysis」の著者要旨で示される、回避を考慮する意義に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "options",
+    "index": 1,
+    "before": "教材の側が特定の文型を扱わず、その学習項目を教師が教えられなくなってしまうこと",
+    "after": "誤りの数が少なければ、その構造を十分に使いこなせることが常に証明される。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_076",
+    "stem_context": "Schachter（1974）「An Error in Error Analysis」の著者要旨で示される、回避を考慮する意義に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "options",
+    "index": 2,
+    "before": "学習者がテストを欠席し、評価を受けないこと",
+    "after": "回避とは、この研究では学習者が語学テストを欠席することだけを指す。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_076",
+    "stem_context": "Schachter（1974）「An Error in Error Analysis」の著者要旨で示される、回避を考慮する意義に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "options",
+    "index": 3,
+    "before": "教師が難しい文型の指導を意図的に避け、授業で扱わないこと",
+    "after": "回避の検討では、学習者がその構造をどれだけ用いたかを見る必要がない。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_076",
+    "stem_context": "Schachter（1974）「An Error in Error Analysis」の著者要旨で示される、回避を考慮する意義に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "explanations",
+    "index": 0,
+    "before": "学習者が自信のない、あるいは困難だと感じる構造の使用を避け、代替表現で済ませようとする現象を「回避」と呼ぶ。",
+    "after": "著者要旨は、関係節を使うことを避けるために誤用だけからは困難を捉えにくい点を述べています。使用量にも注意を向ける説明です。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_076",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "explanations",
+    "index": 1,
+    "before": "教材の内容選定の問題ではなく、学習者の言語使用行動に関する現象である。",
+    "after": "誤りが少ないことと、その構造の使用・習得が十分であることを同一視していません。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_076",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "explanations",
+    "index": 2,
+    "before": "テストの欠席という行動上の現象ではない。",
+    "after": "著者要旨が扱うのは英語関係節の使用です。テストの欠席だけを扱う話ではありません。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_076",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_4_076",
+    "field": "explanations",
+    "index": 3,
+    "before": "教師側の指導方針の話ではなく、学習者本人の言語使用上の現象を指す。",
+    "after": "使わないことで困難が表れにくいという指摘です。構造の使用を検討対象から外す対応は合いません。",
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "sources": [
+      "S279"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_076",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "stem",
+    "index": null,
+    "before": "第二言語運用能力における「流暢さ」「正確さ」「複雑さ」のバランスとトレードオフ関係に関する記述として、最も適切なものはどれか。",
+    "after": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_5_092"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "options",
+    "index": 0,
+    "before": "学習者の注意の配分（認知資源）には制限があるため、リアルタイムのパフォーマンスにおいて流暢さ・正確さ・複雑さのすべてを同時に極限まで高めることは難しく、相互にトレードオフ関係が生じやすい。",
+    "after": "注意・作動記憶の容量に限りがあるという前提で、他の条件が同じなら、ある側面への注意が他の側面の遂行を低下させる可能性を考える。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_5_092",
+    "stem_context": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "options",
+    "index": 1,
+    "before": "口頭パフォーマンスの評価においては、流暢さのみを絶対的な指標とし、正確さや複雑さ（表現の豊かさ）は評価基準から排除するのが世界の言語テスト標準であり、近年のテスト設計においてもこの考え方が維持されている。",
+    "after": "複雑さ・正確さ・流暢さは、どの条件でも必ず同時に同じ割合だけ上がるとする。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_5_092",
+    "stem_context": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "options",
+    "index": 2,
+    "before": "流暢さとは、発話内に含まれる文法構造の高度さや従属節の多さを指し、発話速度や言いよどみ（言い直し、無音のポーズ）の少なさとは無関係であり、むしろ高度で複雑な文構造の使用そのものを意味する概念である。",
+    "after": "正確さに注意を向けるだけで、他の条件にかかわらず流暢さが必ず最大になるとする。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_5_092",
+    "stem_context": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "options",
+    "index": 3,
+    "before": "語彙や文法規則の誤りを一切作らないように意識を集中させる指導（正確さの重視）を行うと、一般に認知資源の制約によって発話の流暢さや使用される文構造の複雑さが向上する。",
+    "after": "同論文は、正確さと複雑さが共に高まる例を一つも扱わず、両立を理論上不可能とする。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_5_092",
+    "stem_context": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "explanations",
+    "index": 0,
+    "before": "Skehan等のタスク実施モデルや認知アプローチで示されるように、人間が処理できる注意の容量（認知資源）には限界があるため、課題（タスク）の性質によって「正確さ」「流暢さ」「複雑さ」の間にトレードオフ（一方が上がれば他方が下がる現象）が生じます。",
+    "after": "導入の条件付きの説明に合います。個々のタスクの結果を必ず一方向に予測する普遍法則ではありません。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_5_092",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "explanations",
+    "index": 1,
+    "before": "ACTFL-OPIやCEFR、OPIcなどの主要な言語運用能力テストでは、「流暢さ」だけでなく「正確さ」「複雑さ（語彙・文法の範囲）」および「タスク遂行能力」などを総合的に評価します。",
+    "after": "同論文は側面間の緊張関係と条件の違いを議論しています。一律の同時上昇を述べたものではありません。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_5_092",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "explanations",
+    "index": 2,
+    "before": "文法構造の高度さや節の多様さは「複雑さ」の定義です。「流暢さ」は発話速度、ポーズの少なさ、言い直しの少なさなどを指します。",
+    "after": "注意配分の競合を考える説明と合いません。正確さへの注意だけで流暢さの最大化を保証しません。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_5_092",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_5_092",
+    "field": "explanations",
+    "index": 3,
+    "before": "正確さに注意を過剰に向けると、注意資源がモニタリングに費やされ、ポーズが増えて「流暢さ」が低下したり、安全な簡潔な表現に逃げることで「複雑さ」が低下したりします。",
+    "after": "同論文は正確さと複雑さが共に高まる例と、その条件も論じています。競合仮説を両立不可能の断定へ変えてはいけません。",
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "sources": [
+      "S280"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_5_092",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "stem",
+    "index": null,
+    "before": "ガードナーらの社会教育モデルにおける「統合的動機づけ」と「道具的動機づけ」に関する記述として、最も適切なものを一つ選びなさい。",
+    "after": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_037"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "options",
+    "index": 0,
+    "before": "日本の企業に就職して昇進するため、あるいは大学院の入学試験に合格するために日本語を学習する動機は「道具的動機づけ」である。",
+    "after": "よりよい仕事や試験合格などの実利を目指す目的は、道具的な側として紹介される。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_037",
+    "stem_context": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "options",
+    "index": 1,
+    "before": "日本のアニメやドラマが好きで、その文化や日本人の社会に親しみ、コミュニティの一員として関わりたいという欲求に基づくものは「道具的動機づけ」である。",
+    "after": "その言語を話す人々や文化への関心を深めたいという目的は、同資料では道具的な側だけとして紹介される。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_037",
+    "stem_context": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "options",
+    "index": 2,
+    "before": "統合的動機づけと道具的動機づけは排他的な関係にあり、一人の学習者が両方の動機づけを同時に併せ持つことはない。",
+    "after": "同資料の二つの目的の区別は、学習者の努力量を直接測った点数そのものを表す。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_037",
+    "stem_context": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "options",
+    "index": 3,
+    "before": "言語学習における成果や熟達度は、いかなる学習環境においても常に「統合的動機づけ」を持った学習者の方が「道具的動機づけ」の学習者より高くなる。",
+    "after": "同資料の紹介から、統合的な目的を持てばあらゆる環境で必ず成績が上回ると結論できる。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_3_037",
+    "stem_context": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "explanations",
+    "index": 0,
+    "before": "就職、昇進、受検、単位取得など、実用的な目的や実利的な手段・道具として言語を学ぼうとする動機づけは「道具的動機づけ」の典型例です。",
+    "after": "同報告書の当該節は、仕事や試験合格などの利点を道具的な側の例に挙げています。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_037",
+    "paragraph_prefix": "1（正）"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "explanations",
+    "index": 1,
+    "before": "目標言語グループの文化や社会、人々に対する親近感や一体化を望む動機づけは「統合的動機づけ」です。",
+    "after": "人々や文化への関心と接触を求める側は、統合的な側として紹介されています。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_037",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "explanations",
+    "index": 2,
+    "before": "両者は相互に排除し合うものではなく、「仕事で必要（道具的）」かつ「日本の文化や人々が好き（統合的）」というように、同一の学習者の中に共存し得ます。",
+    "after": "学ぶ理由・目的の区別と、実際の努力量や行動の強さの測定は同じではありません。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_037",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_3_037",
+    "field": "explanations",
+    "index": 3,
+    "before": "どちらの動機づけが有効かは学習環境や文脈（第二言語環境か外国語環境か）によって異なり、一概にどちらか一方だけが優れているとは言えません（第二言語環境では統合的、外国語環境やビジネス現場では道具的が強く機能することもあります）。",
+    "after": "当該節は学習文脈による適用上の限界にも触れています。あらゆる場面での優越を証明していません。",
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "sources": [
+      "S281"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_3_037",
+    "paragraph_prefix": "4（誤）"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "stem",
+    "index": null,
+    "before": "テスト項目の形式である「統合的テスト」と「離散的テスト」に関する記述として、最も適切なものはどれか。",
+    "after": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_061"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "options",
+    "index": 0,
+    "before": "統合的テストの代表例は、1文中の空欄に入る適切な助詞を1つ選ばせる4択問題（選択式問題）である。",
+    "after": "統合的項目とは、単一の知識の一点だけを評価する項目である。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_061",
+    "stem_context": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "options",
+    "index": 1,
+    "before": "ディクテーション（聞き取り書き取り）やクローズ・テストは、離散的テストの典型例とされる。",
+    "after": "統合的項目は、同時に複数の技能を使うことを求めない項目である。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_061",
+    "stem_context": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "options",
+    "index": 2,
+    "before": "離散的テストは、文脈の中で複数の言語技能や総合的な談話能力を同時に使用させる問題形式である。",
+    "after": "同記事は、ディクテーションを、聞く技能も書く技能も使わない例として挙げる。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_061",
+    "stem_context": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "options",
+    "index": 3,
+    "before": "離散的テストは、文法項目や特定の語彙など、単一の言語要素を個別に測定しようとする問題形式である。",
+    "after": "離散的項目は知識の一点を評価しようとし、統合的項目は同時に複数の技能の使用を求めると説明される。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "Q_4_061",
+    "stem_context": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "explanations",
+    "index": 0,
+    "before": "空欄に助詞を選ぶ問題は「離散的テスト」の代表例です。",
+    "after": "同記事が離散的項目に与える説明と取り違えています。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_061",
+    "paragraph_prefix": "1（誤）"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "explanations",
+    "index": 1,
+    "before": "ディクテーション（聴解・表記・文法理解の統合）や、文章中の定期的な空欄を文脈から推測して埋めるクローズ・テストは、「統合的テスト」の典型例です。",
+    "after": "同記事は複数の技能を同時に使うことを統合的項目の特徴として説明しています。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_061",
+    "paragraph_prefix": "2（誤）"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "explanations",
+    "index": 2,
+    "before": "複数の言語技能や文脈理解、構造予測などを同時に使わせるのは「統合的テスト」です。",
+    "after": "同記事は聞くことと書くことを用いる例としてディクテーションを挙げています。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_061",
+    "paragraph_prefix": "3（誤）"
+  },
+  {
+    "id": "Q_4_061",
+    "field": "explanations",
+    "index": 3,
+    "before": "離散的テストは、言語を細かな要素（個々の文法項目、語彙、音素など）に分解し、それぞれを独立して測定するテスト形式です（例：助詞の選択問題、発音識別問題）。",
+    "after": "同記事の対比に合います。表面上の形式だけで、あらゆる課題の測定内容が同じだと決めるものではありません。",
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "sources": [
+      "S282"
+    ],
+    "applied": true,
+    "before_version": "第193バッチ後",
+    "block_context": "A_4_061",
+    "paragraph_prefix": "4（正）"
   }
 ]

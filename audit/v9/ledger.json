@@ -4945,7 +4945,7 @@
   },
   {
     "id": "Q_3_031",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ガラーホーン夫妻による「Wカーブ・モデル」に関する記述として、最も適切なものを一つ選びなさい。",
@@ -4973,20 +4973,22 @@
     "machine_flags": [],
     "independent_answer": 3,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補",
-      "誤答候補"
+      "誤：単調悪化",
+      "誤：年齢限界",
+      "正：滞在と帰国後",
+      "誤：帰国後除外"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
-    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
-    "sources": [],
-    "reason": "3は滞在と帰国後の二つの適応過程、1降下だけ、2臨界期の波形、4逆ショックなしは不一致。提唱者名と年代、普遍モデルではないという限界を原著確認。",
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは3のみ",
+    "no_correct_risk": "なし：3は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S277"
+    ],
+    "reason": "Kalamazoo College Center for International Programs Parent FAQsのThe W Curve節、留学中と帰国後の二つの質問への全回答を取得精読。原著1963の全内容取得とは区別し、大学当事者の案内のモデル説明に限定。元解説の長期適応者ほど強いという未照合相関や全員の段階順序を撤回。",
+    "unresolved": ""
   },
   {
     "id": "Q_3_032",
@@ -5217,7 +5219,7 @@
   },
   {
     "id": "Q_3_037",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "ガードナーらの社会教育モデルにおける「統合的動機づけ」と「道具的動機づけ」に関する記述として、最も適切なものを一つ選びなさい。",
@@ -5243,20 +5245,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "正：実利的目的",
+      "誤：文化関心の位置づけ逆",
+      "誤：目的を努力点数と同一視",
+      "誤：普遍優越を導く"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を全文精読。条件・流派差の所見を記録。",
-    "explanation_review": "4解説を全文精読。補助的主張の出典照合は未了箇所を明記。",
-    "sources": [],
-    "reason": "1は実用目的の道具的、2社会参加を道具的、3併存不可、4統合が常に上位は不適切。統合的志向と統合的動機づけの厳密な違いを原著照合。",
-    "unresolved": "所見の条件・学説・原資料を追加照合し、修正後に全選択肢と解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは1のみ",
+    "no_correct_risk": "なし：1は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S281"
+    ],
+    "reason": "著者の大学リポジトリ公開British Council向け2023報告書Topic11、PDF74〜75頁の動機づけの説明・二目的と適用限界を取得精読。Gardner原著全体は404で未取得。社会教育モデルの全構成の定義として承認せず、当該教師向け報告書が紹介する目的の対比へ限定。「志向性」と努力・欲求等を含む動機づけ全体を同一視しない。",
+    "unresolved": ""
   },
   {
     "id": "Q_3_038",
@@ -8198,7 +8202,7 @@
   },
   {
     "id": "Q_4_061",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "テスト項目の形式である「統合的テスト」と「離散的テスト」に関する記述として、最も適切なものはどれか。",
@@ -8224,20 +8228,22 @@
     "machine_flags": [],
     "independent_answer": 4,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "誤答候補",
-      "正答候補"
+      "誤：単一点を統合と呼ぶ",
+      "誤：複数技能を否定",
+      "誤：例の技能を否定",
+      "正：記事の対比に対応"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
-    "sources": [],
-    "reason": "離散4候補。クローズの削除方式やディクテーションの課題設計により測定構成は変わり古典的分類の範囲を指定。",
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは4のみ",
+    "no_correct_risk": "なし：4は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S282"
+    ],
+    "reason": "JALT掲載のTest Purposes本文Basic Testing Terminology節を取得精読し、著者が示したdiscrete point item/integrative itemの定義とディクテーションの例を照合。Davies1990/Brown1996原著を全文取得したとはしない。クローズ削除方式・すべての助詞選択の測定構成の一律分類を撤回し、同記事の説明に限定。",
+    "unresolved": ""
   },
   {
     "id": "Q_4_062",
@@ -8891,7 +8897,7 @@
   },
   {
     "id": "Q_4_076",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "誤用分析における「回避（アボイダンス）」の現象の説明として最も適当なものを選べ。",
@@ -8924,20 +8930,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "正：非使用の可能性を検討",
+      "誤：少誤用を習得と同一視",
+      "誤：欠席に取り違え",
+      "誤：使用量を検討しない"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
-    "sources": [],
-    "reason": "回避1候補。回避は意識的とは限らず、用いない事実だけで心理的原因を確定しない。",
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは1のみ",
+    "no_correct_risk": "なし：1は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S279"
+    ],
+    "reason": "出版社掲載のSchachter1974著者要旨2段落を取得精読。要旨の関係節回避と誤用分析の限界を問う。全本文・全参加者データは未取得のため、学習者の意識や母語別一般傾向を確定しない。本人が意識して避けたとする旧定義を撤回。",
+    "unresolved": ""
   },
   {
     "id": "Q_4_077",
@@ -9173,7 +9181,7 @@
   },
   {
     "id": "Q_4_082",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "教師の自己点検・授業改善のための手法の一つである「FIAC（フランダースの言語相互作用分析システム：Flanders Interaction Analysis Categories）」の説明として、最も適切なものはどれか。",
@@ -9204,20 +9212,22 @@
     "machine_flags": [],
     "independent_answer": 2,
     "option_verdicts": [
-      "誤答候補",
-      "正答候補",
-      "誤答候補",
-      "誤答候補"
+      "誤：番号を評点と誤認",
+      "正：記録と行列",
+      "誤：生徒・沈黙を除外",
+      "誤：自由感想だけとする"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
-    "sources": [],
-    "reason": "FIAC2候補。10カテゴリと3秒サンプリング、沈黙/混乱分類を原著確認。",
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは2のみ",
+    "no_correct_risk": "なし：2は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S278"
+    ],
+    "reason": "Flanders本人原稿ERIC ED088855全16頁を原バイト取得。印刷3〜5頁の手続・表1と番号は名義分類との留保を本文精読。原稿記載の3秒・10カテゴリを確認。完全な客観性や授業効果の因果保証を主張せず、同原稿の手続を問う。",
+    "unresolved": ""
   },
   {
     "id": "Q_4_083",
@@ -10015,7 +10025,7 @@
   },
   {
     "id": "Q_4_100",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "カルチャーショックの段階的プロセス（Wカーブ・モデル等）に関する記述として、最も適切なものはどれか。",
@@ -10047,20 +10057,22 @@
     ],
     "independent_answer": 3,
     "option_verdicts": [
-      "誤答候補",
-      "誤答候補",
-      "正答候補",
-      "誤答候補"
+      "誤：モデルから診断",
+      "誤：固定日数へ拡張",
+      "正：モデルとして限定",
+      "誤：帰国後を排除"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "未確定（所見参照）",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を独立に精読し、条件不足・競合の可能性を個別記録。",
-    "explanation_review": "4解説を精読。定義・因果・効果の補助主張も所見に記録。",
-    "sources": [],
-    "reason": "U/Wカーブ3候補。全員が蜜月期を経験する普遍順序ではない。提唱者・経験的限界を照合。",
-    "unresolved": "個別所見の主張を原著・公的資料で追加照合し、必要修正後に4選択肢・解説を再判定する。"
+    "multiple_correct_risk": "なし：設問条件に合うのは3のみ",
+    "no_correct_risk": "なし：3は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S277"
+    ],
+    "reason": "同W Curve節を全肢全解説へ照合。段階の紹介と個人への経験的予測を区別。母文化否定が危機を必ず増幅、知識で予防不可等の未取得の臨床・因果主張を削除。モデルの教育的利用の適用判断に限定。",
+    "unresolved": ""
   },
   {
     "id": "Q_4_101",
@@ -15607,7 +15619,7 @@
   },
   {
     "id": "Q_5_092",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "第二言語運用能力における「流暢さ」「正確さ」「複雑さ」のバランスとトレードオフ関係に関する記述として、最も適切なものはどれか。",
@@ -15636,20 +15648,22 @@
     "machine_flags": [],
     "independent_answer": 1,
     "option_verdicts": [
-      "正答候補",
-      "誤答候補",
-      "誤答候補",
-      "誤答候補"
+      "正：条件付き注意競合",
+      "誤：必ず同時上昇",
+      "誤：流暢さ最大化保証",
+      "誤：共上昇例を排除"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問と4選択肢を独立精読。条件不足と複数正答・正答不存在の可能性を記録。",
-    "explanation_review": "4解説を全文精読。例文、用語、帰属、補助的断定を個別記録。",
-    "sources": [],
-    "reason": "CAFトレードオフ1候補。Skehanモデルの限定、Robinson等別仮説の差を明示し普遍効果として扱わない。",
-    "unresolved": "所見の原資料との照合・必要改稿・改訂後の再判定が必要。"
+    "multiple_correct_risk": "なし：設問条件に合うのは1のみ",
+    "no_correct_risk": "なし：1は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S280"
+    ],
+    "reason": "Skehan本人公開原論文本文（ResearchGate著者公開）導入印刷510〜511頁の限定と要旨、および本文の複雑さ/正確さ共上昇例を取得精読。Robinson仮説への本人の議論と区別し、すべてのタスクの単純な逆相関に一般化しない。未取得のOPI/CEFR採点規準の補助列挙を撤回。",
+    "unresolved": ""
   },
   {
     "id": "Q_5_093",
@@ -20783,7 +20797,7 @@
   },
   {
     "id": "Q_M_018",
-    "status": "要追加確認",
+    "status": "確認済み",
     "content_reviewed": true,
     "source_v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
     "stem": "海外生活から帰国した後、自国の文化に再適応する際に生じる戸惑いも含めて、異文化適応の過程をより複雑な曲線で描くモデルの説明として最も適当なものを選べ。",
@@ -20816,20 +20830,22 @@
     "machine_flags": [],
     "independent_answer": 4,
     "option_verdicts": [
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）",
-      "誤答候補（所見と資料照合待ち）",
-      "正答候補"
+      "誤：帰国後を含まない",
+      "誤：語数の問題",
+      "誤：語順比較",
+      "正：案内のWモデル"
     ],
     "candidate_answers": [],
-    "multiple_correct_risk": "未確定（所見参照）",
-    "no_correct_risk": "正答候補あり・追加照合未了",
-    "fixes_applied": false,
-    "stem_review": "設問・4選択肢を全文精読し各選択肢の分類を独立比較。",
-    "explanation_review": "4解説を精読し用語と補助的定義の精密性を点検。",
-    "sources": [],
-    "reason": "W4候補。1形式指導2授業構成3逆設計とは違い。適応が全員同順序とはしない。",
-    "unresolved": "原資料照合と必要修正・修正後再判定を行う。"
+    "multiple_correct_risk": "なし：設問条件に合うのは4のみ",
+    "no_correct_risk": "なし：4は取得本文と設問条件に整合",
+    "fixes_applied": true,
+    "stem_review": "モデル・資料・対象範囲を明示し、全4肢と正答の一意性を照合。",
+    "explanation_review": "全4解説を取得本文へ照合。引用先全原著・普遍的因果や個人の心理診断へ拡張しない。",
+    "sources": [
+      "S277"
+    ],
+    "reason": "同案内のモデル名称と帰国後の説明を本文照合。未取得の別教授法・設計理論の定義を誤答解説に残さず、各肢を本問のモデル対象の違いで説明。",
+    "unresolved": ""
   },
   {
     "id": "Q_M_019",

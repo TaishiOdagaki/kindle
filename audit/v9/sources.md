@@ -1101,3 +1101,13 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 - S274 https://www.mext.go.jp/content/20240412-mxt_nihongo01-000034783_3.pdf — ガイドライン全3頁Web本文取得精読。1（1）〜（3）、2（6）・注1。
 - S275 https://www.moj.go.jp/isa/content/001444852 — 技人国の実務経験基準の大学卒業者例外を検索掲載本文で取得。status/gijinkokuと提出一覧001457164.pdfの該当項も照合。原バイト未取得。
 - S276 https://www.jpf.go.jp/j/project/japanese/education/training/epa/ — 実施主体公式事業定義段落をWeb取得精読。全研修制度の検証ではない。
+
+
+## 第194バッチ
+
+- S277 https://cip.kzoo.edu/parent-faqs/ — The W Curve節の留学中・帰国後の二つの質問への全回答をWeb本文取得精読。1963原著全体とは区別。
+- S278 https://files.eric.ed.gov/fulltext/ED088855.pdf — Flanders原稿全16頁の原バイト取得、印刷3〜5頁と表1本文精読。番号は評点ではなく分類。
+- S279 https://onlinelibrary.wiley.com/doi/10.1111/j.1467-1770.1974.tb00502.x — Schachter1974出版社掲載著者要旨全2段落を取得精読。論文全本文未取得。
+- S280 https://www.researchgate.net/publication/267305922_Modelling_Second_Language_Performance_Integrating_Complexity_Accuracy_Fluency_and_Lexis — Skehan2009著者公開原論文本文の導入510〜511頁、要旨、正確さ・複雑さ共上昇の条件を精読。
+- S281 https://wrap.warwick.ac.uk/id/eprint/182750/8/WRAP-teachers-guide-foundations-teaching-English-2023.pdf — 著者リポジトリの2023報告書PDF74〜75頁Topic11本文精読。Gardner原著は404未取得。
+- S282 https://jalt-publications.org/tlt/articles/2090-test-purposes — Basic Testing Terminology節の離散的・統合的項目とディクテーション例を取得精読。引用原著全体は未取得。
