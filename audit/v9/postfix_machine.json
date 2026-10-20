@@ -6,7 +6,7 @@
   "unmodified_questions_unchanged": true,
   "changed_questions": 493,
   "case_replacements": 25,
-  "replacements": 4314,
+  "replacements": 4315,
   "issues": [
     [
       "S2",
@@ -801,7 +801,7 @@
     [
       "V1",
       "表記ゆれ",
-      "{'モダリティ': 7, 'ムード': 3}"
+      "{'モダリティ': 8, 'ムード': 4}"
     ]
   ],
   "statistics": {

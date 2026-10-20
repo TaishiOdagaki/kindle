@@ -1,0 +1,52 @@
+{
+  "batch": 202,
+  "base_remote_commit": "bc373c1326a7efdac27e49df3999ae64972800fb",
+  "source": {
+    "id": "S67",
+    "title": "井上優 モダリティ",
+    "url": "https://www2.ninjal.ac.jp/takoni/DGG/09_modarityi.pdf",
+    "retrieved": "2026-10-20",
+    "pages": 18,
+    "sha256": "de7e099ccc0e484fe60a68df13896c2576301297ef45414d668a5340ccbdd3c0",
+    "bytes": 413848,
+    "body_read": "印刷133～135頁/PDF1～3の全本文。133頁のムードの狭い用法、134頁の二群と学説差の留保。"
+  },
+  "edited_block": "APPENDIX_GLOSSARY",
+  "edits": 1,
+  "question_edits": 0,
+  "all_500_question_answer_text_unchanged": true,
+  "decisions_and_ledger_unchanged": true,
+  "total_edits": 4315,
+  "raw_machine_warnings": 159,
+  "warning_disposition": {
+    "code": "V1",
+    "result": "用語範囲の留保を用語集へ反映。指定資料の用語差であり一括置換しない。",
+    "reason": "S67はモダリティの別称としてムードを挙げつつ、ムードを述語形態に限る用法も注記。両語が登場すること自体を表記ゆれの誤りとはしない。"
+  },
+  "prior_dispositions_revalidated": 39,
+  "revalidation": "全500問の設問・全肢・既存正答・全解説が前稿と同一。第200・201の文脈照合理由は維持。T3対象を含む全段落はこの用語集1箇所を除き同一。",
+  "total_disposed_warnings": 40,
+  "remaining_unreviewed_warning_instances": 119,
+  "remaining_codes": {
+    "P1": 119
+  },
+  "docx_sha256": "fbcc7c5c8d2e588baf24fe84c51ba5af820568d0748c6f1c56e9db8f496203e5",
+  "pdf_sha256": "5b333d5653befefb822afceca93f8d3846ffb39817399c78ff48664585005cb8",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "render_pages": 351,
+  "visually_reviewed_pages": [
+    350
+  ],
+  "page_sha256": {
+    "350": "3b3ca699a69a14d29b1ae0a24a372c7c2206d6d373eff615e6e93954b8267fdc"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "render_revision": "qa202b 最終の変更箇所描画",
+  "glossary_style_checked": {
+    "head_bold": true,
+    "explanation_bold": false
+  },
+  "style_fix": "初回qa202で説明まで太字になったためglossary_head属性を変更記録へ追加。v9_rebuildはこの属性のある改訂だけ見出しと本文のランを分ける。再描画後に画像確認。",
+  "regression": "readiness8・replacement4・block-contextの過去document.xml一致を検査済み。全500問本文の前稿同一を追加比較。"
+}

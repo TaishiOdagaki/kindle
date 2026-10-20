@@ -6,6 +6,7 @@ from docx import Document
 from docx.oxml.ns import qn
 import v9_apply_batch1 as b
 import quiz_audit as qa
+from copy import deepcopy
 cs=json.loads((b.OUT/'changes.json').read_text())
 assert hashlib.sha256(b.SRC.read_bytes()).hexdigest()==b.EXPECTED
 doc=Document(b.SRC)
@@ -42,6 +43,15 @@ for c in cs:
    texts[i]=None
   else:
    assert b.replace_paragraph(p,old,c['after'])
+   if c.get('glossary_head'):
+    head=c['glossary_head'];assert p.text==c['after'] and p.text.startswith(head+'　')
+    first=next(r for r in p.runs if r.text)
+    for run in p.runs:run.text=''
+    first.text=head;first.bold=True
+    body=p.add_run(c['after'][len(head):])
+    if first._element.rPr is not None:body._element.insert(0,deepcopy(first._element.rPr))
+    body.bold=False
+    assert p.text==c['after']
    texts[i]=p.text
 # Keep the previous valid draft until all structure/content checks pass.
 # A failed or interrupted ZIP write must not truncate the saved draft.

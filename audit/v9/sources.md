@@ -1163,3 +1163,8 @@ S279・S285は原著本文未取得のため該当2問を再開。取得URL・SH
 [S149 Celce-Murcia Dörnyei Thurrell 1995 Communicative Competence A Pedagogically Motivated Model with Content Specifications](https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true)。全16PDF頁を再取得。印刷26～29頁の全本文と表5原画像を直接精読。27頁の方略説明と28頁表5の四区分を全肢全解説に照合。Schachter1974の研究データ検証を完了したとはしない。
 
 S279・S285の未取得原著を取得済みに変更せず、該当設問を同領域で差替え。本文のハッシュ・サイズ・精読範囲はevidence/batch199_sources.json。
+
+
+## 第202バッチ S67用語集への適用
+
+[井上優「モダリティ」](https://www2.ninjal.ac.jp/takoni/DGG/09_modarityi.pdf)全18頁を2026-10-20再取得。印刷133～135頁の全本文を精読し、モダリティの二群とムードの別称／形態への限定用法を用語集へ反映。全学説共通の唯一の定義にはしない。取得バイト・SHA256はevidence/batch202_review.json。
