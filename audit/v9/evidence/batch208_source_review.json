@@ -1,0 +1,97 @@
+{
+  "batch": 208,
+  "date": "2026-10-21",
+  "base_remote_commit": "e1532b5ecac436ae08997b32fa18d1fd993a0f16",
+  "work_type": "一次資料本文照合と改訂案の保存のみ。DOCXは変更しない。",
+  "environment": {
+    "status": "temporarily_unavailable",
+    "observed_error": "No usable execution environment is available. Wait for an environment to become available before using this tool.",
+    "consequence": "第207ローカル成果物を取得・送信できず、DOCX再構成・全問機械検査・画像QAは本チェックポイントで実施できない。接続済みGitHubとWeb取得は利用可能。"
+  },
+  "sources": [
+    {
+      "id": "S301",
+      "author": "宇佐美洋",
+      "title": "「稲妻」は「いなずま」ですか、それとも「いなづま」ですか",
+      "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-121/",
+      "published": "2021-10-13",
+      "original_publication": "新「ことば」シリーズ17号（2004）に若干の修正",
+      "retrieved": "2026-10-21",
+      "acquisition": "Web openにより署名・初出注記・全回答本文・参考文献欄を取得し精読。検索抜粋のみではない。",
+      "locations": "「原則的には『ず』を使用」の連濁の定義と鼻＋血の例、「語構成」の明瞭さの鼻血の分解。",
+      "independent_judgment": "後項の清音ちと複合後のぢの対応を示せる。花火の元稿のびから清音への変化を説明したことにせず、原典が直接示す別例に差替える案。",
+      "limits": "現代仮名遣い告示や参考文献の全文は今回未取得。全連濁規則や稲妻表記に関する追加主張の承認には使わない。"
+    },
+    {
+      "id": "S193",
+      "title": "WHO Burn-out an occupational phenomenon FAQ",
+      "url": "https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon",
+      "retrieved": "2026-10-21",
+      "acquisition": "Web openにより全定義本文を取得・精読。",
+      "locations": "非疾患分類、慢性的職場ストレス、三側面、職業場面限定と他領域への非適用の全段落。",
+      "independent_judgment": "一般的な長期ストレスや疲労のみの用語集説明では指定WHO定義の範囲が不明確。定義体系を明示し三側面を含める案を作成。Q_M_019の既存判断と整合。",
+      "limits": "診断・治療・予防の指示ではない。学習者などのバーンアウト概念全体との比較は未取得。"
+    }
+  ],
+  "proposals": [
+    {
+      "term": "役割語",
+      "id": "APPENDIX_GLOSSARY",
+      "field": "glossary",
+      "index": null,
+      "before": "役割語　特定のキャラクター像を想起させる、フィクション上の特徴的な話し方。",
+      "after": "役割語　特定の言葉遣いと人物像とのステレオタイプ的な結び付き。言葉遣いから人物像を、人物像からその人らしい言葉遣いを連想する。フィクションに限られず、現実の会話にも関わる。",
+      "sources": [
+        "S201"
+      ],
+      "glossary_head": "役割語",
+      "applied": false,
+      "reason": "第207の未送信作業でS201全8頁を正常取得（3390457 bytes、SHA256 3987f26367275100d48699b48b4135fee2b42ddec9ee774403e594bd4a87883a）。印刷34・36・38～39頁を画像精読し、双方向の連想と現実の会話への関係を照合。原稿へ反映し351頁中変更350頁を画像確認したが、そのローカルコミットa303e1cとDOCXはGitHub未送信。環境復旧後は原バイト/原画像を再取得し累積稿を再構成して再QAする。"
+    },
+    {
+      "term": "連濁",
+      "id": "APPENDIX_GLOSSARY",
+      "field": "glossary",
+      "index": null,
+      "before": "連濁　複合語形成の際、後部要素の語頭の清音が濁音に変化する現象（例：「はな」+「び」）。",
+      "after": "連濁　複合語の後部要素の最初の清音が濁音に変わる現象。例：「鼻（はな）」＋「血（ち）」→「鼻血（はなぢ）」。",
+      "sources": [
+        "S301"
+      ],
+      "glossary_head": "連濁",
+      "applied": false,
+      "reason": "旧例は後項を既に濁ったびと書き、清音からの変化を示せない。国語研の著者署名記事本文が直接示す鼻＋血の例へ差替える案。一般に必ず連濁するとの法則に拡張しない。"
+    },
+    {
+      "term": "バーンアウト",
+      "id": "APPENDIX_GLOSSARY",
+      "field": "glossary",
+      "index": null,
+      "before": "バーンアウト（燃え尽き症候群）　長期のストレスや過度な負担により意欲を失い、心身が疲弊する状態。",
+      "after": "バーンアウト（燃え尽き症候群）　WHOのICD-11での位置付けでは、対処できていない慢性的な職場ストレスに関連する職業上の現象。疲弊、仕事への心理的距離の増大や否定的態度、職業上の効力感の低下という三側面で特徴付けられ、医学的疾患とは分類しない。この定義は生活の他領域の経験には適用しない。",
+      "sources": [
+        "S193"
+      ],
+      "glossary_head": "バーンアウト（燃え尽き症候群）",
+      "applied": false,
+      "reason": "WHO公式FAQの定義本文全体を再取得して確認。職業場面・三側面・非疾患分類を明示し、Q_M_019と範囲を一致させる案。一般心理学や学習者バーンアウト研究全般を同じ定義とみなさず、個人の診断基準を示さない。"
+    }
+  ],
+  "canonical_state": {
+    "confirmed_questions": 500,
+    "question_repairs": 0,
+    "additional_question_checks": 0,
+    "cumulative_changes": 4316,
+    "modified_questions": 493,
+    "raw_machine_warnings": 159,
+    "undisposed_warnings": 0,
+    "current_docx_sha256": "190e6d900fb6331155c35a515b5118b88766e3f594d64eaebda1d3982fdc648c",
+    "draft_changed": false,
+    "decisions_changed": false,
+    "ledger_changed": false,
+    "full_visual_qa_completed": false,
+    "release_ready": false
+  },
+  "recovery": "evidence/batch207_pending_recovery.md",
+  "large_file_read_failure": "changes.jsonはGitHub Fetchがtoo large or unsupportedで拒否。第206のコミットと既存記録を引き継ぐが、巨大JSONを取得済みとはしない。作業環境復旧後にgit fetchし累積稿を再構成する。"
+}
