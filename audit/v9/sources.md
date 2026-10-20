@@ -1121,3 +1121,14 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 - S286 https://www.tufs.ac.jp/tufstoday/topics/tufsfeatured/14090101.html — TUFS2014当事者インタビューの役割・養成背景・法律相談実践の本文取得精読。
 - S287 https://www.cambridgeenglish.org/educators-organisations/professional-development/teaching-qualifications/delta/ — 事業主体公式案内の三モジュール・任意順序と組合せ。検索掲載本文で取得精読。全ハンドブックではない。
 - S288 https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-155/ — 笹原宏之本人の掲載解説全文を取得精読。2002初出2022軽微修正。
+
+
+## 第196バッチ
+
+- S289 https://ich.unesco.org/doc/src/00120-EN.pdf — 専門家グループ2003原報告印刷13〜14頁Factor7本文と表を検索掲載本文で取得精読。直接PDFは取得障害。
+- S290 https://www.cuny-nysieb.org/developing-students-identities-as-bilingual-readers-and-writers/ — Aponte/Ascenzi Moreno作成資源、第1原則中心に本文精読。
+- S291 https://www.coe.int/en/web/learning-resources/-/what-are-intercultural-competences- — 当事者研修紹介全文を取得精読。リンク先研修全PDFではない。
+- S292 https://repository.ninjal.ac.jp/record/2023/files/kk_ngkgk_005_02.pdf — 1999著者原論文21PDF頁原バイト取得。印刷27頁2.1〜2.2原画像を精読。
+- S293 https://www.teachingenglish.org.uk/professional-development/teachers/planning-lessons-and-courses/online-storytelling-engaging — Heathfield本人記事Before/After telling本文取得精読。
+- S294 https://www.jstage.jst.go.jp/article/kotoba/38/0/38_46/_pdf — 髙橋・谷部・本田2017原論文印刷50頁4.2著者定義をWeb本文取得精読。
+- S183 https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf — 取得済み原PDFの印刷22頁Interaction項再精読。

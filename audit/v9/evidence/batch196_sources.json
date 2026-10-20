@@ -1,0 +1,45 @@
+[
+  {
+    "id": "S289",
+    "url": "https://ich.unesco.org/doc/src/00120-EN.pdf",
+    "review": "専門家グループ2003原報告印刷13〜14頁Factor7本文と表を検索掲載本文で取得精読。直接PDFは取得障害。",
+    "source_images_inspected": false
+  },
+  {
+    "id": "S290",
+    "url": "https://www.cuny-nysieb.org/developing-students-identities-as-bilingual-readers-and-writers/",
+    "review": "Aponte/Ascenzi Moreno作成資源、第1原則中心に本文精読。",
+    "source_images_inspected": false
+  },
+  {
+    "id": "S291",
+    "url": "https://www.coe.int/en/web/learning-resources/-/what-are-intercultural-competences-",
+    "review": "当事者研修紹介全文を取得精読。リンク先研修全PDFではない。",
+    "source_images_inspected": false
+  },
+  {
+    "id": "S292",
+    "url": "https://repository.ninjal.ac.jp/record/2023/files/kk_ngkgk_005_02.pdf",
+    "review": "1999著者原論文21PDF頁原バイト取得。印刷27頁2.1〜2.2原画像を精読。",
+    "source_images_inspected": true,
+    "sha256": "1409fcacf41a38127970e12e6c9b837a3e623feaf237495456b55972dc0c561e"
+  },
+  {
+    "id": "S293",
+    "url": "https://www.teachingenglish.org.uk/professional-development/teachers/planning-lessons-and-courses/online-storytelling-engaging",
+    "review": "Heathfield本人記事Before/After telling本文取得精読。",
+    "source_images_inspected": false
+  },
+  {
+    "id": "S294",
+    "url": "https://www.jstage.jst.go.jp/article/kotoba/38/0/38_46/_pdf",
+    "review": "髙橋・谷部・本田2017原論文印刷50頁4.2著者定義をWeb本文取得精読。",
+    "source_images_inspected": false
+  },
+  {
+    "id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "review": "取得済み原PDFの印刷22頁Interaction項再精読。",
+    "source_images_inspected": false
+  }
+]
