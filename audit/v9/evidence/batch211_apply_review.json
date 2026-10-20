@@ -1,0 +1,96 @@
+{
+  "batch": 211,
+  "date": "2026-10-21",
+  "base_remote_commit": "f8520fe64b918d5cf25911c1a42a31aec55ed908",
+  "scope": "適用待ちだった出典照合済み用語集5項目を累積稿へ反映し、500問本文・正答・機械警告の不変性を検証。",
+  "applied_terms": [
+    "役割語",
+    "連濁",
+    "バーンアウト",
+    "リキャストとプロンプト",
+    "ディクトグロス"
+  ],
+  "sources": [
+    [
+      "S201"
+    ],
+    [
+      "S301"
+    ],
+    [
+      "S193"
+    ],
+    [
+      "S126"
+    ],
+    [
+      "S104"
+    ]
+  ],
+  "changes_added": 5,
+  "cumulative_changes": 4321,
+  "modified_questions": 493,
+  "previous_docx_sha256": "190e6d900fb6331155c35a515b5118b88766e3f594d64eaebda1d3982fdc648c",
+  "current_docx_sha256": "966e1c22c2be017b191c4ae50f23ec1fd4e6a6905bc8a086c77b7dc7bcff1329",
+  "paragraph_differences": [
+    {
+      "paragraph_index": 7302,
+      "before": "ディクトグロス　教師の発話を書き取り、グループで話し合いながら文章を再構成させる活動。",
+      "after": "ディクトグロス　短いテキストを聞いてキーワードをメモし、そのメモを基に文章を再構成する活動。逐語的な書き取りではなく、典型例では再度聞いてメモした後、グループで再構成する。"
+    },
+    {
+      "paragraph_index": 7308,
+      "before": "バーンアウト（燃え尽き症候群）　長期のストレスや過度な負担により意欲を失い、心身が疲弊する状態。",
+      "after": "バーンアウト（燃え尽き症候群）　WHOのICD-11での位置付けでは、対処できていない慢性的な職場ストレスに関連する職業上の現象。疲弊、仕事への心理的距離の増大や否定的態度、職業上の効力感の低下という三側面で特徴付けられ、医学的疾患とは分類しない。この定義は生活の他領域の経験には適用しない。"
+    },
+    {
+      "paragraph_index": 7318,
+      "before": "役割語　特定のキャラクター像を想起させる、フィクション上の特徴的な話し方。",
+      "after": "役割語　特定の言葉遣いと人物像とのステレオタイプ的な結び付き。言葉遣いから人物像を、人物像からその人らしい言葉遣いを連想する。フィクションに限られず、現実の会話にも関わる。"
+    },
+    {
+      "paragraph_index": 7319,
+      "before": "リキャストとプロンプト　誤りを正しい形に言い直すリキャストと、気づきを促すプロンプトという、異なる誤用訂正の方法。",
+      "after": "リキャストとプロンプト　LysterとMori（2006）の分類では、リキャストは学習者の発話の全部または一部を暗示的に言い換え、目標となる形を示す。プロンプトは正しい形を与えず、誘導や明確化要求などの手掛かりで学習者自身の言い直しを促す。いずれも、使っただけで修正や習得が保証されるわけではない。"
+    },
+    {
+      "paragraph_index": 7323,
+      "before": "連濁　複合語形成の際、後部要素の語頭の清音が濁音に変化する現象（例：「はな」+「び」）。",
+      "after": "連濁　複合語の後部要素の最初の清音が濁音に変わる現象。例：「鼻（はな）」＋「血（ち）」→「鼻血（はなぢ）」。"
+    }
+  ],
+  "question_objects_unchanged": true,
+  "answer_objects_unchanged": true,
+  "machine_issues_unchanged": true,
+  "raw_machine_warnings": 159,
+  "undisposed_machine_warnings": 0,
+  "v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
+  "v8_expected_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
+  "v8_unchanged": true,
+  "layout_adjustment": {
+    "scope": "頻出用語集の全項目",
+    "change": "段落後余白を5.0ptから3.5ptへ変更。本文・フォント・行間は不変。",
+    "reason": "追加説明により末尾の連濁だけが単独頁へ送られたため。351頁構成を維持し、孤立頁を解消。"
+  },
+  "render": {
+    "pages": 351,
+    "font": "Noto Sans CJK JP variable fontを静的化したQA専用コピー",
+    "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+    "fallback_sha256": "19e72cd8d595fae5bd74a5206f5d938512e1183d4fed7abb1ec1be1d7efa5f88",
+    "cjk_unique_characters": 1379,
+    "cjk_missing": 0,
+    "affected_pages": [349, 350],
+    "adjacent_page_checked": 351,
+    "result": "欠字・重なり・切れ・不自然な孤立頁なし。用語集末尾とあとがきの改頁を直接画像確認。"
+  },
+  "render_pending": false,
+  "changed_pages_visual_qa_completed": true,
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "remaining": [
+    "用語集・前付け・ケース・索引の残る横断点検",
+    "問題本文を含む全体の改頁調整",
+    "編集後の最終機械検査",
+    "最終全頁画像QA"
+  ]
+}

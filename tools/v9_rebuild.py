@@ -4,6 +4,7 @@ import hashlib,html,json,zipfile,os,tempfile
 from pathlib import Path
 from docx import Document
 from docx.oxml.ns import qn
+from docx.shared import Pt
 import v9_apply_batch1 as b
 import quiz_audit as qa
 from copy import deepcopy
@@ -53,6 +54,18 @@ for c in cs:
     body.bold=False
     assert p.text==c['after']
    texts[i]=p.text
+# Keep the appendix glossary together without changing its font or wording.
+# Source-verified definitions added in batches 202--211 made the final entry
+# spill onto a page by itself.  Reducing only the glossary paragraph-after
+# spacing from 5.0 pt to 3.5 pt preserves the established three-page appendix
+# while keeping clear separation between adjacent entries.
+glossary_heading='頻出用語集（50音順）'
+afterword_heading='あとがき'
+g=[i for i,t in enumerate(texts) if t==glossary_heading]
+a=[i for i,t in enumerate(texts) if t==afterword_heading and i>g[0]]
+assert len(g)==1 and len(a)==1
+for i in range(g[0]+1,a[0]):
+ if texts[i]:paragraphs[i].paragraph_format.space_after=Pt(3.5)
 # Keep the previous valid draft until all structure/content checks pass.
 # A failed or interrupted ZIP write must not truncate the saved draft.
 fd,stage_name=tempfile.mkstemp(prefix='.v9_rebuild-',suffix='.docx',dir=b.DST.parent)
