@@ -1,0 +1,46 @@
+[
+  {
+    "source_id": "S256",
+    "title": "国語研 擬音語・擬態語にはどんな種類がある",
+    "url": "https://www2.ninjal.ac.jp/Onomatope/column/nihongo_1.html",
+    "retrieved": "2026-10-20",
+    "sha256": "53420176b61fbdd5097b92137cbaf4dd9271a63cd02b32d022ab60a0b53c58fd",
+    "bytes": 7892,
+    "body_read": "本文全体・5分類・全例・参考文献。金田一1978を紹介する公的教材として利用し原著1978全文取得とは区別。複数意味分類と文脈条件に限定。",
+    "method": "公的HTML原バイト直接取得とWeb open全本文の対応を確認・精読",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S257",
+    "title": "三井はるみ 方言というのはどのようなことばのことですか",
+    "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-137/",
+    "retrieved": "2026-10-20",
+    "sha256": "722d1d24730a72598f370c0d862314133de61b0fb5160058677e33f0e42da8cb",
+    "bytes": 118416,
+    "body_read": "2021-07-13掲載、2003初出の修正版。本文全3節と留保・参考文献。ことば全体・東京方言・共通語との正誤関係・地域内の多様性。現在の全地域の使用率や原著全冊の検証ではない。",
+    "method": "公的HTML原バイト直接取得とWeb open全本文の対応を確認・精読",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S258",
+    "title": "小椋秀樹 方言には古語が残っているというのは本当ですか",
+    "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-151/",
+    "retrieved": "2026-10-20",
+    "sha256": "583e59f8ffec9192efcf381389f8c54210f1188ff1122ec1be4ee3c8a32115d3",
+    "bytes": 116402,
+    "body_read": "2022-06-27掲載、2003初出修正版。本文全2節・図説明と柳田の著作への言及。周圏論という説明の条件と新旧の方向、古語残存に限定。柳田蝸牛考全文・引用史料全体は未取得。",
+    "method": "公的HTML原バイト直接取得とWeb open全本文の対応を確認・精読",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S259",
+    "title": "三井はるみ 日本語にはどうしていろいろな方言があるのですか",
+    "url": "https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-190/",
+    "retrieved": "2026-10-20",
+    "sha256": "de5e3eb609d6a5752c65fb50f5feaef4d0fa8992591d98056bb70b019b3ab445",
+    "bytes": 121904,
+    "body_read": "2022-08-24掲載、2001初出修正版。本文全体・伝播と独自変化の二要因・複合要因・言語成立未定説の留保、図説明と参考文献。各地図の現物再解析や現行全話者の分布の確認ではない。",
+    "method": "公的HTML原バイト直接取得とWeb open全本文の対応を確認・精読",
+    "full_source_redistributed": false
+  }
+]

@@ -1043,3 +1043,16 @@ S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization
 [S255 Hofstede原著者論文](https://pressbooks.bccampus.ca/knowinghome/wp-content/uploads/sites/1628/2021/06/module1dimenread03dimensionalizingcultures.pdf)。原著者Geert Hofstede, Dimensionalizing Cultures: The Hofstede Model in Context, Online Readings in Psychology and Culture 2(1), 2011, DOI10.9707/2307-0919.1014。26頁PDF取得。本文6・8・11頁の画像を直接精読。国と個人の分析レベルの区別、8頁の次元一覧と個人類型化への警告、11頁の社会特性としての集団への統合の定義を照合。全26頁精読、現在の国別得点、表3の言語・教育等の一般化は承認していない。大学教材サイト上の原著者論文転載版で、教材の要約を根拠にしたものではない。
 
 原PDF・OCR全文非転載。ハッシュ・取得範囲はevidence/batch187_sources.json。
+
+
+## 第188バッチ S256 S257 S258 S259
+
+[S256 国語研 擬音語・擬態語にはどんな種類がある](https://www2.ninjal.ac.jp/Onomatope/column/nihongo_1.html)。本文全体・5分類・全例・参考文献。金田一1978を紹介する公的教材として利用し原著1978全文取得とは区別。複数意味分類と文脈条件に限定。
+
+[S257 三井はるみ 方言というのはどのようなことばのことですか](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-137/)。2021-07-13掲載、2003初出の修正版。本文全3節と留保・参考文献。ことば全体・東京方言・共通語との正誤関係・地域内の多様性。現在の全地域の使用率や原著全冊の検証ではない。
+
+[S258 小椋秀樹 方言には古語が残っているというのは本当ですか](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-151/)。2022-06-27掲載、2003初出修正版。本文全2節・図説明と柳田の著作への言及。周圏論という説明の条件と新旧の方向、古語残存に限定。柳田蝸牛考全文・引用史料全体は未取得。
+
+[S259 三井はるみ 日本語にはどうしていろいろな方言があるのですか](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-190/)。2022-08-24掲載、2001初出修正版。本文全体・伝播と独自変化の二要因・複合要因・言語成立未定説の留保、図説明と参考文献。各地図の現物再解析や現行全話者の分布の確認ではない。
+
+原HTML本文全体非転載。原バイトハッシュ・サイズ・精読範囲はevidence/batch188_sources.json、未取得はbatch188_source_attempts.json。
