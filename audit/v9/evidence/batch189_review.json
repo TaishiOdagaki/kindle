@@ -1,0 +1,116 @@
+{
+  "batch": 189,
+  "base_remote_commit": "2ca1afad87cb60207430b7df06a327d95f87d453",
+  "fully_rejudged": [
+    "Q_2_018",
+    "Q_3_007"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_2_018": 1,
+    "Q_3_007": 3
+  },
+  "sources": [
+    "S260"
+  ],
+  "status_counts": {
+    "確認済み": 453,
+    "修正必要": 0,
+    "要追加確認": 47
+  },
+  "remaining": 47,
+  "machine_warnings": 140,
+  "added_warnings": [
+    [
+      "D2",
+      "Q_3_007",
+      "解説の並びが入れ替わっている疑い (3, 1, 2, 4)"
+    ]
+  ],
+  "removed_warnings": [
+    [
+      "A1",
+      "Q_3_007",
+      "正解選択肢3に断定語、他に断定語なし2つ以上"
+    ]
+  ],
+  "machine_warning_review": "Q_3_007の新規D2を全4肢と全4解説で個別確認。1は結束性の誤定義、2は一貫性の誤定義をそれぞれ同じ番号で訂正し、3は両概念の区別、4は単一発話への限定を否定しており順序は正しい。対概念を誤答説明にも用いる文字列類似の疑いとして記録し、自動的に無視したり本文を警告回避目的で変更しない。",
+  "regressions": "readiness8; replacement4; block-context passed in this run",
+  "render_pages": 355,
+  "visually_reviewed_pages": [
+    25,
+    33,
+    34,
+    198,
+    207
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      25
+    ],
+    "1": [
+      25
+    ],
+    "2": [
+      25
+    ],
+    "3": [
+      25
+    ],
+    "4": [
+      25
+    ],
+    "5": [
+      198
+    ],
+    "6": [
+      198
+    ],
+    "7": [
+      198
+    ],
+    "8": [
+      198
+    ],
+    "9": [
+      33
+    ],
+    "10": [
+      33
+    ],
+    "11": [
+      33
+    ],
+    "12": [
+      34
+    ],
+    "13": [
+      34
+    ],
+    "14": [
+      207
+    ],
+    "15": [
+      207
+    ],
+    "16": [
+      207
+    ],
+    "17": [
+      207
+    ]
+  },
+  "docx_sha256": "cbeda2c7ae327c1c5b44e474cd313c34804b224027ba8f838e86a4d928ad8cff",
+  "pdf_sha256": "cb67cd1188cea92fe54d88c8f358eb4801dd0d83688f2227e8d6a85eb31d6a37",
+  "font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+  "page_sha256": {
+    "25": "45d7fd736c99ddbcb58c1c3ac100120535cc467b10257300efa112ad5c350c28",
+    "33": "53ae8f6a17941030ee22fcd2ca34afc991ab1a3551e1dedf81d0aa16e1d02f77",
+    "34": "be80dd34239c0be4875f05b9e4c7bf0a1161eb475cbbed8a75d20bc8f67115b5",
+    "198": "9aa71030f100ac22959eeb2ca64911d9bfbe150e2fc5481377b95f9d7c7ed7fb",
+    "207": "b67a4d949e99775157180a0e37242f96bfc405add3c7561a0c1a19fc8f061e6a"
+  },
+  "image_retry": "25頁PNGを直接確認。33頁PNG読込失敗後、同一PDFの33・34・198・207頁を1800px JPEGで再生成し全4画像を直接目視確認。",
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}

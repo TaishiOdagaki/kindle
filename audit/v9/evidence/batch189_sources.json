@@ -1,0 +1,33 @@
+{
+  "source_id": "S260",
+  "retrieved": "2026-10-20",
+  "landing_url": "https://djvu.online/file/cGlEHZTi5twtH",
+  "body_read": "Canale Michael and Swain Merrill 1980, Theoretical Bases of Communicative Approaches to Second Language Teaching and Testing, Applied Linguistics I(1),1–47, DOI10.1093/applin/I.1.1。第三者公開の原論文スキャンを掲載ページからたどり印刷1・29・30・31頁の原画像を通常直接取得し直接精読。学説の要約・検索抜粋ではない。本文29頁の文法能力、30頁の社会言語学的能力と談話規則・結束性/一貫性・ストラテジー能力、31頁への続き・3要素・理論段階の留保を照合。論文全47頁や1983年Canale原著、Halliday Hasan1976等の引用原著は未取得。",
+  "images": [
+    {
+      "printed_page": 1,
+      "url": "https://djvu.online/jpg2/c/G/l/cGlEHZTi5twtH/002.webp",
+      "sha256": "1e257f908fcde30859f203d48a500a3ae4eb5a9bcc5927f6cabc1d8ebefcf9d5",
+      "bytes": 129962
+    },
+    {
+      "printed_page": 29,
+      "url": "https://djvu.online/jpg2/c/G/l/cGlEHZTi5twtH/030.webp",
+      "sha256": "33798830205d2b52ee94221ca5160a85335940c9b6adba7c34bdeab1304b43f5",
+      "bytes": 156772
+    },
+    {
+      "printed_page": 30,
+      "url": "https://djvu.online/jpg2/c/G/l/cGlEHZTi5twtH/031.webp",
+      "sha256": "2a125532af398a00995b84192dad5c55b407587ea8b75c71bb399b4a6ada0c94",
+      "bytes": 155694
+    },
+    {
+      "printed_page": 31,
+      "url": "https://djvu.online/jpg2/c/G/l/cGlEHZTi5twtH/032.webp",
+      "sha256": "73ee29708bce500ac3986afe45a99d18b0035338882ace00ae829b137e8dae00",
+      "bytes": 150772
+    }
+  ],
+  "full_source_redistributed": false
+}

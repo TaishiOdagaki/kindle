@@ -1056,3 +1056,10 @@ S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization
 [S259 三井はるみ 日本語にはどうしていろいろな方言があるのですか](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-190/)。2022-08-24掲載、2001初出修正版。本文全体・伝播と独自変化の二要因・複合要因・言語成立未定説の留保、図説明と参考文献。各地図の現物再解析や現行全話者の分布の確認ではない。
 
 原HTML本文全体非転載。原バイトハッシュ・サイズ・精読範囲はevidence/batch188_sources.json、未取得はbatch188_source_attempts.json。
+
+
+## 第189バッチ S260
+
+[S260 Canale Swain1980原論文の公開ページ画像](https://djvu.online/file/cGlEHZTi5twtH)。Canale Michael and Swain Merrill 1980, Theoretical Bases of Communicative Approaches to Second Language Teaching and Testing, Applied Linguistics I(1),1–47, DOI10.1093/applin/I.1.1。第三者公開の原論文スキャンを掲載ページからたどり印刷1・29・30・31頁の原画像を通常直接取得し直接精読。学説の要約・検索抜粋ではない。本文29頁の文法能力、30頁の社会言語学的能力と談話規則・結束性/一貫性・ストラテジー能力、31頁への続き・3要素・理論段階の留保を照合。論文全47頁や1983年Canale原著、Halliday Hasan1976等の引用原著は未取得。
+
+画像ごとの取得URL・SHA256・サイズ・印刷頁はevidence/batch189_sources.json。原画像・原論文全体非転載。取得段階の区別はbatch189_source_attempts.json。
