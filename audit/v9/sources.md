@@ -1036,3 +1036,10 @@ S253 [Edward T Hall Beyond Culture 原著スキャン](https://monoskop.org/imag
 S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization of Turn Taking for Conversation 原論文](https://www.conversationanalysis.org/wp-content/uploads/2019/06/04_Sacks_Schegloff_Jefferson_A_simplest_systematics_fir_the_organization_of_turn-taking_for_conversation_Language_.pdf)。Language50(4)696～735頁。取得40頁、696・702～704頁（PDF1・7～9）の本文・脚注・会話例を画像精読しOCR補助。順番構成・配分と規則1a～c・2の条件を確認。全論文精読や全言語・全場面の普遍則の承認ではない。
 
 原PDF・OCR全文非転載。取得ハッシュと精読範囲はevidence/batch186_sources.json、再構成・破損ファイル不採用はbatch186_source_attempts.json。
+
+
+## 第187バッチ S255
+
+[S255 Hofstede原著者論文](https://pressbooks.bccampus.ca/knowinghome/wp-content/uploads/sites/1628/2021/06/module1dimenread03dimensionalizingcultures.pdf)。原著者Geert Hofstede, Dimensionalizing Cultures: The Hofstede Model in Context, Online Readings in Psychology and Culture 2(1), 2011, DOI10.9707/2307-0919.1014。26頁PDF取得。本文6・8・11頁の画像を直接精読。国と個人の分析レベルの区別、8頁の次元一覧と個人類型化への警告、11頁の社会特性としての集団への統合の定義を照合。全26頁精読、現在の国別得点、表3の言語・教育等の一般化は承認していない。大学教材サイト上の原著者論文転載版で、教材の要約を根拠にしたものではない。
+
+原PDF・OCR全文非転載。ハッシュ・取得範囲はevidence/batch187_sources.json。
