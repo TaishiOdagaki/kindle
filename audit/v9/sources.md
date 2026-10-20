@@ -1111,3 +1111,13 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 - S280 https://www.researchgate.net/publication/267305922_Modelling_Second_Language_Performance_Integrating_Complexity_Accuracy_Fluency_and_Lexis — Skehan2009著者公開原論文本文の導入510〜511頁、要旨、正確さ・複雑さ共上昇の条件を精読。
 - S281 https://wrap.warwick.ac.uk/id/eprint/182750/8/WRAP-teachers-guide-foundations-teaching-English-2023.pdf — 著者リポジトリの2023報告書PDF74〜75頁Topic11本文精読。Gardner原著は404未取得。
 - S282 https://jalt-publications.org/tlt/articles/2090-test-purposes — Basic Testing Terminology節の離散的・統合的項目とディクテーション例を取得精読。引用原著全体は未取得。
+
+
+## 第195バッチ
+
+- S283 https://jacar.go.jp/exhibition/glossary/term2/0050-0010-0010-0010-0220.html — 公文書館の機関解説全文をWeb取得精読。リンク先官制原史料の全画像は未取得。
+- S284 https://www.mofa.go.jp/mofaj/gaiko/kiyaku/2c_004.html — 外務省掲載B規約第27条全文を取得精読。
+- S285 https://www.cambridge.org/core/books/abs/linguistics-the-cambridge-survey/language-birth-the-processes-of-pidginization-and-creolization/5CA1E9CFE814CDD48342C4333BBEF8E6 — Foley1988章の著者導入要約全文。定義の不一致と本章で採用する定義を区別。章全体未取得。
+- S286 https://www.tufs.ac.jp/tufstoday/topics/tufsfeatured/14090101.html — TUFS2014当事者インタビューの役割・養成背景・法律相談実践の本文取得精読。
+- S287 https://www.cambridgeenglish.org/educators-organisations/professional-development/teaching-qualifications/delta/ — 事業主体公式案内の三モジュール・任意順序と組合せ。検索掲載本文で取得精読。全ハンドブックではない。
+- S288 https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-155/ — 笹原宏之本人の掲載解説全文を取得精読。2002初出2022軽微修正。

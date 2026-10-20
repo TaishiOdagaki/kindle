@@ -1,0 +1,20 @@
+{
+  "batch": 195,
+  "inspected_pages": [
+    14,
+    21,
+    24,
+    165,
+    170,
+    177,
+    212,
+    220,
+    223,
+    376,
+    382,
+    390
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "result": "対象頁を目視。文字欠け・重なりなし。ページをまたぐ設問・解説は最終組版で調整し全頁再確認する。"
+}
