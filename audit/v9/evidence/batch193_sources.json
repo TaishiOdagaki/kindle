@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-20",
+  "sources": [
+    {
+      "id": "S268",
+      "url": "https://www.ssw.go.jp/about/support/",
+      "scope": "入管庁公式10支援と末尾義務の説明を全文Web取得精読。"
+    },
+    {
+      "id": "S269",
+      "url": "https://www.moj.go.jp/isa/10_00233?lang=et",
+      "scope": "通算期間の原則と2号上限なしを検索掲載本文で取得。status/specifiedskilledworkerの表も併用。直接HTML403。"
+    },
+    {
+      "id": "S270",
+      "url": "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "scope": "制度目的Q8・運用開始日を検索掲載本文取得。03_00163.htmlの公布・施行日も照合。直接HTML403。"
+    },
+    {
+      "id": "S271",
+      "url": "https://www.mhlw.go.jp/english/policy/employ-labour/employment-security/dl/211216-04.pdf",
+      "scope": "厚労省2021中間取りまとめ付属資料の在留資格と就労の一覧。Web原PDF取得。"
+    },
+    {
+      "id": "S272",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/16-3.html?lang=ca",
+      "scope": "更新申請の申請提出者本人・代理人・取次者の掲載本文を検索経由取得。"
+    },
+    {
+      "id": "S273",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html?lang=xh",
+      "scope": "留学資格の包括許可28時間・長期休業8時間。shikakugai_00001.htmlと資格外活動案内001444852.pdfの掲載本文を併用。"
+    },
+    {
+      "id": "S274",
+      "url": "https://www.mext.go.jp/content/20240412-mxt_nihongo01-000034783_3.pdf",
+      "scope": "ガイドライン全3頁Web本文取得精読。1（1）〜（3）、2（6）・注1。"
+    },
+    {
+      "id": "S275",
+      "url": "https://www.moj.go.jp/isa/content/001444852",
+      "scope": "技人国の実務経験基準の大学卒業者例外を検索掲載本文で取得。status/gijinkokuと提出一覧001457164.pdfの該当項も照合。原バイト未取得。"
+    },
+    {
+      "id": "S276",
+      "url": "https://www.jpf.go.jp/j/project/japanese/education/training/epa/",
+      "scope": "実施主体公式事業定義段落をWeb取得精読。全研修制度の検証ではない。"
+    }
+  ],
+  "source_images_inspected": false
+}

@@ -1088,3 +1088,16 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 - S265 https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research?hub=195885 — 2023ガイダンスの公式紹介全文。報告書全体の取得ではない。
 - S266 https://www.cambridge.org/features/genetti/Glossary/ — 検索で掲載本文descriptive/prescriptive/presupposition各項を取得精読。直接HTML403。全原著の取得ではない。
 - S267 https://www.cambridgeenglish.org/news/view/how-english-teachers-can-crack-the-code/ — Graham Seed2023-04-06公式本文全体をWeb取得精読。研究論文の実証結果とは別。
+
+
+## 第193バッチ
+
+- S268 https://www.ssw.go.jp/about/support/ — 入管庁公式10支援と末尾義務の説明を全文Web取得精読。
+- S269 https://www.moj.go.jp/isa/10_00233?lang=et — 通算期間の原則と2号上限なしを検索掲載本文で取得。status/specifiedskilledworkerの表も併用。直接HTML403。
+- S270 https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html — 制度目的Q8・運用開始日を検索掲載本文取得。03_00163.htmlの公布・施行日も照合。直接HTML403。
+- S271 https://www.mhlw.go.jp/english/policy/employ-labour/employment-security/dl/211216-04.pdf — 厚労省2021中間取りまとめ付属資料の在留資格と就労の一覧。Web原PDF取得。
+- S272 https://www.moj.go.jp/isa/applications/procedures/16-3.html?lang=ca — 更新申請の申請提出者本人・代理人・取次者の掲載本文を検索経由取得。
+- S273 https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html?lang=xh — 留学資格の包括許可28時間・長期休業8時間。shikakugai_00001.htmlと資格外活動案内001444852.pdfの掲載本文を併用。
+- S274 https://www.mext.go.jp/content/20240412-mxt_nihongo01-000034783_3.pdf — ガイドライン全3頁Web本文取得精読。1（1）〜（3）、2（6）・注1。
+- S275 https://www.moj.go.jp/isa/content/001444852 — 技人国の実務経験基準の大学卒業者例外を検索掲載本文で取得。status/gijinkokuと提出一覧001457164.pdfの該当項も照合。原バイト未取得。
+- S276 https://www.jpf.go.jp/j/project/japanese/education/training/epa/ — 実施主体公式事業定義段落をWeb取得精読。全研修制度の検証ではない。
