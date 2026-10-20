@@ -1,0 +1,23 @@
+{
+  "batch": 192,
+  "rendered_pages": 412,
+  "inspected_pages": [
+    24,
+    34,
+    70,
+    164,
+    178,
+    183,
+    184,
+    225,
+    235,
+    273,
+    376,
+    392,
+    393,
+    399
+  ],
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "findings": "対象文字欠け・重なりなし。Q_M_059の選択肢4が次頁へ分かれる。最終組版で設問・全肢の分離を修正し全頁確認する。"
+}

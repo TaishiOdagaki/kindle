@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-20",
+  "sources": [
+    {
+      "id": "S179",
+      "url": "https://rm.coe.int/16802fc1bf",
+      "scope": "CEFR2001 4.4.2.4印刷72頁。Web本文取得。"
+    },
+    {
+      "id": "S183",
+      "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+      "scope": "原PDF取得59頁。印刷17頁Flashcard本文読了。"
+    },
+    {
+      "id": "S263",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/learner-training",
+      "scope": "本文定義・目標・例・教室活動読了。"
+    },
+    {
+      "id": "S264",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/flashcards",
+      "scope": "定義・例・教室活動読了。"
+    },
+    {
+      "id": "S265",
+      "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research?hub=195885",
+      "scope": "2023ガイダンスの公式紹介全文。報告書全体の取得ではない。"
+    },
+    {
+      "id": "S266",
+      "url": "https://www.cambridge.org/features/genetti/Glossary/",
+      "scope": "検索で掲載本文descriptive/prescriptive/presupposition各項を取得精読。直接HTML403。全原著の取得ではない。"
+    },
+    {
+      "id": "S267",
+      "url": "https://www.cambridgeenglish.org/news/view/how-english-teachers-can-crack-the-code/",
+      "scope": "Graham Seed2023-04-06公式本文全体をWeb取得精読。研究論文の実証結果とは別。"
+    }
+  ],
+  "tkt_sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+  "source_images_inspected": false
+}

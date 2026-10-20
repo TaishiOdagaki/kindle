@@ -1077,3 +1077,14 @@ S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization
 ## 第191バッチ 2026-10-20
 
 S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合。Q_5_094の主題展開・結束性に使用。直接ダウンロード403、原バイト保存・原資料画像確認は未完了。詳細はevidence/batch191_source_review.md。特定の日本語形式や指導効果を原著の主張としない。
+
+
+## 第192バッチ 2026-10-20
+
+- S179 https://rm.coe.int/16802fc1bf — CEFR2001 4.4.2.4印刷72頁。Web本文取得。
+- S183 https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf — 原PDF取得59頁。印刷17頁Flashcard本文読了。
+- S263 https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/learner-training — 本文定義・目標・例・教室活動読了。
+- S264 https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/flashcards — 定義・例・教室活動読了。
+- S265 https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research?hub=195885 — 2023ガイダンスの公式紹介全文。報告書全体の取得ではない。
+- S266 https://www.cambridge.org/features/genetti/Glossary/ — 検索で掲載本文descriptive/prescriptive/presupposition各項を取得精読。直接HTML403。全原著の取得ではない。
+- S267 https://www.cambridgeenglish.org/news/view/how-english-teachers-can-crack-the-code/ — Graham Seed2023-04-06公式本文全体をWeb取得精読。研究論文の実証結果とは別。
