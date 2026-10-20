@@ -1181,3 +1181,8 @@ S279・S285の未取得原著を取得済みに変更せず、該当設問を同
 - S193 WHO公式FAQ https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon 。2026-10-21に全定義本文を再取得精読。職業場面、慢性的職場ストレス、三側面、非疾患分類、他生活領域に適用しないという限定を用語集案とQ_M_019へ照合。診断・治療・予防や学習者研究全体の承認ではない。
 
 原文全文の転載は行わず、該当本文と個別判断・提案はevidence/batch208_source_review.json。環境不在のため原バイトハッシュの取得、DOCX適用と画像QAは今回未実施。第207のS201正常取得と役割語修正はローカル送信前で、GitHub反映済みとはしない。
+
+
+## 第209チェックポイント S126用語集への追加照合
+
+[S126 Lyster & Mori 2006原論文PDF](https://scispace.com/pdf/interactional-feedback-and-instructional-counterbalance-4h9v9pol2k.pdf)全32頁本文層を2026-10-21にWebで取得。印刷271～273頁の節を精読し、用語集案は271～272頁の目標形供給／保留と自己修正、実際の修正との非同一性に限定。[出版社書誌](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/interactional-feedback-and-instructional-counterbalance/74A5D6A472482AEE3E578571261BAAE6)で著者・巻号・頁・DOI10.1017/S0272263106060128に同定。要旨だけで分類を承認しない。原画像2頁の取得はInternal Errorで失敗し、原バイトハッシュも今回は未取得。全研究データ・効果や日本語の全授業への一般化は承認しない。環境不在により案は未適用。本文箇所と判断はevidence/batch209_source_review.json。

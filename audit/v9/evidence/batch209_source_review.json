@@ -1,0 +1,91 @@
+{
+  "batch": 209,
+  "date": "2026-10-21",
+  "base_remote_commit": "5a86542ded5ece1809a9cbf17d24bb30ee66234c",
+  "scope": "用語集の追加本文照合と適用待ち案の保存。500問の判定の新規承認ではない。",
+  "source": {
+    "id": "S126",
+    "authors": [
+      "Roy Lyster",
+      "Hirohide Mori"
+    ],
+    "title": "Interactional Feedback and Instructional Counterbalance",
+    "journal": "Studies in Second Language Acquisition",
+    "volume": 28,
+    "issue": 2,
+    "year": 2006,
+    "pages": "269–300",
+    "doi": "10.1017/S0272263106060128",
+    "pdf_url": "https://scispace.com/pdf/interactional-feedback-and-instructional-counterbalance-4h9v9pol2k.pdf",
+    "publisher_url": "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/interactional-feedback-and-instructional-counterbalance/74A5D6A472482AEE3E578571261BAAE6",
+    "retrieved": "2026-10-21",
+    "acquisition": "全32頁PDFの本文層をWebで取得し、印刷271～273頁/PDF3～5頁の該当節を精読。出版社ページで著者・誌名・巻号・頁・DOIを照合。出版社の要旨を定義の根拠にはしない。",
+    "body_scope": "271頁Interactional Feedback節から272頁の表1と本文、273頁の相補的な働き・uptakeの定義までを参照。採用する提案は271～272頁の分類共通条件と実際の修正との区別に限定。",
+    "visual_acquisition": "PDF3・4頁のscreenshotを要求したが両方Internal Errorで取得できず。画像を確認済みとはしない。",
+    "bytes_sha256": null,
+    "limits": "原バイト保存・ハッシュは環境不在で未実施。研究の全データや効果を新規承認しない。全手法・全場面で同じ結果としない。"
+  },
+  "claim_checks": [
+    {
+      "claim": "リキャストは暗示的に全体または一部を言い換え、目標形を供給する",
+      "location": "271頁",
+      "result": "本文で照合"
+    },
+    {
+      "claim": "プロンプトは正形式を保留し自己修正の機会を与える",
+      "location": "271頁末～272頁冒頭",
+      "result": "本文で照合"
+    },
+    {
+      "claim": "誘導・メタ言語的手掛かり・明確化要求・反復はプロンプトの区分例",
+      "location": "271頁と272頁表1",
+      "result": "本文層で照合。表の原画像は未取得。提案は表の全例文を転載しない。"
+    },
+    {
+      "claim": "両者の出現だけで実際に訂正されたことにならない",
+      "location": "272頁本文",
+      "result": "本文で照合。長期習得効果も自動的に保証する書き方にしない。"
+    }
+  ],
+  "related_questions": [
+    "Q_M_033",
+    "Q_4_067"
+  ],
+  "related_decisions_changed": false,
+  "proposal": {
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "index": null,
+    "term": "リキャストとプロンプト",
+    "before": "リキャストとプロンプト　誤りを正しい形に言い直すリキャストと、気づきを促すプロンプトという、異なる誤用訂正の方法。",
+    "before_verification": "第207ローカル横断点検で抽出した用語集原文。GitHub第206の稿SHA256は不変だが、今回はDOCXバイナリを再抽出できないため適用前に完全一致を再確認する。",
+    "after": "リキャストとプロンプト　LysterとMori（2006）の分類では、リキャストは学習者の発話の全部または一部を暗示的に言い換え、目標となる形を示す。プロンプトは正しい形を与えず、誘導や明確化要求などの手掛かりで学習者自身の言い直しを促す。いずれも、使っただけで修正や習得が保証されるわけではない。",
+    "sources": [
+      "S126"
+    ],
+    "glossary_head": "リキャストとプロンプト",
+    "applied": false,
+    "judgment": "簡略記述への定義条件の補足を推奨。気づきの関与そのものを誤りとは判定しない。",
+    "reason": "原著271頁から272頁冒頭は、リキャストによる目標形供給と、プロンプトで正形式を保留して自己修正を促す共通条件を区別。272頁は出現が実際の訂正と同一でないと留保する。用語集にも分類基準とこの限界を明記しQ_M_033との説明粒度を整合させる。"
+  },
+  "pending_glossary_items_total": 4,
+  "previous_pending_items": [
+    "役割語",
+    "連濁",
+    "バーンアウト"
+  ],
+  "draft_changed": false,
+  "changes_json_changed": false,
+  "decisions_changed": false,
+  "ledger_changed": false,
+  "raw_machine_warnings": 159,
+  "undisposed_machine_warnings": 0,
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "blocker": {
+    "status": "temporary_environment_unavailable",
+    "error": "No usable execution environment is available. Wait for an environment to become available before using this tool.",
+    "still_possible": "一次資料Web本文照合とGitHubへのテキスト記録保存。DOCXの新規生成・再描画・バイナリ保存は不可。",
+    "changes_json_acquisition": "前回のGitHub Fetchはサイズ制限。今回も未取得の巨大JSONを取得済みとはせず、復旧後gitで取り直す。"
+  }
+}
