@@ -1,0 +1,80 @@
+{
+  "batch": 210,
+  "date": "2026-10-21",
+  "base_remote_commit": "c9cd416f503e48eac752bc65f19f2160b2a104b5",
+  "scope": "用語集の横断整合性点検と適用待ち案の保存。500問の判定の新規承認ではない。",
+  "source": {
+    "id": "S104",
+    "organization": "British Council TeachingEnglish",
+    "title": "Dictogloss",
+    "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/dictogloss",
+    "retrieved": "2026-10-21",
+    "acquisition": "公式ページの定義・ディクテーションとの区別・活動例・教室での説明の全本文（表示70～77行）を取得精読。",
+    "body_scope": "キーワードをメモして短文を再構成する定義、逐語的ディクテーションとの区別、初回傾聴・再読時のメモ・グループ再構成という例を使用。",
+    "limits": "活動が複数技能を用いるという同ページの説明は確認したが、習得効果量や全授業での優越性は承認しない。Web本文のため原PDF・原画像・原バイトハッシュは対象外。"
+  },
+  "claim_checks": [
+    {
+      "claim": "ディクトグロスは短いテキストを聞き、キーワードをメモして再構成する活動",
+      "location": "公式ページ70行",
+      "result": "本文で照合"
+    },
+    {
+      "claim": "逐語的に教師の読み上げを書き取るディクテーションとは区別される",
+      "location": "公式ページ72行",
+      "result": "本文で照合"
+    },
+    {
+      "claim": "活動例では初回は聞き、再読時にメモし、グループで再構成する",
+      "location": "公式ページ73～74行",
+      "result": "本文で照合"
+    }
+  ],
+  "related_questions": [
+    "Q_M_026",
+    "Q_M_027"
+  ],
+  "related_decisions_changed": false,
+  "cross_consistency": {
+    "result": "500問側はすでにキーワードのメモ・共同再構成・逐語的書き取りとの区別で確認済み。現行用語集だけが『教師の発話を書き取り』を中心に読め、本文・判定との説明粒度が不整合。",
+    "question_status": "確認済みを維持",
+    "answer_keys_changed": false
+  },
+  "proposal": {
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "index": null,
+    "term": "ディクトグロス",
+    "before": "ディクトグロス　教師の発話を書き取り、グループで話し合いながら文章を再構成させる活動。",
+    "before_verification": "第207ローカル横断点検で抽出した用語集原文。GitHub第206の稿SHA256は不変だが、環境復旧後、DOCX適用前に完全一致を再確認する。",
+    "after": "ディクトグロス　短いテキストを聞いてキーワードをメモし、そのメモを基に文章を再構成する活動。逐語的な書き取りではなく、典型例では再度聞いてメモした後、グループで再構成する。",
+    "sources": [
+      "S104"
+    ],
+    "glossary_head": "ディクトグロス",
+    "applied": false,
+    "judgment": "現行文は逐語的書き取りと誤読しやすいため修正必要。",
+    "reason": "公式本文はキーワードのメモを基にした再構成と定義し、逐語的ディクテーションを明示的に区別する。Q_M_026/Q_M_027の確認済み説明と用語集を一致させる。"
+  },
+  "pending_glossary_items_total": 5,
+  "previous_pending_items": [
+    "役割語",
+    "連濁",
+    "バーンアウト",
+    "リキャストとプロンプト"
+  ],
+  "draft_changed": false,
+  "changes_json_changed": false,
+  "decisions_changed": false,
+  "ledger_changed": false,
+  "raw_machine_warnings": 159,
+  "undisposed_machine_warnings": 0,
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "blocker": {
+    "status": "temporary_environment_unavailable",
+    "error": "No usable execution environment is available. Wait for an environment to become available before using this tool.",
+    "still_possible": "一次資料Web本文照合とGitHubへのテキスト記録保存。DOCXの新規生成・再描画・バイナリ保存は不可。",
+    "changes_json_acquisition": "GitHub Fetchのサイズ制限があるため今回も未取得。復旧後gitで取り直す。"
+  }
+}

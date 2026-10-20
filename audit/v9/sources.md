@@ -1186,3 +1186,8 @@ S279・S285の未取得原著を取得済みに変更せず、該当設問を同
 ## 第209チェックポイント S126用語集への追加照合
 
 [S126 Lyster & Mori 2006原論文PDF](https://scispace.com/pdf/interactional-feedback-and-instructional-counterbalance-4h9v9pol2k.pdf)全32頁本文層を2026-10-21にWebで取得。印刷271～273頁の節を精読し、用語集案は271～272頁の目標形供給／保留と自己修正、実際の修正との非同一性に限定。[出版社書誌](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/interactional-feedback-and-instructional-counterbalance/74A5D6A472482AEE3E578571261BAAE6)で著者・巻号・頁・DOI10.1017/S0272263106060128に同定。要旨だけで分類を承認しない。原画像2頁の取得はInternal Errorで失敗し、原バイトハッシュも今回は未取得。全研究データ・効果や日本語の全授業への一般化は承認しない。環境不在により案は未適用。本文箇所と判断はevidence/batch209_source_review.json。
+
+
+## 第210チェックポイント S104用語集への横断照合
+
+[S104 British Council TeachingEnglish「Dictogloss」](https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/dictogloss)の定義・ディクテーションとの区別・活動例・教室での説明の全本文を2026-10-21に再取得精読。用語集案は、短いテキストを聞いてキーワードをメモし、そのメモを基に再構成すること、逐語的書き取りとは区別されることに限定。Q_M_026・Q_M_027は既にこの区別で確認済みのため判定・正答は変更しない。複数技能を使うという同ページ内説明は確認したが、効果量・普遍的優越性は承認しない。環境不在により案は未適用。本文箇所と判断はevidence/batch210_source_review.json。
