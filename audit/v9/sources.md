@@ -1027,3 +1027,12 @@ S251 [ASQ Plan Do Check Act Cycle](https://asq.org/quality-resources/pdca-cycle)
 S252 [The W Edwards Deming Institute PDSA Cycle](https://deming.org/explore/pdsa/)。本文のPlan Do Study ActとPDSA and PDCA節。StudyをCheckと同一展開語にせず、ASQのCheckにも分析と学びがある説明を保持。Deming本人の原著全文やリンク先論文は今回未取得で起源史を承認しない。
 
 各公式ページ本文を取得・精読し、Q_4_018・Q_M_023とQ_M_022の全肢全解説へ照合。検索抜粋だけの承認ではない。原資料全体非転載。サイズ・SHA256・範囲はevidence/batch185_sources.json。
+
+
+## 第186バッチ S253 S254 2026-10-20保存
+
+S253 [Edward T Hall Beyond Culture 原著スキャン](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf)。初版1976、取得版は著作権1976・1981、Anchor Books editions 1977・1989と記載。標題・著作権頁PDF7～8、本文90～93頁PDF106～109を画像精読。原著全316頁精読ではない。高低の定義・連続体・前提の共有と情報の過不足を照合。他の文字史・芸術・政治や現在の各国の全成員の性質を承認していない。
+
+S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization of Turn Taking for Conversation 原論文](https://www.conversationanalysis.org/wp-content/uploads/2019/06/04_Sacks_Schegloff_Jefferson_A_simplest_systematics_fir_the_organization_of_turn-taking_for_conversation_Language_.pdf)。Language50(4)696～735頁。取得40頁、696・702～704頁（PDF1・7～9）の本文・脚注・会話例を画像精読しOCR補助。順番構成・配分と規則1a～c・2の条件を確認。全論文精読や全言語・全場面の普遍則の承認ではない。
+
+原PDF・OCR全文非転載。取得ハッシュと精読範囲はevidence/batch186_sources.json、再構成・破損ファイル不採用はbatch186_source_attempts.json。

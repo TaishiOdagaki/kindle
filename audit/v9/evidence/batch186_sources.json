@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "S253",
+    "title": "Edward T Hall Beyond Culture 原著スキャン",
+    "url": "https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf",
+    "retrieved_again": "2026-10-20",
+    "body_review": "2026-10-19の画像精読と一致する原バイトを再取得、ハッシュ検証",
+    "bytes": 30783366,
+    "sha256": "8f4ee47a460e40231f067a474a531afc5a6e0213637ceb1e0fd56f72d7268a9a",
+    "pages": 316,
+    "body_read": "初版1976、取得版は著作権1976・1981、Anchor Books editions 1977・1989と記載。標題・著作権頁PDF7～8、本文90～93頁PDF106～109を画像精読。原著全316頁精読ではない。高低の定義・連続体・前提の共有と情報の過不足を照合。他の文字史・芸術・政治や現在の各国の全成員の性質を承認していない。",
+    "full_source_redistributed": false
+  },
+  {
+    "source_id": "S254",
+    "title": "Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization of Turn Taking for Conversation 原論文",
+    "url": "https://www.conversationanalysis.org/wp-content/uploads/2019/06/04_Sacks_Schegloff_Jefferson_A_simplest_systematics_fir_the_organization_of_turn-taking_for_conversation_Language_.pdf",
+    "retrieved_again": "2026-10-20",
+    "body_review": "2026-10-19の画像精読と一致する原バイトを再取得、ハッシュ検証",
+    "bytes": 3138840,
+    "sha256": "589f90cd2bf83dc37ae8b609d42954b2b891c8df950ec0c5f32bbe69ab7641ab",
+    "pages": 40,
+    "body_read": "Language50(4)696～735頁。取得40頁、696・702～704頁（PDF1・7～9）の本文・脚注・会話例を画像精読しOCR補助。順番構成・配分と規則1a～c・2の条件を確認。全論文精読や全言語・全場面の普遍則の承認ではない。",
+    "full_source_redistributed": false
+  }
+]
