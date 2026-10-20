@@ -1,0 +1,22 @@
+{
+  "batch": 191,
+  "date": "2026-10-20",
+  "base_commit": "d0a534b0b76aef8fa3acd5547c015a959d680d66",
+  "runtime": "26.1015.12040 bundled Python and copied bundled LibreOfficeDev.app on macOS",
+  "qa_copy_only": true,
+  "font": "Noto Sans CJK JP Regular full OTF",
+  "font_url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "rendered_pages": 413,
+  "inspected_pages": [
+    131,
+    342
+  ],
+  "result": "対象設問・全4肢・全4解説を目視。日本語欠字・重なり・切れなし。",
+  "unaffected_499_questions_and_explanations_unchanged": true,
+  "answers_unchanged": true,
+  "source_pdf_image_inspected": false,
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "working_docx_sha256": "ff57adee149ad5d75c024320b13ba49fe96cc697a0bc5ac4cfd834be2372c42a"
+}

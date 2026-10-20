@@ -1072,3 +1072,8 @@ S254 [Sacks Schegloff Jefferson 1974 A Simplest Systematics for the Organization
 [S262 長沼スクール 標準日本語讀本の解説](https://www.naganuma-school.ac.jp/jp/japanese_teachers/reader.html)。標準日本語讀本とは・歴史の全本文と書影説明を取得・精読。自作教材、構文/語彙/漢字、オーラル・メソッド、試用改良、1931年巻一自費出版と全七巻、1948年改訂八巻完成と1950年一般向け出版、1964～67年再訂・1997年復刻の版区別。学校による教材史の説明に限定、原教材全巻の現物精読や教育効果・歴史的評価を承認したとはしない。
 
 原HTML本文全体非転載。取得URL・SHA256・サイズ・精読範囲はevidence/batch190_sources.json。
+
+
+## 第191バッチ 2026-10-20
+
+S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合。Q_5_094の主題展開・結束性に使用。直接ダウンロード403、原バイト保存・原資料画像確認は未完了。詳細はevidence/batch191_source_review.md。特定の日本語形式や指導効果を原著の主張としない。
