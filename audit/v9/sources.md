@@ -1154,3 +1154,12 @@ S45 CEFR補遺版2020公式PDFの印刷140〜141頁をWeb経由で本文照合�
 [S299 総務省 地域における多文化共生推進プラン 2020年改訂](https://www.soumu.go.jp/main_content/000706218.pdf)。全23頁公式PDF取得。1～7頁本文と7頁原画像精読、3（1）①ア・ウとICT時の理解への配慮を全肢全解説に照合。2020年版の方針であり最新全制度・実現済みサービスとしない。改訂年はMEXT掲載総務省説明資料の本文5頁でも確認済み。
 
 S279・S285は原著本文未取得のため該当2問を再開。取得URL・SHA256・サイズ・精読範囲はevidence/batch198_sources.json。原資料全体は転載しない。
+
+
+## 第199バッチ S300 S149
+
+[S300 真田信治 日本語とかかわるクレオールは存在しますか 国立国語研究所ことば研究館 2018年7月31日](https://kotoba.ninjal.ac.jp/qa/yokuaru/qa-47/)。署名付き全記事本文を原HTMLとWeb取得で精読。研究者本人の調査報告を対象とし、接触・再編、台湾日本語との区別、子供・孫世代の担い手、日本語を上層とする報告を全肢全解説に照合。参考文献は未取得で承認根拠にしない。全クレオールの普遍的成立史や現在の話者数を問わない。
+
+[S149 Celce-Murcia Dörnyei Thurrell 1995 Communicative Competence A Pedagogically Motivated Model with Content Specifications](https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true)。全16PDF頁を再取得。印刷26～29頁の全本文と表5原画像を直接精読。27頁の方略説明と28頁表5の四区分を全肢全解説に照合。Schachter1974の研究データ検証を完了したとはしない。
+
+S279・S285の未取得原著を取得済みに変更せず、該当設問を同領域で差替え。本文のハッシュ・サイズ・精読範囲はevidence/batch199_sources.json。

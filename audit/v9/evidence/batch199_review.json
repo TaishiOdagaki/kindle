@@ -1,0 +1,116 @@
+{
+  "batch": 199,
+  "base_remote_commit": "c9f5ec8580b0c2f543c2d2d7db2f32216e7c3bfe",
+  "fully_rejudged": [
+    "Q_2_002",
+    "Q_4_076"
+  ],
+  "edits": 18,
+  "independent_answers": {
+    "Q_2_002": 2,
+    "Q_4_076": 1
+  },
+  "status_counts": {
+    "確認済み": 500,
+    "修正必要": 0,
+    "要追加確認": 0
+  },
+  "remaining_question_holds": 0,
+  "machine_warnings": 159,
+  "added_warnings": [
+    [
+      "P1",
+      "Q_2_002",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1]"
+    ]
+  ],
+  "removed_warnings": [
+    [
+      "P1",
+      "Q_2_002",
+      "(正)2の解説が否定で終わる/肯定の(誤)がある: [1, 4]"
+    ]
+  ],
+  "render_pages": 351,
+  "visually_reviewed_pages": [
+    19,
+    68,
+    189,
+    242
+  ],
+  "all_final_changed_strings_found": {
+    "0": [
+      19
+    ],
+    "1": [
+      19
+    ],
+    "2": [
+      19
+    ],
+    "3": [
+      19
+    ],
+    "4": [
+      19
+    ],
+    "5": [
+      189
+    ],
+    "6": [
+      189
+    ],
+    "7": [
+      189
+    ],
+    "8": [
+      189
+    ],
+    "9": [
+      68
+    ],
+    "10": [
+      68
+    ],
+    "11": [
+      68
+    ],
+    "12": [
+      68
+    ],
+    "13": [
+      68
+    ],
+    "14": [
+      242
+    ],
+    "15": [
+      242
+    ],
+    "16": [
+      242
+    ],
+    "17": [
+      242
+    ]
+  },
+  "docx_sha256": "d0555e5ffe001b76dec74b5e152e54b152d1a441fe86b4af4175eb2e542b673a",
+  "pdf_sha256": "70564845f9dabda2d1d1af9fbab828d74caa957881188e607f88af3e3b9d34ab",
+  "page_sha256": {
+    "19": "c346c2cd515482e45114848eff3eaeaed35fbe8944047c2893a45d984cf896ae",
+    "68": "ab9fb05753b49b88aff2582461ccf7189f389b3fcbc23945bf88f6bd75d7bf23",
+    "189": "605ee8145197b813bc785fc3713074316854b0b74dcc9cd9daef85edd18ef791",
+    "242": "05fd00bbdaeccc677892752ff1e54b3298dfa425d1aea7f58eb1d77e83180bcd"
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "layout_pending": [
+    "Q_4_076の解説見出し・正答が241頁、全4解説が242頁に分断。最終改頁調整が必要"
+  ],
+  "additional_context_pages_reviewed": [
+    241
+  ],
+  "context_page_sha256": {
+    "241": "d3481965ee52e14633e8c01ab728835a865b316b5ed5551e3dc7db2687ebf51b"
+  }
+}
