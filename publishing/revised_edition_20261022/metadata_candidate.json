@@ -1,0 +1,47 @@
+{
+  "status": "editorial_candidate_not_publication_approved",
+  "created_at": "2026-10-22",
+  "publishing_strategy": "KDP substantial revised edition with a new title and explicit prior-publication disclosure; do not misrepresent as unrelated original work",
+  "title": "登録日本語教員試験 正解と誤答の理由がわかる500問",
+  "subtitle": "基礎・応用〈読解〉対策｜重要論点を四肢択一で徹底演習",
+  "edition_number_proposed": 2,
+  "author_display_name_existing": "全国【登録日本語教員試験】研究グループ",
+  "author_biographical_claims_verified": false,
+  "old_title": "登録日本語教員試験　決定版問題集　基礎から応用試験対策＋本番予想模擬試験: 厳選　全５００問　詳細な解説付き",
+  "old_asin": "B0GX2YP7QN",
+  "old_listing": "https://www.amazon.co.jp/dp/B0GX2YP7QN",
+  "old_author_display_name": "全国【登録日本語教員試験】研究グループ",
+  "requires_previous_publication_disclaimer": true,
+  "previous_publication_disclaimer": "Previously published as 登録日本語教員試験　決定版問題集　基礎から応用試験対策＋本番予想模擬試験: 厳選　全５００問　詳細な解説付き by 全国【登録日本語教員試験】研究グループ.",
+  "proposed_contents": {
+    "total_questions": 500,
+    "four_options_per_question": true,
+    "four_option_explanations_per_question": true,
+    "chapter_1_to_5": 350,
+    "chapter_O": 75,
+    "chapters_M_and_MO": 75,
+    "full_official_mock_claim": false,
+    "listening_audio_claim": false
+  },
+  "cover_requirements": [
+    "Title/subtitle exactly match KDP fields",
+    "New design while preserving accurate author attribution",
+    "Do not display false approval from government authorities",
+    "Do not claim official exam, guaranteed pass, or complete audio training"
+  ],
+  "release_gates": [
+    "Single approved manuscript reconciled across two v9 branches",
+    "No unresolved correctness, duplicate-content, option-length-cue, and question-format issues",
+    "Full visual QA and Kindle preview QA",
+    "Verify all author and sources claims",
+    "Check cover/description/book file metadata match",
+    "User's final approval before publishing"
+  ],
+  "note": "A new listing and review reset is not promised; Amazon controls edition links and review display. Not for immediate KDP publication.",
+  "sources": [
+    "https://kdp.amazon.com/en_US/help/topic/GW7J4WEKBVU25YEC",
+    "https://kdp.amazon.com/en_US/help/topic/G200952510",
+    "https://kdp.amazon.com/en_US/help/topic/G202101910",
+    "https://kdp.amazon.com/en_US/help/topic/G201097560"
+  ]
+}
