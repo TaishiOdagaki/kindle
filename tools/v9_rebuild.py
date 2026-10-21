@@ -84,6 +84,59 @@ a=[i for i,t in enumerate(texts) if t==afterword_heading and i>g[0]]
 assert len(g)==1 and len(a)==1
 for i in range(g[0]+1,a[0]):
  if texts[i]:paragraphs[i].paragraph_format.space_after=Pt(3.5)
+# Apply one deterministic pagination policy to every question and explanation.
+# A question is a seven-paragraph unit (heading, stem, four options, navigation),
+# so keep each paragraph intact and chain the unit through its navigation.  Do
+# the same for each explanation (heading, answer, four rationales, navigation).
+# These rules prevent an option, rationale or navigation row from being stranded
+# without changing any wording.
+question_paragraphs=answer_paragraphs=0
+question_chained=answer_chained=0
+# Two source questions intentionally have a multi-paragraph prompt.  The longer
+# ten-paragraph block exceeds LibreOffice's safe keep-chain behavior, so preserve
+# its heading with the opening paragraph and its four options with navigation,
+# while allowing one natural prompt boundary.  The nine-paragraph block fits.
+question_lengths={}
+pagination_probe=None
+for p,text in zip(paragraphs,texts):
+ for bm in p._element.iter(qn('w:bookmarkStart')):
+  name=bm.get(qn('w:name'),'')
+  if name.startswith(('Q_','A_')):pagination_probe=name
+ if pagination_probe and text and pagination_probe.startswith('Q_'):
+  question_lengths[pagination_probe]=question_lengths.get(pagination_probe,0)+1
+ if pagination_probe and text and '目次に戻る' in text:pagination_probe=None
+assert len(question_lengths)==500
+assert sorted(v for v in question_lengths.values() if v!=7)==[9,10]
+pagination_context=None
+pagination_position=0
+for p,text in zip(paragraphs,texts):
+ for bm in p._element.iter(qn('w:bookmarkStart')):
+  name=bm.get(qn('w:name'),'')
+  if name.startswith(('Q_','A_')):
+   pagination_context=name
+   pagination_position=0
+ if not pagination_context or not text:continue
+ pagination_position+=1
+ pf=p.paragraph_format
+ if pagination_context.startswith('Q_'):
+  question_paragraphs+=1
+  pf.keep_together=True
+  question_length=question_lengths[pagination_context]
+  chain=('解説を見る' not in text and
+         (question_length!=10 or pagination_position==1 or
+          pagination_position>=question_length-4))
+  if chain:
+   pf.keep_with_next=True
+   question_chained+=1
+ elif pagination_context.startswith('A_'):
+  answer_paragraphs+=1
+  pf.keep_together=True
+  if '問題に戻る' not in text:
+   pf.keep_with_next=True
+   answer_chained+=1
+ if '目次に戻る' in text:pagination_context=None
+assert question_paragraphs==3505 and question_chained==3001
+assert answer_paragraphs==3500 and answer_chained==3000
 # Keep the previous valid draft until all structure/content checks pass.
 # A failed or interrupted ZIP write must not truncate the saved draft.
 fd,stage_name=tempfile.mkstemp(prefix='.v9_rebuild-',suffix='.docx',dir=b.DST.parent)
