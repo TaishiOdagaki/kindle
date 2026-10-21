@@ -1,0 +1,145 @@
+{
+  "checkpoint": 219,
+  "date": "2026-10-21",
+  "publication_status": "hold",
+  "branch": "audit/v9-integration-2026-10-21",
+  "parent_head": "3cda340883051e6df30e474e20aacb2407d453cc",
+  "source_heads": {
+    "dedicated_audit_branch": "e65eaa4adabbe1718f0039c3121dffb99c8a4b08",
+    "source_branch": "cc9eb4ce61a612c2dfe4ed3ec2860b20fb7264f7"
+  },
+  "source_docx": {
+    "path": "audit/v9/登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+    "git_blob": "5096fd3204f3c939e7d16f0aa44988a83c386da2",
+    "sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "changed_in_checkpoint": false
+  },
+  "render": {
+    "pages": 395,
+    "paper": "A4",
+    "qa_copy_docx_sha256": "0f59cca8f6f4418aa2518434872886907ced9ded1c1c36d37657d54765f00b1c",
+    "pdf_sha256": "8d3516c0027550dea65892349d0c7e58c86ec17817e4da47af25aa27da4f89d5",
+    "cjk_font_sha256": "d391a1898a03170a9c735db71791d1346dd401ff24a663c3e951a6d8c3ca5d95",
+    "cjk_unique_glyphs": 1379,
+    "cjk_missing_glyphs": 0,
+    "non_cjk_fallback_glyphs": "ŋɕɯɸ"
+  },
+  "method": [
+    "GitHub正本からDOCXを再取得しSHA256を一致確認",
+    "完全版CJKフォントを固定したQAコピーを新規395頁PDFへ再描画",
+    "243〜282頁の全PNGを完全デコード",
+    "各頁を原寸画像で個別目視し、欠字・裁ち落ち・重なり・異常空白・孤立見出し・肢/解説/戻りリンク・改頁を確認"
+  ],
+  "reviewed_pages": [
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282
+  ],
+  "reviewed_problem_span": "Q_4_011〜Q_4_104（解説頁。頁内継続を含む）",
+  "defects": [
+    {
+      "id": "VQA219-01",
+      "page": 264,
+      "problem_ids": [
+        "Q_4_058",
+        "Q_4_059"
+      ],
+      "severity": "major",
+      "observation": "各解説後の「問題に戻る／目次に戻る」リンク帯と区切り線が描画されていない。",
+      "required_action": "リンク段落を復旧し、再描画で両問題の遷移表示を確認する。"
+    },
+    {
+      "id": "VQA219-02",
+      "page": 268,
+      "problem_ids": [
+        "Q_4_069",
+        "Q_4_070",
+        "Q_4_071"
+      ],
+      "severity": "major",
+      "observation": "3問すべてで解説後の戻りリンク帯と区切り線が描画されていない。",
+      "required_action": "各問のリンク段落を復旧し、ページ分割を含めて再描画確認する。"
+    },
+    {
+      "id": "VQA219-03",
+      "page": 272,
+      "problem_ids": [
+        "Q_4_082"
+      ],
+      "severity": "major",
+      "observation": "選択肢1の解説末尾と選択肢2の「2（正）」が同一行に連結し、選択肢別段落の視覚的分離が崩れている。",
+      "required_action": "選択肢2の段落境界を復旧し、4肢が独立して読めることを再描画確認する。"
+    },
+    {
+      "id": "VQA219-04",
+      "page": 280,
+      "problem_ids": [
+        "Q_4_098"
+      ],
+      "severity": "major",
+      "observation": "Q_4_098解説後の戻りリンク帯と区切り線がなく、直後にQ_4_099が連続している。",
+      "required_action": "Q_4_098のリンク段落を復旧し、Q_4_099との区切りを再描画確認する。"
+    }
+  ],
+  "progress_before": {
+    "reviewed_unique_pages": 246,
+    "remaining_pages": 149,
+    "continuous_range": [
+      1,
+      242
+    ]
+  },
+  "progress_after": {
+    "reviewed_unique_pages": 286,
+    "remaining_pages": 109,
+    "continuous_range": [
+      1,
+      282
+    ]
+  },
+  "unresolved": [
+    "VQA219-01〜04の修正と新SHAでの再描画・影響頁再検査",
+    "Library系統由来の表アクセシビリティ見出し10表の最終統合",
+    "283〜395頁の原寸目視",
+    "統合後最終版の全頁QA",
+    "EPUBCheckおよびKindle Previewer検証"
+  ],
+  "release_ready": false
+}

@@ -871,13 +871,15 @@
   },
   "visual_qa_progress": {
     "render_pages": 395,
-    "reviewed_unique_pages": 246,
-    "remaining_pages": 149,
+    "reviewed_unique_pages": 286,
+    "remaining_pages": 109,
     "latest_continuous_range": [
       1,
-      242
+      282
     ],
-    "latest_checkpoint": 218
+    "latest_checkpoint": 219,
+    "open_visual_defects": 4,
+    "reinspection_required": true
   },
   "full_visual_qa_completed": false,
   "release_ready": false
