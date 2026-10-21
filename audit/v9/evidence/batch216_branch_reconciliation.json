@@ -1,0 +1,31 @@
+{
+  "checkpoint": 216,
+  "date": "2026-10-21",
+  "integration_branch_previous_head": "37848f72695eb7820dc067d0cdcaaac82485ee02",
+  "dedicated_audit_branch": {
+    "branch": "audit/v9-2026-10-12",
+    "previous_checked_head": "ee1fafd645330ee060a36084fef647944cef78a9",
+    "latest_checked_head": "2b40967f42643d2341cec51d557f71596e20a381",
+    "files_added_since_previous_check": [
+      "audit/v9/evidence/20261021_library_v9_case15_oxford_alignment.md"
+    ],
+    "files_modified_since_previous_check": [],
+    "working_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee"
+  },
+  "record_scope": {
+    "question_ids": ["Q_O_071", "Q_O_072", "Q_O_073"],
+    "topic": "Oxford 1990 strategy classification in case 15",
+    "source_urls": [
+      "https://opentext.uoregon.edu/languagelearningedition1/chapter/language-learning-strategies/",
+      "https://kansai-u.repo.nii.ac.jp/record/10138/files/KU-1100-19910000-15.pdf",
+      "https://books.google.com/books?id=s7VoAAAAIAAJ"
+    ]
+  },
+  "integration_decision": {
+    "evidence_record_adopted": true,
+    "docx_text_changes_adopted": 0,
+    "answer_number_changes_adopted": 0,
+    "reason": "The dedicated audit lineage already revised Q_O_071 through Q_O_073 more fully in changes_batch13. The new commit documents an independent correction of an unmerged Library lineage, so applying the same text again would double-count an existing correction."
+  },
+  "release_ready": false
+}

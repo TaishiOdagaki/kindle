@@ -1,0 +1,49 @@
+{
+  "checkpoint": 216,
+  "date": "2026-10-21",
+  "source_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "render_pdf_sha256": "0015d0ddb478a163249e494b0ec12ea5ea79639714d00a908a850fe447c8295b",
+  "render_pages": 395,
+  "page_size": "A4",
+  "font": {
+    "kind": "validated static full-CJK font",
+    "sha256": "8df180f15ab2fb8c13ad78f53b53cbe61760b32cf1ac97e3d69fac4228467738",
+    "unique_cjk_characters": 1379,
+    "missing_cjk_characters": 0,
+    "fallback_characters": "ŋɕɯɸ"
+  },
+  "reviewed_pages_this_checkpoint": {
+    "pages": [121, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162],
+    "count": 40
+  },
+  "method": "Rendered a fresh 395-page PDF from the unchanged work DOCX, rasterized each target page independently at 120 dpi, fully decoded all page images, assembled 2x2 review sheets, and inspected at original detail.",
+  "excluded_images": [
+    {
+      "target": "initial page 155 PNG",
+      "reason": "PNG read exception; regenerated with pdftocairo before review"
+    },
+    {
+      "target": "initial sheet for pages 121, 124, 125, 126",
+      "reason": "contact-sheet PNG was truncated; rebuilt and fully decoded before review"
+    }
+  ],
+  "checks": [
+    "missing glyphs",
+    "clipping or crop loss",
+    "text or object overlap",
+    "abnormal blank space",
+    "orphaned headings, options, explanations, or navigation links",
+    "unintended page breaks"
+  ],
+  "findings": [],
+  "result": "pass_for_reviewed_pages",
+  "cumulative": {
+    "reviewed_unique_pages": 166,
+    "total_pages": 395,
+    "remaining_pages": 229,
+    "continuous_reviewed_range": [1, 162],
+    "additional_previously_reviewed_pages": [221, 303, 379, 395]
+  },
+  "full_visual_qa_completed": false,
+  "release_ready": false
+}
