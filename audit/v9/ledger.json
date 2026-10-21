@@ -12365,7 +12365,7 @@
     "candidate_answers": [],
     "multiple_correct_risk": "なし：1・2・4は資料本文と不一致",
     "no_correct_risk": "なし：独立正答3",
-    "fixes_applied": false,
+    "fixes_applied": true,
     "stem_review": "反対・天気・散歩・語末の4環境を資料本文へ照合。",
     "explanation_review": "全4解説の調音位置、鼻腔通気、語末実現を照合。",
     "sources": [
