@@ -133,3 +133,10 @@ OOXML検査は問題500、解説500、問題段落3505（全段落 keepLines、3
 専用監査ブランチの最新HEAD `e65eaa4adabbe1718f0039c3121dffb99c8a4b08` までに追加された17件の証跡を統合した。最新Library系Wordの正答・早見表とGitHub独立判定は500/500一致する一方、設問スクリーニングでは449問に本文差があり、Library側の広い設問で原典照合済みの専用監査版を上書きしなかった。Library系EPUB試験と10表のアクセシビリティ修正は最終統合稿へ引き継ぐ未完了項目として記録し、専用監査DOCX本文・正答・changes.jsonは変更していない。
 
 同一SHAの395頁版で163〜202頁を個別画像により原寸確認し、欠字、裁ち落ち、重なり、異常空白、孤立要素、意図しない改頁、正答表の表示異常は認めなかった。破損した3頁の初期画像と確認シートは判定から除外し、対象頁を再生成・完全デコードして全40頁を個別確認した。連続範囲は1〜202頁、累計206/395頁、未目視189頁。最終統合稿の表見出し対応、全頁QA、EPUBCheck、Kindle Previewerは未完了であり、出版不可を維持する。詳細は `evidence/batch217_branch_reconciliation.json`、`evidence/batch217_visual_qa_pages_163_202.json`、`integration_checkpoint_217.md`。
+
+
+## 第218チェックポイント 2026-10-21
+
+同一SHAの作業DOCX（`aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee`）を完全CJK静的フォントでA4・395頁へ新規描画し、203〜242頁の40頁を個別PNGで原寸目視した。欠字、裁ち落ち、重なり、異常空白、孤立要素、意図しない改頁、章切替の表示異常は認めなかった。プレビュー上で上余白が省略されて見えた頁はPNG画素境界を追加検査し、実画像に106pxの上余白があることを確認した。原稿本文・正答・`decisions.json`・`changes.json`は変更していない。
+
+連続目視範囲は1〜242頁、累計246/395頁、未目視149頁。最終統合稿の10表アクセシビリティ対応、全頁再検査、EPUBCheck、Kindle Previewerは未完了であり、出版不可を維持する。詳細は `evidence/batch218_visual_qa_pages_203_242.json` と `integration_checkpoint_218.md`。

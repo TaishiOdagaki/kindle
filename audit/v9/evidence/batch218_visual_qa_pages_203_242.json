@@ -1,0 +1,108 @@
+{
+  "checkpoint": 218,
+  "date": "2026-10-21",
+  "branch": "audit/v9-integration-2026-10-21",
+  "parent_head": "9783dae3d4da2c324428bd7283667121542b8588",
+  "source_heads": {
+    "audit_v9_2026_10_12": "e65eaa4adabbe1718f0039c3121dffb99c8a4b08",
+    "claude_magical_cannon_2l4k5c": "cc9eb4ce61a612c2dfe4ed3ec2860b20fb7264f7"
+  },
+  "source_docx": {
+    "path": "audit/v9/登録日本語教員試験決定版問題集_v9_監査作業中.docx",
+    "git_blob": "5096fd3204f3c939e7d16f0aa44988a83c386da2",
+    "sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "changed_in_checkpoint": false
+  },
+  "render": {
+    "qa_copy_sha256": "cf002b5855c99fd21523d98155bc0af5e3c573dd33df17bd2dc490a91d242b2a",
+    "pdf_sha256": "e7e9a278ecf54acf4305b7b14614ad9f7203196e1d6668ab1cb8c7a2e34d604c",
+    "pages": 395,
+    "page_size": "A4",
+    "cjk_font_sha256": "29376d26cff98290d8c290fe5ab1dfe805f75d6fa5727c4cd70fbfdb5f76d755",
+    "cjk_unique_characters": 1379,
+    "cjk_missing_characters": 0,
+    "non_cjk_fallback_characters": "ŋɕɯɸ"
+  },
+  "reviewed_pages": [
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242
+  ],
+  "method": [
+    "同一DOCXから完全CJK静的フォントを用いて395頁A4 PDFを新規生成",
+    "203〜242頁の個別PNGを全て完全デコード",
+    "各頁を原寸詳細表示で個別に目視",
+    "上端欠けに見えたプレビュー表示はPNG画素境界を追加検査し、全該当頁で実画像上端余白106pxを確認"
+  ],
+  "checks": [
+    "欠字・文字化け",
+    "裁ち落ち・クリッピング",
+    "重なり",
+    "異常空白",
+    "見出し・選択肢・解説・戻りリンクの孤立",
+    "意図しない改頁",
+    "章切替・リンク表示"
+  ],
+  "defects": [],
+  "progress_before": {
+    "reviewed_unique_pages": 206,
+    "remaining_pages": 189,
+    "continuous_range": [
+      1,
+      202
+    ]
+  },
+  "progress_after": {
+    "reviewed_unique_pages": 246,
+    "remaining_pages": 149,
+    "continuous_range": [
+      1,
+      242
+    ]
+  },
+  "manuscript_changes": 0,
+  "unresolved": [
+    "Library系最終統合稿での10表のアクセシビリティ見出し対応",
+    "最終統合稿確定後の全頁表示QA",
+    "EPUBCheck",
+    "Kindle Previewer"
+  ],
+  "publication_status": "hold"
+}
