@@ -1,0 +1,65 @@
+{
+  "checkpoint": 215,
+  "date": "2026-10-21",
+  "comparison_completed": true,
+  "comparison_scope": "500 stable question IDs; stem, four options, answer number, four explanations",
+  "current_lineage": {
+    "branch": "audit/v9-2026-10-12",
+    "head": "ee1fafd645330ee060a36084fef647944cef78a9",
+    "docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "pages": 395
+  },
+  "library_lineage": {
+    "source_branch": "claude/magical-cannon-2l4k5c",
+    "source_head": "cc9eb4ce61a612c2dfe4ed3ec2860b20fb7264f7",
+    "source_report": "監査報告/2026-10-21_v9学術原典照合_台湾初期教育史と学習方略.md",
+    "source_report_sha256": "fc86e3a28fdccacf93ddff4c0072550c0ca232059911e863146e82089edffb64",
+    "docx_sha256": "3a8f6e67dd217d9dbf94f28a61625024474022e290e053ed78a8471f92140d4a",
+    "pages_reported": 345
+  },
+  "summary": {
+    "question_ids_compared": 500,
+    "changed_question_ids": 493,
+    "unchanged_question_ids": 7,
+    "answer_number_differences": 0,
+    "text_changes_adopted": 0,
+    "current_docx_modified": false
+  },
+  "focus_decisions": [
+    {
+      "question_id": "Q_1_006",
+      "decision": "retain_current",
+      "source_id": "S244",
+      "source_url": "https://www.th.gov.tw/Epaper_Content/236/7518/",
+      "reason": "現行版は台湾総督府文書の公開記事に設問対象を限定し、取得本文へ直接対応する。Library版の広い教育史設問へ戻すと未照合範囲が再拡大する。"
+    },
+    {
+      "question_id": "Q_1_023",
+      "decision": "retain_current",
+      "source_id": "S200",
+      "source_url": "https://journal.takushoku-u.ac.jp/lcri/lcri_132.pdf",
+      "reason": "現行版は渡辺（2015）の教材分析で直接確認できる主張に限定済み。Library版の複数歴史事実を含む旧設問へ戻さない。"
+    },
+    {
+      "question_id": "Q_1_025",
+      "decision": "retain_current",
+      "source_id": "S261",
+      "source_url": "https://www.jasso.go.jp/about/organization/history/gakuyu.html",
+      "reason": "現行版はJASSO公式沿革で直接確認できる事項へ差し替え済み。Library版の掛川・松本・清国留学生の複合主張より検証範囲が明確である。"
+    },
+    {
+      "question_id": "Q_3_029",
+      "decision": "retain_current",
+      "source_id": "S148",
+      "source_url": "https://web.ntpu.edu.tw/~language/workshop/read2.pdf",
+      "reason": "現行版はOxford本文の分類と設問行動を直接対応させている。Library版の二次分類へ戻さない。"
+    }
+  ],
+  "release_ready": false,
+  "overall_audit_completed": false,
+  "remaining_work": [
+    "visual review of 269 unreviewed pages",
+    "final full-document machine checks on the eventual integrated SHA",
+    "EPUB and Kindle Previewer quality checks"
+  ]
+}
