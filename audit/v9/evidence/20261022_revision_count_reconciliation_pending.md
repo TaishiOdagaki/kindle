@@ -1,3 +1,5 @@
+> **2026-10-22追記：この残件は解消済み。** `changes.json`の全4,323変更が再構成スクリプトで実行され、変更対象493問が正しい。明示的`applied=true`の有無はフィルタ条件ではない。`Q_5_022`の解説改稿に修正フラグが欠けていたため`decisions.json`と`ledger.json`双方へ`fixes_applied=true`を反映。現在493/493件で一致。詳細は`20261022_cross_track_merge_matrix_review.md`。以下は当初検出時の履歴として保存する。
+
 # 監査記録の改稿件数照合（2026-10-22）
 
 - `audit/v9/postfix_machine.json`: `changed_questions=493`、`replacements=4323`
