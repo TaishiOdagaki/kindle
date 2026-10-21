@@ -15,13 +15,13 @@
   "academic_audit_complete": true,
   "visual_qa_progress": {
     "render_pages": 395,
-    "reviewed_unique_pages": 166,
-    "remaining_pages": 229,
+    "reviewed_unique_pages": 206,
+    "remaining_pages": 189,
     "latest_continuous_range": [
       1,
-      162
+      202
     ],
-    "latest_checkpoint": 216
+    "latest_checkpoint": 217
   },
   "full_visual_qa_completed": false
 }

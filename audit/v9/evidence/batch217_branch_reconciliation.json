@@ -1,0 +1,31 @@
+{
+  "checkpoint": 217,
+  "date": "2026-10-21",
+  "integration_base_head": "331327789b46ca8d58ff8c300425e2c6b7f73ed3",
+  "dedicated_audit_previous_seen_head": "2b40967f42643d2341cec51d557f71596e20a381",
+  "dedicated_audit_latest_head": "e65eaa4adabbe1718f0039c3121dffb99c8a4b08",
+  "new_commits": 17,
+  "changed_paths": {"evidence_only": 17, "working_docx": 0, "decisions_json": 0, "changes_json": 0},
+  "adopted_evidence": [
+    "20261021_two_tracks_epub_premerge_qa.md",
+    "20261021_decisions500_sources_integrity.md",
+    "20261021_library_v9_accessibility_tables_qa.md",
+    "20261021_cross_track_answer500_match.md",
+    "20261021_library_vs_academic_v9_500_stem_diffs.json",
+    "stem_compare_chunk_001_12.json", "stem_compare_chunk_013_30.json",
+    "stem_compare_chunk_31_48.json", "stem_compare_chunk_49_66.json",
+    "stem_compare_chunk_67_84.json", "stem_compare_chunk_85_102.json",
+    "stem_compare_chunk_103_120.json", "stem_compare_chunk_121_138.json",
+    "stem_compare_chunk_139_156.json", "stem_compare_chunk_157_174.json",
+    "stem_compare_chunk_175_192.json", "stem_compare_chunk_193_210.json"
+  ],
+  "interpretation": {
+    "answer_key_cross_track": "Latest Library accessibility Word, its answer tables, and GitHub independent decisions agree 500/500.",
+    "stem_screening": "Academic batch history and latest Library Word differ in 449 stems; this is conflict screening, not an automatic merge decision.",
+    "accessibility": "The Library Word has 10 repeated table header rows fixed. The GitHub audit Word has not yet received that metadata-only change and must be audited before the final integrated copy is produced.",
+    "epub": "Split EPUB3 technical trial applies only to the unmerged Library lineage; EPUBCheck, Kindle Previewer, and device QA remain outstanding.",
+    "manuscript_action": "No text or answer change. Preserve the source-verified GitHub audit wording and do not overwrite it with broader Library stems."
+  },
+  "working_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "release_ready": false
+}
