@@ -1,0 +1,4860 @@
+{
+  "title": "Cross-track v9 stem comparison (500 items, academic revision batch history vs Library Word)",
+  "date": "2026-10-21",
+  "library_source": "登録日本語教員試験決定版問題集_v9_表見出しアクセシビリティ修正版_2026-10-21.docx",
+  "library_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "academic_source": "audit/v9-2026-10-12 changes_batch2..199 (last applied stem edit) through chunk records",
+  "academic_working_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "files": 12,
+  "changedIds": 458,
+  "missingBatchFiles": [
+    1,
+    97,
+    132,
+    168,
+    200,
+    201,
+    203,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210
+  ],
+  "errors": [],
+  "totals": {
+    "content_differs": 449,
+    "no_stem_change_history": 42,
+    "record_substring_of_library": 8,
+    "text_matches_record": 1
+  },
+  "release_ready": false,
+  "caveats": [
+    "The GitHub source used is the latest per-ID stem in retained batch history, not yet the binary DOCX. Later unbatched edits may differ.",
+    "No stem change history does not mean whole question text matches.",
+    "The normalized text comparison is a conflict-screening tool, not an automatic adjudication of source truth or authority.",
+    "This run does not compare 4 options/4 explanations and does not merge source DOCXs."
+  ],
+  "items": [
+    {
+      "id": "Q_1_001",
+      "status": "content_differs",
+      "last_stem_batch": 156,
+      "library_excerpt": "多文化化が進む学習環境において、教師の姿勢や態度が問われる機会が増えている。自文化中心主義（エスノセントリズム）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "欧州評議会のRFCDC第1巻（2018年）用語集に示された、自文化中心主義（エスノセントリズム）の説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_002",
+      "status": "content_differs",
+      "last_stem_batch": 160,
+      "library_excerpt": "日本語学校に在籍する学習者Aさん（来日3か月）は、授業中に自身の母国の文化や習慣について質問された際、「自分の国は遅れているから、日本のやり方がすべて正しい」と極端に発言し、母国の習慣を否定する仕草を見せた。この事例におけるAさんの状態および教師の対",
+      "github_record_excerpt": "日本語学校の学習者Aさん（来日3か月）が、母国の習慣について尋ねられ、「自分の国は遅れているから、日本のやり方がすべて正しい」と話したとする。RFCDC第1巻（2018年）の開放性と尊重の説明に沿う教師の対応を一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_003",
+      "status": "content_differs",
+      "last_stem_batch": 158,
+      "library_excerpt": "社会的・集団的文脈における「文化的アイデンティティ」の形成と変容に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "欧州評議会のRFCDC第1巻（2018年）第5章が示す、文化的アイデンティティと文化への帰属の説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_004",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "（日本の在留外国人施策） 2019年に新設された出入国管理法上の在留資格「特定技能」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "出入国在留管理庁の特定技能総合支援サイト（2026年10月20日確認）に示された、特定技能1号の外国人への支援に合うものを一つ選べ。",
+      "sources": [
+        "S268"
+      ]
+    },
+    {
+      "id": "Q_1_005",
+      "status": "content_differs",
+      "last_stem_batch": 122,
+      "library_excerpt": "（多文化共生） 地域社会における「やさしい日本語」の活用と指導法に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、書き言葉の作成について最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S189"
+      ]
+    },
+    {
+      "id": "Q_1_006",
+      "status": "content_differs",
+      "last_stem_batch": 180,
+      "library_excerpt": "（日本語教育史） 明治期から戦前にかけての日本の日本語教育に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国史館台湾文献館が2013年に公開した解説「臺灣總督府首任學務部長伊澤修二來臺推展日語教育」の本文に照らし、1895年の伊沢修二と芝山巌学堂について合うものを一つ選べ。",
+      "sources": [
+        "S244"
+      ]
+    },
+    {
+      "id": "Q_1_007",
+      "status": "content_differs",
+      "last_stem_batch": 178,
+      "library_excerpt": "（言語政策） 日本の「文化審議会国語分科会」および近年の語彙・表記に関する方針の説明として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文化審議会が2022年1月7日に建議した「公用文作成の考え方」の基本的な考え方と用語の扱いについて、説明に合うものを一つ選べ。",
+      "sources": [
+        "S241"
+      ]
+    },
+    {
+      "id": "Q_1_008",
+      "status": "content_differs",
+      "last_stem_batch": 165,
+      "library_excerpt": "（日本語の試験） 日本語能力を測定する各種試験の特徴に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "2026年10月18日に取得した各実施機関の公式説明に照らし、試験の目的・形式・評価方式について最も適切なものを一つ選べ。",
+      "sources": [
+        "S219",
+        "S220",
+        "S221",
+        "S222"
+      ]
+    },
+    {
+      "id": "Q_1_009",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "日本の出入国管理及び難民認定法（入管法）における「在留資格」の基本的な仕組みに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "在留資格と就労活動に関する説明として、適切なものを一つ選べ（2026年10月20日確認）。",
+      "sources": [
+        "S271",
+        "S272",
+        "S273"
+      ]
+    },
+    {
+      "id": "Q_1_010",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "日本の技能実習制度および新たな育成就労制度への見直しに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "入管庁の育成就労制度Q&Aにおける制度目的と施行日の説明に合うものを一つ選べ（2026年10月20日確認）。",
+      "sources": [
+        "S270"
+      ]
+    },
+    {
+      "id": "Q_1_011",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "在留資格「特定技能1号」および「特定技能2号」の比較に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "入管庁の公表資料に照らし、特定技能1号と2号の通算在留期間の説明として適切なものを一つ選べ（2026年10月20日確認）。",
+      "sources": [
+        "S269"
+      ]
+    },
+    {
+      "id": "Q_1_012",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "地域日本語教室に、企業で働く「特定技能1号」の外国人学習者Bさん（東南アジア出身）が参加した。Bさんに対する日本語教育支援のアプローチとして、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "特定技能1号の学習者Bさんから、日本語を学ぶ場所と地域で交流する機会を知りたいと相談された。入管庁の特定技能総合支援サイトの支援項目を踏まえた対応を一つ選べ。",
+      "sources": [
+        "S268"
+      ]
+    },
+    {
+      "id": "Q_1_013",
+      "status": "content_differs",
+      "last_stem_batch": 175,
+      "library_excerpt": "在留資格「高度専門職」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "外務省の2026年1月22日付「高度専門職査証：高度専門職、特別高度人材」の案内に合う説明を一つ選べ。ここでは同案内の査証申請手続を問い、高度専門職2号の国内手続や永住許可の要件は扱わない。",
+      "sources": [
+        "S236"
+      ]
+    },
+    {
+      "id": "Q_1_014",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "日本語学校に在籍する「留学」資格の学生の出席率管理と在留資格更新に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "留学課程を置く認定日本語教育機関の出席管理について、2024年4月12日策定の公的ガイドラインに合う対応を一つ選べ。",
+      "sources": [
+        "S274"
+      ]
+    },
+    {
+      "id": "Q_1_015",
+      "status": "content_differs",
+      "last_stem_batch": 198,
+      "library_excerpt": "2025年6月に改訂された「外国人材の受入れ・共生のための総合的対応策」と「地域における多文化共生推進プラン」に関する記述として、最も適切なものを一つ選びなさい。なお、政府は2026年1月に新たな名称の総合的対応策も決定している。",
+      "github_record_excerpt": "総務省の「地域における多文化共生推進プラン」（2020年改訂）の、行政・生活情報の提供に関する説明として適切なものを一つ選べ。2020年版本文の内容を問い、現在の全制度の実施状況は問わない。",
+      "sources": [
+        "S299"
+      ]
+    },
+    {
+      "id": "Q_1_016",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "在留資格「技術・人文知識・国際業務」を保有する外国人に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "「技術・人文知識・国際業務」の上陸許可基準で、外国文化に基盤を有する思考・感受性を必要とする業務の実務経験要件について、適切なものを一つ選べ（2026年10月20日確認）。",
+      "sources": [
+        "S275"
+      ]
+    },
+    {
+      "id": "Q_1_017",
+      "status": "content_differs",
+      "last_stem_batch": 177,
+      "library_excerpt": "地域における「多文化共生社会」の形成と理念に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "総務省自治行政局国際室「地域における多文化共生推進プランの改訂について」の「意識啓発と社会参画支援」（2020年改訂プラン抜粋）の説明に合うものを一つ選べ。",
+      "sources": [
+        "S188"
+      ]
+    },
+    {
+      "id": "Q_1_018",
+      "status": "content_differs",
+      "last_stem_batch": 122,
+      "library_excerpt": "災害時および日常生活における「やさしい日本語」のガイドラインや作成手法に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、読み手への配慮と表現の工夫として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S189"
+      ]
+    },
+    {
+      "id": "Q_1_019",
+      "status": "content_differs",
+      "last_stem_batch": 121,
+      "library_excerpt": "文化庁が推進する「地域日本語教育の総合的な体制整備」や「地域日本語教育コーディネーター」の役割に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文部科学省が公開する研修案内に示された地域日本語教育コーディネーターの役割と、地域日本語教育の体制づくりへの国の支援について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S186",
+        "S187",
+        "S06"
+      ]
+    },
+    {
+      "id": "Q_1_020",
+      "status": "content_differs",
+      "last_stem_batch": 183,
+      "library_excerpt": "「生活者としての外国人」に対する日本語教育の評価指標として用いられる「生活Can do」（文化庁）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文部科学省の日本語教育コンテンツ共有システムが説明する「生活Can do」の性質と活用方法に合うものを一つ選べ。",
+      "sources": [
+        "S246"
+      ]
+    },
+    {
+      "id": "Q_1_021",
+      "status": "content_differs",
+      "last_stem_batch": 122,
+      "library_excerpt": "多文化共生の文脈における「情報バリアフリー」と多言語化・やさしい日本語の役割に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、外国人住民へ情報を伝える取組として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S189"
+      ]
+    },
+    {
+      "id": "Q_1_022",
+      "status": "content_differs",
+      "last_stem_batch": 183,
+      "library_excerpt": "近年、地域日本語教育の推進において注目されている「対話型（交流型）日本語教室」の特徴に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "静岡県が公式サイト「地域日本語教育体制構築事業」で説明する「対話交流型」の教室の特徴に合うものを一つ選べ。",
+      "sources": [
+        "S248"
+      ]
+    },
+    {
+      "id": "Q_1_023",
+      "status": "content_differs",
+      "last_stem_batch": 138,
+      "library_excerpt": "明治期の台湾における初期の日本語教育および伊沢修二の取り組みに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "伊沢修二の時期の台湾の日本語対訳教材について、渡邉俊彦の教材分析（2015）が示す特徴に合う説明を一つ選べ。",
+      "sources": [
+        "S200"
+      ]
+    },
+    {
+      "id": "Q_1_024",
+      "status": "content_differs",
+      "last_stem_batch": 195,
+      "library_excerpt": "戦前の日本の同化政策および外地・影響圏における日本語教育に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "アジア歴史資料センターの「台湾総督府国語学校」の解説に合うものを一つ選べ。ここでは同機関についての記載を問い、戦前の全地域の教育を一律に扱わない。",
+      "sources": [
+        "S283"
+      ]
+    },
+    {
+      "id": "Q_1_025",
+      "status": "content_differs",
+      "last_stem_batch": 190,
+      "library_excerpt": "明治末期から大正期にかけての中国人留学生向け日本語教育機関の展開に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "JASSOが公表する国際学友会の沿革に合う記述を一つ選べ。創立、日本語教室の開設、学校の設置許可を区別する。",
+      "sources": [
+        "S261"
+      ]
+    },
+    {
+      "id": "Q_1_026",
+      "status": "content_differs",
+      "last_stem_batch": 166,
+      "library_excerpt": "戦後から1970年代にかけての国際交流施策および「国際交流基金」の設立史に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国際交流基金の公式紹介に記された、同基金の設立と組織形態の変化について、最も適切なものを一つ選べ。",
+      "sources": [
+        "S224"
+      ]
+    },
+    {
+      "id": "Q_1_027",
+      "status": "content_differs",
+      "last_stem_batch": 136,
+      "library_excerpt": "1980年代以降の日本の日本語教育政策の転換点となった「留学生10万人計画」とその影響に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "1980年代末から1990年にかけての、日本語教育施設の質的向上に関する制度整備の経緯として、適切なものを一つ選べ。",
+      "sources": [
+        "S198"
+      ]
+    },
+    {
+      "id": "Q_1_028",
+      "status": "content_differs",
+      "last_stem_batch": 190,
+      "library_excerpt": "日本語教育における教授法・教材の歴史的変遷（長沼直兄・山口喜一郎・日本語教育振興会等）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "長沼スクールが紹介する長沼直兄と『標準日本語讀本』の教材史に合う説明を一つ選べ。",
+      "sources": [
+        "S262"
+      ]
+    },
+    {
+      "id": "Q_1_029",
+      "status": "content_differs",
+      "last_stem_batch": 178,
+      "library_excerpt": "戦後の国語施策における「国語審議会」から「文化審議会国語分科会」への組織改編および言語政策の位置づけに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文化庁が公開する「文化審議会について」の設置経緯と国語分科会の説明に合うものを一つ選べ。",
+      "sources": [
+        "S240"
+      ]
+    },
+    {
+      "id": "Q_1_030",
+      "status": "content_differs",
+      "last_stem_batch": 177,
+      "library_excerpt": "2010年（平成22年）に改定された「常用漢字表」の特徴および現代の表記政策に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "2010年（平成22年）11月30日告示「常用漢字表」の前書きと「表の見方及び使い方」の説明に合うものを一つ選べ。",
+      "sources": [
+        "S72"
+      ]
+    },
+    {
+      "id": "Q_1_031",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_1_032",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_1_033",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_1_034",
+      "status": "content_differs",
+      "last_stem_batch": 165,
+      "library_excerpt": "日本語能力試験の概要と運用に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "2026年10月18日に取得した日本語能力試験（JLPT）の公式FAQに照らし、最も適切なものを一つ選べ。",
+      "sources": [
+        "S219"
+      ]
+    },
+    {
+      "id": "Q_1_035",
+      "status": "content_differs",
+      "last_stem_batch": 165,
+      "library_excerpt": "日本留学試験の日本語科目の構成および特徴に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "2026年度の日本留学試験（EJU）実施要項とJASSOの得点・日本語シラバスの説明に照らし、最も適切なものを一つ選べ。",
+      "sources": [
+        "S220"
+      ]
+    },
+    {
+      "id": "Q_1_036",
+      "status": "content_differs",
+      "last_stem_batch": 120,
+      "library_excerpt": "ACTFL-OPIの評価基準や実施方法に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ACTFLの2024年版OPI受験案内に基づく、評価基準や実施方法の説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S185"
+      ]
+    },
+    {
+      "id": "Q_1_037",
+      "status": "content_differs",
+      "last_stem_batch": 120,
+      "library_excerpt": "テストの評価基準に関する概念（妥当性、信頼性、波及効果など）と、日本語の各種試験の運用に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "評価・採点とOPIの運用に関する説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S185",
+        "S142",
+        "S179",
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_1_038",
+      "status": "content_differs",
+      "last_stem_batch": 166,
+      "library_excerpt": "国際交流基金が実施している「海外日本語教育機関調査」（2021年度調査等）における世界および地域別の日本語学習者の動向・機関別傾向に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国際交流基金の2021年度「海外日本語教育機関調査」報告書の結果について、最も適切なものを一つ選べ。数値は回答機関で学ぶ学習者の集計であり、独習者を含む全人口の推計ではない。",
+      "sources": [
+        "S223"
+      ]
+    },
+    {
+      "id": "Q_1_039",
+      "status": "content_differs",
+      "last_stem_batch": 119,
+      "library_excerpt": "「CEFR（ヨーロッパ言語共通参照枠）」における言語能力の捉え方および評価尺度に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "CEFR（2001年版）の言語教育の考え方と共通参照レベルに関する記述として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_1_040",
+      "status": "content_differs",
+      "last_stem_batch": 76,
+      "library_excerpt": "国際交流基金がCEFRの理念に基づいて開発した「JF日本語教育スタンダード（JFスタンダード）」とそのツールに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックに示されたJF日本語教育スタンダードと、その利用に関する説明として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_1_041",
+      "status": "content_differs",
+      "last_stem_batch": 77,
+      "library_excerpt": "JF日本語教育スタンダード（JFスタンダード）のCan-do（Can-doステートメント）を用いた指導計画・授業分析に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックにおける、CEFR Can-doとJF Can-doの関係の説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_2_001",
+      "status": "content_differs",
+      "last_stem_batch": 188,
+      "library_excerpt": "方言と共通語・標準語の関係および位相差に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国立国語研究所の「方言」ということばの解説に照らし、地域方言と共通語の捉え方として適切なものを一つ選べ。",
+      "sources": [
+        "S257"
+      ]
+    },
+    {
+      "id": "Q_2_002",
+      "status": "content_differs",
+      "last_stem_batch": 199,
+      "library_excerpt": "言語接触（接触言語）における「ピジン」と「クレオール」の特徴に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "真田信治による国立国語研究所「ことば研究館」の2018年の記事「日本語とかかわるクレオールは存在しますか」で、宜蘭クレオールについて述べられていることを一つ選べ。同記事の調査報告を対象とする。",
+      "sources": [
+        "S300"
+      ]
+    },
+    {
+      "id": "Q_2_003",
+      "status": "content_differs",
+      "last_stem_batch": 153,
+      "library_excerpt": "バイリンガリズム（二言語併用）に関する用語と、それらの研究上の位置づけに関する説明として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Cummins（1976）の閾値仮説と、同論文が紹介する加算的・減算的バイリンガリズムの区別について、本文の説明に合うものを一つ選べ。",
+      "sources": [
+        "S217"
+      ]
+    },
+    {
+      "id": "Q_2_004",
+      "status": "content_differs",
+      "last_stem_batch": 126,
+      "library_excerpt": "カミンズが提唱した言語能力の二層モデル（BICSとCALP）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Cummins（2008）が説明するBICS（日常会話の流暢さ）とCALP（学習言語能力）の区別に関する記述として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_2_005",
+      "status": "content_differs",
+      "last_stem_batch": 188,
+      "library_excerpt": "社会言語学における「社会方言」および言葉のバリエーション（変異）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "同じ地域の話しことばの変異を調べる。国立国語研究所の解説の「地域の中のことばの多様性」に合う捉え方を一つ選べ。",
+      "sources": [
+        "S257"
+      ]
+    },
+    {
+      "id": "Q_2_006",
+      "status": "content_differs",
+      "last_stem_batch": 188,
+      "library_excerpt": "日本語の地域方言における「文法・アクセント・方言周圏論」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "方言周圏論と方言の変化について、国立国語研究所の解説に合うものを一つ選べ。",
+      "sources": [
+        "S258",
+        "S259"
+      ]
+    },
+    {
+      "id": "Q_2_007",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "多言語社会やバイリンガル環境における「コードスイッチング」と「コードミキシング」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Cambridge EnglishのGraham Seedによるコードスイッチングの紹介（2023）に合う説明を一つ選べ。",
+      "sources": [
+        "S267"
+      ]
+    },
+    {
+      "id": "Q_2_008",
+      "status": "content_differs",
+      "last_stem_batch": 141,
+      "library_excerpt": "言語政策における「公用語」と「国家語」の概念に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "公用語と国家語の関係について、シンガポール憲法第153A条（政府公開の2023年4月24日施行版）に照らして正しいものを一つ選べ。",
+      "sources": [
+        "S204"
+      ]
+    },
+    {
+      "id": "Q_2_009",
+      "status": "content_differs",
+      "last_stem_batch": 195,
+      "library_excerpt": "言語に関する基本的人権の観点から議論される「言語権」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "外務省掲載の市民的及び政治的権利に関する国際規約（B規約）第27条が定める、言語的少数民族に属する者の権利について、適切なものを一つ選べ。",
+      "sources": [
+        "S284"
+      ]
+    },
+    {
+      "id": "Q_2_010",
+      "status": "content_differs",
+      "last_stem_batch": 176,
+      "library_excerpt": "ユネスコが指定する「消滅危機言語」および日本の言語・方言の現状に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文化庁「消滅の危機にある言語・方言」が、ユネスコの2009年2月発表「Atlas of the World’s Languages in Danger」第3版を紹介している。その掲載言語について、文化庁の説明に合うものを一つ選べ。",
+      "sources": [
+        "S239"
+      ]
+    },
+    {
+      "id": "Q_2_011",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "多言語国家・地域における言語政策のパターンに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "UNESCOの専門家グループ報告「Language Vitality and Endangerment」（2003）Factor 7が区別する、政策・態度の説明に合うものを一つ選べ。",
+      "sources": [
+        "S289"
+      ]
+    },
+    {
+      "id": "Q_2_012",
+      "status": "content_differs",
+      "last_stem_batch": 176,
+      "library_excerpt": "日本の「公用文」や法令における表記政策および言葉の言い換えに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "国立国語研究所「外来語」委員会の2006年「外来語」言い換え提案 第1回～第4回総集編と「利用の手引き」に合う考え方を一つ選べ。",
+      "sources": [
+        "S238"
+      ]
+    },
+    {
+      "id": "Q_2_013",
+      "status": "content_differs",
+      "last_stem_batch": 89,
+      "library_excerpt": "コミュニケーション・ストラテジーの定義と分類に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の27",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_014",
+      "status": "content_differs",
+      "last_stem_batch": 90,
+      "library_excerpt": "「成就（達成）ストラテジー」のうち、目標言語の語彙不足を補うために言い換えや造語を用いる「言語内ストラテジー」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）の原論文の28頁表5に基づき、達成・補償ストラテジーの例と名称が対応するものを一つ選びなさい。次の英語の例は同表に示されたものである。",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_015",
+      "status": "content_differs",
+      "last_stem_batch": 90,
+      "library_excerpt": "コミュニケーション・ストラテジーにおける「援助要求」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）の原論文の28頁表5に基づき、援助要求に関する説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_016",
+      "status": "content_differs",
+      "last_stem_batch": 90,
+      "library_excerpt": "「非言語行動（ノンバーバル・コミュニケーション）の併用」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）の原論文の28頁表5に基づき、非言語的手段による達成・補償ストラテジーについて、対応する説明を一つ選びなさい。方略の分類を問い、認知機能や学習効果の大きさを問うものではない。",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_017",
+      "status": "content_differs",
+      "last_stem_batch": 90,
+      "library_excerpt": "ある日本語クラスで、学習者AさんとBさん、および教師の間で以下のようなやり取りが行われた。\n学習者A：「昨日、友達と……（困った顔で止まる）……ええと、 魚がたくさん泳いでいる大きな部屋 に行きました。」\n学習者B：「あ、水族館ですか？」\n学習者A：",
+      "github_record_excerpt": "次は分類を考えるための架空の会話である。学習者Aは「コルク抜き」と言いたかったが語が出てこず、Bに「瓶の栓を抜く道具を使いました」と説明した。Bが「コルク抜きですか」と尋ね、Aは「そうです」と答えた。Aは教師に質問していない。Celce-Murcia",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_018",
+      "status": "content_differs",
+      "last_stem_batch": 189,
+      "library_excerpt": "カナルとスウェイン（Canale & Swain）による「コミュニケーション能力」のモデルにおける「ストラテジー能力」の位置づけと、指導上の留意点に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Canale・Swain（1980）のストラテジー能力の説明として適切なものを一つ選べ。",
+      "sources": [
+        "S260"
+      ]
+    },
+    {
+      "id": "Q_2_019",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_020",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_021",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_022",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "ポライトネス理論（ブラウンとレビンソン）における「ポジティブ・ポライトネス」と「ネガティブ・ポライトネス」および「配慮表現」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "BrownとLevinson（1987）のポライトネス理論における二つのフェイスと、それへの配慮の説明に合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_023",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_024",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_025",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_2_026",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "ブラウンとレビンソン（Brown & Levinson）のポライトネス理論における「フェイス」および「フェイス侵害行為」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "BrownとLevinson（1987）の理論におけるフェイスとFTA（フェイスを脅かす行為）の説明に合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_027",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "ポライトネス理論に基づく対人配慮ストラテジーの具体例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "BrownとLevinson（1987）のポライトネス戦略の分類として、合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_028",
+      "status": "content_differs",
+      "last_stem_batch": 186,
+      "library_excerpt": "ホールが提唱した「ハイコンテクスト（高文脈）文化」と「ローコンテクスト（低文脈）文化」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Hallの原著Beyond Cultureの高文脈・低文脈の説明に合うものを一つ選べ。",
+      "sources": [
+        "S253"
+      ]
+    },
+    {
+      "id": "Q_2_029",
+      "status": "content_differs",
+      "last_stem_batch": 186,
+      "library_excerpt": "多文化的な日本語教室で、文脈に依存した発話と明示的な意思確認に関する次の説明のうち、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "教師と学習者の間で課題の前提知識が共有されていないことが分かった。HallのBeyond Cultureの文脈に関する説明を参考に、伝え方を検討する考え方として適切なものを一つ選べ。",
+      "sources": [
+        "S253"
+      ]
+    },
+    {
+      "id": "Q_2_030",
+      "status": "content_differs",
+      "last_stem_batch": 197,
+      "library_excerpt": "非言語行動（ノンバーバル・コミュニケーション）のうち、身体運動やジェスチャーを扱う「キネシクス（Kinesics：身体言語学）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "EkmanとFriesen（1969）が述べる非言語行動のレギュレーター（調節行動）について、適切な説明を一つ選べ。動作の形だけでなく、会話内での働きを考える。",
+      "sources": [
+        "S296"
+      ]
+    },
+    {
+      "id": "Q_2_031",
+      "status": "content_differs",
+      "last_stem_batch": 150,
+      "library_excerpt": "日本語における非言語行動（キネシクス・パラ言語等）の文化固有性と、日本語学習者への指導・観察に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "非言語的な側面を含む会話の観察について、欧州評議会のRFCDC（2018）が述べる「聞く技能と観察する技能」に合うものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_2_032",
+      "status": "content_differs",
+      "last_stem_batch": 179,
+      "library_excerpt": "ヨーロッパ言語共通参照枠等で提示されている「複言語・複文化能力」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "欧州評議会のCEFR公式解説「Plurilingualism and pluriculturalism」の本文に照らし、複言語・複文化主義の説明に合うものを一つ選べ。",
+      "sources": [
+        "S243"
+      ]
+    },
+    {
+      "id": "Q_2_033",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "バイリンガルや多言語話者の対話において見られる「コードスイッチング」の機能および特徴に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "目標言語である語が分からず、学習者が家庭で使う言語の語を交えて話を続けた。Cambridge EnglishのGraham Seedの紹介（2023）に照らした捉え方として適切なものを一つ選べ。",
+      "sources": [
+        "S267"
+      ]
+    },
+    {
+      "id": "Q_2_034",
+      "status": "content_differs",
+      "last_stem_batch": 197,
+      "library_excerpt": "多言語・多文化社会における「言語的ダイバーシティ（言語的多様性）」の尊重と日本語教育の実践に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "少数言語の保持と教育機会について、1992年の国連少数者の権利宣言第4条第3項・第4項に合う説明を一つ選べ。母語学習の機会と社会全体について学ぶ機会を区別して考える。",
+      "sources": [
+        "S295"
+      ]
+    },
+    {
+      "id": "Q_2_035",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 59,
+      "library_excerpt": "ある多文化共生推進事業での「日本語ボランティア教室」の授業風景を以下に示す。\n受講生Aさん（ブラジル出身）：「先生、土曜日のイベント、 Eu vou（私は行きます） ！ 友達もjunto（一緒に）いきます。」\n支援者Bさん：「あ、Aさん、来てくれるん",
+      "github_record_excerpt": "",
+      "sources": [
+        "S123"
+      ]
+    },
+    {
+      "id": "Q_2_036",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "多言語・多文化環境で育つ子ども（JSL児童生徒等）の言語発達に関する概念「トランスランゲージング」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "CUNY-NYSIEBの「Developing Students’ Identities as Bilingual Readers and Writers」が示す、トランスランゲージングを取り入れた読み書きの支援に合うものを一つ選べ。",
+      "sources": [
+        "S290"
+      ]
+    },
+    {
+      "id": "Q_3_001",
+      "status": "content_differs",
+      "last_stem_batch": 46,
+      "library_excerpt": "談話（文章）理解における情報処理モデルである「トップダウン処理」と「ボトムアップ処理」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "聴解におけるトップダウン処理とボトムアップ処理について、最も適切な記述はどれか。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_3_002",
+      "status": "content_differs",
+      "last_stem_batch": 49,
+      "library_excerpt": "聴解授業において、学習者の「トップダウン処理」を促進するための指導法（ウォームアップ活動）として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "聴解授業で、背景知識を使って音声の内容を予測するトップダウン処理の練習として、最も適切な活動を選びなさい。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_3_003",
+      "status": "content_differs",
+      "last_stem_batch": 47,
+      "library_excerpt": "認識心理学における「スキーマ」の定義および談話理解における機能に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Carrell・Eisterhold（1983）の読解に関するスキーマの説明として、最も適切なものを選びなさい。",
+      "sources": [
+        "S106"
+      ]
+    },
+    {
+      "id": "Q_3_004",
+      "status": "content_differs",
+      "last_stem_batch": 145,
+      "library_excerpt": "異文化間コミュニケーションや日本語読解における「スキーマの不一致・欠如」が引き起こす問題の事例分析として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "読解における、経験に基づくスキーマなどの背景知識と文章の内容との食い違いを示す事例として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S205"
+      ]
+    },
+    {
+      "id": "Q_3_005",
+      "status": "content_differs",
+      "last_stem_batch": 142,
+      "library_excerpt": "談話理解における「インファレンス（Inference：推論）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "物語文の理解における、背景知識に基づく推論（インファレンス）の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S205"
+      ]
+    },
+    {
+      "id": "Q_3_006",
+      "status": "content_differs",
+      "last_stem_batch": 142,
+      "library_excerpt": "談話理解における「橋渡し推論」の具体例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "「太郎は花瓶を床に落とした。床に水が広がった。」という2文を読んだ際、2文間の因果的なつながりを補う橋渡し推論に当たるものを一つ選べ。",
+      "sources": [
+        "S205"
+      ]
+    },
+    {
+      "id": "Q_3_007",
+      "status": "content_differs",
+      "last_stem_batch": 189,
+      "library_excerpt": "文章の「一貫性」と「結束性」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Canale・Swain（1980）30頁の談話規則の説明に照らし、結束性と一貫性の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S260"
+      ]
+    },
+    {
+      "id": "Q_3_008",
+      "status": "content_differs",
+      "last_stem_batch": 125,
+      "library_excerpt": "第一言語習得と第二言語習得の比較に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Krashen（1982）が「習得と学習の区別」で述べた、子供の第一言語習得と成人の第二言語に関する仮説内の主張として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "id": "Q_3_009",
+      "status": "content_differs",
+      "last_stem_batch": 172,
+      "library_excerpt": "アンダーソンのアダプティブ・コントロール・オブ・ソート理論における「宣言的知識」と「手続的知識」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "アンダーソン（1982）「Acquisition of Cognitive Skill」のACTによる技能獲得の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S230"
+      ]
+    },
+    {
+      "id": "Q_3_010",
+      "status": "content_differs",
+      "last_stem_batch": 172,
+      "library_excerpt": "学習者が「動詞の『て形』の作り方（グループ1の『書く』は『書いて』になる）」というルールを言葉で正確に説明できるにもかかわらず、実際の自由会話の中では「*書きて」と誤って発話してしまった。この現象を「宣言的知識」と「手続的知識」の観点から分析した記述",
+      "github_record_excerpt": "学習者が「書く」のて形は「書いて」になると正しく説明したが、自由会話のある場面では「書きて」と発話したとする。アンダーソンの宣言的知識と手続的な遂行の区別を踏まえた、この観察の扱いとして最も適切なものを一つ選べ。",
+      "sources": [
+        "S230",
+        "S232"
+      ]
+    },
+    {
+      "id": "Q_3_011",
+      "status": "content_differs",
+      "last_stem_batch": 172,
+      "library_excerpt": "アトキンソンとシフリンによる人間の伝統的な「二重記憶モデル（多重記憶モデル）」の構成要素（感覚記憶、短期記憶、長期記憶）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "アトキンソンとシフリン「Human Memory A Proposed System and Its Control Processes」の公刊前原稿に示された記憶の枠組みに合う説明を一つ選べ。",
+      "sources": [
+        "S231"
+      ]
+    },
+    {
+      "id": "Q_3_012",
+      "status": "content_differs",
+      "last_stem_batch": 74,
+      "library_excerpt": "バドリーが提唱した「ワーキングメモリ（Working Memory：作業記憶）」のモデルに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "バドリー（2012）が説明する多成分ワーキングメモリ（作動記憶）モデルについて、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S138"
+      ]
+    },
+    {
+      "id": "Q_3_013",
+      "status": "content_differs",
+      "last_stem_batch": 74,
+      "library_excerpt": "第二言語の聴解（リスニング）や読解（リーディング）において、ワーキングメモリの容量制限が学習者に与える影響の分析として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "バドリー（2012）が紹介する実験では、数字列を覚えながら文法的推論を行うと、数字列の負荷増加に伴って反応時間が延びたが、誤答率はほぼ一定だった。この結果と作動記憶モデルの関係について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S138"
+      ]
+    },
+    {
+      "id": "Q_3_014",
+      "status": "content_differs",
+      "last_stem_batch": 74,
+      "library_excerpt": "長期記憶の分類（「エピソード記憶」「意味記憶」「プライミング」「手続き記憶」等）に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Squire（2004）の長期記憶の分類に照らし、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S139"
+      ]
+    },
+    {
+      "id": "Q_3_015",
+      "status": "content_differs",
+      "last_stem_batch": 75,
+      "library_excerpt": "セリンカーが提唱した「中間言語」の概念に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "セリンカーの中間言語仮説について、本人の1988年改訂論集の説明に最もよく対応するものを一つ選びなさい。",
+      "sources": [
+        "S140"
+      ]
+    },
+    {
+      "id": "Q_3_016",
+      "status": "content_differs",
+      "last_stem_batch": 75,
+      "library_excerpt": "セリンカーの中間言語理論において、中間言語が目標言語の正しい形態へと発達せず、誤った言語形式が固定化・永久化してしまう現象を表す用語として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "セリンカーの1988年改訂論集で、中間言語のさらなる体系的発達の停止を指す一般的な概念として説明される用語を一つ選びなさい。",
+      "sources": [
+        "S140"
+      ]
+    },
+    {
+      "id": "Q_3_017",
+      "status": "content_differs",
+      "last_stem_batch": 75,
+      "library_excerpt": "学習者の発音や文法に見られる「化石化」の具体例とその要因に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "次の架空の観察例のうち、同じ学習者の特定の誤用パターンが長期的に安定していることを最も明確に示すものを一つ選びなさい。永久的な化石化の確定や、その原因の特定までは求めない。",
+      "sources": [
+        "S140"
+      ]
+    },
+    {
+      "id": "Q_3_018",
+      "status": "content_differs",
+      "last_stem_batch": 76,
+      "library_excerpt": "言語習得のプロセスにおける「過剰般化」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Richards（1970）の誤用分析における「過剰般化」の説明に最もよく対応するものを一つ選びなさい。",
+      "sources": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_019",
+      "status": "content_differs",
+      "last_stem_batch": 5,
+      "library_excerpt": "日本語学習者の誤用事例のうち、「過剰般化」に該当するものとして、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "学習者は「書く→書いた」などから、グループ1の「く」で終わる動詞のタ形は「く」を「いた」に変えると学んだ。次のうち、その規則を例外にまで適用した過剰般化の例はどれか。",
+      "sources": [
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_020",
+      "status": "content_differs",
+      "last_stem_batch": 3,
+      "library_excerpt": "学習者の動詞使用や活用に見られる現象のうち、「過剰般化」を最も明確に示すものを一つ選びなさい。",
+      "github_record_excerpt": "学習者が「書く→書いて」というテ形の規則を学んだ。次のうち、学んだ規則を適用範囲外にも広げた過剰般化の例はどれか。",
+      "sources": [
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_021",
+      "status": "content_differs",
+      "last_stem_batch": 73,
+      "library_excerpt": "ヴィゴツキー（L. S. ヴィゴツキー）が唱えた「発達の最近接領域（Zone of Proximal Development：ZPD）」の定義に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ヴィゴツキーの「発達の最近接領域（ZPD）」の定義について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "Q_3_022",
+      "status": "content_differs",
+      "last_stem_batch": 73,
+      "library_excerpt": "「発達の最近接領域」の観点に基づいた日本語の授業支援・対話のあり方として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ZPDの定義に照らし、「独力ではまだ解決できないが、適切な支援下では解決できる範囲」に取り組む日本語授業の例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "Q_3_023",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "オマリーとシャモー（O'Malley & Chamot）やオックスフォードによる言語学習ストラテジーの分類において、「認知ストラテジー」に該当する行動として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、認知ストラテジーの例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_024",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "「メタ認知ストラテジー」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、メタ認知ストラテジーの説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_025",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "学習者Aさんは、日本語の聴解（リスニング）の際、以下のような行動をとっている。Aさんの行動のうち、「メタ認知ストラテジー」の「モニタリング（監視）」に該当する事例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の聴解学習の行動のうち、学習中の理解状態を点検するメタ認知的なモニタリングの例を一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_026",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "オックスフォードの言語学習ストラテジー分類における「記憶ストラテジー」の具体例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、記憶ストラテジーの例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_027",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "学習者の学習ストラテジー使用に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の8〜10頁に示された、学習ストラテジーの選択・使用についての考え方に合う説明を一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_028",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "日本語の語彙習得における「記憶ストラテジー」と「認知ストラテジー」の相違に関する分析として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、記憶ストラテジーと認知ストラテジーの説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_029",
+      "status": "content_differs",
+      "last_stem_batch": 87,
+      "library_excerpt": "日本語学習者Bさんは、長文読解の途中で分からない単語「過疎化」が出てきた際、漢字の構成（「過」＝すぎる、「疎」＝まばら・遠ざかる）と文脈（農村人口の減少についての文章）から、「人口が減って寂しくなることだろう」と推測して読み進めた。\nO’Malley",
+      "github_record_excerpt": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の行動に対応する分類を一つ選びなさい。読解中に知らない語が現れたため、前後の文脈を手掛かりに意味を推",
+      "sources": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_030",
+      "status": "content_differs",
+      "last_stem_batch": 174,
+      "library_excerpt": "リスガードが提唱した「異文化適応モデル（Uカーブ・モデル）」における各段階の説明として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "オバーグ（1960）「Cultural Shock: Adjustment to New Cultural Environments」の2006年再録本文にある、滞在先への適応過程の説明に合うものを一つ選べ。",
+      "sources": [
+        "S235"
+      ]
+    },
+    {
+      "id": "Q_3_031",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "ガラーホーン夫妻による「Wカーブ・モデル」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Kalamazoo Collegeの留学者家族向け案内が説明するWカーブ・モデルに合うものを一つ選べ。ここでは説明上のモデルを問い、全員が同じ経過をたどるとは仮定しない。",
+      "sources": [
+        "S277"
+      ]
+    },
+    {
+      "id": "Q_3_032",
+      "status": "content_differs",
+      "last_stem_batch": 174,
+      "library_excerpt": "カルチャーショックの心理的徴候およびその背景に関する説明として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "オバーグ（1960）「Cultural Shock: Adjustment to New Cultural Environments」の2006年再録本文で、カルチャーショックを説明する際の手がかりの捉え方に合うものを一つ選べ。",
+      "sources": [
+        "S235"
+      ]
+    },
+    {
+      "id": "Q_3_033",
+      "status": "content_differs",
+      "last_stem_batch": 173,
+      "library_excerpt": "ベリーの「異文化適応モデル（アカルチュレーション・戦略）」において、「自文化の保持」 と 「移住先社会の文化との接触・参加」 の2つの軸から分類される4つのパターンのうち、 「統合」の説明として最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ベリー（1997）「Immigration, Acculturation, and Adaptation」が、非支配的集団の立場から説明する文化変容方略のうち、「統合」に合うものを一つ選べ。",
+      "sources": [
+        "S233"
+      ]
+    },
+    {
+      "id": "Q_3_034",
+      "status": "content_differs",
+      "last_stem_batch": 150,
+      "library_excerpt": "日本語学校に通う留学生Cさんは、日本での生活が1年ほど経ち、日本語も上達した。しかし最近、「日本人と一緒にいるときは日本の文化に合わせられるが、国に帰ると自分の価値観が変わってしまったと感じ、自分は何国人として生きるべきなのか分からない」と深いアイデ",
+      "github_record_excerpt": "留学生Cさんは、日本に滞在しながら、母国の家族、学校の友人、趣味のクラブの仲間とのつながりをそれぞれ大切にしている。また、相手や場面によって、自分のどのつながりを強く意識するかが変わると話した。欧州評議会のRFCDC（2018）におけるアイデンティテ",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_3_035",
+      "status": "content_differs",
+      "last_stem_batch": 173,
+      "library_excerpt": "ベネットの「異文化感受性発達モデル」における段階の説明として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ベネット（2017）「Developmental Model of Intercultural Sensitivity」による異文化感受性発達モデル（DMIS）の説明に合うものを一つ選べ。",
+      "sources": [
+        "S234"
+      ]
+    },
+    {
+      "id": "Q_3_036",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_3_037",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "ガードナーらの社会教育モデルにおける「統合的動機づけ」と「道具的動機づけ」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "British Council向け報告書「Teachers Guide: Foundations in teaching English」（2023）が紹介する、道具的・統合的な学習目的の区別に合うものを一つ選べ。",
+      "sources": [
+        "S281"
+      ]
+    },
+    {
+      "id": "Q_3_038",
+      "status": "content_differs",
+      "last_stem_batch": 71,
+      "library_excerpt": "日本語クラスの学習者A〜Dさんの発言から、「内発的動機づけ」に基づいて学習を行っている事例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "RyanとDeci（2000）の内発的動機づけと外発的動機づけの区別に照らし、次の発言のうち、活動そのものへの興味を学習理由として述べているものを一つ選べ。",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "Q_3_039",
+      "status": "content_differs",
+      "last_stem_batch": 72,
+      "library_excerpt": "ドーニエイ（Z. Dörnyei）の「L2自己システム」を構成する3つの要素に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Dörnyei（2019）が振り返る「L2動機づけ自己システム」の構成について、最も適当な説明を一つ選べ。",
+      "sources": [
+        "S137"
+      ]
+    },
+    {
+      "id": "Q_3_040",
+      "status": "content_differs",
+      "last_stem_batch": 71,
+      "library_excerpt": "言語学習における「外国語不安」および「状況特有の不安」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Horwitz・Horwitz・Cope（1986）の外国語教室不安の説明として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "id": "Q_3_041",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 71,
+      "library_excerpt": "会話クラスにおいて、学習者Eさんは文法や語彙の知識が十分にあり、筆記テストでは高得点を取る。しかし、教室で教師から指名されると急激な緊張感を覚え、声が小さくなったり、既知の文法でも発話できなくなったりする。\nこの状況におけるEさんの心理状態と教師の対",
+      "github_record_excerpt": "",
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "id": "Q_4_001",
+      "status": "content_differs",
+      "last_stem_batch": 108,
+      "library_excerpt": "ショーン（D. Schön）が提唱した「省察的実践家」の概念に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ショーン（Schön, 1983）の省察的実践についての説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S166"
+      ]
+    },
+    {
+      "id": "Q_4_002",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "日本語教育における「教師の役割」の多様化に関する記述として、学習者中心の観点から最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "学習者同士が言語を使って協働し、自分の学習にも責任を持つコミュニカティブな授業を目指す。この方針を支える教師の役割として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_003",
+      "status": "content_differs",
+      "last_stem_batch": 109,
+      "library_excerpt": "日本語教師の「継続的専門性開発」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "RichardsとFarrell（2005）第1章が示す、言語教師の継続的な専門性開発の考え方に合うものを一つ選びなさい。",
+      "sources": [
+        "S167"
+      ]
+    },
+    {
+      "id": "Q_4_004",
+      "status": "content_differs",
+      "last_stem_batch": 108,
+      "library_excerpt": "ある日本語教師Aさんは、担当クラスの文法導入で学習者が混乱している様子（「〜テ形」の活用ミス）に授業中気づき、予定していた練習を一時中断して、学習者自身の気づきを促す問いかけに変更した。\nこのAさんの行動を分析した記述として、最も適切なものを一つ選び",
+      "github_record_excerpt": "授業中、教師Aさんは学習者の「て形」の誤りに気付き、「自分の説明では形の違いが伝わっていないのではないか」と捉え直した。そこで予定していた練習を一時中断し、対比例を示して学習者の反応を確かめることにした。ショーン（1983）の概念をこの架空事例に当て",
+      "sources": [
+        "S166"
+      ]
+    },
+    {
+      "id": "Q_4_005",
+      "status": "content_differs",
+      "last_stem_batch": 65,
+      "library_excerpt": "日本語教師の「ピア・オブザベーション（同僚による授業観察・ピア・リフレクション）」の意義に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Cambridge International Educationの公開手引きが示す、専門性の向上を目的とするピア・オブザベーションについて、最も適当なものを選べ。",
+      "sources": [
+        "S127"
+      ]
+    },
+    {
+      "id": "Q_4_006",
+      "status": "content_differs",
+      "last_stem_batch": 93,
+      "library_excerpt": "日本語教師Bさんは、作文の授業で「です・ます体」と「だ・である体」が混在している学習者の文章（例：「昨日は映画を見ました。とても面白かった。」）に対し、以下のような指導を行った。\nBさんの対応のうち、「学習者の自律性を育む指導（ファシリテーター的支援",
+      "github_record_excerpt": "次は教材用の架空事例である。作文の学習者は「説明文を丁寧体で統一して書けるようになりたい」と教師に相談した。現在の作文には「昨日は映画を見ました。とても面白かった」とある。Holec（1981）の、学習者が学習を引き受ける能力の発達を支える立場に照ら",
+      "sources": [
+        "S152"
+      ]
+    },
+    {
+      "id": "Q_4_007",
+      "status": "content_differs",
+      "last_stem_batch": 109,
+      "library_excerpt": "教師の「信念（Teacher beliefs / ティーチャー・ビリーフス）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Borg（2003）が示す、信念を含む教師の認知（teacher cognition）と実践の関係について、説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S168"
+      ]
+    },
+    {
+      "id": "Q_4_008",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "カリキュラム・デザイン（コース・デザイン）の標準的な手順において、最初に行うべきステップとして最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Richards（2013）8頁の図4に示されたバックワード・デザインでは、授業内容や方法を検討する基盤として何を出発点に置くか。最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_009",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "日本語コースを開講する際に行う「ニーズ分析」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "ホテルで働く学習者向けの日本語コースを計画している。職務で必要なコミュニケーションを把握するニーズ分析として、最も適切な案を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_010",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_4_011",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "シラバス（教育内容の体系）の種類と特徴の組み合わせとして、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "シラバスの名称と編成の基準の組み合わせとして、最も適切なものを一つ選びなさい。ここでは、文法項目・言語機能・技能・遂行する作業のどれを単位にするかを区別する。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_012",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 118,
+      "library_excerpt": "日本語学校において、新入生のクラス分けのためにプレイスメントテストを実施することになった。\nプレイスメントテストの作成・運用に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "",
+      "sources": [
+        "S183",
+        "S179",
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_013",
+      "status": "content_differs",
+      "last_stem_batch": 107,
+      "library_excerpt": "コース目標の設定において、CAN-DOステートメント（〜ができる）を活用する利点に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "JF日本語教育スタンダードの活動Can-doを学習目標の設定に活用する利点として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "Q_4_014",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "ある大学の留学生向け日本語コースで、特定のテーマ（例：「日本の環境問題」）について文献を読み、議論し、レポートを書くという総合的な内容を中心に構成されたシラバスを導入することにした。\nこのシラバスの名称として最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "大学の日本語コースで、環境問題などの主題を先に決め、それを軸に文献を読む、議論する、レポートを書く活動や必要な言語項目を組み立てる。主題は文型練習の例として後から選ぶのではなく、単元編成の基準とする。この編成の中心を説明するものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_015",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "授業における教師と学習者の「インタラクション（相互交渉）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Cambridge EnglishのTKT GlossaryのInteractionの項に照らし、授業でやり取りを続けるための方略に合うものを一つ選べ。",
+      "sources": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_016",
+      "status": "content_differs",
+      "last_stem_batch": 124,
+      "library_excerpt": "クラスの「ラポール（信頼関係）形成」および心理的環境の設定に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Krashen（1982）の情意フィルター仮説内の主張と、CambridgeのTKT公式用語集にあるラポールや支援的な雰囲気の説明について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S13",
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_017",
+      "status": "content_differs",
+      "last_stem_batch": 63,
+      "library_excerpt": "ある日本語クラスで、教師が学習者に対して行った以下のやり取り（発話）の分析として、最も適切なものを一つ選びなさい。\n学習者：「昨日、友達と映画を見に行きました。とても面白かったです。」\n教師：「あ、映画を見たんですか。何という映画を見たんですか？」\n",
+      "github_record_excerpt": "教師は、学習者が昨日見た映画の題名をまだ知らない。Nunan（1990）が説明する提示質問と参照質問の区別に照らし、教師が「何という映画を見たんですか」と題名を尋ねる質問の説明として最も適当なものを選べ。",
+      "sources": [
+        "S124"
+      ]
+    },
+    {
+      "id": "Q_4_018",
+      "status": "content_differs",
+      "last_stem_batch": 185,
+      "library_excerpt": "語学教室におけるデスクやチェアーの配置（空間設定）とその特徴の組み合わせとして、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "イェール大学Poorvu Centerの公式ガイドが示す教室の座席配置の用途について、説明に合うものを一つ選べ。",
+      "sources": [
+        "S250"
+      ]
+    },
+    {
+      "id": "Q_4_019",
+      "status": "content_differs",
+      "last_stem_batch": 62,
+      "library_excerpt": "第二言語習得におけるフィードバックの手法の一つである「リキャスト」の事例として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "LysterとRanta（1997）の分類に照らし、次の教師の応答のうちリキャストに当たるものを一つ選びなさい。",
+      "sources": [
+        "S37"
+      ]
+    },
+    {
+      "id": "Q_4_020",
+      "status": "content_differs",
+      "last_stem_batch": 83,
+      "library_excerpt": "協働学習を意図したグループワークを行う際、学習者間の相互作用（インタラクション）を活性化させるための工夫として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Richards（2006）19頁のジグソー活動の説明を参考に、互いに情報を伝え合わなければ課題を完成できない活動を設計する。次の案のうち、この条件に合うものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_021",
+      "status": "content_differs",
+      "last_stem_batch": 89,
+      "library_excerpt": "「意味の交渉」において用いられるストラテジーとその発話例の組み合わせとして、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）「Communicative Competence: A Pedagogically Motivated Model with Content Specifications」の28",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_4_022",
+      "status": "content_differs",
+      "last_stem_batch": 82,
+      "library_excerpt": "日本語コースの開講後、学習者の構成と授業時間数が当初の計画から大きく変わった。コースデザインを見直す際の考え方として、最も適切なものはどれか。",
+      "github_record_excerpt": "Longの論考「Focus on form in Task-Based Language Teaching」の図2に示されたTBLTプログラム設計・実施の七つの段階で、最初に挙げられている手続きを一つ選びなさい。",
+      "sources": [
+        "S146"
+      ]
+    },
+    {
+      "id": "Q_4_023",
+      "status": "content_differs",
+      "last_stem_batch": 82,
+      "library_excerpt": "シラバス・タイプの一種である「構造シラバス（文法シラバス）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "文法項目を配列の単位にする「構造シラバス（文法シラバス）」の構成例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144",
+        "S146"
+      ]
+    },
+    {
+      "id": "Q_4_024",
+      "status": "content_differs",
+      "last_stem_batch": 83,
+      "library_excerpt": "「機能シラバス」の特徴および長所・短所に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "Richards（2006）11頁の「機能シラバス」の説明に合う編成方針を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_025",
+      "status": "content_differs",
+      "last_stem_batch": 84,
+      "library_excerpt": "あるビジネス日本語コースにおいて、学習者が実際に業務で遭遇する状況に対応できるよう、以下のような単元名でコース内容を編成した。\n第1章：電話の取り次ぎと伝言のメモ\n第2章：社外の人へのメールでのアポイントメント獲得\n第3章：進捗状況の報告と相談\nこの",
+      "github_record_excerpt": "ビジネス日本語コースを、「依頼する」「謝罪する」などの言語機能別の単元で編成する。同時に、各単元で扱う文法項目とその導入順を別の一覧で明示し、両方の観点から内容を調整する。この編成について、最も適切な説明を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_026",
+      "status": "content_differs",
+      "last_stem_batch": 107,
+      "library_excerpt": "「CAN-DO記述」を用いた到達目標の設定に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "JF日本語教育スタンダードの活動Can-doを用いた学習目標の設定について、最も適切な記述を一つ選びなさい。",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "Q_4_027",
+      "status": "content_differs",
+      "last_stem_batch": 181,
+      "library_excerpt": "コースデザインにおける「ニーズ分析」に関する以下の記述のうち、 最も適切なもの を一つ選びなさい。",
+      "github_record_excerpt": "Paul Nation『What Should Every ESL Teacher Know?』第2・3章のニーズ分析の説明に合うものを一つ選べ。",
+      "sources": [
+        "S197"
+      ]
+    },
+    {
+      "id": "Q_4_028",
+      "status": "content_differs",
+      "last_stem_batch": 135,
+      "library_excerpt": "学習者の属性や制約を考慮する「環境分析（状況分析）」において検討すべき項目として、 最も適切なもの を一つ選びなさい。",
+      "github_record_excerpt": "環境分析の対象のうち、学習者の能力や目標ではなく、コースを実施する時間や資源の条件を具体的に示したものを一つ選べ。",
+      "sources": [
+        "S197"
+      ]
+    },
+    {
+      "id": "Q_4_029",
+      "status": "content_differs",
+      "last_stem_batch": 85,
+      "library_excerpt": "「プロセス・シラバス」の基本理念に関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "プロセスを重視するシラバス設計について、Richards（2013）30頁の表2に示されたセントラル・デザインの特徴に合う説明を一つ選びなさい。",
+      "sources": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_030",
+      "status": "content_differs",
+      "last_stem_batch": 181,
+      "library_excerpt": "多文化共生社会における地域日本語教室でよく用いられる「生活日本語（サバイバル日本語）」を目的としたコースデザインに関する記述として、最も適切なものを一つ選びなさい。",
+      "github_record_excerpt": "地域日本語教室のコースを計画する際、Paul Nation『What Should Every ESL Teacher Know?』第2・3章のニーズ分析・環境分析の説明を参考にする。計画の検討方法として説明に合うものを一つ選べ。",
+      "sources": [
+        "S197"
+      ]
+    },
+    {
+      "id": "Q_4_031",
+      "status": "content_differs",
+      "last_stem_batch": 144,
+      "library_excerpt": "教授法の発展史とそれぞれの背景にある理論的基盤の組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "教授法と、その理念・指導上の特徴の組み合わせとして、最も適切なものを一つ選べ。",
+      "sources": [
+        "S208"
+      ]
+    },
+    {
+      "id": "Q_4_032",
+      "status": "content_differs",
+      "last_stem_batch": 88,
+      "library_excerpt": "オーディオリンガル・メソッドにおけるパターンプラクティス（型練習）の指導手順および技法として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）『Communicative Language Teaching Today』7頁が示す、典型的なオーディオリンガルの授業手順に対応する説明を一つ選びなさい。歴史的な授業の記述を問うのであり、現在の全授業への推奨ではない。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_033",
+      "status": "content_differs",
+      "last_stem_batch": 133,
+      "library_excerpt": "ある日本語教師が初級の授業で、以下のようなやり取りを中心に指導を行った。　教師：「私はパンを食べます。……寿司。」　学習者：「私は寿司を食べます。」　教師：「……買います。」　学習者：「私は寿司を買います。」　この指導で行われているパターンプラクティ",
+      "github_record_excerpt": "教師が「私はパンを食べます。寿司」と示すと、学習者一人が「私は寿司を食べます」と答えた。続いて教師が「買います」と示すと、同じ学習者が「私は寿司を買います」と答えた。語句の扱いに注目して、この練習の説明として適切なものを一つ選べ。",
+      "sources": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_034",
+      "status": "content_differs",
+      "last_stem_batch": 179,
+      "library_excerpt": "直接法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Larsen-FreemanとAnderson（2011）『Techniques and Principles in Language Teaching』第3版の直接法の説明に合うものを一つ選べ。",
+      "sources": [
+        "S242"
+      ]
+    },
+    {
+      "id": "Q_4_035",
+      "status": "content_differs",
+      "last_stem_batch": 79,
+      "library_excerpt": "タスク中心教授法における「タスク」の定義および特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）のタスク中心指導におけるタスクの特徴の説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_036",
+      "status": "content_differs",
+      "last_stem_batch": 81,
+      "library_excerpt": "Jane Willis（1996）のタスク中心教授法の授業フレームワークにおける各段階の指導内容として、最も適切なものはどれか。",
+      "github_record_excerpt": "Jane WillisがTeachingEnglishの記事「From priming tasks and target tasks to language focus and grammar」で説明する授業の段階について、最も適切なものを一つ選びな",
+      "sources": [
+        "S145"
+      ]
+    },
+    {
+      "id": "Q_4_037",
+      "status": "content_differs",
+      "last_stem_batch": 127,
+      "library_excerpt": "CLIL（内容言語統合型学習）の実践における「BICS（日常対話的言語能力）」と「CALP（学習的言語能力）」の扱いに関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "CLILの内容と言語を結び付ける枠組みと、Cummins（2008）のBICS・CALPの区別を踏まえた授業設計として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S190",
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_4_038",
+      "status": "content_differs",
+      "last_stem_batch": 82,
+      "library_excerpt": "学習者に対する言語形式への注目アプローチである「Focus on Forms」「Focus on Meaning」「Focus on Form」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Longの論考「Focus on form in Task-Based Language Teaching」におけるFocus on Formの説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S146"
+      ]
+    },
+    {
+      "id": "Q_4_039",
+      "status": "content_differs",
+      "last_stem_batch": 62,
+      "library_excerpt": "以下の授業場面において、教師が行っているフィードバックの技法として最も適切なものはどれか。\n学習者：「昨日、友達と映画に行きました。とても面白かったでした。」\n教師：「あぁ、映画がとても『面白かった』んですね。誰と行ったんですか？」",
+      "github_record_excerpt": "LysterとRanta（1997）の分類に照らし、次の教師の応答に含まれる訂正の技法として最も適当なものを選べ。学習者：「映画はとても面白かったでした。」教師：「ああ、とても面白かったんですね。」",
+      "sources": [
+        "S37"
+      ]
+    },
+    {
+      "id": "Q_4_040",
+      "status": "content_differs",
+      "last_stem_batch": 81,
+      "library_excerpt": "コミュニカティブ・アプローチで用いられる「インフォメーション・ギャップ（情報格差）」を利用した活動として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）18頁のインフォメーション・ギャップの説明に照らし、持っていない情報を相手から得る必要がある活動案を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_041",
+      "status": "content_differs",
+      "last_stem_batch": 86,
+      "library_excerpt": "自然習得説を提唱したクラッシェン（Krashen）とテレルの主張に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Krashen（1982）『Principles and Practice in Second Language Acquisition』で述べられた仮説内の主張として、最も適切なものを一つ選びなさい。仮説の内容を問うのであり、その実証的な妥当性を判",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "id": "Q_4_042",
+      "status": "content_differs",
+      "last_stem_batch": 80,
+      "library_excerpt": "初級の日本語授業において、タスク中心教授法に基づいた活動として最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）が挙げるタスクの特徴に照らし、意味に焦点を当て、言語の練習だけではない成果を持つ架空の活動案として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_043",
+      "status": "content_differs",
+      "last_stem_batch": 123,
+      "library_excerpt": "日本語教育における「主教材（コースブック）」と「副教材」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "CambridgeのTKT公式用語集におけるcoursebook・supplementary material・教材のadaptationの説明に沿うものとして、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_044",
+      "status": "content_differs",
+      "last_stem_batch": 80,
+      "library_excerpt": "日本語授業における「生教材（オーセンティック・マテリアル）」に関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）20〜21頁の生教材の真正性に関する議論の整理として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_045",
+      "status": "content_differs",
+      "last_stem_batch": 80,
+      "library_excerpt": "ある中級の日本語クラスで、地域の「ゴミの出し方ルール（チラシ）」を生教材として使用する授業を計画した。タスク（課題）の設定として、生教材の特性を最も活かした適切なものはどれか。",
+      "github_record_excerpt": "地域のごみ出し案内を使い、「自分の住む地区で壊れた傘をいつ、どこへ出すかを読み取る」ことを今回の学習目標とした。案内には地区別の収集曜日、対象品目、集積場所が記載されている。この目標に直接対応する活動案を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_046",
+      "status": "content_differs",
+      "last_stem_batch": 81,
+      "library_excerpt": "教材の運用における「アダプテーション（Adaptation：教材の順応・調整）」の技法と、その具体的な実践例の組み合わせとして、不適切なものはどれか。",
+      "github_record_excerpt": "教材のアダプテーションのうち、ここでは活動や教材部分の実施順序を変えることを「再配列」と呼ぶ。Jane WillisのTeachingEnglishの記事にある教科書を使う授業の組替えを参考にした次の説明で、再配列の例になっていないものを一つ選びなさ",
+      "sources": [
+        "S145"
+      ]
+    },
+    {
+      "id": "Q_4_047",
+      "status": "content_differs",
+      "last_stem_batch": 124,
+      "library_excerpt": "初級学習者向けの「ワークシート」を作成する際の留意点として、最も適切なものはどれか。",
+      "github_record_excerpt": "外国人学習者へ配るワークシートの作業案内を、2020年版「在留支援のためのやさしい日本語ガイドライン」の書き言葉の工夫に沿って作る例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S189"
+      ]
+    },
+    {
+      "id": "Q_4_048",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "日本語の語彙・文法項目を導入するための「絵カード（イラスト教材）」を作成・選定する際の留意点として、最も適切なものはどれか。",
+      "github_record_excerpt": "語彙・文法の意味を示す絵カードを選ぶ。今回は「誰が誰に物を渡すか」を見分ける活動である。この目的に合う選び方を一つ選べ。",
+      "sources": [
+        "S183",
+        "S264"
+      ]
+    },
+    {
+      "id": "Q_4_049",
+      "status": "content_differs",
+      "last_stem_batch": 85,
+      "library_excerpt": "主教材のシラバス（教授計画）の種類と、その教材の特徴に関する組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "教材の単元を何に基づいて編成しているかを判断する際の説明として、最も適切なものを一つ選びなさい。目標の文末だけでなく、実際の編成単位を確認するものとする。",
+      "sources": [
+        "S144",
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_050",
+      "status": "content_differs",
+      "last_stem_batch": 77,
+      "library_excerpt": "近年注目されている「Can-do（〜ができる）」記述を用いた教材開発やコース設計（CEFRやJF日本語教育スタンダードなど）の特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックで説明されるCan-doと、その利用上の留意点について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_4_051",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_4_052",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "評価基準の参照枠（規範準拠評価と目標準拠評価）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "AERA・APA・NCMEの2014年版共同標準における、規範準拠と基準準拠の得点解釈の区別として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_053",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "ルーブリック評価に関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "AERA・APA・NCMEの2014年版共同標準における分析的採点とルーブリックの説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_054",
+      "status": "content_differs",
+      "last_stem_batch": 11,
+      "library_excerpt": "ある日本語教師が、中級スピーチを5段階（レベル1が最も低く、レベル5が最も高い）で評価するルーブリックを作成した。評価観点「文法・語彙の正確さ」における中間段階のレベル3の記述語（デスクリプター）として、最も適切なものはどれか。",
+      "github_record_excerpt": "CEFR補遺版（2020年）の「文法的正確さ（Grammatical accuracy）」の尺度におけるB1の記述に最もよく対応するものはどれか。",
+      "sources": [
+        "S45"
+      ]
+    },
+    {
+      "id": "Q_4_055",
+      "status": "content_differs",
+      "last_stem_batch": 76,
+      "library_excerpt": "ポートフォリオ評価の特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックで説明されるポートフォリオについて、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_4_056",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "テストの「信頼性」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "AERA・APA・NCMEの2014年版共同標準における、得点の信頼性・精度について最も適切な説明を一つ選びなさい。",
+      "sources": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_057",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "テストの「妥当性」の種類とその説明の組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "AERA・APA・NCMEの2014年版共同標準に沿った、妥当性の捉え方として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_058",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "テストが教育現場や学習者の学習行動に与える影響を指す「波及効果（ウォッシュバック・エフェクト：Washback Effect）」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "AldersonとWallの1992年発表稿「Does Washback Exist?」で検討される波及効果の研究について、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S143"
+      ]
+    },
+    {
+      "id": "Q_4_059",
+      "status": "content_differs",
+      "last_stem_batch": 118,
+      "library_excerpt": "評価における「個人内評価」の具体的な事例として、最も適切なものはどれか。",
+      "github_record_excerpt": "評価において、その学習者自身の過去からの進歩を捉える個人内評価の事例に当たるものを一つ選びなさい。",
+      "sources": [
+        "S184",
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_4_060",
+      "status": "content_differs",
+      "last_stem_batch": 116,
+      "library_excerpt": "言語テストにおける「直接テスト」と「間接テスト」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "CEFR（2001）9.3.6の直接・間接評価の区別に照らし、適切な説明を一つ選びなさい。",
+      "sources": [
+        "S179",
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_061",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "テスト項目の形式である「統合的テスト」と「離散的テスト」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。",
+      "sources": [
+        "S282"
+      ]
+    },
+    {
+      "id": "Q_4_062",
+      "status": "content_differs",
+      "last_stem_batch": 85,
+      "library_excerpt": "授業計画（コースデザインおよび教案作成）における基本的な手順とその説明の組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2013）28頁の図10は、CEFRを利用したバックワード・デザインの開発段階を示している。同図に沿う順序として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_063",
+      "status": "content_differs",
+      "last_stem_batch": 79,
+      "library_excerpt": "初級の文法導入における「導入」フェーズの説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）が説明するPPPモデルのPresentation（導入）段階として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_064",
+      "status": "content_differs",
+      "last_stem_batch": 79,
+      "library_excerpt": "PPPモデルに基づく初級授業の教案を作成する際、「練習」から「応用」への移行段階で意識すべき点として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）が説明するPPPモデルで、PracticeからProductionへの移行に最もよく対応するものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_065",
+      "status": "content_differs",
+      "last_stem_batch": 79,
+      "library_excerpt": "初級レベルの「〜てもいいです（許可）」を導入・練習するための教案を作成した。以下の「導入・練習・応用」の展開案のうち、段階的な教授法として最も適切なものはどれか。",
+      "github_record_excerpt": "新しい文法形式を扱う授業について、Richards（2006）が説明するPPPの三段階に最もよく対応する架空の展開案を一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_066",
+      "status": "content_differs",
+      "last_stem_batch": 79,
+      "library_excerpt": "「機械的練習」と「有意味な練習」の違いに関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Richards（2006）における機械的練習と有意味な練習の区別として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_067",
+      "status": "content_differs",
+      "last_stem_batch": 8,
+      "library_excerpt": "学習者の誤用に対するフィードバック（修正フィードバック）の手法について、以下の［ 問い ］と［ 応答 ］のやり取りの組み合わせとフィードバックの種類の名称の組み合わせとして、最も適切なものはどれか。\n学習者：「昨日、友達と映画に行って、おいしいラーメ",
+      "github_record_excerpt": "動詞「見る」のタ形を使って昨日の行動を報告する練習で、学習者が「昨日、友達と映画を見ます」と言った。教師は誤りを明示的に指摘せず、「昨日、友達と映画を見たんですね」と言い換えた。この教師の応答をLysterとRantaの分類で捉えると、最も適切なもの",
+      "sources": [
+        "S28",
+        "S37"
+      ]
+    },
+    {
+      "id": "Q_4_068",
+      "status": "content_differs",
+      "last_stem_batch": 59,
+      "library_excerpt": "次の学習者の誤用に対して教師が行った修正フィードバックの手法として、最も適切なものはどれか。\n学習者：「昨日、図書館へ行って、勉強しませんだった。」\n教師：「昨日、図書館へ行って……勉強？」\n学習者：「あ、勉強しませんでした！」",
+      "github_record_excerpt": "LysterとRanta（1997）の訂正フィードバック分類に照らし、次の教師の応答に最も当てはまるものを選べ。学習者：『昨日、図書館へ行って、勉強しなかったでした。』教師：『勉強しなかったでした？』学習者：『あ、勉強しませんでした。』",
+      "sources": [
+        "S123"
+      ]
+    },
+    {
+      "id": "Q_4_069",
+      "status": "content_differs",
+      "last_stem_batch": 10,
+      "library_excerpt": "以下の【授業場面】における学習者Aの誤用と、それに対する教師のフィードバックに関する分析として、最も適切なものはどれか。\n【授業場面】 「〜ようになります（変化）」の練習中。\n学習者A：「日本語の新聞が読むようになります。」\n教師：「ん？『読む』じゃ",
+      "github_record_excerpt": "学習者Aは、以前は理解して読めなかった日本語の新聞を、今は理解して読めるようになったという能力の変化を述べようとしている。Aが「日本語の新聞が読むようになりました」と言うと、教師は「その意味なら、『読む』ではなく『読める』です。『日本語の新聞が読める",
+      "sources": [
+        "S43",
+        "S37",
+        "S44"
+      ]
+    },
+    {
+      "id": "Q_4_070",
+      "status": "content_differs",
+      "last_stem_batch": 56,
+      "library_excerpt": "学習者の母語と目標言語の構造上の相違点に基づいて、生じやすい誤用をあらかじめ予測しようとする分析方法として最も適当なものを選べ。",
+      "github_record_excerpt": "Wardhaugh（1970）がいう対照分析仮説の強形の説明として、最も適当なものを選べ。",
+      "sources": [
+        "S115"
+      ]
+    },
+    {
+      "id": "Q_4_071",
+      "status": "content_differs",
+      "last_stem_batch": 56,
+      "library_excerpt": "「中間言語（インターランゲージ）」の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "Corder（1967）が述べる、第二言語学習者の言語体系と系統的な誤用の関係として、最も適当なものを選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_4_072",
+      "status": "content_differs",
+      "last_stem_batch": 75,
+      "library_excerpt": "学習者の誤用のうち、「化石化（フォシリゼーション）」の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "セリンカーの1988年改訂論集における、学習者言語の一定期間の安定化と永久的な化石化の関係について、最も適当な説明を一つ選べ。",
+      "sources": [
+        "S140"
+      ]
+    },
+    {
+      "id": "Q_4_073",
+      "status": "content_differs",
+      "last_stem_batch": 55,
+      "library_excerpt": "誤用の原因のうち、「学習者が目標言語自体の規則を過度に一般化してしまうこと」による誤りを指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "Richards（1970）の誤用分析でいう「過剰般化」の説明として、最も適当なものを選べ。",
+      "sources": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_4_074",
+      "status": "content_differs",
+      "last_stem_batch": 54,
+      "library_excerpt": "学習者の発話に見られる誤りを「グローバル・エラー」と「ローカル・エラー」に分類する際の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "Burt（1974）による成人の英語学習者の誤りの分析で、「グローバル・エラー」と「ローカル・エラー」の区別に合うものはどれか。",
+      "sources": [
+        "S119"
+      ]
+    },
+    {
+      "id": "Q_4_075",
+      "status": "content_differs",
+      "last_stem_batch": 56,
+      "library_excerpt": "学習者の誤用を分析する際に、教師がまず行うべき作業として最も適当なものを選べ。",
+      "github_record_excerpt": "Corder（1967）が区別するmistakeとerrorについて、最も適当なものを選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_4_076",
+      "status": "content_differs",
+      "last_stem_batch": 199,
+      "library_excerpt": "誤用分析における「回避（アボイダンス）」の現象の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "Celce-Murcia・Dörnyei・Thurrell（1995）のTable 5における「回避・縮小方略（avoidance or reduction strategies）」に分類されるものを一つ選べ。同論文の方略分類を問う。",
+      "sources": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_4_077",
+      "status": "content_differs",
+      "last_stem_batch": 110,
+      "library_excerpt": "教育現場における「アクション・リサーチ」の手順と特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "BurnsとKhalifa（2017）第1章が報告するアクション・リサーチの実施方法として、説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S169"
+      ]
+    },
+    {
+      "id": "Q_4_078",
+      "status": "content_differs",
+      "last_stem_batch": 111,
+      "library_excerpt": "授業分析における「プロトコル分析（発話プロトコル / 思考発話法）」の実施方法および活用に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "EricssonとSimon（1980）が論じる思考発話とその分析について、報告手続きの説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S170"
+      ]
+    },
+    {
+      "id": "Q_4_079",
+      "status": "content_differs",
+      "last_stem_batch": 12,
+      "library_excerpt": "ある実習生が「〜てもいいです（許可）」の導入を行う授業の音声データを文字化（トランスクリプト）した。以下の【発話データ】の分析として最も適切なものはどれか。\n【発話データ】\nT（教師）：「はい、みなさん。ええと、辞書です。使います。いいです。『辞書を",
+      "github_record_excerpt": "許可を求める表現のロールプレイで、教師Tは「Bさんはスマホを使う許可を求める役、私は許可するか判断する役です。まず自分で質問を考えて言ってください」と指示した。Bが話し始める前に、Tは間を置かず「『スマホを使ってもいいですか』と言います」と質問のモデ",
+      "sources": [
+        "S46",
+        "S37"
+      ]
+    },
+    {
+      "id": "Q_4_080",
+      "status": "content_differs",
+      "last_stem_batch": 64,
+      "library_excerpt": "授業中の教師の発問に関する概念の記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Nunan（1990）が説明する提示質問と参照質問の区別について、最も適当な記述を選べ。",
+      "sources": [
+        "S124"
+      ]
+    },
+    {
+      "id": "Q_4_081",
+      "status": "content_differs",
+      "last_stem_batch": 64,
+      "library_excerpt": "授業分析における「ウェイト・タイム（Wait Time：発問後の待ち時間）」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Roweが区別したウェイト・タイム1とウェイト・タイム2の説明として、最も適当なものを選べ。",
+      "sources": [
+        "S125"
+      ]
+    },
+    {
+      "id": "Q_4_082",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "教師の自己点検・授業改善のための手法の一つである「FIAC（フランダースの言語相互作用分析システム：Flanders Interaction Analysis Categories）」の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Flanders自身の「Interaction Analysis: A Technique for Quantifying Teacher Influence」に示された観察法の説明として、適切なものを一つ選べ。",
+      "sources": [
+        "S278"
+      ]
+    },
+    {
+      "id": "Q_4_083",
+      "status": "content_differs",
+      "last_stem_batch": 108,
+      "library_excerpt": "日本語教師が自らの授業実践を振り返る「リフレクション（省察）」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ショーン（Schön, 1983）の省察についての説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S166"
+      ]
+    },
+    {
+      "id": "Q_4_084",
+      "status": "content_differs",
+      "last_stem_batch": 126,
+      "library_excerpt": "外国にルーツを持つ児童生徒（JSL児童生徒）の言語能力に関して、カミンズが提唱した「BICS（日常生活言語能力）」と「CALP（学習言語能力）」の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Cummins（2008）によるBICSとCALPの説明とその教育的示唆を、外国にルーツを持つ児童生徒への支援で参照する際の理解として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_4_085",
+      "status": "content_differs",
+      "last_stem_batch": 117,
+      "library_excerpt": "JSL（日本語を第二言語とする）児童生徒に対する「JSLカリキュラム」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "文部科学省「学校教育におけるJSLカリキュラムの開発について」小学校編の考え方に合う説明を一つ選びなさい。",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_4_086",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 117,
+      "library_excerpt": "小学校の算数科において、JSL児童生徒が次の【文章題】に回答する際、最も躓きやすい言語的・概念的要因の分析として、最も適切なものはどれか。\n【文章題】 「あおいさんは カードを 15まい もっています。あきらさんは あおいさんより 6まい すくないで",
+      "github_record_excerpt": "",
+      "sources": [
+        "S181"
+      ]
+    },
+    {
+      "id": "Q_4_087",
+      "status": "content_differs",
+      "last_stem_batch": 137,
+      "library_excerpt": "留学生を対象とした「アカデミック・ライティング（レポート・論文作成）」の指導において、最も適切な記述はどれか。",
+      "github_record_excerpt": "大学の授業で、問いに対する自分の主張を論証するレポートを書く留学生への指導として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S199"
+      ]
+    },
+    {
+      "id": "Q_4_088",
+      "status": "content_differs",
+      "last_stem_batch": 169,
+      "library_excerpt": "アカデミック・ジャパニーズにおける談話構造や表現の特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "アカデミック・ジャパニーズの段落構成を指導する。見延庄士郎「レポート・卒論の書き方初級編」の段落構成と推敲の説明に合うものを一つ選べ。",
+      "sources": [
+        "S226"
+      ]
+    },
+    {
+      "id": "Q_4_089",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 167,
+      "library_excerpt": "留学生が作成した以下の【レポートの本文（抜粋）】を分析し、アカデミック・ライティングの観点から修正指導として最も適切なものはどれか。\n【レポートの本文（抜粋）】 「最近、若者の読書離れが進んでいると言われている。だから、私はとても悲しいと思います。昨",
+      "github_record_excerpt": "",
+      "sources": [
+        "S225"
+      ]
+    },
+    {
+      "id": "Q_4_090",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_4_091",
+      "status": "content_differs",
+      "last_stem_batch": 60,
+      "library_excerpt": "非日本語母語話者の社員Aさんが、社内の先輩Bさんに対して仕事のチェックを頼む際の発話として、最も適切なものはどれか。",
+      "github_record_excerpt": "社員Aが先輩Bに資料の確認を依頼する場面について、敬語の仕組みの説明として最も適当なものを選べ。",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_4_092",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_4_093",
+      "status": "content_differs",
+      "last_stem_batch": 134,
+      "library_excerpt": "JSL児童生徒の「母語保持」や「バイリンガリズム」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Cummins（2001）の母語保持に関する記事の説明を踏まえた、二言語で学ぶ子どもへの支援方針として適切なものを一つ選べ。",
+      "sources": [
+        "S196"
+      ]
+    },
+    {
+      "id": "Q_4_094",
+      "status": "content_differs",
+      "last_stem_batch": 171,
+      "library_excerpt": "異文化理解教育におけるシミュレーションゲーム「バーンガ（Barnga）」の実施方法およびその教育的目的に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "異文化コミュニケーションを扱うバーンガ（Barnga）について、ニューハンプシャー大学Institute on Disabilityの2019年2月19日付実施報告に合う手順と振り返りの説明を一つ選べ。",
+      "sources": [
+        "S228",
+        "S229"
+      ]
+    },
+    {
+      "id": "Q_4_095",
+      "status": "content_differs",
+      "last_stem_batch": 151,
+      "library_excerpt": "体験型セッション（シミュレーションゲームやロールプレイ）の直後に行われる「デブリーフィング（Debriefing：振り返り）」の進め方や意義に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "欧州評議会の人権教育手引きCompassにおける、体験活動後の「デブリーフィングと評価」の進め方に合うものを一つ選べ。",
+      "sources": [
+        "S214"
+      ]
+    },
+    {
+      "id": "Q_4_096",
+      "status": "content_differs",
+      "last_stem_batch": 151,
+      "library_excerpt": "留学生Aさん（X国出身）は、授業中に他の学習者の発話が終わるのを待たずに割り込んで発言するため、クラスメイトとの間で不和が生じている。日本語教師が行う行動分析および対応として、最も適切なものはどれか。",
+      "github_record_excerpt": "日本語教室で、Aさんが他の学習者の発話が終わる前に話し始めることがあり、学習者間で不満が出た。欧州評議会のCompassが示す話合いの運営や対立への対応を参考にする場合、それに合う教師の対応を一つ選べ。",
+      "sources": [
+        "S214"
+      ]
+    },
+    {
+      "id": "Q_4_097",
+      "status": "content_differs",
+      "last_stem_batch": 175,
+      "library_excerpt": "異文化理解や異文化適応能力を高めるためのトレーニング手法である「カルチャー・アシミレーター」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Weldonほか（1974）の技術報告書「A Laboratory Test of the Effects of Culture Assimilator Training」が説明するカルチャー・アシミレーターの学習形式に合うものを一つ選べ。",
+      "sources": [
+        "S237"
+      ]
+    },
+    {
+      "id": "Q_4_098",
+      "status": "content_differs",
+      "last_stem_batch": 152,
+      "library_excerpt": "異文化理解セッション等で取り入れられる「ロールプレイ」および「ロール・リバーサル（Role Reversal：役割交換）」の活用に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "欧州評議会の人権教育手引きCompassのRole-playing節に照らし、ロールプレイを実施するときの配慮に合うものを一つ選べ。",
+      "sources": [
+        "S214"
+      ]
+    },
+    {
+      "id": "Q_4_099",
+      "status": "content_differs",
+      "last_stem_batch": 163,
+      "library_excerpt": "「自民族中心主義（エスノセントリズム）」と「文化相対主義」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "欧州評議会RFCDC第1巻の自民族中心主義の定義と文化差への姿勢の説明に合うものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_4_100",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "カルチャーショックの段階的プロセス（Wカーブ・モデル等）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Kalamazoo Collegeの留学案内に示されたWカーブの説明を授業で紹介する。説明の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S277"
+      ]
+    },
+    {
+      "id": "Q_4_101",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "異文化コミュニケーションにおける「クリティカル・インシデント（Critical Incident：重大事例）」の定義および異文化理解学習における活用の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "欧州評議会が紹介するCassis（2012）の異文化理解研修では、クリティカル・インシデントを扱う活動が説明されている。その活動に合うものを一つ選べ。",
+      "sources": [
+        "S291"
+      ]
+    },
+    {
+      "id": "Q_4_102",
+      "status": "content_differs",
+      "last_stem_batch": 175,
+      "library_excerpt": "「カルチャー・アシミレーター（Culture Assimilator：文化適応訓練教材）」の構成および作成手順に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Weldonほか（1974）の報告書3頁は、アメリカ人がタイの人々の視点を理解するためのカルチャー・アシミレーターで、訓練上の「正解」を定める例を示している。その説明に合うものを一つ選べ。",
+      "sources": [
+        "S237"
+      ]
+    },
+    {
+      "id": "Q_4_103",
+      "status": "content_differs",
+      "last_stem_batch": 149,
+      "library_excerpt": "日本語学習者Bさんと日本人ボランティアCさんの会話について、後日Bさん本人に確認した事情を踏まえた解釈として、最も適切なものはどれか。\n【場面】\nCさん：「Bさん、日曜日の引っ越し、もしよかったら手伝いに行きましょうか？」\nBさん：「あ、大丈夫です。",
+      "github_record_excerpt": "Cさんが日本語学習者Bさんに「日曜日の引っ越し、もしよかったら手伝いに行きましょうか」と申し出た。Bさんは「あ、大丈夫です。ありがとうございます」と答え、Cさんは「そうですか。じゃあ、気をつけてね」と応じた。当日Cさんが来ず、Bさんは不満を抱いた。欧",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_4_104",
+      "status": "content_differs",
+      "last_stem_batch": 152,
+      "library_excerpt": "クリティカル・インシデントを活用した指導プログラムを設計する際、教師（ファシリテーター）が留意すべき点として、最も適切なものはどれか。",
+      "github_record_excerpt": "異文化の出来事をロールプレイで検討する学習を計画している。欧州評議会刊行のDeveloping intercultural competence through education（2014）第5章とCompassの説明に照らし、指導者の配慮に合うも",
+      "sources": [
+        "S214",
+        "S216"
+      ]
+    },
+    {
+      "id": "Q_4_105",
+      "status": "content_differs",
+      "last_stem_batch": 186,
+      "library_excerpt": "日本語教師が「そこに置いてください」と指示したところ、以前から同じ作業をしている学習者Aは理解したが、新しく参加した学習者Bは置き場所を確認し直した。この場面について、最も適切な説明と対応はどれか。",
+      "github_record_excerpt": "HallのBeyond Culture 91頁の高文脈・低文脈の捉え方に照らし、概念の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S253"
+      ]
+    },
+    {
+      "id": "Q_4_106",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "文化間のコミュニケーションにおける「ポライトネス（Politeness：配慮）」戦略および「顔」の概念に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "BrownとLevinson（1987）のポライトネス理論を用いて対人配慮を分析する際、原著の説明に合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_4_107",
+      "status": "content_differs",
+      "last_stem_batch": 147,
+      "library_excerpt": "異文化コミュニケーションにおける「非言語コミュニケーション」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "非言語コミュニケーションに関わる対人距離について、Sorokowskaら（2017）の国際比較研究の方法と結果に合う記述を一つ選べ。",
+      "sources": [
+        "S210"
+      ]
+    },
+    {
+      "id": "Q_4_108",
+      "status": "content_differs",
+      "last_stem_batch": 69,
+      "library_excerpt": "会話分析における「隣接ペア」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "SchegloffとSacks「Opening Up Closings」が述べる隣接ペアの基本形式について、最も適当な説明を一つ選べ。",
+      "sources": [
+        "S134"
+      ]
+    },
+    {
+      "id": "Q_4_109",
+      "status": "content_differs",
+      "last_stem_batch": 70,
+      "library_excerpt": "会話における「選好構造」の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Pomerantz（1984）による評価発話への応答の分析に照らし、会話分析の選好について最も適当な説明を一つ選べ。",
+      "sources": [
+        "S135"
+      ]
+    },
+    {
+      "id": "Q_4_110",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 70,
+      "library_excerpt": "日本語学習者Dさんと日本人Eさんの以下の会話トランスクリプトを分析し、選好構造および談話指導の観点から最も適切な指示・解説はどれか。\n【会話】\nEさん：「Dさん、今週末、一緒に映画に行きませんか？」\nDさん：「いいえ、行きません。週末は忙しいです。」",
+      "github_record_excerpt": "",
+      "sources": [
+        "S136"
+      ]
+    },
+    {
+      "id": "Q_4_111",
+      "status": "content_differs",
+      "last_stem_batch": 69,
+      "library_excerpt": "会話における「ターン・テイキング（Turn-Taking：発話交代）」のルールやシグナルに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Sacks・Schegloff・Jefferson（1974）が提案した発話交代規則に照らし、最初の移行適切場で現在の話し手が次話者を選んでいない場合の説明として、最も適当なものを選べ。",
+      "sources": [
+        "S133"
+      ]
+    },
+    {
+      "id": "Q_4_112",
+      "status": "content_differs",
+      "last_stem_batch": 5,
+      "library_excerpt": "会話分析における「修復（リペア：Repair）」の分類に関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "会話分析では、修復のきっかけを作る人と、修復を行う人を区別する。「自己」は問題となった発話の話し手、「他者」はそれ以外の会話参加者を指す。この区別について、正しい説明はどれか。",
+      "sources": [
+        "S31"
+      ]
+    },
+    {
+      "id": "Q_4_113",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "日本語の日常会話における「あいづち」の機能や特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ヤスコ・ナガノ・マドセン、杉藤美代子（1999）「東京と大阪の談話におけるあいづちの種類とその運用」の2.2節に示された定義に合うものを一つ選べ。",
+      "sources": [
+        "S292"
+      ]
+    },
+    {
+      "id": "Q_4_114",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 196,
+      "library_excerpt": "日本語学習者Fさんと日本人Gさんの以下の会話例を分析し、学習者の発話の課題として最も適切なものはどれか。\n【会話】\nGさん：「昨日、新しいレストランに行ったんだけどね。」\nFさん：「はい。」\nGさん：「パスタがすごく美味しくてさ。」\nFさん：「そうで",
+      "github_record_excerpt": "",
+      "sources": [
+        "S292"
+      ]
+    },
+    {
+      "id": "Q_4_115",
+      "status": "content_differs",
+      "last_stem_batch": 78,
+      "library_excerpt": "日本語教育におけるCBTの導入と評価に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "AERA・APA・NCMEの2014年版共同標準の用語定義に沿った、CBTとコンピュータ適応型テスト（CAT）の説明として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_116",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "学習管理システム（LMS：Learning Management System）を日本語授業に導入・運用する際の記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "LMSの例としてMoodle 4.5を用いる。公式文書に記載された機能と教師の運用に合う説明を一つ選びなさい。",
+      "sources": [
+        "S172"
+      ]
+    },
+    {
+      "id": "Q_4_117",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "対面授業とオンライン等の非対面学習（eラーニング）を組み合わせた「ブレンディッド・ラーニング」およびその一手法である「反転授業」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Flipped Learning Network（2014）の定義と「四つの柱」に照らし、反転学習（Flipped Learning）の説明に合うものを一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_4_118",
+      "status": "content_differs",
+      "last_stem_batch": 112,
+      "library_excerpt": "日本語学習者による作文指導において、生成AI（大規模言語モデル等）を活用する際の留意点および指導アプローチとして、最も適切なものはどれか。",
+      "github_record_excerpt": "文部科学省「初等中等教育段階における生成AIの利活用に関するガイドライン」（2024年12月26日、Ver.2.0）を踏まえ、日本語を学ぶ児童生徒の作文活動で生成AIを活用する際の説明として、適切なものを一つ選びなさい。",
+      "sources": [
+        "S171"
+      ]
+    },
+    {
+      "id": "Q_4_119",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "日本語授業において、同期型オンラインツール（Zoom、Microsoft Teams等）を活用したコミュニケーション活動を行う際の記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "British Council掲載のDavid Heathfield「Online Storytelling: Engaging, Personal, Creative」が紹介するオンライン授業の工夫に合うものを一つ選べ。利用できる機能は実際の環境で",
+      "sources": [
+        "S293"
+      ]
+    },
+    {
+      "id": "Q_4_120",
+      "status": "content_differs",
+      "last_stem_batch": 161,
+      "library_excerpt": "ICTを活用した日本語の聴解・発音指導（CALL/MALL環境）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "発音指導の資料として学習者の録音をPraatで調べる。公式マニュアルの波形・ピッチ曲線と解析設定の説明に合うものを一つ選べ。",
+      "sources": [
+        "S218"
+      ]
+    },
+    {
+      "id": "Q_4_121",
+      "status": "content_differs",
+      "last_stem_batch": 103,
+      "library_excerpt": "日本語教育における「オープン教育リソース（OER：Open Educational Resources）」および「著作権」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "有効なCC BY 4.0（表示4.0国際）で提供された教材を改変して共有する。パブリックドメインや法定の例外ではなく、このライセンス上の権利に基づく利用について、適切な説明を一つ選べ。",
+      "sources": [
+        "S162"
+      ]
+    },
+    {
+      "id": "Q_4_122",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "著作権法における「著作物」の定義に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "著作権法の著作物の定義と権利の享有に関する規定について、対応する説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_4_123",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "著作権法第35条（学校教育機関における複製等）に基づく、学校等の教育機関における著作物の複製・公衆送信に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "著作権法第35条第1〜3項の規定について、対応する説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_4_124",
+      "status": "content_differs",
+      "last_stem_batch": 104,
+      "library_excerpt": "「授業目的公衆送信補償金制度」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "著作権法第35条第1～3項による授業での利用と補償金の関係について、条文に対応する説明を一つ選べ。",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_125",
+      "status": "content_differs",
+      "last_stem_batch": 104,
+      "library_excerpt": "著作権法第32条に基づく「引用」の要件として、最も適切なものはどれか。",
+      "github_record_excerpt": "著作権法第32条第1項による引用と、第48条の出所表示について、条文に対応する説明を一つ選べ。",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_126",
+      "status": "content_differs",
+      "last_stem_batch": 3,
+      "library_excerpt": "著作権法第36条（試験問題としての複製等）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "著作権法第36条による試験問題への著作物の利用について、正しいものはどれか。",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_127",
+      "status": "content_differs",
+      "last_stem_batch": 103,
+      "library_excerpt": "日本語学校の教員Hさんは、自身のYouTubeチャンネル（誰でも視聴可能なオープンな環境）で「日本語の文法解説動画」を配信することにした。動画制作におけるHさんの行動として、著作権法上「適切（問題がない）」なものはどれか。",
+      "github_record_excerpt": "教員が誰でも視聴できる文法解説動画を制作・配信する。各素材は公表済みで創作性があり、著作権の保護期間内とする。選択肢2以外では、著作権者からの許諾・利用許諾も、引用その他の権利制限が適用される事情もない。著作権について適切な対応を一つ選べ。",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_5_001",
+      "status": "content_differs",
+      "last_stem_batch": 32,
+      "library_excerpt": "スイスの言語学者フェルディナン・ド・ソシュールが提唱した言語記号（記号：シーニュ）の構造に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ソシュール『一般言語学講義』第一部第一章の言語記号について、適切な説明はどれか。",
+      "sources": [
+        "S70"
+      ]
+    },
+    {
+      "id": "Q_5_002",
+      "status": "content_differs",
+      "last_stem_batch": 32,
+      "library_excerpt": "「言語記号の恣意性」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ソシュール『一般言語学講義』第一部第一章で述べられる「言語記号の恣意性」について、適切な説明はどれか。",
+      "sources": [
+        "S70"
+      ]
+    },
+    {
+      "id": "Q_5_003",
+      "status": "content_differs",
+      "last_stem_batch": 32,
+      "library_excerpt": "ソシュールが提示した「分節（articulation/切り分け）」および言語観に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ソシュール『一般言語学講義』第二部第四章の、言語による思考と音の分節について、適切な説明はどれか。",
+      "sources": [
+        "S70"
+      ]
+    },
+    {
+      "id": "Q_5_004",
+      "status": "content_differs",
+      "last_stem_batch": 67,
+      "library_excerpt": "英語の「brother」は通常、年上の兄と年下の弟を一語で表せる。一方、日本語では、男性のきょうだいを「兄」「弟」と呼び分けることができる。このような言語による概念の切り分けの違い（分節化）について、最も適切な記述はどれか。",
+      "github_record_excerpt": "親族名称による意味の区別を考える。自分のきょうだいを表す「兄・姉・弟・妹」の通常の意味について、最も適当なものを一つ選べ。",
+      "sources": [
+        "S131"
+      ]
+    },
+    {
+      "id": "Q_5_005",
+      "status": "content_differs",
+      "last_stem_batch": 32,
+      "library_excerpt": "ソシュールが提唱した「ラング」と「パロール」の区別に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "ソシュール『一般言語学講義』序論第三・第四章の、ラングとパロールの区別について、適切な説明はどれか。",
+      "sources": [
+        "S70"
+      ]
+    },
+    {
+      "id": "Q_5_006",
+      "status": "content_differs",
+      "last_stem_batch": 32,
+      "library_excerpt": "ソシュール言語学における「価値」の概念に関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "ソシュール『一般言語学講義』第二部第四章の、言語記号の「価値」について、適切な説明はどれか。",
+      "sources": [
+        "S70"
+      ]
+    },
+    {
+      "id": "Q_5_007",
+      "status": "content_differs",
+      "last_stem_batch": 52,
+      "library_excerpt": "対照言語学における「対照分析仮説」とその学習への影響に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Wardhaugh（1970）が区別する強形・弱形の対照分析仮説について、最も適切なものはどれか。",
+      "sources": [
+        "S115"
+      ]
+    },
+    {
+      "id": "Q_5_008",
+      "status": "content_differs",
+      "last_stem_batch": 10,
+      "library_excerpt": "英語を母語とする日本語学習者が作文を推敲している。以下の表現例（ア）〜（ウ）は必ずしも文法的な誤用ではないが、伝えたい談話上の意図に合わせて改善を考えている。英語との構造・表現上の違いを踏まえた説明として最も適切なものはどれか。\n（ア）「私は昨日、映",
+      "github_record_excerpt": "第二言語学習者の誤用の原因を分析する際、母語と目標言語の対照、および目標言語内の規則学習をどのように考えるべきか。Richardsの誤用分析の議論に照らして、適切なものはどれか。",
+      "sources": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_5_009",
+      "status": "content_differs",
+      "last_stem_batch": 57,
+      "library_excerpt": "言語の類型論的分類における「語順（基本語順）」に関する記述として、言語タイプと言語特徴の対照の観点から最も適切なものはどれか。",
+      "github_record_excerpt": "Greenberg（1963）の語順類型論で述べられた一般化として、最も適当なものを選べ。",
+      "sources": [
+        "S120"
+      ]
+    },
+    {
+      "id": "Q_5_010",
+      "status": "content_differs",
+      "last_stem_batch": 52,
+      "library_excerpt": "初級の中国語話者学習者が、次のように発話した。本人に理由を尋ねると、「中国語でスカートを数えるときは『两条裙子』と言うので、日本語でも細長いものを数える『本』を選んだ」と説明した。この事例で、母語からの負の転移（干渉）として最も適切な説明はどれか。\n",
+      "github_record_excerpt": "中国語の量詞と日本語の助数詞を比較する、次の架空の学習場面について、最も適切なものはどれか。学習者は書籍を2冊買い、「本を二本買いました。中国語で書籍を数える『本』を、そのまま日本語でも使いました」と説明した。",
+      "sources": [
+        "S116",
+        "S117"
+      ]
+    },
+    {
+      "id": "Q_5_011",
+      "status": "content_differs",
+      "last_stem_batch": 55,
+      "library_excerpt": "母語の「負の移行」と「正の移行」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Corder（1967）が述べる、第二言語学習における母語の役割について、最も適当なものを選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_5_012",
+      "status": "content_differs",
+      "last_stem_batch": 50,
+      "library_excerpt": "文法研究や言語教育における「規範文法」と「記述文法」の差異に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "規範的な文法観と記述的な文法観の区別として、最も適切なものはどれか。",
+      "sources": [
+        "S112"
+      ]
+    },
+    {
+      "id": "Q_5_013",
+      "status": "content_differs",
+      "last_stem_batch": 50,
+      "library_excerpt": "「学校文法（国語文法）」と「日本語教育文法」における品詞分類や専門用語の対照に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国際交流基金「教科書を作ろう」の形容詞分類と東京外国語大学言語モジュールの動詞分類に照らし、最も適切なものはどれか。",
+      "sources": [
+        "S109",
+        "S110"
+      ]
+    },
+    {
+      "id": "Q_5_014",
+      "status": "content_differs",
+      "last_stem_batch": 50,
+      "library_excerpt": "日本語教育文法において、動詞の活用形を提示する際に「辞書形（原形）」ではなく「マス形（丁寧に話す形）」から初級学習者に導入することが多い理由として、最も適切なものはどれか。",
+      "github_record_excerpt": "藤村泰司（2003）「『て形』の作り方」が論じる導入順序と活用形の作り方の区別として、最も適切なものはどれか。",
+      "sources": [
+        "S111"
+      ]
+    },
+    {
+      "id": "Q_5_015",
+      "status": "content_differs",
+      "last_stem_batch": 50,
+      "library_excerpt": "動詞の活用グループ（Ⅰ類・Ⅱ類・Ⅲ類）の分類に関して、学習者から「『見ます』と『切ります』はどちらも『iます』の形なのに、なぜナイ形が『見ない』と『切らない』で違うのですか」と質問された。この学習者の混乱に対する日本語分析に基づく説明として最も適切な",
+      "github_record_excerpt": "東京外国語大学言語モジュールの動詞分類では、「見ます」と「切ります」はともに「い段の音＋ます」を含む。ない形の「見ない」「切らない」の違いを説明する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S110"
+      ]
+    },
+    {
+      "id": "Q_5_016",
+      "status": "content_differs",
+      "last_stem_batch": 50,
+      "library_excerpt": "学校文法における「形容動詞」を、日本語教育文法で「ナ形容詞（名詞的形容詞）」として扱う根拠・分析に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国際交流基金「教科書を作ろう」のイ形容詞・ナ形容詞の説明に合うものはどれか。",
+      "sources": [
+        "S109"
+      ]
+    },
+    {
+      "id": "Q_5_017",
+      "status": "content_differs",
+      "last_stem_batch": 34,
+      "library_excerpt": "日本語教育における格助詞「が」と主題表示助詞「は」の文法機能の記述として、日本語分析の観点から最も適切なものはどれか。",
+      "github_record_excerpt": "日本語教育で「が」と「は」の働きを説明する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S73"
+      ]
+    },
+    {
+      "id": "Q_5_018",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_019",
+      "status": "content_differs",
+      "last_stem_batch": 35,
+      "library_excerpt": "日本語の母音の音素・音韻的特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "東京方言を基盤とする共通語の母音無声化について、最も適切なものはどれか。",
+      "sources": [
+        "S76",
+        "S77"
+      ]
+    },
+    {
+      "id": "Q_5_020",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_021",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_022",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_023",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_024",
+      "status": "content_differs",
+      "last_stem_batch": 36,
+      "library_excerpt": "音節と拍（Mora/モーラ）の違いに関する分析として、最も適切なものはどれか。",
+      "github_record_excerpt": "日本語の拍（モーラ）の数え方に関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S80",
+        "S81"
+      ]
+    },
+    {
+      "id": "Q_5_025",
+      "status": "content_differs",
+      "last_stem_batch": 7,
+      "library_excerpt": "日本語（東京方言）のアクセント体系に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "共通語の単語アクセントを「下がり目」に着目して説明する考え方について、適切なものはどれか。",
+      "sources": [
+        "S35"
+      ]
+    },
+    {
+      "id": "Q_5_026",
+      "status": "content_differs",
+      "last_stem_batch": 7,
+      "library_excerpt": "アクセントの型（東京式アクセントの代表的な型）と、助詞「が」が接続したときの音の高さについて、型の定義に照らして正しい組み合わせはどれか（H＝高、L＝低）。個々の単語のアクセントの揺れではなく、各型の一般的な高低パターンを問う。",
+      "github_record_excerpt": "共通語アクセントの基本的な型を、語を単独のフレーズとして発音したときの高低で模式的に示す。助詞「が」が続く場合も含め、型と表記の正しい組合せはどれか。Hは高、Lは低を示す。",
+      "sources": [
+        "S35",
+        "S36"
+      ]
+    },
+    {
+      "id": "Q_5_027",
+      "status": "content_differs",
+      "last_stem_batch": 36,
+      "library_excerpt": "プロソディ（超分節特徴）に含まれる「イントネーション」と「プロミネンス（語の強調）」に関する説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "アクセントとイントネーションの区別に関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S82"
+      ]
+    },
+    {
+      "id": "Q_5_028",
+      "status": "content_differs",
+      "last_stem_batch": 36,
+      "library_excerpt": "英語を母語とする学習者が「すし」を [susi]（英語の sue-she に近い発音）と発音してしまう誤用が見られた。この誤用の音声学的要因と指導法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "英語を母語とする学習者の「し」が、英語のseaのような[si]、または唇を強く丸めたsheに近い音になる場合の指導として、最も適切なものはどれか。",
+      "sources": [
+        "S83"
+      ]
+    },
+    {
+      "id": "Q_5_029",
+      "status": "content_differs",
+      "last_stem_batch": 9,
+      "library_excerpt": "中国語を母語とする学習者が「きて」と「きって」、「おばさん」と「おばあさん」などの単語を区別して発音・聞き取りすることが困難であるケースが多い。この要因に関する対照音声学的分析として、最も適切なものはどれか。",
+      "github_record_excerpt": "日本語の拍（モーラ）を数える際の長音・促音・撥音の扱いについて、正しいものはどれか。",
+      "sources": [
+        "S39"
+      ]
+    },
+    {
+      "id": "Q_5_030",
+      "status": "content_differs",
+      "last_stem_batch": 51,
+      "library_excerpt": "韓国語を母語とする学習者が日本語の「か行」と「が行」（例：「カード」と「ガード」）の聞き分けや言い分けに誤りを生じやすい音声学的理由として、最も適切なものはどれか。",
+      "github_record_excerpt": "東京外国語大学公開教材「朝鮮語を知る―音韻」の音韻体系の説明に照らし、最も適切なものはどれか。",
+      "sources": [
+        "S113",
+        "S114"
+      ]
+    },
+    {
+      "id": "Q_5_031",
+      "status": "content_differs",
+      "last_stem_batch": 37,
+      "library_excerpt": "日本語の文字体系である「ひらがな」および「カタカナ」の起源と形成に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "万葉仮名と平仮名・片仮名の成立に関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S84"
+      ]
+    },
+    {
+      "id": "Q_5_032",
+      "status": "content_differs",
+      "last_stem_batch": 37,
+      "library_excerpt": "漢字の造字法および運用法を表す「六書（りくしょ）」についての記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "漢字の造字法を説明する六書のうち、象形・指事・会意・形声の関係について最も適切なものはどれか。",
+      "sources": [
+        "S85"
+      ]
+    },
+    {
+      "id": "Q_5_033",
+      "status": "content_differs",
+      "last_stem_batch": 33,
+      "library_excerpt": "「常用漢字表」（2010年改定）の位置付けおよびその方針に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "常用漢字表（平成22年11月30日内閣告示）の前書きと表の構成について、適切な説明はどれか。",
+      "sources": [
+        "S72"
+      ]
+    },
+    {
+      "id": "Q_5_034",
+      "status": "content_differs",
+      "last_stem_batch": 3,
+      "library_excerpt": "ローマ字表記法のうち、「ヘボン式」と「訓令式」の違いに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "2025年12月22日の内閣告示第4号「ローマ字のつづり方」に関する記述として、正しいものはどれか。",
+      "sources": [
+        "S20"
+      ]
+    },
+    {
+      "id": "Q_5_035",
+      "status": "content_differs",
+      "last_stem_batch": 33,
+      "library_excerpt": "現代の日本語における「現代仮名遣い」（昭和61年内閣告示）の原則に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "現代仮名遣い（昭和61年内閣告示）の原則と表記の慣習による特例について、適切な説明はどれか。",
+      "sources": [
+        "S71"
+      ]
+    },
+    {
+      "id": "Q_5_036",
+      "status": "text_matches_record",
+      "last_stem_batch": 37,
+      "library_excerpt": "漢字の「音読み」と「訓読み」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "漢字の音読みと訓読みに関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S86"
+      ]
+    },
+    {
+      "id": "Q_5_037",
+      "status": "content_differs",
+      "last_stem_batch": 38,
+      "library_excerpt": "日本語学習者（非漢字圏出身者）に対する漢字指導のアプローチに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国際交流基金『いろどり 生活の日本語』が示す漢字学習の進め方として、最も適切なものはどれか。",
+      "sources": [
+        "S88"
+      ]
+    },
+    {
+      "id": "Q_5_038",
+      "status": "content_differs",
+      "last_stem_batch": 9,
+      "library_excerpt": "日本語の語彙の構造である「重箱読み（じゅうばこよみ）」と「湯桶読み（とうとうよみ）」に関する説明として、正しい組み合わせはどれか。",
+      "github_record_excerpt": "日本語の語彙の構造である「重箱読み（じゅうばこよみ）」と「湯桶読み（ゆとうよみ）」に関する説明として、正しい組み合わせはどれか。",
+      "sources": []
+    },
+    {
+      "id": "Q_5_039",
+      "status": "content_differs",
+      "last_stem_batch": 9,
+      "library_excerpt": "学習者の文字・表記に関する誤用分析とその指導に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "W3C「日本語組版処理の要件」の一般的な組版の説明に基づき、小書きの仮名の字面を文字の外枠のどこに配置するかについて、正しいものはどれか。手書きの原稿用紙の規則を問う問題ではない。",
+      "sources": [
+        "S40"
+      ]
+    },
+    {
+      "id": "Q_5_040",
+      "status": "content_differs",
+      "last_stem_batch": 37,
+      "library_excerpt": "形態素とその種類に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "形態素と、自由形態素・拘束形態素の区別に関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S87"
+      ]
+    },
+    {
+      "id": "Q_5_041",
+      "status": "content_differs",
+      "last_stem_batch": 38,
+      "library_excerpt": "日本語の「接辞」の機能と分類に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "接辞・接頭辞・接尾辞の定義に関する記述として、最も適切なものはどれか。",
+      "sources": [
+        "S53",
+        "S87"
+      ]
+    },
+    {
+      "id": "Q_5_042",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_043",
+      "status": "content_differs",
+      "last_stem_batch": 39,
+      "library_excerpt": "語構成の観点から「複合動詞」の構造を分析した記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国立国語研究所の研究者による論文が扱う「動詞＋動詞」型の複合動詞について、最も適切な記述はどれか。",
+      "sources": [
+        "S89"
+      ]
+    },
+    {
+      "id": "Q_5_044",
+      "status": "content_differs",
+      "last_stem_batch": 39,
+      "library_excerpt": "「転音（音韻交替）」を伴う複合語（畳語や和語の結合）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "複合語に見られる「転音」と「連濁」の説明として、最も適切なものはどれか。",
+      "sources": [
+        "S90"
+      ]
+    },
+    {
+      "id": "Q_5_045",
+      "status": "content_differs",
+      "last_stem_batch": 38,
+      "library_excerpt": "日本語の「語種」における「和語（固有語）」の特徴に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国立国語研究所の説明に基づく、日本語の語種に関する記述として最も適切なものはどれか。",
+      "sources": [
+        "S51"
+      ]
+    },
+    {
+      "id": "Q_5_046",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_047",
+      "status": "content_differs",
+      "last_stem_batch": 9,
+      "library_excerpt": "「混種語（Hybrid Word）」に関する説明と例の組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "和語・漢語・外来語という一般的な語種の区別を用いる。語種の異なる要素を結合して作る「混種語」の説明として、適切なものはどれか。",
+      "sources": [
+        "S41"
+      ]
+    },
+    {
+      "id": "Q_5_048",
+      "status": "content_differs",
+      "last_stem_batch": 40,
+      "library_excerpt": "学習者の誤用「この料理はとても【味さ】がいいです」に関する分析として、最も適切なものはどれか。",
+      "github_record_excerpt": "形容詞の語幹に接尾辞「さ」が付く語形成について、最も適切な記述はどれか。",
+      "sources": [
+        "S91",
+        "S92"
+      ]
+    },
+    {
+      "id": "Q_5_049",
+      "status": "content_differs",
+      "last_stem_batch": 42,
+      "library_excerpt": "複合動詞の指導において、非漢字圏の学習者が「走りだす」と「走りつづける」の違いを理解する際の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "曾寶儀（2016）「『～さ』派生名詞と『～み』派生名詞に関する一考察」の記述として、最も適切なものはどれか。",
+      "sources": [
+        "S91"
+      ]
+    },
+    {
+      "id": "Q_5_050",
+      "status": "content_differs",
+      "last_stem_batch": 20,
+      "library_excerpt": "学習者が、「早起き」と対になる表現を考える中で「遅起き」という語形を用いた。どのような語形成の仕組みが関係するか。「遅起き」という語自体を必ず誤用とみなすものではない。",
+      "github_record_excerpt": "学習者が「遅起き」という語を使い、「『早起き』を参考にして、反対の意味になるよう『早』を『遅』に替えました」と説明した。この説明が示す語形成の過程として、最も適切なものはどれか。",
+      "sources": [
+        "S56"
+      ]
+    },
+    {
+      "id": "Q_5_051",
+      "status": "content_differs",
+      "last_stem_batch": 41,
+      "library_excerpt": "日本語の「和製英語」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "国立国語研究所の解説で和製英語とされる「クールビズ」の語形成について、最も適切な記述はどれか。",
+      "sources": [
+        "S93"
+      ]
+    },
+    {
+      "id": "Q_5_052",
+      "status": "content_differs",
+      "last_stem_batch": 24,
+      "library_excerpt": "格助詞「ガ」と「ハ」の機能の違いに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "「紅茶は飲みますが、コーヒーは飲みません」の二つの「は」の働きとして、適切な説明はどれか。",
+      "sources": [
+        "S59",
+        "S61"
+      ]
+    },
+    {
+      "id": "Q_5_053",
+      "status": "content_differs",
+      "last_stem_batch": 22,
+      "library_excerpt": "格助詞「ニ」と「デ」の動作・出来事の発生場所を表す用法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "「部屋（ ）本を読む」と「部屋（ ）本がある」について、部屋で読書する動作と、部屋に本が存在する状態を表す場合、適切な助詞の組合せはどれか。",
+      "sources": [
+        "S59"
+      ]
+    },
+    {
+      "id": "Q_5_054",
+      "status": "content_differs",
+      "last_stem_batch": 22,
+      "library_excerpt": "学習者の誤用「昨日、図書館で本を借りました。それから家（ ）帰りました」の空欄に入る格助詞の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "図書館から自宅へ移動したことを「昨日、図書館で本を借りました。それから家（ ）帰りました」と述べる。空欄に入る格助詞の説明として適切なものはどれか。",
+      "sources": [
+        "S59"
+      ]
+    },
+    {
+      "id": "Q_5_055",
+      "status": "content_differs",
+      "last_stem_batch": 27,
+      "library_excerpt": "受け身（ヴォイス）の分類において、「迷惑の受け身（暗黙の被害・間接受身）」に該当する文はどれか。",
+      "github_record_excerpt": "子供が泣いたことによって私が困ったことを、自動詞「泣く」の受身で表す文はどれか。",
+      "sources": [
+        "S65"
+      ]
+    },
+    {
+      "id": "Q_5_056",
+      "status": "content_differs",
+      "last_stem_batch": 23,
+      "library_excerpt": "ヴォイスにおける「使役受身形（〜させられる）」の意味・機能に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "使役受身表現の意味に関する説明として、適切なものはどれか。",
+      "sources": [
+        "S60"
+      ]
+    },
+    {
+      "id": "Q_5_057",
+      "status": "content_differs",
+      "last_stem_batch": 22,
+      "library_excerpt": "アスペクト（相）における「〜ている」の解釈に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "次の二つの場面の「〜ている」について、適切な説明はどれか。①目の前で走っている人を見て「走っています」と言う。②車が衝突した後のバンパーを見て「壊れています」と言う。",
+      "sources": [
+        "S58"
+      ]
+    },
+    {
+      "id": "Q_5_058",
+      "status": "content_differs",
+      "last_stem_batch": 21,
+      "library_excerpt": "「私は今、お腹が【すいている】から、ご飯を食べたいです」と「（誰かが）電気を【つけている】」について、「〜ている」のアスペクト的な意味の違いを説明したものとして、最も適切なものはどれか。",
+      "github_record_excerpt": "次の二つの場面の「〜ている」の用法について、適切な説明はどれか。①シャッターが上がっている途中で「今、シャッターが開いています」と言う。②朝に店を開け、営業中の店について「この店は夜10時まで開けています」と言う。",
+      "sources": [
+        "S58"
+      ]
+    },
+    {
+      "id": "Q_5_059",
+      "status": "content_differs",
+      "last_stem_batch": 29,
+      "library_excerpt": "テンス（時制）における「〜た」の非過去（未来・状態・決定）の用法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "井上優「モダリティ」で説明される「ムードのタ」について、適切な説明はどれか。",
+      "sources": [
+        "S67"
+      ]
+    },
+    {
+      "id": "Q_5_060",
+      "status": "content_differs",
+      "last_stem_batch": 29,
+      "library_excerpt": "モダリティ（発話者の主観的態度）の分類において、「対人的モダリティ（対人モダリティ）」に該当するものはどれか。",
+      "github_record_excerpt": "井上優「モダリティ」の分類において、「聞き手に対する発話態度・伝達態度を表すもの」（対人的モダリティ）の例に該当するのはどれか。",
+      "sources": [
+        "S67"
+      ]
+    },
+    {
+      "id": "Q_5_061",
+      "status": "content_differs",
+      "last_stem_batch": 25,
+      "library_excerpt": "「〜ようだ」「〜みたいだ」「〜らしい」「〜そうだ」などの推量・様態表現の違いに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "様態の「〜そうだ」と伝聞の「〜そうだ」について、適切な説明はどれか。",
+      "sources": [
+        "S62"
+      ]
+    },
+    {
+      "id": "Q_5_062",
+      "status": "content_differs",
+      "last_stem_batch": 26,
+      "library_excerpt": "条件表現「ト」「バ」「タラ」「ナラ」の使い分けに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "条件表現「と」の用法について、適切な説明はどれか。",
+      "sources": [
+        "S64"
+      ]
+    },
+    {
+      "id": "Q_5_063",
+      "status": "content_differs",
+      "last_stem_batch": 26,
+      "library_excerpt": "学習者の誤用「日本へ【行くと】、富士山に登りたいです」の訂正指導として、最も適切なものはどれか。",
+      "github_record_excerpt": "学習者が将来一度日本を訪れ、その際に富士山へ登りたいという自分の希望を「日本へ行くと、富士山に登りたいです」と表した。この意味に合う修正の説明として、適切なものはどれか。",
+      "sources": [
+        "S64"
+      ]
+    },
+    {
+      "id": "Q_5_064",
+      "status": "content_differs",
+      "last_stem_batch": 30,
+      "library_excerpt": "とりたて助詞「ハ」と「モ」の機能と用法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "肯定文「100人も来た」のような数量に付く「も」と、否定形と一緒に使う「しか」について、適切な説明はどれか。",
+      "sources": [
+        "S68"
+      ]
+    },
+    {
+      "id": "Q_5_065",
+      "status": "content_differs",
+      "last_stem_batch": 6,
+      "library_excerpt": "授受表現（やりもらい：「やる・あげる・さしあげる」「もらう・いただく」「くれる・くださる」）の視点と文法構造に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "物の授受を表す「あげる」と「くれる」について、適切な説明はどれか。各文は話し手自身の発話であり、他者の発話の引用ではない。",
+      "sources": [
+        "S32"
+      ]
+    },
+    {
+      "id": "Q_5_066",
+      "status": "content_differs",
+      "last_stem_batch": 25,
+      "library_excerpt": "テンス・アスペクトに関する「〜た」と「〜ている」の対立・使い分けに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "「机の上にある本」の「ある」の働きについて、適切な説明はどれか。",
+      "sources": [
+        "S63"
+      ]
+    },
+    {
+      "id": "Q_5_067",
+      "status": "content_differs",
+      "last_stem_batch": 27,
+      "library_excerpt": "受身文の種類と格関係に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "「私は子供にカメラをこわされた」のような所有受身について、適切な説明はどれか。",
+      "sources": [
+        "S65"
+      ]
+    },
+    {
+      "id": "Q_5_068",
+      "status": "content_differs",
+      "last_stem_batch": 28,
+      "library_excerpt": "自動詞使役文の被使役者を表す「を」と「に」の使い分けについて、格が示しやすいニュアンスと文脈の関係に照らし、最も適切なものはどれか。",
+      "github_record_excerpt": "使役文で、動作を行う人や物を示す「に」「を」について、適切な説明はどれか。",
+      "sources": [
+        "S66"
+      ]
+    },
+    {
+      "id": "Q_5_069",
+      "status": "content_differs",
+      "last_stem_batch": 25,
+      "library_excerpt": "モダリティの「推量」を表す「〜そうだ」「〜ようだ」「〜らしい」の接続に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "推量・様態・伝聞の表現の接続について、適切な説明はどれか。",
+      "sources": [
+        "S62"
+      ]
+    },
+    {
+      "id": "Q_5_070",
+      "status": "content_differs",
+      "last_stem_batch": 6,
+      "library_excerpt": "文法カテゴリ「ヴォイス（態）」における「自他対応（自動詞と他動詞）」の対立とその教え方に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "窓の開閉について、「開く（あく）」と「開ける（あける）」の対、および結果状態の表現を説明したものとして、正しいものはどれか。",
+      "sources": [
+        "S33",
+        "S34"
+      ]
+    },
+    {
+      "id": "Q_5_071",
+      "status": "content_differs",
+      "last_stem_batch": 41,
+      "library_excerpt": "語彙の意味関係に関する「類義語（同義語）」の特徴と、日本語教育における指導上の留意点についての記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "類義語の意味・用法を分析する際のコロケーションの扱いとして、最も適切なものはどれか。",
+      "sources": [
+        "S94"
+      ]
+    },
+    {
+      "id": "Q_5_072",
+      "status": "content_differs",
+      "last_stem_batch": 42,
+      "library_excerpt": "対義語（反対語）の分類に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Kroeger（2019）『Analyzing meaning』第6章の対義関係の分類に従うと、最も適切な記述はどれか。",
+      "sources": [
+        "S95"
+      ]
+    },
+    {
+      "id": "Q_5_073",
+      "status": "content_differs",
+      "last_stem_batch": 18,
+      "library_excerpt": "多義語の発生メカニズムにおける比喩的拡張（レトリック）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "『計算機用日本語基本名詞辞書 IPAL 解説編』（1996）の分類における比喩的な意味拡張について、適切な説明はどれか。",
+      "sources": [
+        "S54"
+      ]
+    },
+    {
+      "id": "Q_5_074",
+      "status": "content_differs",
+      "last_stem_batch": 94,
+      "library_excerpt": "プロトタイプ理論（原型理論）に基づく多義語の分析と指導についての記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Rosch（1978）「Principles of Categorization」の知見を、語彙や多義語の指導を考える手がかりにするときの留意点として、同章の説明に対応するものを一つ選びなさい。",
+      "sources": [
+        "S153"
+      ]
+    },
+    {
+      "id": "Q_5_075",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_076",
+      "status": "content_differs",
+      "last_stem_batch": 43,
+      "library_excerpt": "発話行為論におけるオースティンやサールの概念についての記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Austin（1962）の第VIII講義における「発話内の力（illocutionary force）」の説明として、最も適切なものはどれか。",
+      "sources": [
+        "S96"
+      ]
+    },
+    {
+      "id": "Q_5_077",
+      "status": "content_differs",
+      "last_stem_batch": 44,
+      "library_excerpt": "間接的発話行為と日本語のコミュニケーションに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Searle（1979）の間接的発話行為の分析に従う。映画への誘いに、相手が「試験の勉強をしなければなりません」と答え、断りを伝える場面について、最も適切な説明はどれか。",
+      "sources": [
+        "S97"
+      ]
+    },
+    {
+      "id": "Q_5_078",
+      "status": "content_differs",
+      "last_stem_batch": 14,
+      "library_excerpt": "グライスの「会話の協調原理」と4つの会話の質・量・関係・様態の「格率」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Grice（1975）の会話の協調原理と格率について、適切なものはどれか。",
+      "sources": [
+        "S48"
+      ]
+    },
+    {
+      "id": "Q_5_079",
+      "status": "content_differs",
+      "last_stem_batch": 58,
+      "library_excerpt": "ブラウンとレビンソン（Brown & Levinson）の「ポライトネス理論」における「フェイス」の概念に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "BrownとLevinsonがフェイスの二側面を基本的欲求として定義した説明として、最も適当なものを選べ。",
+      "sources": [
+        "S122"
+      ]
+    },
+    {
+      "id": "Q_5_080",
+      "status": "content_differs",
+      "last_stem_batch": 43,
+      "library_excerpt": "オースティンの言語行為論における「遂行発話」の記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Austin（1962）が第I講義で導入する「遂行発話（performative utterance）」の説明として、最も適切なものはどれか。",
+      "sources": [
+        "S96"
+      ]
+    },
+    {
+      "id": "Q_5_081",
+      "status": "content_differs",
+      "last_stem_batch": 43,
+      "library_excerpt": "「遂行発話」が適切に効力を発揮するために必要な「適格条件（適切性条件：Felicity Conditions）」の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Austin（1962）の第II講義で示される遂行発話の適切性条件A・Bについて、最も適切な説明はどれか。",
+      "sources": [
+        "S96"
+      ]
+    },
+    {
+      "id": "Q_5_082",
+      "status": "content_differs",
+      "last_stem_batch": 43,
+      "library_excerpt": "発話行為の分類における「発話行為」「発話内行為」「発話媒介行為」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Austin（1962）の第VIII講義における発語行為（locutionary act）の説明として、最も適切なものはどれか。",
+      "sources": [
+        "S96"
+      ]
+    },
+    {
+      "id": "Q_5_083",
+      "status": "content_differs",
+      "last_stem_batch": 15,
+      "library_excerpt": "サールによる発話内行為の分類において、話者が必要な権限を持ち、適切な制度的場面で発話する場合に「宣言類」に該当するものはどれか。",
+      "github_record_excerpt": "Searle（1979）の発話内行為の分類において、「宣言類」に該当する発話はどれか。",
+      "sources": [
+        "S49"
+      ]
+    },
+    {
+      "id": "Q_5_084",
+      "status": "content_differs",
+      "last_stem_batch": 14,
+      "library_excerpt": "グライスの会話の協調原理における「協調の公理」とその破り方に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Grice（1975）が区別した格率の不遵守の仕方について、適切なものはどれか。",
+      "sources": [
+        "S48"
+      ]
+    },
+    {
+      "id": "Q_5_085",
+      "status": "content_differs",
+      "last_stem_batch": 14,
+      "library_excerpt": "次の学習者の会話において生じている「公理の違反」とそれに関する分析として、最も適切なものはどれか。\n【場面】日本語学習者Aが、友人のBさんに旅行のお土産を渡す場面。\nA：「これ、北海道のお土産です。どうぞ。」\nB：「わあ、ありがとうございます！これ、",
+      "github_record_excerpt": "次は架空のお菓子「雪の実」を渡す場面である。Bは「名前と、何のお菓子かだけ教えて」と依頼した。Aは「雪の実というクッキーです」と答えた後、求められていない製造会社の沿革や各年の販売数量の説明を長く続けた。追加情報はすべて正確で、Aには十分な証拠がある",
+      "sources": [
+        "S48"
+      ]
+    },
+    {
+      "id": "Q_5_086",
+      "status": "content_differs",
+      "last_stem_batch": 45,
+      "library_excerpt": "言語学・語用論における「前提」と「含意」の違いに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Kroeger（2019）第3章の前提と意味論的含意の区別について、最も適切な記述はどれか。",
+      "sources": [
+        "S98"
+      ]
+    },
+    {
+      "id": "Q_5_087",
+      "status": "content_differs",
+      "last_stem_batch": 45,
+      "library_excerpt": "文脈における「会話的含意」の特徴についての記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Grice（1975）の会話的含意について、最も適切な記述はどれか。",
+      "sources": [
+        "S48"
+      ]
+    },
+    {
+      "id": "Q_5_088",
+      "status": "content_differs",
+      "last_stem_batch": 45,
+      "library_excerpt": "受容・理解能力（聴解・読解）における処理モデルに関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "聴解におけるトップダウン処理とボトムアップ処理の説明として、最も適切なものはどれか。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_5_089",
+      "status": "content_differs",
+      "last_stem_batch": 47,
+      "library_excerpt": "聴解および読解の学習を支える「スキーマ」の種類と機能に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Carrell・Eisterhold（1983）による内容スキーマと形式スキーマの区別として、最も適切なものはどれか。",
+      "sources": [
+        "S106"
+      ]
+    },
+    {
+      "id": "Q_5_090",
+      "status": "content_differs",
+      "last_stem_batch": 49,
+      "library_excerpt": "【事例】日本語学習者Aさん（中級）が、以下のニュース記事を読んでいる場面の分析である。　【記事本文】「昨日未明、市内の住宅街で激しい火災が発生した。消防隊による迅速な消火活動により、幸いにも傷病者は出なかった。」　Aさんは「傷病者（しょうびょうしゃ）",
+      "github_record_excerpt": "【事例】学習者Aさんが架空の記事「火災の現場で、救急隊は住民の傷病の有無を確認した」を読んでいる。Aさんは「傷病（しょうびょう）」を知らなかったが、「傷」はけが、「病」は病気に関わる字だと考え、さらに「救急隊」「有無を確認した」という周囲の記述も使い",
+      "sources": [
+        "S107",
+        "S108"
+      ]
+    },
+    {
+      "id": "Q_5_091",
+      "status": "content_differs",
+      "last_stem_batch": 46,
+      "library_excerpt": "読解指導における「マイクロ・スキル（細分化された読解技術）」の指導手法とその説明の組み合わせとして、最も適切なものはどれか。",
+      "github_record_excerpt": "読解の読み方や指導方法とその説明の組み合わせとして、最も適切なものはどれか。",
+      "sources": [
+        "S100",
+        "S101",
+        "S102",
+        "S103"
+      ]
+    },
+    {
+      "id": "Q_5_092",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "第二言語運用能力における「流暢さ」「正確さ」「複雑さ」のバランスとトレードオフ関係に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Skehan（2009）「Modelling Second Language Performance」の導入で述べるトレードオフ仮説の説明に合うものを一つ選べ。",
+      "sources": [
+        "S280"
+      ]
+    },
+    {
+      "id": "Q_5_093",
+      "status": "content_differs",
+      "last_stem_batch": 68,
+      "library_excerpt": "会話（口頭パフォーマンス）の指導および評価における「言いよどみ」や「ポーズ（無音・有音）」の分析に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "水上・山下（2007）「対話におけるフィラーの発話権保持機能の検証」の考察に合う記述を一つ選べ。",
+      "sources": [
+        "S132"
+      ]
+    },
+    {
+      "id": "Q_5_094",
+      "status": "content_differs",
+      "last_stem_batch": 191,
+      "library_excerpt": "【事例】以下は、中級の日本語学習者Bさんが作文（書面パフォーマンス）で書いた文章である。\n【学習者の作文】\n「昨日、私は友達と映画を見に行きました。映画はとても面白かったです。それから、レストランでラーメンを食べました。ラーメンはとても美味しかったで",
+      "github_record_excerpt": "CEFR補遺版（2020）の主題展開と結束性の観点を参考に、この目標に合う指導を一つ選べ。",
+      "sources": [
+        "S45"
+      ]
+    },
+    {
+      "id": "Q_5_095",
+      "status": "content_differs",
+      "last_stem_batch": 57,
+      "library_excerpt": "ライティング（作文パフォーマンス）の評価手法に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "欧州評議会が公開するCEFR共通参照レベルのTable 1とTable 2の説明として、最も適当なものを選べ。",
+      "sources": [
+        "S121"
+      ]
+    },
+    {
+      "id": "Q_5_096",
+      "status": "content_differs",
+      "last_stem_batch": 91,
+      "library_excerpt": "社会言語能力および統語・プラグマティクスの観点から見た「ソシオ・プラグマティクス」の説明として、最も適切なものはどれか。",
+      "github_record_excerpt": "Thomas（1983）の区別に基づく社会語用論（sociopragmatics）の説明として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S150"
+      ]
+    },
+    {
+      "id": "Q_5_097",
+      "status": "content_differs",
+      "last_stem_batch": 91,
+      "library_excerpt": "【事例】以下は、留学生のAさん（上級学習者）が、アルバイト先の社員（目上の人）からの「今週末の飲み会、来られる？」という誘いを断る際のやり取りである。　社員：「今週末の飲み会、来られる？」　Aさん：「いいえ、行けません。その日は予定があります。」　A",
+      "github_record_excerpt": "次は指導方針を考えるための架空の事例である。上級学習者Aは社員から飲み会に誘われ、「いいえ、行けません。その日は予定があります」と断った。社員は冷たい印象を受けたと述べた。Thomas（1983）のメタ語用的気づきを重視する立場に照らし、最も適切な指",
+      "sources": [
+        "S150"
+      ]
+    },
+    {
+      "id": "Q_5_098",
+      "status": "content_differs",
+      "last_stem_batch": 91,
+      "library_excerpt": "ソシオ・プラグマティックな不適切さによって生じる「ソシオ・プラグマティック転移」または「ソシオ・プラグマティック失敗」の事例として、最も適切なものはどれか。",
+      "github_record_excerpt": "Thomas（1983）の区別に基づき、社会語用論的な行き違いを示すものを一つ選びなさい。以下は原因を明示した架空の事例であり、民族全体の慣習を述べたものではない。",
+      "sources": [
+        "S150"
+      ]
+    },
+    {
+      "id": "Q_5_099",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_5_100",
+      "status": "content_differs",
+      "last_stem_batch": 58,
+      "library_excerpt": "対人関係能力における「ポライトネス理論（ブラウンとレビンソン）」および「フェイス」の観点から見た配慮行動に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "BrownとLevinsonが挙げるフェイス侵害行為（FTA）の分類として、最も適当なものを選べ。",
+      "sources": [
+        "S122"
+      ]
+    },
+    {
+      "id": "Q_5_101",
+      "status": "record_substring_of_library",
+      "last_stem_batch": 70,
+      "library_excerpt": "【事例】中級日本語クラスで「相手の質問に答えるだけでなく、関連情報や質問を加えて会話を広げる」練習をしている。次は学習者Aさんと会話相手Bさんのやり取りである。\nAさん：「昨日、新しいパソコンを買いました。」\nBさん：「あ、そうなんですか。どんなパソ",
+      "github_record_excerpt": "",
+      "sources": [
+        "S133"
+      ]
+    },
+    {
+      "id": "Q_5_102",
+      "status": "content_differs",
+      "last_stem_batch": 68,
+      "library_excerpt": "日本語の会話において見られる「対人関係を維持・調整するための配慮行動（あいづち・ファイナルパーティクル・協働的構築）」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "水上・山下（2007）が分析した図形説明課題対話の、聞き手の発話に関する記述として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S132"
+      ]
+    },
+    {
+      "id": "Q_5_103",
+      "status": "content_differs",
+      "last_stem_batch": 92,
+      "library_excerpt": "異文化間コミュニケーションにおける「コンフリクト（対立・葛藤）の管理」および「交渉能力」に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Fisher・Ury・Patton『Getting to Yes』第2版の原則立脚型交渉について、同書の説明に対応するものを一つ選びなさい。異文化間の交渉を含め、成功率の普遍的な順位を問うものではない。",
+      "sources": [
+        "S151"
+      ]
+    },
+    {
+      "id": "Q_5_104",
+      "status": "content_differs",
+      "last_stem_batch": 92,
+      "library_excerpt": "【事例】以下は、地域の日本語教室において、外国人住民Aさん（学習者）と日本人ボランティアBさんがイベントの準備について話し合っている場面である。　Aさん：「明日の準備、何時に始めますか。私は9時に行きます。」　Bさん：「うーん、9時はちょっと早いかも",
+      "github_record_excerpt": "次は地域の日本語教室での架空の会話である。A「明日の準備、私は9時に行きます」。B「9時はちょっと早いかもしれませんね」。A「では9時に行きましょう」。この時点では合意を確認していない。後にBは「会場が開くのは10時だと伝えたかった」と説明した。『G",
+      "sources": [
+        "S151"
+      ]
+    },
+    {
+      "id": "Q_5_105",
+      "status": "content_differs",
+      "last_stem_batch": 66,
+      "library_excerpt": "異文化間コンフリクトの対処スタイル（Thomas-Kilmannのコンフリクト対処モデル等）に関する記述として、最も適切なものはどれか。",
+      "github_record_excerpt": "Thomas–Kilmannのコンフリクト対処モデルについて、共同開発者Kilmannの公開解説に合う記述を一つ選べ。",
+      "sources": [
+        "S129",
+        "S130"
+      ]
+    },
+    {
+      "id": "Q_O_001",
+      "status": "content_differs",
+      "last_stem_batch": 180,
+      "library_excerpt": "この授業で教師が用いた、母語を介さず実物や絵カードで意味を示しながら指導する方法として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース1の実物や絵カードによる意味提示を教授法の原則と比較する。Larsen-FreemanとAnderson（2011）『Techniques and Principles in Language Teaching』第3版で、母語への翻訳を介さず、",
+      "sources": [
+        "S242"
+      ]
+    },
+    {
+      "id": "Q_O_002",
+      "status": "content_differs",
+      "last_stem_batch": 4,
+      "library_excerpt": "この授業で教師が説明すべき「机の上に本があります」と「本は机の上にあります」の違いとして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "「本はどこにありますか」に対する「本は机の上にあります」という学習者の答えについて、最も適切な分析はどれか。",
+      "sources": [
+        "S22"
+      ]
+    },
+    {
+      "id": "Q_O_003",
+      "status": "content_differs",
+      "last_stem_batch": 4,
+      "library_excerpt": "ペアワークで、多くの学習者が質問の種類にかかわらず同じ文型で答えていたことから考えられることとして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "後半のペアワークで「本はどこにありますか」「本は机の上にあります」という応答が続いたことについて、適切なものはどれか。",
+      "sources": [
+        "S22"
+      ]
+    },
+    {
+      "id": "Q_O_004",
+      "status": "content_differs",
+      "last_stem_batch": 155,
+      "library_excerpt": "この授業の改善として、異なる質問に対する二つの答えを比べ、学習者が情報の焦点と表現の関係に注意を向ける活動を加える。この工夫に最も関係する考え方を、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース1の教師が検討している、質問と答えを対比して学習者の注意を言語形式へ向ける工夫について、Schmidt（1990）が論じた気づき（noticing）の説明に合うものを一つ選べ。",
+      "sources": [
+        "S30"
+      ]
+    },
+    {
+      "id": "Q_O_005",
+      "status": "content_differs",
+      "last_stem_batch": 160,
+      "library_excerpt": "この授業全体を振り返り、教師が今後の授業改善のために行うとよい取り組みとして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース1の教師が自分の訂正を点検する際、RFCDC第1巻（2018年）の批判的思考と自己の批判的理解の観点に沿う取り組みを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_006",
+      "status": "content_differs",
+      "last_stem_batch": 181,
+      "library_excerpt": "教師が行ったアンケート・面談のうち、学習者の志望学部や必要とされる日本語力を調べる調査は何と呼ばれるか、次の1〜4の中から最も適当なものを一つ選べ。",
+      "github_record_excerpt": "ケース2で志望学部と、その学部で学ぶために必要な日本語力を調べている部分に注目する。Paul Nation『What Should Every ESL Teacher Know?』第2章のニーズ分析の三観点では、特にどの観点に対応するか。一つ選べ。",
+      "sources": [
+        "S197"
+      ]
+    },
+    {
+      "id": "Q_O_007",
+      "status": "content_differs",
+      "last_stem_batch": 181,
+      "library_excerpt": "学習歴や使える学習時間を調べた調査は何と呼ばれるか、次の1〜4の中から最も適当なものを一つ選べ。",
+      "github_record_excerpt": "ケース2で調べた情報のうち「使える学習時間」に注目する。Paul Nation『What Should Every ESL Teacher Know?』第2章でニーズ分析と区別して説明される環境分析との関係について、合うものを一つ選べ。",
+      "sources": [
+        "S197"
+      ]
+    },
+    {
+      "id": "Q_O_008",
+      "status": "content_differs",
+      "last_stem_batch": 162,
+      "library_excerpt": "学習者が「講義を聞いてノートを取ること」に不安を感じているという調査結果を踏まえて優先的に育成すべき能力として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース2の「講義を聞いてノートを取る」ことへの不安に直接対応する学習目標として、BICS/CALPの区別も踏まえて最も適当なものを一つ選べ。",
+      "sources": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_O_009",
+      "status": "content_differs",
+      "last_stem_batch": 77,
+      "library_excerpt": "教師が設定した「大学の講義を理解し、基本的な学術的文章が書けるようになること」というコース目標について、Can-do形式で示すことの利点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックに沿って、Can-doを使った「学習目標一覧」と「自己評価チェックリスト」を作る意義として最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_O_010",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_011",
+      "status": "content_differs",
+      "last_stem_batch": 4,
+      "library_excerpt": "この場面で、田中先生本人への直接の確認が伝わりにくくなった理由として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "取引先の社員に自社の部長について「田中部長がおっしゃっていました」と報告する表現を、この場面のウチ・ソトの関係から分析したものとして、最も適当なものはどれか。",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_012",
+      "status": "content_differs",
+      "last_stem_batch": 154,
+      "library_excerpt": "このような誤りは、コミュニケーション能力の構成要素のうち主にどの能力に関わる問題と考えられるか、次の1〜4の中から最も適当なものを一つ選べ。",
+      "github_record_excerpt": "ケース3で、同じ部長の発言を社内の同僚と取引先の社員に伝える際、ウチ・ソトに応じて表現を選ぶことは、CEFR（2001）5.2節の区分では主にどの能力に関わるか。一つ選べ。",
+      "sources": [
+        "S04",
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_O_013",
+      "status": "content_differs",
+      "last_stem_batch": 196,
+      "library_excerpt": "同じ内容を、聞き手（相手）によって「です・ます体」と「だ体」で使い分けることを指す用語として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "髙橋美奈子・谷部弘子・本田明子（2017）の論文では、同一話者の前後の発話間で基本的なスピーチレベルから一時的に移ることを、何と呼んでいるか。同論文4.2節の用語を一つ選べ。",
+      "sources": [
+        "S294"
+      ]
+    },
+    {
+      "id": "Q_O_014",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_015",
+      "status": "content_differs",
+      "last_stem_batch": 198,
+      "library_excerpt": "このクラスの今後の待遇表現指導の方針として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース3のクラスで今後の敬語教材を作る際、『敬語の指針』（2007）の「いわゆるマニュアル敬語」「敬語についての教育」を参考にした方針として適切なものを一つ選べ。",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_016",
+      "status": "content_differs",
+      "last_stem_batch": 157,
+      "library_excerpt": "この口論の背景にある要因として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース4の本文から直接読み取れる、発表順をめぐる対立の背景として最も適当なものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_017",
+      "status": "content_differs",
+      "last_stem_batch": 157,
+      "library_excerpt": "教師が「日本ではくじ引きで決めるのが普通です」とだけ伝えて活動を進めた対応について、異文化間教育の観点から指摘できる問題点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース4の教師の対応について、RFCDC第1巻（2018年）が重視する対立当事者の視点の理解と合意形成の観点から、問題点として適当なものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_018",
+      "status": "content_differs",
+      "last_stem_batch": 157,
+      "library_excerpt": "このような場面で、双方の学習者が納得できる形での解決を図るための対応として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース4で双方が受け入れられる解決を探るために、RFCDC第1巻（2018年）の対立解決の説明に沿う対応を一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_019",
+      "status": "content_differs",
+      "last_stem_batch": 157,
+      "library_excerpt": "この経験を踏まえ、今後のグループ活動の設計において教師が検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース4を踏まえ、今後のグループ活動で学習者が意見を出し合い合意を作る機会を設ける工夫として、RFCDC第1巻（2018年）の協働の説明に沿うものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_020",
+      "status": "content_differs",
+      "last_stem_batch": 157,
+      "library_excerpt": "この一連の対応を振り返り、教師が自身の対応を検討する際に活用できる考え方として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース4の教師が自分の対応を見直す際、RFCDC第1巻（2018年）の自己の批判的理解の説明に沿う取り組みを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_021",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_022",
+      "status": "content_differs",
+      "last_stem_batch": 48,
+      "library_excerpt": "多くの学習者が未習語彙があっても大まかな流れを推測しながら読み進められたことに関連する処理として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "学習者が年中行事の既有知識を使って内容を予測したという報告に対応する処理として、最も適当なものを選べ。",
+      "sources": [
+        "S106"
+      ]
+    },
+    {
+      "id": "Q_O_023",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_024",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_025",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_026",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_027",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_028",
+      "status": "content_differs",
+      "last_stem_batch": 115,
+      "library_excerpt": "「うちの子はよく話せるのに、なぜ評価が低いのか」という保護者の疑問に対し、主任教師がルーブリックを用いて説明することの意義として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースでは、評価の観点と採点の根拠を具体的に説明する方針をとる。保護者の疑問に対するルーブリックの用い方として、この方針に合うものを一つ選びなさい。",
+      "sources": [
+        "S175"
+      ]
+    },
+    {
+      "id": "Q_O_029",
+      "status": "content_differs",
+      "last_stem_batch": 116,
+      "library_excerpt": "このスピーキングテストが、実際にロールプレイという課題を遂行させてその質を評価する形式であることから、このテスト形式は何と呼ばれるか、次の1〜4の中から最も適当なものを一つ選べ。",
+      "github_record_excerpt": "このケースでは、学習者に実際にロールプレイを行わせ、発話の質を評価している。CEFR（2001）9.3.6の直接・間接評価の区別で、この形式に当たるものを一つ選びなさい。",
+      "sources": [
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_O_030",
+      "status": "content_differs",
+      "last_stem_batch": 116,
+      "library_excerpt": "今後、より公平な評価を行うために検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "評価の根拠を残し、必要に応じて採点者間で再確認する方針をとる。この方針に合う工夫を一つ選びなさい。",
+      "sources": [
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_O_031",
+      "status": "content_differs",
+      "last_stem_batch": 148,
+      "library_excerpt": "「日本語を三年間勉強しています」という部分の誤用の説明として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケースで本人に確認した意図を踏まえた、この作文の問題点の説明として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S211"
+      ]
+    },
+    {
+      "id": "Q_O_032",
+      "status": "content_differs",
+      "last_stem_batch": 149,
+      "library_excerpt": "この誤用を、母語の影響（言語間の誤り）と目標言語内部の規則の適用（言語内の誤り）という観点から検討する際、まず確認すべきこととして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "Corder（1967）の議論に照らし、このケースの表現を誤用かどうか検討する際の考え方として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_033",
+      "status": "content_differs",
+      "last_stem_batch": 20,
+      "library_excerpt": "作文の「この漢字が分かりませんでした教えてください」は、二つの文の切れ目が示されていない。この表記を改善する方法として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "作文に書かれた「この漢字が分かりませんでした教えてください。」について、文の区切りを明確にする修正として適切な説明を、次の1〜4の中から一つ選べ。",
+      "sources": [
+        "S57"
+      ]
+    },
+    {
+      "id": "Q_O_034",
+      "status": "content_differs",
+      "last_stem_batch": 53,
+      "library_excerpt": "クラス全体でよく見られる誤用のパターンを整理することの意義として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの教師が行う誤用の記録・分析について、Corder（1967）が述べる系統的な誤用の教師にとっての意義に合うものを、次の1〜4の中から一つ選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_035",
+      "status": "content_differs",
+      "last_stem_batch": 53,
+      "library_excerpt": "このような誤用分析の結果を、今後の授業計画に生かす例として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの誤用分析により、学習者に残る課題が明らかになったとする。Corder（1967）の、学習者の必要に合わせて指導を考える立場に沿って授業計画を検討する方法として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_036",
+      "status": "content_differs",
+      "last_stem_batch": 114,
+      "library_excerpt": "この教師が試みた、動画を授業外で視聴させ教室内では応用的な活動に時間を充てるという授業設計の考え方として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "FLN（2014）が区別するFlipped ClassroomとFlipped Learningの関係に照らし、このケースの記録から判断できることを一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_037",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "教室で動画の内容を確認する小テストを行ったことの意義として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの小テストを形成的評価として用いる場合、FLN（2014）のP.2に合う意義を一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_038",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "一部の学習者が動画を視聴してきておらず小テストの結果が思わしくなかったことから考えられる、反転授業を実施する際の留意点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "この記録には未視聴の理由までは示されていない。FLN（2014）のF.2・F.3・I.3を参考に、この授業設計を見直す際の対応を一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_039",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "動画を視聴してこなかった学習者への対応として、この日の教室活動の中で検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "この日の活動に参加できるよう支援する方針をとる。FLN（2014）のF.2・P.1に合う、未視聴の学習者への対応を一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_040",
+      "status": "content_differs",
+      "last_stem_batch": 113,
+      "library_excerpt": "この試みを踏まえ、今後同様の反転授業を計画する際に教師が検討できる改善策として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "同じ授業設計を改善して再試行する方針をとる場合、FLN（2014）のF.2・F.3・I.3を参考に検討できる改善策を一つ選びなさい。",
+      "sources": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_041",
+      "status": "content_differs",
+      "last_stem_batch": 162,
+      "library_excerpt": "この児童が日常会話には困らないが教科学習には困難を感じているという状況を説明する概念の組み合わせとして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース9をCumminsのBICS/CALPの区別に照らして捉える説明として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_O_042",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_O_043",
+      "status": "content_differs",
+      "last_stem_batch": 117,
+      "library_excerpt": "担任教師と日本語指導担当の教師が連携して指導にあたることの意義として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "教科の学習と日本語支援を結びつける方針に照らし、ケースの担任教師と日本語指導担当の教師の連携の意義に合う説明を一つ選びなさい。",
+      "sources": [
+        "S23",
+        "S182"
+      ]
+    },
+    {
+      "id": "Q_O_044",
+      "status": "content_differs",
+      "last_stem_batch": 117,
+      "library_excerpt": "この児童への支援を、学校生活全体を通じて充実させるために検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "JSLカリキュラム開発の基本構想に沿って、学校生活の中でこの児童の学習参加を支える方針をとる。この方針に合う工夫を一つ選びなさい。",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_045",
+      "status": "content_differs",
+      "last_stem_batch": 117,
+      "library_excerpt": "この取り組みの効果を確認するために教師が行うとよいこととして最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "取り組みを見直すため、児童の理解と学習参加の変化を把握したい。この目的に合う方法を一つ選びなさい。",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_046",
+      "status": "content_differs",
+      "last_stem_batch": 102,
+      "library_excerpt": "この教師が確認した著作権法第35条が対象とする利用として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースで確認した第35条第1項の利用に対応するものを一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_O_047",
+      "status": "content_differs",
+      "last_stem_batch": 102,
+      "library_excerpt": "新聞のコラム記事をプリントにそのまま印刷して配付する行為について、著作権法上留意すべき点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "新聞コラムの複製について、第35条第1項ただし書の範囲を確認する。他の許諾や権利制限による利用ではなく、同項に基づく利用について適切な説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_O_048",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "オンデマンド配信でこの記事を使用する場合に必要となる制度上の対応として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースで、録画した授業を後から視聴できるように公衆送信する。第35条第1項に基づくこの利用について、補償金の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_O_049",
+      "status": "content_differs",
+      "last_stem_batch": 102,
+      "library_excerpt": "この教師が今後、著作権に配慮しながら教材を作成する際に検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "この教師は、元の創作的表現を引き継ぐ形で文章を要約・翻案して授業に使うことを検討した。第35条を根拠とする利用と第47条の6・第50条の関係について適切な説明を一つ選べ。",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_O_050",
+      "status": "content_differs",
+      "last_stem_batch": 105,
+      "library_excerpt": "この一連の経験を、日本語教育人材に求められる資質・能力の観点から捉えた場合に最も適当な説明を、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの著作物の利用条件の確認を、令和6年4月1日決定の「登録日本語教員実践研修・養成課程コアカリキュラム」の観点から捉える。適切な説明を一つ選べ。",
+      "sources": [
+        "S163"
+      ]
+    },
+    {
+      "id": "Q_O_051",
+      "status": "content_differs",
+      "last_stem_batch": 179,
+      "library_excerpt": "A教師の指導法が理論的基盤とする心理学・言語学の立場として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース11のA教師の練習をオーディオリンガル・メソッドの特徴と比較する。Larsen-FreemanとAnderson（2011）の同メソッドの理論的基盤の説明に合うものを一つ選べ。",
+      "sources": [
+        "S242"
+      ]
+    },
+    {
+      "id": "Q_O_052",
+      "status": "content_differs",
+      "last_stem_batch": 164,
+      "library_excerpt": "B教師の授業設計が重視していると考えられる考え方として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース11のB教師の活動に、使う表現を固定せず、依頼内容を伝えて相手が引き受けられるかを確かめる目標を加える。Richards（2006）のタスクの説明に照らし、この活動と事後の言語整理の流れに合うものを一つ選べ。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_O_053",
+      "status": "content_differs",
+      "last_stem_batch": 129,
+      "library_excerpt": "A教師の指導法の利点として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース11でA教師が中心とした練習の特徴として、ケース本文から直接確認できるものを一つ選べ。",
+      "sources": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_O_054",
+      "status": "content_differs",
+      "last_stem_batch": 130,
+      "library_excerpt": "B教師の授業設計の課題として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース11のB教師が行うタスク後の確認・整理を、Jane Willisの記事の提案を参考に計画する場合、適切な方針を一つ選べ。",
+      "sources": [
+        "S145"
+      ]
+    },
+    {
+      "id": "Q_O_055",
+      "status": "content_differs",
+      "last_stem_batch": 164,
+      "library_excerpt": "この2つの授業を踏まえ、実際の教育現場での指導法の選び方として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース11の活動を選ぶ際、Richards（2006）の正確さと流暢さを扱う活動の説明に合う方針を一つ選べ。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_O_056",
+      "status": "content_differs",
+      "last_stem_batch": 60,
+      "library_excerpt": "依頼という発話行為が、相手の「行動の自由を制限したくない」という欲求を脅かす可能性を持つとされる、ポライトネス理論上の概念として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "BrownとLevinsonのポライトネス理論に照らし、依頼が主として脅かす聞き手の欲求として最も適当なものを選べ。",
+      "sources": [
+        "S122"
+      ]
+    },
+    {
+      "id": "Q_O_057",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "「大変恐縮なのですが」という前置き表現が果たす機能として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース12の「大変恐縮なのですが」を、依頼による相手への負担に配慮する意図で添えた前置きとして分析する。BrownとLevinsonの理論では、どの説明に対応するか。一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_058",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "「休みをください」という直接的な依頼表現について、ポライトネス理論の観点から最も適切な説明を、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース12の直接的な依頼を検討する際、BrownとLevinson（1987）の原著の説明に合う考え方を一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_059",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "この授業を踏まえ、依頼表現の指導において教師が重視するとよい観点として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース12の依頼表現を、BrownとLevinsonの理論を手掛かりに学習者と比較する。検討する観点として合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_060",
+      "status": "content_differs",
+      "last_stem_batch": 182,
+      "library_excerpt": "ポライトネス理論を日本語教育に応用することの意義として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース12で紹介したBrownとLevinsonの理論を日本語の依頼場面の分析に用いるとき、その扱い方として合うものを一つ選べ。",
+      "sources": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_061",
+      "status": "content_differs",
+      "last_stem_batch": 159,
+      "library_excerpt": "自分の主張を抑えて相手の要求を優先するスタイルを指す、コンフリクト・マネジメントの概念として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ThomasとKilmannのTKIについて、共同開発者Kilmannの公開解説が示す五つの様式のうち、自分の関心を抑え、相手の関心を満たそうとするものを一つ選べ。",
+      "sources": [
+        "S129"
+      ]
+    },
+    {
+      "id": "Q_O_062",
+      "status": "content_differs",
+      "last_stem_batch": 159,
+      "library_excerpt": "双方の希望を両立させる新しい手順を共同で考えて合意した対応は、どのコンフリクト・マネジメントのスタイルに最も近いか。",
+      "github_record_excerpt": "ケース13の次の話合いで、双方が一部を譲り、それぞれの希望が部分的にかなう中間案で合意したとする。この解決の仕方に当たるTKIの様式を、Kilmannの公開解説に基づいて一つ選べ。",
+      "sources": [
+        "S129",
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_063",
+      "status": "content_differs",
+      "last_stem_batch": 159,
+      "library_excerpt": "「早く決めるべきだ」と「全員が納得するまで話し合うべきだ」という対立の背景として考えられる要因として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース13の本文から直接読み取れる、進め方をめぐる対立の背景を一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_064",
+      "status": "content_differs",
+      "last_stem_batch": 159,
+      "library_excerpt": "このような対立が起こりうることを見越して、プロジェクト開始前に教師が行っておくとよい工夫として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース13で、学習者が意思決定の方法について意見を出し合い、合意を作る機会を設ける工夫として、RFCDC第1巻（2018年）の協働の説明に沿うものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_065",
+      "status": "content_differs",
+      "last_stem_batch": 159,
+      "library_excerpt": "この一連の対応を通じて教師が育成しようとしている力として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース13で教師が明示した学習目標に対応する力として、RFCDC第1巻（2018年）の対立解決の説明に沿うものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_066",
+      "status": "content_differs",
+      "last_stem_batch": 163,
+      "library_excerpt": "この授業が採用していると考えられる教育アプローチとして最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース14の授業をCLIL（内容言語統合型学習）として設計する際の目標設定として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_067",
+      "status": "content_differs",
+      "last_stem_batch": 127,
+      "library_excerpt": "CLILの理論的枠組みとされる「4つのC」に含まれないものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "CoyleのCLILの「4Cs」枠組みに含まれないものを、次の1〜4の中から一つ選べ。",
+      "sources": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_068",
+      "status": "content_differs",
+      "last_stem_batch": 127,
+      "library_excerpt": "この授業で学習者が資料を読んでグループディスカッションを行う活動が、CLILの観点から持つ意義として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース14の資料読解・グループディスカッションを、CLILの内容と言語を結び付ける学習として設計する意義として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_069",
+      "status": "content_differs",
+      "last_stem_batch": 128,
+      "library_excerpt": "CLILを取り入れた授業を評価する際に配慮すべき点として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース14のように内容と言語の双方に学習目標を置いたCLIL単元について、単元全体の目標達成を把握する評価計画として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S191",
+        "S192"
+      ]
+    },
+    {
+      "id": "Q_O_070",
+      "status": "content_differs",
+      "last_stem_batch": 128,
+      "library_excerpt": "CLILのような内容統合型の授業を日本語教育に取り入れることの意義として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "CLILの内容と言語を結び付ける枠組みに沿って日本語の授業を設計する際の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S191",
+        "S192"
+      ]
+    },
+    {
+      "id": "Q_O_071",
+      "status": "content_differs",
+      "last_stem_batch": 13,
+      "library_excerpt": "教師が提案した「学習計画を立てて進捗を定期的に確認する」方法に該当する学習ストラテジーの種類として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "Oxford（1990）の6分類では、学習計画を立て、進捗を定期的に自己評価する方略はどれか。",
+      "sources": [
+        "S47"
+      ]
+    },
+    {
+      "id": "Q_O_072",
+      "status": "content_differs",
+      "last_stem_batch": 13,
+      "library_excerpt": "「語彙を関連づけて覚える工夫」に該当する学習ストラテジーの種類として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "Oxford（1990）の6分類では、語彙を既知の語やイメージと関連づけ、記憶に定着させる方略はどれか。",
+      "sources": [
+        "S47"
+      ]
+    },
+    {
+      "id": "Q_O_073",
+      "status": "content_differs",
+      "last_stem_batch": 13,
+      "library_excerpt": "Oxford（1990）の6分類で、相手の説明が分からないときに明確化を求めたり、自分の理解が合っているか相手に確認したりする質問は、どの種類の方略に該当するか。",
+      "github_record_excerpt": "Oxford（1990）の6分類では、相手の説明が不明なときに明確化を求めたり、自分の理解が合っているか相手に確認したりする質問は、どの群の例か。",
+      "sources": [
+        "S47"
+      ]
+    },
+    {
+      "id": "Q_O_074",
+      "status": "content_differs",
+      "last_stem_batch": 93,
+      "library_excerpt": "教師がこの学習者に対して行った一連の働きかけの意義として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "ケース15は教材用の架空事例である。教師の助言を受けた学習者が、自分の学習を振り返り、計画や方法を選んで実践したという記述に着目する。Holec（1981）の立場に照らし、この働きかけの意義として最も適切なものを一つ選べ。",
+      "sources": [
+        "S152"
+      ]
+    },
+    {
+      "id": "Q_O_075",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "学習ストラテジーの指導（ストラテジー・トレーニング）を行う際に教師が留意すべき点として最も適切なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "British Councilの「Learner training」の説明を参考に、学習ストラテジーの指導として適切なものを一つ選べ。",
+      "sources": [
+        "S263"
+      ]
+    },
+    {
+      "id": "Q_M_001",
+      "status": "content_differs",
+      "last_stem_batch": 166,
+      "library_excerpt": "国際交流基金が世界各地に設置している海外拠点（海外事務所・日本文化センター等）の役割として最も適当なものを選べ。",
+      "github_record_excerpt": "国際交流基金の公式「世界の拠点紹介」の説明に合う、海外拠点を含む活動のあり方として最も適当なものを選べ。",
+      "sources": [
+        "S224"
+      ]
+    },
+    {
+      "id": "Q_M_002",
+      "status": "content_differs",
+      "last_stem_batch": 193,
+      "library_excerpt": "経済連携協定に基づき来日する外国人看護師・介護福祉士候補者向けの日本語教育に関する記述として最も適当なものを選べ。",
+      "github_record_excerpt": "国際交流基金のEPA日本語予備教育事業の公式紹介に合うものを一つ選べ（2026年10月20日確認）。",
+      "sources": [
+        "S276"
+      ]
+    },
+    {
+      "id": "Q_M_003",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_M_004",
+      "status": "content_differs",
+      "last_stem_batch": 121,
+      "library_excerpt": "自治体の多文化共生施策における「情報の多言語化」の取り組みの例として最も適当なものを選べ。",
+      "github_record_excerpt": "総務省の改訂プラン説明資料に示された「行政・生活情報の多言語化、相談体制の整備」に沿う取組として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S188"
+      ]
+    },
+    {
+      "id": "Q_M_005",
+      "status": "content_differs",
+      "last_stem_batch": 166,
+      "library_excerpt": "海外における日本語学習者数の地域的な分布に関する一般的な傾向として指摘されるものを選べ。",
+      "github_record_excerpt": "国際交流基金の2021年度「海外日本語教育機関調査」の地域別学習者数について、最も適切なものを一つ選べ。回答機関で学ぶ学習者の集計を対象とする。",
+      "sources": [
+        "S223"
+      ]
+    },
+    {
+      "id": "Q_M_006",
+      "status": "content_differs",
+      "last_stem_batch": 183,
+      "library_excerpt": "「生活者としての外国人」を対象とした日本語教育の特徴として最も適当なものを選べ。",
+      "github_record_excerpt": "文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）の目的・目標に合うものを一つ選べ。",
+      "sources": [
+        "S247"
+      ]
+    },
+    {
+      "id": "Q_M_007",
+      "status": "content_differs",
+      "last_stem_batch": 195,
+      "library_excerpt": "地域の多言語支援において、行政窓口等で通訳を担う「コミュニティ通訳」の役割として最も適当なものを選べ。",
+      "github_record_excerpt": "東京外国語大学の2014年の取組紹介で説明される「コミュニティ通訳」の役割に合うものを一つ選べ。",
+      "sources": [
+        "S286"
+      ]
+    },
+    {
+      "id": "Q_M_008",
+      "status": "content_differs",
+      "last_stem_batch": 183,
+      "library_excerpt": "日本語教育の対象者を「生活者としての外国人」「留学生」「就労者」等に分類して捉えることの意義として最も適当なものを選べ。",
+      "github_record_excerpt": "文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）を踏まえ、生活者・留学生・就労者という区分を扱う際の考え方として合うものを一つ選べ。",
+      "sources": [
+        "S247"
+      ]
+    },
+    {
+      "id": "Q_M_009",
+      "status": "content_differs",
+      "last_stem_batch": 198,
+      "library_excerpt": "ある言語変種が社会の中で高く評価され、規範的とみなされる度合いを指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "Trudgill（1972）がNorwichの調査結果の解釈で論じた「潜在的威信（covert prestige）」について、適切な説明を一つ選べ。同論文の対象と解釈の範囲で考える。",
+      "sources": [
+        "S298"
+      ]
+    },
+    {
+      "id": "Q_M_010",
+      "status": "content_differs",
+      "last_stem_batch": 140,
+      "library_excerpt": "アニメやドラマなどで、特定の登場人物像（お嬢様、老人、宇宙人等）を想起させるために用いられる「〜だわ」「〜じゃ」のような特徴的な話し方を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "金水敏の役割語研究における「役割語」の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S201"
+      ]
+    },
+    {
+      "id": "Q_M_011",
+      "status": "content_differs",
+      "last_stem_batch": 186,
+      "library_excerpt": "会話において、話者が交代しながら発言する仕組み（誰がいつ話し始め、話し終えるか）を分析する概念として最も適当なものを選べ。",
+      "github_record_excerpt": "Sacks・Schegloff・Jefferson（1974）の会話の順番交替モデルにおける、次話者の選定についての説明に合うものを一つ選べ。",
+      "sources": [
+        "S254"
+      ]
+    },
+    {
+      "id": "Q_M_012",
+      "status": "content_differs",
+      "last_stem_batch": 140,
+      "library_excerpt": "特定の職業集団や趣味の集団内でのみ通じる専門用語・隠語を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "特定の専門分野や集団で使われる専門的な用語を指す呼称として、最も適切なものを一つ選べ。ここでは、規範性や地域差ではなく、専門分野・集団との結び付きに着目する。",
+      "sources": [
+        "S202",
+        "S203"
+      ]
+    },
+    {
+      "id": "Q_M_013",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_M_014",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_M_015",
+      "status": "content_differs",
+      "last_stem_batch": 74,
+      "library_excerpt": "情報を一時的に保持し処理する認知的な仕組みで、リスニングや会話の際の情報処理に関わるとされる概念として最も適当なものを選べ。",
+      "github_record_excerpt": "バドリー（2012）の多成分モデルで、注意の制御と複数の一時保持機構を含み、認知活動中の情報の一時保持と操作に関わるシステム全体を何と呼ぶか。",
+      "sources": [
+        "S138"
+      ]
+    },
+    {
+      "id": "Q_M_016",
+      "status": "content_differs",
+      "last_stem_batch": 94,
+      "library_excerpt": "「鳥」というカテゴリーを考えたとき、多くの人が「スズメ」をより典型的な例として、「ペンギン」をより非典型的な例として捉える傾向があることを説明する理論として最も適当なものを選べ。",
+      "github_record_excerpt": "次は考え方を確認するための架空の調査である。同じカテゴリーに属する複数の対象について、そのカテゴリーの「よい例」だと思う程度を尋ねたところ、評定に差があった。Rosch（1978）の典型性の観点に対応する解釈として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S153"
+      ]
+    },
+    {
+      "id": "Q_M_017",
+      "status": "content_differs",
+      "last_stem_batch": 93,
+      "library_excerpt": "学習者が自らの学習目標や方法を主体的に決定し、管理していく力を指す概念として最も適当なものを選べ。",
+      "github_record_excerpt": "Holec（1981）の定義に基づく学習者オートノミーの説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S152"
+      ]
+    },
+    {
+      "id": "Q_M_018",
+      "status": "content_differs",
+      "last_stem_batch": 194,
+      "library_excerpt": "海外生活から帰国した後、自国の文化に再適応する際に生じる戸惑いも含めて、異文化適応の過程をより複雑な曲線で描くモデルの説明として最も適当なものを選べ。",
+      "github_record_excerpt": "留学中の適応に加え、帰国後の戸惑いと再適応も含めて説明するモデルとして、Kalamazoo Collegeの留学案内に挙げられるものを一つ選べ。",
+      "sources": [
+        "S277"
+      ]
+    },
+    {
+      "id": "Q_M_019",
+      "status": "content_differs",
+      "last_stem_batch": 128,
+      "library_excerpt": "長期間のストレスや過度な負担により、教師や学習者が意欲を失い、心身の疲弊を感じる状態を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "WHOのICD-11に関する説明で、バーンアウトの位置付けとして適切なものを一つ選べ。",
+      "sources": [
+        "S193"
+      ]
+    },
+    {
+      "id": "Q_M_020",
+      "status": "content_differs",
+      "last_stem_batch": 71,
+      "library_excerpt": "動機づけのうち、活動そのものが楽しい・興味深いと感じることから生じる動機づけを指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "RyanとDeci（2000）の分類で、活動そのものが楽しい・興味深いという理由から取り組む動機づけを指す用語として、最も適当なものを一つ選べ。",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "Q_M_021",
+      "status": "content_differs",
+      "last_stem_batch": 184,
+      "library_excerpt": "教師が自身の授業実践や研修受講の記録を継続的に蓄積し、専門性の成長過程を可視化する取り組みを指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "カーネギーメロン大学Eberly Centerの公式ガイドに照らし、ティーチング・ポートフォリオの構成として適切なものを一つ選べ。",
+      "sources": [
+        "S249"
+      ]
+    },
+    {
+      "id": "Q_M_022",
+      "status": "content_differs",
+      "last_stem_batch": 185,
+      "library_excerpt": "教育プログラムの改善サイクルとして知られる「計画→実行→評価→改善」を繰り返す考え方を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "ASQ（米国品質協会）の公式説明に照らし、PDCAサイクルの各段階の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S251",
+        "S252"
+      ]
+    },
+    {
+      "id": "Q_M_023",
+      "status": "content_differs",
+      "last_stem_batch": 185,
+      "library_excerpt": "教室に電子黒板やタブレット等のICT機器を導入する際、物理的な環境設定として配慮すべき点として最も適当なものを選べ。",
+      "github_record_excerpt": "前方の画面に教材を投影し、それを見ながら全体で議論する教室を計画する。イェール大学Poorvu Centerの公式ガイドに照らした配置の検討として適切なものを一つ選べ。",
+      "sources": [
+        "S250"
+      ]
+    },
+    {
+      "id": "Q_M_024",
+      "status": "content_differs",
+      "last_stem_batch": 195,
+      "library_excerpt": "特定のテーマ（トピック）ごとに独立した学習単元を積み重ねる「モジュール型」のコース設計の特徴として最も適当なものを選べ。",
+      "github_record_excerpt": "モジュール制の具体例として、Cambridge Englishが公表するDELTAの構成と受講順序の説明に合うものを一つ選べ。すべてのモジュール型コースが同じ条件とは限らない。",
+      "sources": [
+        "S287"
+      ]
+    },
+    {
+      "id": "Q_M_025",
+      "status": "content_differs",
+      "last_stem_batch": 95,
+      "library_excerpt": "教科・専門分野の内容を学びながら、その内容を扱うために必要な目標言語も同時に習得することを目指す教育アプローチとして最も適当なものを選べ。",
+      "github_record_excerpt": "Richards（2006）28・30頁の内容中心教授法（CBI）の説明に対応するものを一つ選べ。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_M_026",
+      "status": "content_differs",
+      "last_stem_batch": 46,
+      "library_excerpt": "教師が短い文章を読み上げ、学習者がキーワードなどをメモした後、グループで協力して元の文章の内容を再構成する活動を指す用語として、最も適当なものを選べ。",
+      "github_record_excerpt": "教師が短い文章を読み、学習者はキーワードをメモする。そのメモをもとにグループで協力して文章を再構成する活動を指す用語として、最も適当なものを選べ。",
+      "sources": [
+        "S104",
+        "S105",
+        "S101"
+      ]
+    },
+    {
+      "id": "Q_M_027",
+      "status": "content_differs",
+      "last_stem_batch": 46,
+      "library_excerpt": "音声を聞きながら、ほぼ同時にその音声を追いかけるように声に出す発音・リスニング練習法を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "聞こえてくる音声のすぐ後を追いかけるように声に出す練習法を指す用語として、最も適当なものを選べ。",
+      "sources": [
+        "S105",
+        "S104",
+        "S100",
+        "S101"
+      ]
+    },
+    {
+      "id": "Q_M_028",
+      "status": "content_differs",
+      "last_stem_batch": 146,
+      "library_excerpt": "特定の教授法にこだわらず、学習者や状況に応じて複数の教授法・技法を組み合わせて用いる考え方を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "Larsen-Freeman（1987）の教授法の選択に関する結論に沿う考え方として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S209"
+      ]
+    },
+    {
+      "id": "Q_M_029",
+      "status": "content_differs",
+      "last_stem_batch": 198,
+      "library_excerpt": "デジタル教材の利点の一つとして、学習者の解答に応じて即座にフィードバックを返すなど、双方向的なやり取りができる性質を指す語として最も適当なものを選べ。",
+      "github_record_excerpt": "デジタル機器を学習者も操作する活動について、British Councilの「Interactive Whiteboard IWB」の解説に合うものを一つ選べ。同記事で紹介する機器と授業例を対象とする。",
+      "sources": [
+        "S297"
+      ]
+    },
+    {
+      "id": "Q_M_030",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_M_031",
+      "status": "content_differs",
+      "last_stem_batch": 76,
+      "library_excerpt": "Can-doリストを用いて、学習者自身に「〜することができる」という項目ごとに自己の達成度を振り返らせる評価方法として最も適当なものを選べ。",
+      "github_record_excerpt": "国際交流基金の2017年版ガイドブックに沿って、Can-doの自己評価チェックリストを用いる手続きとして最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_M_032",
+      "status": "content_differs",
+      "last_stem_batch": 123,
+      "library_excerpt": "授業の時間配分を検討する際、実際に授業を行ってみた結果を踏まえて次回以降の配分を見直すことに関する記述として最も適当なものを選べ。",
+      "github_record_excerpt": "CambridgeのTKT公式用語集にある授業の省察とtimingの説明を踏まえ、実施後に時間配分を検討する例として、最も適切なものを一つ選びなさい。",
+      "sources": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_M_033",
+      "status": "content_differs",
+      "last_stem_batch": 65,
+      "library_excerpt": "学習者の誤用に対して、正しい形をそのまま示さず、「今のところ、もう一度言ってもらえますか」のように気づきを促す訂正方法を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "LysterとMori（2006）の分類について問う。教師が学習者の誤用に気づき、正しい形を示さず、言い直しを求めるなどして自己修正の機会を与えるフィードバックの総称として、最も適当なものを選べ。",
+      "sources": [
+        "S126",
+        "S115",
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_M_034",
+      "status": "content_differs",
+      "last_stem_batch": 61,
+      "library_excerpt": "学習者の誤りを含む発話に対し、教師がその場で正しい形に言い直して示す訂正方法を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "LysterとRanta（1997）の分類に照らし、教師が学習者の発話の全部または一部を、誤りを明示する表現を用いずに、誤りのない形へ言い換えるフィードバックを指す用語として最も適当なものを選べ。",
+      "sources": [
+        "S37"
+      ]
+    },
+    {
+      "id": "Q_M_035",
+      "status": "content_differs",
+      "last_stem_batch": 65,
+      "library_excerpt": "教師同士が互いの授業を観察し合い、その後フィードバックを交換する「ピア・オブザベーション」を効果的に行うための留意点として最も適当なものを選べ。",
+      "github_record_excerpt": "授業改善を目的とするピア・オブザベーションを行う。Cambridge International Educationの公開手引きに沿う進め方として、最も適当なものを選べ。",
+      "sources": [
+        "S127",
+        "S128"
+      ]
+    },
+    {
+      "id": "Q_M_036",
+      "status": "content_differs",
+      "last_stem_batch": 131,
+      "library_excerpt": "外国人社員向けの「ビジネス日本語」教育で重視される内容として最も適当なものを選べ。",
+      "github_record_excerpt": "外国人社員が職場の相手や場面に応じて日本語でやり取りする力を育てるコースで、目標に合う学習内容を一つ選べ。",
+      "sources": [
+        "S194"
+      ]
+    },
+    {
+      "id": "Q_M_037",
+      "status": "content_differs",
+      "last_stem_batch": 183,
+      "library_excerpt": "高齢の学習者を対象とした日本語教育を計画する際の配慮として最も適当なものを選べ。",
+      "github_record_excerpt": "高齢の学習者も参加する地域日本語教室で文字指導を計画する。文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）の説明に合うものを一つ選べ。",
+      "sources": [
+        "S247"
+      ]
+    },
+    {
+      "id": "Q_M_038",
+      "status": "content_differs",
+      "last_stem_batch": 156,
+      "library_excerpt": "異なる文化的背景を持つ他者の立場に立って考え、感情を共有しようとする力を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "欧州評議会のRFCDC第1巻（2018年）のモデルにおけるエンパシー（共感）の説明として、適当なものを一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_M_039",
+      "status": "content_differs",
+      "last_stem_batch": 187,
+      "library_excerpt": "ホフステードによって提唱された、社会が個人の独立性を重視するか、集団への帰属を重視するかという文化的な傾向の違いを表す次元として最も適当なものを選べ。",
+      "github_record_excerpt": "Hofstede（2011）の国・社会レベルの文化次元で、人々が集団にどのように統合されているかに関わるものを一つ選べ。個人の性格診断としては扱わない。",
+      "sources": [
+        "S255"
+      ]
+    },
+    {
+      "id": "Q_M_040",
+      "status": "content_differs",
+      "last_stem_batch": 95,
+      "library_excerpt": "グループのメンバーがそれぞれ異なる情報や役割を担当し、それらを持ち寄って一つの課題を完成させる協働学習の技法として最も適当なものを選べ。",
+      "github_record_excerpt": "ある言語授業で、班ごとに課題完成に必要な情報の一部だけを渡す。学習者は他の班と情報を伝え合い、断片を組み合わせて全体を完成させる。Richards（2006）19頁で、この構成を特徴として説明する活動名を一つ選べ。",
+      "sources": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_M_041",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "AIチャットボットを用いた会話練習を授業に取り入れる際の留意点として最も適当なものを選べ。",
+      "github_record_excerpt": "UNESCOの生成AI教育ガイダンス（2023）の公式紹介文が示す、人間中心の教育利用に合う対応を一つ選べ。",
+      "sources": [
+        "S265"
+      ]
+    },
+    {
+      "id": "Q_M_042",
+      "status": "content_differs",
+      "last_stem_batch": 170,
+      "library_excerpt": "教材作成にあたり、他の文献から一部の文章を引用する場合に留意すべき点として最も適当なものを選べ。",
+      "github_record_excerpt": "教材に、著作権の保護対象となる公表済みの文章を複製して載せる。著作権法第32条第1項の引用と第48条の出所明示に関する説明として、最も適当なものを選べ。",
+      "sources": [
+        "S26",
+        "S227"
+      ]
+    },
+    {
+      "id": "Q_M_043",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "言語をありのままに記述しようとする立場（記述文法）と、あるべき正しい形を規定しようとする立場（規範文法）の違いに関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "記述的な文法と規範的な文法を区別する説明として、適切なものを一つ選べ。",
+      "sources": [
+        "S266"
+      ]
+    },
+    {
+      "id": "Q_M_044",
+      "status": "content_differs",
+      "last_stem_batch": 195,
+      "library_excerpt": "日本語と中国語における漢字の使用について、対照言語学的に指摘される違いとして最も適当なものを選べ。",
+      "github_record_excerpt": "国立国語研究所「ことば研究館」掲載の笹原宏之による文字の解説が述べる、日本語と中国語の一般的な表記の対比に合うものを一つ選べ。",
+      "sources": [
+        "S288"
+      ]
+    },
+    {
+      "id": "Q_M_045",
+      "status": "content_differs",
+      "last_stem_batch": 100,
+      "library_excerpt": "日本語教育文法において、「なる」を用いた変化を表す表現（「〜になる」「〜くなる」）が重視される理由として最も適当なものを選べ。",
+      "github_record_excerpt": "国際交流基金「教科書を作ろう」の文法解説「Ａく／ＡＮに／Ｎになります」に照らし、この文型の説明として対応するものを一つ選べ。",
+      "sources": [
+        "S160"
+      ]
+    },
+    {
+      "id": "Q_M_046",
+      "status": "content_differs",
+      "last_stem_batch": 98,
+      "library_excerpt": "母音が無声子音に挟まれるなどの条件で、母音の音が聞こえにくくなる現象（例：「です」の「す」）を指す用語として最も適当なものを選べ。",
+      "github_record_excerpt": "東京外国語大学言語モジュール「無声化母音の産出」の説明に照らし、母音の無声化について対応する記述を一つ選べ。",
+      "sources": [
+        "S76"
+      ]
+    },
+    {
+      "id": "Q_M_047",
+      "status": "content_differs",
+      "last_stem_batch": 99,
+      "library_excerpt": "「が」の音が語中・語尾で鼻にかかった音（鼻濁音）として発音される現象に関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "東京外国語大学言語モジュール「鼻濁音の聞き取り」の説明に照らし、語中のガ行音子音について対応する記述を一つ選べ。",
+      "sources": [
+        "S158"
+      ]
+    },
+    {
+      "id": "Q_M_048",
+      "status": "content_differs",
+      "last_stem_batch": 99,
+      "library_excerpt": "「あか（赤）」のように、一つの語の中でアクセントの下がり目（アクセント核）がどこにあるかを分析する視点に関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "東京外国語大学言語モジュール「アクセント基礎」が挙げる共通語の例「はし（箸）」「あなた」について、アクセント核の位置の組合せとして対応するものを一つ選べ。",
+      "sources": [
+        "S36"
+      ]
+    },
+    {
+      "id": "Q_M_049",
+      "status": "content_differs",
+      "last_stem_batch": 100,
+      "library_excerpt": "漢字にふりがな（読み仮名）を付ける表記の工夫が日本語学習者向け教材で行われることの意義として最も適当なものを選べ。",
+      "github_record_excerpt": "文化審議会「公用文作成の考え方」（2022年）の解説に照らし、広く一般に向けた解説・広報等での振り仮名の扱いとして、対応するものを一つ選べ。",
+      "sources": [
+        "S159"
+      ]
+    },
+    {
+      "id": "Q_M_050",
+      "status": "content_differs",
+      "last_stem_batch": 100,
+      "library_excerpt": "日本語の句読点（「、」「。」）の使い方に関する記述として最も適当なものを選べ。",
+      "github_record_excerpt": "文化審議会「公用文作成の考え方」（2022年）の解説に照らし、読点の位置と文の意味について対応する説明を一つ選べ。",
+      "sources": [
+        "S159"
+      ]
+    },
+    {
+      "id": "Q_M_051",
+      "status": "content_differs",
+      "last_stem_batch": 188,
+      "library_excerpt": "「ざあざあ」「ぐっすり」のように、音や様子を表す語（オノマトペ）に関する記述として最も適当なものを選べ。",
+      "github_record_excerpt": "国立国語研究所の擬音語・擬態語の分類を紹介する教材に照らし、オノマトペの意味と用法の扱いとして適切なものを一つ選べ。",
+      "sources": [
+        "S256"
+      ]
+    },
+    {
+      "id": "Q_M_052",
+      "status": "content_differs",
+      "last_stem_batch": 143,
+      "library_excerpt": "「読み方」「食べ物」のように、動詞の連用形が名詞的な要素と組み合わさって複合語を作る現象に関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "「読み方」の「読み」、「食べ物」の「食べ」という語形成に用いられる形に着目する。元の動詞とその連用形の対応を正しく示すものを一つ選べ。",
+      "sources": [
+        "S207"
+      ]
+    },
+    {
+      "id": "Q_M_053",
+      "status": "content_differs",
+      "last_stem_batch": 96,
+      "library_excerpt": "「今日だけ」「私さえ」のように、名詞などに付いて特別な意味（限定、類推等）を加える助詞（「だけ」「さえ」「も」等）を指す文法用語として最も適当なものを選べ。",
+      "github_record_excerpt": "東京外国語大学言語モジュール「助詞とは」「副助詞」の分類に従う。「この本だけ読みました」「この本も読みました」の「だけ」「も」の分類名として、対応するものを一つ選べ。",
+      "sources": [
+        "S154",
+        "S155"
+      ]
+    },
+    {
+      "id": "Q_M_054",
+      "status": "content_differs",
+      "last_stem_batch": 96,
+      "library_excerpt": "「昨日買った本」のように、名詞を修飾する節（連体修飾節）の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "「昨日買った本」の「昨日買った」という連体修飾節の働きについて、最も適切な説明を一つ選べ。",
+      "sources": [
+        "S156"
+      ]
+    },
+    {
+      "id": "Q_M_055",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_M_056",
+      "status": "content_differs",
+      "last_stem_batch": 96,
+      "library_excerpt": "「彼は来るはずだ」のように、話し手の推量や確信の度合いを表すモダリティ表現「〜はずだ」の説明として最も適当なものを選べ。",
+      "github_record_excerpt": "予定表では彼は12時に来ることになっており、予定に変更はないという前提で「彼は12時に来るはずだ」と述べた。この「はずだ」の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S157"
+      ]
+    },
+    {
+      "id": "Q_M_057",
+      "status": "content_differs",
+      "last_stem_batch": 143,
+      "library_excerpt": "「永田町」で日本の政界を、「白バイ」で白い車体の白バイ隊員を指すような、部分や関連物で全体を表す比喩技法に関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "「永田町」で政界を表したり、「白バイに捕まった」の「白バイ」でそれに乗る警官を表したりする言い方を考える。このような隣接性に基づく比喩の説明として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S206"
+      ]
+    },
+    {
+      "id": "Q_M_058",
+      "status": "content_differs",
+      "last_stem_batch": 94,
+      "library_excerpt": "「動物」というカテゴリーの中でも、「犬」のように日常的な会話で最もよく使われ、認知的にまとまりのよいとされるレベルの語を指す概念として最も適当なものを選べ。",
+      "github_record_excerpt": "Rosch（1978）32頁の表2.1では、furniture（家具）―chair（椅子）―kitchen chair（台所用の椅子）という階層例が示されている。同表でchairに対応する位置づけを一つ選べ。",
+      "sources": [
+        "S153"
+      ]
+    },
+    {
+      "id": "Q_M_059",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "発話に明示的には述べられていないが、その発話が成立するために当然の前提として想定される内容を指す語用論の用語として最も適当なものを選べ。",
+      "github_record_excerpt": "How Languages Workの用語集で、構文の使用に伴い、直接の主張として述べられずに背景に含まれる命題を指す語はどれか。",
+      "sources": [
+        "S266"
+      ]
+    },
+    {
+      "id": "Q_M_060",
+      "status": "content_differs",
+      "last_stem_batch": 192,
+      "library_excerpt": "未知の語に出会った際、文脈やコロケーションの情報を手がかりに意味を推測しながら読み進める力に関する説明として最も適当なものを選べ。",
+      "github_record_excerpt": "読解中に未知の語を文脈から推測することについて、CEFR（2001）4.4.2.4の受容方略の説明に合うものを一つ選べ。",
+      "sources": [
+        "S179"
+      ]
+    },
+    {
+      "id": "Q_MO_001",
+      "status": "content_differs",
+      "last_stem_batch": 139,
+      "library_excerpt": "この聴解教材が初級学習者にとって難しかった要因として、最も適当なものを次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースで理解が進まなかった理由を検討する際、原因を決め付けずに確認する観点として、最も適切なものを一つ選べ。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_002",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_MO_003",
+      "status": "content_differs",
+      "last_stem_batch": 137,
+      "library_excerpt": "画面共有でメニューの画像を見せながら聞かせるという工夫が関係する処理として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの画像提示を、メニューの文字を読ませるためではなく、料理の写真から注文場面の知識を思い出し、会話内容を予測させるために行う場合、その働きとして最も適切なものを一つ選べ。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_004",
+      "status": "content_differs",
+      "last_stem_batch": 164,
+      "library_excerpt": "このように授業後に同僚と相談し、教材や活動を見直す取り組みは何と呼ばれるか、次の1〜4の中から最も適当なものを一つ選べ。",
+      "github_record_excerpt": "この教師の同僚との相談を、RFCDC第1巻の批判的な自己理解の観点から進める場合、最も適当な行為を一つ選べ。",
+      "sources": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_MO_005",
+      "status": "content_differs",
+      "last_stem_batch": 139,
+      "library_excerpt": "このオンライン授業での経験を踏まえ、今後の教材選定・作成において検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースで聴解の指導を継続するに当たり、教材・活動の改善として検討する方針のうち、最も適切なものを一つ選べ。",
+      "sources": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_006",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_MO_007",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_MO_008",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_MO_009",
+      "status": "content_differs",
+      "last_stem_batch": 106,
+      "library_excerpt": "この指導の効果を確認する評価方法として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "この授業で扱った日本語の指示・注意喚起の理解を、安全な模擬場面で確認する方法として、適切なものを一つ選べ。",
+      "sources": [
+        "S163",
+        "S164",
+        "S165"
+      ]
+    },
+    {
+      "id": "Q_MO_010",
+      "status": "no_stem_change_history"
+    },
+    {
+      "id": "Q_MO_011",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "対面授業での複製・上映と、オンデマンド配信とで著作権法上の扱いが異なる可能性がある理由として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースの授業内での紙の複製と、録画のオンデマンド公衆送信を比べる。第35条第2・3項について適切な説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_MO_012",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "市販の教科書の一部を配付・使用する場合の留意点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースで、市販の教科書の一部を、権利者の個別許諾ではなく第35条第1項に基づいて利用する。同項の利用範囲について適切な説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_MO_013",
+      "status": "content_differs",
+      "last_stem_batch": 101,
+      "library_excerpt": "新聞記事を教材として使用する場合の著作権上の留意点として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースに関連して、新聞に掲載された文章の著作物性について、第2条第1項第1号と第10条第2項に対応する説明を一つ選べ。",
+      "sources": [
+        "S26",
+        "S161"
+      ]
+    },
+    {
+      "id": "Q_MO_014",
+      "status": "content_differs",
+      "last_stem_batch": 105,
+      "library_excerpt": "教師が事務担当者に事前に確認を取ったという行動について、日本語教育人材に求められる資質・能力の観点から最も適当な説明を選べ。",
+      "github_record_excerpt": "このケースの配信前の事前確認を、日本語教師の資質・能力の観点からどう位置付けるか。担当者への確認だけで利用の法的適正が保証されるとはせず、適切な説明を一つ選べ。",
+      "sources": [
+        "S163"
+      ]
+    },
+    {
+      "id": "Q_MO_015",
+      "status": "content_differs",
+      "last_stem_batch": 105,
+      "library_excerpt": "この経験を踏まえ、今後オンデマンド配信を伴う授業を準備する際に検討できる工夫として最も適当なものを、次の1〜4の中から一つ選べ。",
+      "github_record_excerpt": "このケースを踏まえて、次にオンデマンド配信を伴う授業を準備する。教材の内容と配信に必要な利用権限の両方を検討する対応として、適切なものを一つ選べ。",
+      "sources": [
+        "S163",
+        "S162",
+        "S26"
+      ]
+    }
+  ]
+}
