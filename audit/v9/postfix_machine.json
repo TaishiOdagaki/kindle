@@ -869,6 +869,16 @@
       "3": "34 (7%)"
     }
   },
+  "visual_qa_progress": {
+    "render_pages": 395,
+    "reviewed_unique_pages": 86,
+    "remaining_pages": 309,
+    "latest_continuous_range": [
+      1,
+      80
+    ],
+    "latest_checkpoint": 214
+  },
   "full_visual_qa_completed": false,
   "release_ready": false
 }
