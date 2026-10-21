@@ -5854,7 +5854,8 @@
     ],
     "unresolved": "",
     "multiple_correct_risk": "なし：1・2・4は資料本文と不一致",
-    "no_correct_risk": "なし：独立正答3"
+    "no_correct_risk": "なし：独立正答3",
+    "fixes_applied": true
   },
   "Q_5_023": {
     "status": "確認済み",
