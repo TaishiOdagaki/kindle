@@ -16,6 +16,15 @@ doc=Document(b.SRC)
 # identical, and changed text is refreshed immediately after each operation.
 paragraphs=list(doc.paragraphs)
 texts=[p.text for p in paragraphs]
+table_paragraphs=[]
+table_refs=[]
+for table_index,table in enumerate(doc.tables):
+ for row_index,row in enumerate(table.rows):
+  for col_index,cell in enumerate(row.cells):
+   for paragraph in cell.paragraphs:
+    table_paragraphs.append(paragraph)
+    table_refs.append((table_index,row_index,col_index))
+table_texts=[p.text for p in table_paragraphs]
 block_contexts=[]
 current_block=None
 for p in paragraphs:
@@ -24,24 +33,33 @@ for p in paragraphs:
   if name.startswith(('Q_','A_')):current_block=name
  block_contexts.append(current_block)
 for c in cs:
- old=html.unescape(c['before']);matches=[i for i,t in enumerate(texts) if t is not None and old in t]
+ old=html.unescape(c['before'])
+ active_paragraphs=paragraphs
+ active_texts=texts
+ if c['field']=='table_cell':
+  active_paragraphs=table_paragraphs
+  active_texts=table_texts
+ matches=[i for i,t in enumerate(active_texts) if t is not None and old in t]
+ if c['field']=='table_cell' and c.get('table_index') is not None:
+  expected=(c['table_index'],c['row_index'],c['column_index'])
+  matches=[i for i in matches if table_refs[i]==expected]
  if c['field']=='options':
-  matches=[i for i in matches if texts[i]==str(c['index']+1)+'. '+old]
+  matches=[i for i in matches if active_texts[i]==str(c['index']+1)+'. '+old]
   if c.get('stem_context'):
-   matches=[i for i in matches if [t for t in texts[:i] if t is not None][-c['index']-1]==c['stem_context']]
+   matches=[i for i in matches if [t for t in active_texts[:i] if t is not None][-c['index']-1]==c['stem_context']]
  if c.get('paragraph_prefix'):
-  matches=[i for i in matches if texts[i].startswith(c['paragraph_prefix'])]
+  matches=[i for i in matches if active_texts[i].startswith(c['paragraph_prefix'])]
  if c.get('block_context'):
   matches=[i for i in matches if block_contexts[i]==c['block_context']]
  if c.get('previous_paragraph'):
-  matches=[i for i in matches if [t for t in texts[:i] if t is not None][-1:]==[c['previous_paragraph']]]
+  matches=[i for i in matches if [t for t in active_texts[:i] if t is not None][-1:]==[c['previous_paragraph']]]
  assert len(matches)==c.get('count',1),(c['id'],c['field'],len(matches))
  for i in matches:
-  p=paragraphs[i]
+  p=active_paragraphs[i]
   if c.get('remove_paragraph'):
    assert c['after']=='' and p.text==old
    p._element.getparent().remove(p._element)
-   texts[i]=None
+   active_texts[i]=None
   else:
    assert b.replace_paragraph(p,old,c['after'])
    if c.get('glossary_head'):
@@ -53,7 +71,7 @@ for c in cs:
     if first._element.rPr is not None:body._element.insert(0,deepcopy(first._element.rPr))
     body.bold=False
     assert p.text==c['after']
-   texts[i]=p.text
+   active_texts[i]=p.text
 # Keep the appendix glossary together without changing its font or wording.
 # Source-verified definitions added in batches 202--211 made the final entry
 # spill onto a page by itself.  Reducing only the glossary paragraph-after

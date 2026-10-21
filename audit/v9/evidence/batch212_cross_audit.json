@@ -1,0 +1,76 @@
+{
+  "batch": 212,
+  "date": "2026-10-21",
+  "base_remote_commit": "112b04617460b66208287e952a9a9a8ae81caf46",
+  "scope": "前付け、目次、500問リンク、正答早見表、ケース見出し、出題範囲対応表の構造横断点検。",
+  "source": {
+    "id": "S163",
+    "title": "登録日本語教員 実践研修・養成課程コアカリキュラム",
+    "decision_date": "2024-04-01",
+    "pages_read": 15,
+    "relevant_text": "本文3頁は〈28〉教育実習を実践研修コアカリキュラムに位置付け、養成課程の必須内容を49項目とする。"
+  },
+  "finding": "対応表の項目列挙は49項目で正しいが、〈28〉を飛ばす理由が書かれておらず、欠落に見える。",
+  "changes_added": 2,
+  "cumulative_changes": 4323,
+  "modified_questions": 493,
+  "previous_docx_sha256": "966e1c22c2be017b191c4ae50f23ec1fd4e6a6905bc8a086c77b7dc7bcff1329",
+  "current_docx_sha256": "7ab038e3854af8d8b7d8697598c8b9047b956341d1f3df25553f5a6b5518a432",
+  "structural_audit": {
+    "questions": 500,
+    "answers": 500,
+    "chapter_counts": {
+      "1": 41,
+      "2": 36,
+      "3": 41,
+      "4": 127,
+      "5": 105,
+      "O": 75,
+      "M": 60,
+      "MO": 15
+    },
+    "answer_quick_reference_rows": 500,
+    "answer_quick_reference_mismatches": [],
+    "bookmarks": 1061,
+    "unique_bookmarks": 1061,
+    "internal_hyperlinks": 2060,
+    "missing_anchor_targets": [],
+    "question_answer_link_pairs": 500,
+    "toc_return_links": 1000,
+    "case_titles_problem_and_explanation": 30,
+    "appendix_curriculum_items": 49,
+    "appendix_excluded_item": 28,
+    "raw_machine_warnings": 159
+  },
+  "question_answer_content_unchanged": true,
+  "v8_sha256": "4aef79631da7096e5837dd31473978d40d4932ba3cf8473c52138662a843d498",
+  "render": {
+    "pages": 351,
+    "pdf_sha256": "ac70db4aa4b50fc72c62a25a16cbf2fc241b5b60b1ddd1b9bc326acb31f63bb7",
+    "cjk_font": "Noto Sans CJK JP Variable",
+    "cjk_font_sha256": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a",
+    "fallback_font": "Noto Serif Regular",
+    "fallback_font_sha256": "19e72cd8d595fae5bd74a5206f5d938512e1183d4fed7abb1ec1be1d7efa5f88",
+    "unique_cjk_characters": 1379,
+    "missing_cjk_characters": 0,
+    "changed_page": 347,
+    "adjacent_pages_checked": [
+      346,
+      348
+    ],
+    "page_png_sha256": {
+      "346": "dbe7a67d280484736aa8120092424774f0ad16fd072b917e174a13f515c7c2d1",
+      "347": "57d84dec2a7f86ad24c651c2831662481db86d752105ba720056afe69b5fc0ba",
+      "348": "1169b99aaa5352aa3e8d16bc8124496a4c0fd1c4eb3f20ad9d55a6af353bd637"
+    },
+    "visual_result": "変更頁347と隣接頁346・348を原寸画像で直接確認。表の分断、文字欠け、重なり、切れ、意図しない改頁なし。"
+  },
+  "changed_pages_visual_qa_completed": true,
+  "full_visual_qa_completed": false,
+  "release_ready": false,
+  "remaining": [
+    "問題本文を含む全体の改頁調整",
+    "最終機械検査",
+    "最終全頁画像QA"
+  ]
+}
