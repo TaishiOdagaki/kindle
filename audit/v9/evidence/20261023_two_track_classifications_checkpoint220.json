@@ -1,0 +1,38 @@
+{
+  "schema": "two-track-classification-v1",
+  "classified_count": 8,
+  "classifications": {
+    "Q_1_031": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S04"
+    },
+    "Q_2_019": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S04"
+    },
+    "Q_3_036": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S14"
+    },
+    "Q_5_018": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21/S74/S75"
+    },
+    "Q_5_020": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21/S75"
+    },
+    "Q_5_021": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21"
+    },
+    "Q_5_022": {
+      "classification": "accept-github",
+      "basis": "解説4のみ相違。S79は語末を「[ŋ]より奥に調音される鼻音」と説明し単一IPAへ固定しないため、限定されたGitHub文を採用。"
+    },
+    "Q_M_003": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S27"
+    }
+  }
+}
