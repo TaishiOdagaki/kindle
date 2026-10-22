@@ -1,0 +1,135 @@
+{
+  "title": "2026年登録日本語教員試験　直前対策５００問＋詳細な解説",
+  "date": "2026-10-22",
+  "status": "EDITORIAL_EDITS_PEND_SOURCE_REAPPROVAL_NOT_RELEASE_READY",
+  "base_sha256": "63b56d3cece9e734278a04cd047fce6fb5d2794649e1364ed359451d616557f4",
+  "output_docx_sha256": "8466c188f5ff9d73586f9055f7b8d0c84bd45be6c54088553df5bdd8fdc9fcdf",
+  "output_epub_sha256": "96a3aad470b3f9d4958483157da107590de34e20bf5cc503f4440cacc13cef2f",
+  "release_ready": false,
+  "changes": [
+    {
+      "id": "Q_MO_005",
+      "field": "options",
+      "index": 3,
+      "option": 4,
+      "before": "学習者の語彙知識や音声理解の状況を確かめ、場面の知識を活性化する活動と、音声中の語を認識する活動の双方を検討する。",
+      "after": "学習者の語彙・音声理解を確かめ、場面知識の活性化と、音声中の語の認識を助ける活動をともに検討する。",
+      "sources": [
+        "S99"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_2_012",
+      "field": "options",
+      "index": 0,
+      "option": 1,
+      "before": "受け手や場面に応じて、言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」が示され、必要に応じて意味の説明も付ける。",
+      "after": "受け手や場面に応じ、言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」の案がある。",
+      "sources": [
+        "S238"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_M_055",
+      "field": "options",
+      "index": 3,
+      "option": 4,
+      "before": "基本的には、自分側の行為について相手側又は第三者の許可を受け、そのことで恩恵を受けるという事実や気持ちがある場合に使われる。",
+      "after": "自分側の行為について、相手側や第三者の許可を受け、それにより恩恵を受けるという事実や気持ちがある場合に用いる。",
+      "sources": [
+        "S04"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_O_031",
+      "field": "options",
+      "index": 3,
+      "option": 4,
+      "before": "「ています」には過去の経験や記録を述べる用法もあるため、来日前のことだという理由だけで誤用と断定せず、意図や文脈を確かめる。",
+      "after": "「ています」は過去の経験・記録を述べることもある。来日前というだけで誤用とせず、意図や文脈を確かめる。",
+      "sources": [
+        "S211",
+        "S212"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_5_028",
+      "field": "options",
+      "index": 1,
+      "option": 2,
+      "before": "日本語の「し」はseaのような[si]ではなくsheに近いが、唇を丸めすぎないよう注意させ、モデル音声を用いて調音と聞き分けを練習する。",
+      "after": "「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。",
+      "sources": [
+        "S83"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_2_025",
+      "field": "options",
+      "index": 2,
+      "option": 3,
+      "before": "尊敬語は行為者などを、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを話や文章の相手に丁重に述べ、丁寧語はその相手に丁寧に述べる。",
+      "after": "尊敬語は行為者、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為を相手に丁重に、丁寧語は相手に丁寧に述べる。",
+      "sources": [
+        "S04"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    },
+    {
+      "id": "Q_3_011",
+      "field": "options",
+      "index": 0,
+      "option": 1,
+      "before": "短期貯蔵は、感覚登録器から選ばれた情報と長期貯蔵からの情報を受け取り、リハーサルは限られた情報の保持を維持する制御過程の一つである。",
+      "after": "短期貯蔵は感覚登録器と長期貯蔵から情報を受け取り、リハーサルなどの制御過程で限られた情報を保持する。",
+      "sources": [
+        "S231"
+      ],
+      "post_edit_academic_approval": "pending",
+      "applied_to_local_round3_files": true
+    }
+  ],
+  "structural_qa": {
+    "questions": 500,
+    "answers": 500,
+    "changed_correct_options": 7,
+    "other_options_unchanged": 1993,
+    "correct_answer_numbers_unchanged": true,
+    "explanations_unchanged": true,
+    "docx_epub_text_patch_parity": true,
+    "epub_checked_hash_targets": 2071,
+    "epub_broken_targets": 0,
+    "pdf_pages": 373,
+    "empty_pages": 0,
+    "out_of_page_text": 0,
+    "visually_previewed_changed_pages": 7,
+    "fully_reviewed_full_resolution_pages": false
+  },
+  "longest_answer_cue": {
+    "before": 284,
+    "after": 284,
+    "margin_20_plus_before": 12,
+    "margin_20_plus_after": 5
+  },
+  "remaining_important_question_ids": [
+    "Q_1_024",
+    "Q_2_009",
+    "Q_4_125",
+    "Q_O_063",
+    "Q_M_002"
+  ],
+  "official_epubcheck": "NOT RUN",
+  "amazon_kindle_previewer": "NOT RUN",
+  "statement": "These are proposed editorial edits, not individually source re-certified academic corrections. Word/EPUB binaries are available as conversation artifacts only, not uploaded into GitHub."
+}
