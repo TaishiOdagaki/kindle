@@ -1,0 +1,598 @@
+{
+  "schema": "two-track-classification-v2",
+  "checkpoint": 221,
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "decisions_blob_sha": "2fb43017ad5a0a5b11be00fce1fb734442937e29",
+  "classified_count": 34,
+  "counts": {
+    "equivalent": 7,
+    "accept-github": 27,
+    "accept-library": 0,
+    "manual-rewrite": 0
+  },
+  "total_questions_with_difference": 493,
+  "classified_questions_with_difference": 27,
+  "unclassified_questions_with_difference": 466,
+  "note": "チェックポイント220の「残る485差異問」は算術誤り。全差異493問のうち、その時点で分類済みの差異問はQ_5_022の1問だけだったため正しくは492問。今回26問を追加分類し、未分類差異問は466問。",
+  "classifications": {
+    "Q_1_031": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S04"
+    },
+    "Q_2_019": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S04"
+    },
+    "Q_3_036": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S14"
+    },
+    "Q_5_018": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21/S74/S75"
+    },
+    "Q_5_020": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21/S75"
+    },
+    "Q_5_021": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S21"
+    },
+    "Q_5_022": {
+      "classification": "accept-github",
+      "basis": "解説4のみ相違。S79は語末を「[ŋ]より奥に調音される鼻音」と説明し単一IPAへ固定しないため、限定されたGitHub文を採用。"
+    },
+    "Q_M_003": {
+      "classification": "equivalent",
+      "basis": "全11フィールド正規化一致。S27"
+    },
+    "Q_2_013": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S149"
+      ],
+      "basis": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+      "unresolved": ""
+    },
+    "Q_4_021": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S149"
+      ],
+      "basis": "S149原論文印刷26〜29頁（PDF12〜13頁）の本文と表5を画像照合。著者ら自身の分類に限定し、Canale/Swain1980、Canale1983、Varonis/Gass1985原著全体の取得とは扱わない。分類体系と行動を指定し、母語借用の例の不適切さや反復・明確化・理解確認の混同を修正。",
+      "unresolved": ""
+    },
+    "Q_4_022": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 2,
+      "sources": [
+        "S146"
+      ],
+      "basis": "Long本人の取得論考のOption 1〜3と図2、Richards2006の印刷10頁の記述へ限定。普遍的固定順序、構造シラバスの範囲拡大、場面と達成課題の混同、過度のイマージョンという価値判断を除去。",
+      "unresolved": ""
+    },
+    "Q_4_104": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 2,
+      "sources": [
+        "S214",
+        "S216"
+      ],
+      "basis": "S216の表紙・著者表示・著作権表示と第5章37–46頁を通読、41頁の全体を画像でも精読。S214のRole-playing全文と合わせ、全4肢・4解説を照合。文化事例を扱う指導で固定観念を強めないという学習領域を保ち、取得本文が直接扱うロールプレイでの検討を明示した。旧解説の全ての多視点学習に他参加者との討議が不可欠という一般化、未取得のクリティカル・インシデント法の普遍的定義を承認しない。2014年刊行書は著者の見解であり、欧州評議会の公式政策そのものと同一視しない。実証研究の効果を個別検証したものではない。",
+      "unresolved": ""
+    },
+    "Q_4_117": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S173"
+      ],
+      "basis": "FLN自身の2014年定義・四つの柱の原資料2頁を通常取得し全文・両頁画像を照合。反転学習と単なる授業反転を区別し、数分〜10分の普遍最適性、動画配信だけの効果保証、blendedの範囲差という未照合主張を除く。同じ反転領域の原定義へ改訂。",
+      "unresolved": ""
+    },
+    "Q_5_094": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "case_context",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 10,
+      "independent_answer": 1,
+      "sources": [
+        "S45"
+      ],
+      "basis": "S45 CEFR補遺版2020の印刷140〜141頁（公式PDF139〜140、0始まり）の主題展開・結束性本文と尺度をWeb経由で取得・精読。原文の「それから」による時系列の結び付きを認め、結束性不足・幼さ・最適指導の断定を撤回。架空課題の目標を明示し、指導案との整合性を全肢全解説で判定。短文から語彙理解全般を診断しない。「〜て」は本設問の例示で、CEFRの日本語指定形式や介入の実証効果とはしない。因果を加える「〜ので」の無条件追加は削除。BさんのCEFRレベル判定ではない。",
+      "unresolved": ""
+    },
+    "Q_M_009": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 1,
+      "sources": [
+        "S298"
+      ],
+      "basis": "S298原著全9PDF頁（見開き179～195頁）を取得。印刷186～189頁の原画像を精読、過少申告・表立たない好意・連帯・非標準形の潜在的威信を全肢全解説へ照合。旧稿の規範的評価だけへの限定と未照合のピジン・リンガフランカ・ダイグロシアの補助定義を除去。同じ言語変種の社会的評価領域で改訂。当該調査を全社会・全男女の普遍的傾向とはしない。",
+      "unresolved": ""
+    },
+    "Q_M_041": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S265"
+      ],
+      "basis": "UNESCO公式紹介文の人間中心・年齢相応・プライバシー・倫理的検証と教育設計の記述を全体取得精読。特定製品や人間対話の普遍的効果・著作権法の法的結論は資料紹介だけでは検証できないため、同じAI教育領域内でガイダンスに即した留意点へ改訂。",
+      "unresolved": ""
+    },
+    "Q_3_029": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "case_context",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 10,
+      "independent_answer": 4,
+      "sources": [
+        "S148"
+      ],
+      "basis": "S148著者本人の25頁公開論文の8〜10・12〜14頁を本文と画像で照合。Oxfordの特定の6分類に限定し、O'Malley/Chamotの別分類と混同しない。文脈推測と構造分析、学習中の点検と事前計画・事後評価、関連付け記憶と直接処理を区別。1990年著書全体や引用先研究の取得・現代の実証的合意とは扱わない。",
+      "unresolved": ""
+    },
+    "Q_4_045": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S144"
+      ],
+      "basis": "S144本人公開冊子18・20〜21・31頁の説明・論争整理と、設問で明示した活動目標へ限定。教材や形式練習の一律の優劣・効果保証・無条件の排除を撤回する。",
+      "unresolved": ""
+    },
+    "Q_4_105": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 2,
+      "sources": [
+        "S253"
+      ],
+      "basis": "S253 Hall原著Beyond Culture全316頁スキャンを取得。原著90～93頁（PDF106～109頁）・標題・著作権頁の画像を精読。高低の定義と連続体、相手の前提と明示情報の過不足を全肢全解説へ照合。旧稿の国籍・言語から個人の内心・反応を推測する一般化と未照合の国別一覧を撤回。Q_2_029は前提未共有の場面への適用で学習効果の実証ではない。全巻精読、文字史・芸術・政治の各記述の承認ではない。",
+      "unresolved": ""
+    },
+    "Q_4_121": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S162"
+      ],
+      "basis": "公式CC BY 4.0リーガルコード全文を取得し第2・3条を中心に照合。作者名だけで足りるという説明を撤回し、他ライセンス・OER一般・人格権等への過度な一般化を避けた。",
+      "unresolved": ""
+    },
+    "Q_O_036": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 1,
+      "sources": [
+        "S173"
+      ],
+      "basis": "S173原著全2頁とケース8全3段落を照合。反転設計と四本柱の充足を区別する問いへ改訂し、未照合の他教授法やブレンディッド学習分類の断定を除去。動画指示だけで全指標を確認済みとせず、同じ反転領域で単一正答性を確定する。",
+      "unresolved": ""
+    },
+    "Q_O_038": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 8,
+      "independent_answer": 4,
+      "sources": [
+        "S173"
+      ],
+      "basis": "S173 FLN2014原資料1〜2頁と現行ケース8の全3段落を照合。F.2の観察・調整、F.3/I.3の学習方法・アクセスの配慮、P.1/P.2の支援と形成的評価を、この架空事例に適用する判断として明示。視聴の有無をテストから確定せず、原因や介入効果も断定しない。",
+      "unresolved": ""
+    },
+    "Q_M_058": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 1,
+      "sources": [
+        "S153"
+      ],
+      "basis": "S153 Rosch1978原著の22頁PDFを取得し、印刷28・30〜41・42〜43頁を画像で精読。典型性と階層の区別、表2.1、原型は特定の処理・表象・学習モデルではないという留保を照合。単一中心義から全多義語が歴史的に派生する普遍断定、かみ三語の未照合の語源、唯一効率的な指導法、犬やスズメの文化普遍的典型性・頻度の断定を撤回。",
+      "unresolved": ""
+    },
+    "Q_5_098": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S150"
+      ],
+      "basis": "S150 Thomas1983原論文の公開本文（99〜101、104〜105、109〜110頁）を照合。社会語用論と語用言語学の混同、単一の日本語規範の強制、褒めへの肯定応答を常に失敗とする断定を撤回。事例は原因を明示した教材用創作であり原論文の実証結果ではない。",
+      "unresolved": ""
+    },
+    "Q_4_034": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S242"
+      ],
+      "basis": "S242著者2名の2011年第3版原著本文を大学公開PDFで取得。PDF46・52～54頁の直接法の導入・全10原則・技法冒頭を精読、52～53頁画像照合。数か月間の文字禁止をALM一般に帰属する旧解説を撤回。著者の整理に範囲を明示し、Berlitz原典・全教授法史・日本語授業の効果を検証したとはしない。",
+      "unresolved": ""
+    },
+    "Q_M_011": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 1,
+      "sources": [
+        "S254"
+      ],
+      "basis": "S254 Sacks・Schegloff・Jefferson1974原論文全40頁を取得。696・702～704頁の本文・脚注・会話例を画像精読、OCR補助。次話者選定・自己選択と現在話者継続の条件を全肢全解説へ照合。旧誤答の臨界期・言語シフト・コード切替の各原典未取得のため承認せず、同じ話者交替領域の規則判断へ差替え。全論文精読や全言語・全場面の普遍則の承認ではない。",
+      "unresolved": ""
+    },
+    "Q_M_046": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S76"
+      ],
+      "basis": "東京外国語大学「無声化母音の産出」のHTML全文を再取得し本文51〜54行を照合。語中の無声子音間と文末の条件を区別し、単に聞こえにくいという定義を声帯振動の消失へ精密化。アクセント核がある場合の起こりにくさも教材の範囲で明示。未保存の第97バッチは件数に含めない。",
+      "unresolved": ""
+    },
+    "Q_O_030": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_3",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 6,
+      "independent_answer": 3,
+      "sources": [
+        "S179"
+      ],
+      "basis": "CEFR2001の9.3.8の共通基準・複数判断を、根拠の記録と再確認という明示方針へ適用する編集上の提案に限定。録音録画の普遍的効果保証を除去し、目的・許可・保管等の校内確認を条件化。個別の同意取得や法的適法性を確認したものではない。",
+      "unresolved": ""
+    },
+    "Q_M_047": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S158"
+      ],
+      "basis": "東京外国語大学の公開HTML全文を再取得・精読。語中の[g]/[ŋ]と意味不変を指定教材の範囲で照合し、全方言・個人・場面に関する未照合の分布説明を撤回。教材の「最近」を2026年の統計として使用しない。",
+      "unresolved": ""
+    },
+    "Q_4_083": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S166"
+      ],
+      "basis": "S166原著21・40・61〜63頁を本文・画像照合。技術的合理性を固定教案の機械的遂行へ還元せず、問題設定との区別、暗黙の理解の再検討、実践ごとのaction-presentを反映。日本語授業例は自作の適用例で効果保証としない。",
+      "unresolved": ""
+    },
+    "Q_4_124": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 4,
+      "sources": [
+        "S26"
+      ],
+      "basis": "保存済みe-Gov本則第35条全3項を照合。補償金支払を第1項の全条件の代替とせず、第3項の限定的な同時授業送信の免除と、リアルタイム一般・年度特例・曖昧な無償対象を区別。",
+      "unresolved": ""
+    },
+    "Q_M_050": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 3,
+      "sources": [
+        "S159"
+      ],
+      "basis": "文化審議会2022年建議と解説のPDF原本を取得。解説17頁の読点符号・統一、33頁の読点位置と意味・必要時の書き換えを照合。句読点の全慣習を曖昧に一般化せず資料の明示範囲を問う。",
+      "unresolved": ""
+    },
+    "Q_4_060": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_2",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 7,
+      "independent_answer": 2,
+      "sources": [
+        "S179",
+        "S142"
+      ],
+      "basis": "CEFR2001印刷186〜189頁とTesting Standards2014印刷79〜80頁を本文・画像照合。直接/間接と主観/客観を混同せず、常に人間採点、間接なら常に低コストという元解説の過大な一般化を除去。対象を指定資料の区別へ限定。",
+      "unresolved": ""
+    },
+    "Q_5_103": {
+      "classification": "accept-github",
+      "different_fields": [
+        "stem",
+        "option_1",
+        "option_2",
+        "option_3",
+        "option_4",
+        "explanation_1",
+        "explanation_2",
+        "explanation_3",
+        "explanation_4"
+      ],
+      "field_count": 9,
+      "independent_answer": 2,
+      "sources": [
+        "S151"
+      ],
+      "basis": "S151原著第2版の公開再組版PDF11〜14、20〜24、31、42〜43、50頁を本文照合。利害への着目と複数案、相手の意味・制約の確認、成功の非保証を確認。文化類型の未照合断定と最も効果的という普遍順位を撤回し、会話は教材用の架空事例として双方の確認を扱う。",
+      "unresolved": ""
+    }
+  }
+}
+
