@@ -3,8 +3,8 @@
   "date": "2026-10-22",
   "status": "EDITORIAL_EDITS_PEND_SOURCE_REAPPROVAL_NOT_RELEASE_READY",
   "base_sha256": "63b56d3cece9e734278a04cd047fce6fb5d2794649e1364ed359451d616557f4",
-  "output_docx_sha256": "8466c188f5ff9d73586f9055f7b8d0c84bd45be6c54088553df5bdd8fdc9fcdf",
-  "output_epub_sha256": "96a3aad470b3f9d4958483157da107590de34e20bf5cc503f4440cacc13cef2f",
+  "output_docx_sha256": "903d7cde728c2290cf93a1cd5fad4f65f0dad22afb8ebc6102ed94aec2d8b361",
+  "output_epub_sha256": "13ff0509556d94eaee3564971d6ca8703522a60a7ee6d5cec30870fc98332b13",
   "release_ready": false,
   "changes": [
     {
@@ -39,7 +39,7 @@
       "index": 3,
       "option": 4,
       "before": "基本的には、自分側の行為について相手側又は第三者の許可を受け、そのことで恩恵を受けるという事実や気持ちがある場合に使われる。",
-      "after": "自分側の行為について、相手側や第三者の許可を受け、それにより恩恵を受けるという事実や気持ちがある場合に用いる。",
+      "after": "基本的には、自分側の行為について相手側や第三者の許可を受け、それによる恩恵を受ける事実や気持ちがある場合に用いる。",
       "sources": [
         "S04"
       ],
@@ -79,7 +79,7 @@
       "index": 2,
       "option": 3,
       "before": "尊敬語は行為者などを、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを話や文章の相手に丁重に述べ、丁寧語はその相手に丁寧に述べる。",
-      "after": "尊敬語は行為者、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為を相手に丁重に、丁寧語は相手に丁寧に述べる。",
+      "after": "尊敬語は行為者など、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを相手に丁重に、丁寧語は相手に丁寧に述べる。",
       "sources": [
         "S04"
       ],
@@ -92,7 +92,7 @@
       "index": 0,
       "option": 1,
       "before": "短期貯蔵は、感覚登録器から選ばれた情報と長期貯蔵からの情報を受け取り、リハーサルは限られた情報の保持を維持する制御過程の一つである。",
-      "after": "短期貯蔵は感覚登録器と長期貯蔵から情報を受け取り、リハーサルなどの制御過程で限られた情報を保持する。",
+      "after": "短期貯蔵は感覚登録器から選ばれた情報や長期貯蔵の情報を受け取り、リハーサルなどの制御過程で限られた情報を保持する。",
       "sources": [
         "S231"
       ],
@@ -131,5 +131,6 @@
   ],
   "official_epubcheck": "NOT RUN",
   "amazon_kindle_previewer": "NOT RUN",
-  "statement": "These are proposed editorial edits, not individually source re-certified academic corrections. Word/EPUB binaries are available as conversation artifacts only, not uploaded into GitHub."
+  "statement": "These are proposed editorial edits, not individually source re-certified academic corrections. Word/EPUB binaries are available as conversation artifacts only, not uploaded into GitHub.",
+  "revision_note": "Academic-scope safeguards reinstated in Q_M_055 ('基本的には'), Q_2_025 ('など'), Q_3_011 ('選ばれた情報'). Previous round3 7-edit proposal superseded by these final pending-approval text changes. PDF rerender 373p passed automated bbox and glyph checks."
 }
