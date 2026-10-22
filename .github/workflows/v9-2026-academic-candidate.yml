@@ -1,0 +1,53 @@
+name: 2026 academic v9 Word candidate (NOT release)
+on:
+  push:
+    branches:
+      - audit/v9-merge-matrix-2026-10-22
+    paths:
+      - .github/workflows/v9-2026-academic-candidate.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check python-docx lxml
+      - name: Rebuild from original v8 and 4323 documented academic edits
+        run: python tools/v9_rebuild.py
+      - name: Package requested 2026 title, keeping original question content
+        run: |
+          mkdir -p release_candidate
+          python tools/v9_package_2026_candidate.py \
+            --input "audit/v9/登録日本語教員試験決定版問題集_v9_監査作業中.docx" \
+            --master "audit/v9/academic_master_500_20261022.json" \
+            --output "release_candidate/2026年登録日本語教員試験_直前対策500問_学術監査版_未承認.docx" \
+            --report "release_candidate/technical_report.json"
+      - name: Verify 500 problem / 500 answer structures
+        run: |
+          python - <<'PY'
+          import sys,json
+          from pathlib import Path
+          sys.path.insert(0,'tools')
+          import quiz_audit as qa
+          source=next(Path('release_candidate').glob('*.docx'))
+          issues,q,a=qa.audit(str(source))
+          assert len(q)==len(a)==500,(len(q),len(a))
+          report=json.loads(Path('release_candidate/technical_report.json').read_text())
+          assert report['release_ready'] is False
+          print('500 questions, 500 answers, QA warnings:',len(issues))
+          Path('release_candidate/structure_report.json').write_text(
+            json.dumps({'questions':len(q),'answers':len(a),'heuristic_warnings':len(issues),
+             'publish_approved':False},ensure_ascii=False,indent=2)+'\n')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: academic-v9-2026-unapproved-word
+          path: release_candidate/
+          retention-days: 14
