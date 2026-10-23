@@ -31,3 +31,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Found a concrete 2027 TOC defect: duplicated text '基礎試験60問＋応用試験15問（計75問）基礎60問＋応用読解15問（計75問・聴解なし）'. Created second 2027 editorial draft with the line corrected to '基礎60問＋応用読解15問（計75問・聴解なし）'. File: 2027_パーフェクト問題集_第2次編集稿_要内容確認.docx, local working container; not yet committed in repository.
 - The new Word is NOT publication-ready: full render and page-by-page visual QA have not completed; academic-master binary content has not been fully retrieved, so full scholarly alignment remains unverified. Keep release_ready=false.
 - Next actions: verify Word render; materialize/compare academic master and W6 word; reconcile any later academic changes; review claims in 2027 frontmatter and regenerate EPub only after content freeze.
+
+## 2026-10-23 structural regression on second 2027 editorial DOCX
+- Inspected `/mnt/data/2027_パーフェクト問題集_第2次編集稿_要内容確認.docx`, SHA-256 `d169296d0d147b55afc378fabbed2f0556178431998148097ceeedd9e71c84d7`.
+- Independent python-docx/OOXML check: exactly 500 question headings, 500 with four numbered options, 500 explanation headings, 10 tables, 2,059 internal hyperlink anchors, zero missing destinations. Word paragraph count 7,329.
+- Initial simple parser flagged two questions Q_2_023 and Q_5_094 due to multi-paragraph dialogue/composition stem; corrected parser confirmed 500/500, not manuscript errors.
+- Result does **not** establish correct scholarship, question-to-answer semantic accuracy, or final visual Kindle quality. Manuscript unchanged. Structural regression report produced locally at /mnt/data/2027_構造検査結果.json.
+- Next: obtain full scholarly master, compare 500 ID full fields, render/visual-QA complete 2027 Word, and prepare final EPUB. Release remains blocked until content and publishing gates are met.
