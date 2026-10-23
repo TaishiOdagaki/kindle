@@ -167,3 +167,13 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Confirmed Japan Foundation EPA predeparture Japanese training official program: Indonesian and Filipino nurse/care-worker candidates, about 6 months initial-intermediate instruction: https://www.jpf.go.jp/j/project/japanese/education/training/epa/index.html ; relevant to ch5 question 2 para 3189.
 - Official 2026 JLPT implementation guide also located: https://info.jees-jlpt.jp/wp-content/uploads/2026/02/ddb072fcbc37f22844858b481e730d91.pdf (no comprehensive comparison of Q34 choices yet).
 - These are source-topic-level checks, NOT substantive acceptance of every option/explanation. No manuscript wording changed. Continue remaining choices/full canonical academic master and official Kindle QA. W6 remains stopped/read-only, release_ready=false.
+
+## 2026-10-23 Round 26: selected question, options, explanation audit
+- Directly inspected 2027 third DOCX question and answer/explanation paragraphs for Ch1 Q4 (support), Q11 (SSW residency), Q13 (HSP visa), Q16 (Engineer/Specialist in Humanities/International Services) and Ch5 Q2 (EPA). Five named questions, 20 options, their answer keys and explanatory rationale.
+- Ch1 Q11: correct 1, explicit '原則5年以内' for SSW1 and no aggregate maximum for SSW2; false option 4 asserts no exceptions. Official ISA https://www.moj.go.jp/isa/10_00233 confirms principal rule and exceptions.
+- Ch1 Q13: correct 3, HSP visa 5 years with COE required; incorrect choices about family COE, uniform nationality documents and rejection of electronic COE match MOFA https://www.mofa.go.jp/mofaj/toko/visa/chouki/visa16.html.
+- Ch1 Q16: correct 2, 3-year related work experience with university graduate translation/interpretation/language-teaching exception, corroborated in ISA https://www.moj.go.jp/isa/applications/status/gijinkoku .
+- Ch5 Q2: correct 1, EPA Indonesian/Filipino nurse/careworker candidates ~6 months initial/intermediate Japanese, JPF https://www.jpf.go.jp/j/project/japanese/education/training/epa/about.html .
+- Ch1 Q4: correct 3, SSW1 living orientation and Japanese school guidance; based on previously consulted ISA SSW support list, source https://www.moj.go.jp/isa/policies/ssw/supportssw.html .
+- Verdict: all five keys and principal distinguishing option conditions consistent with cited sources. No manuscript edits. This is a focused five-question review, not a re-certification of 500 questions.
+- Next: other dated Q8/Q9/Q34/Q35 and associated explanations, plus large master full-field comparison and official EPUBCheck/Kindle display validation. W6 remains stopped/read-only. release_ready=false.
