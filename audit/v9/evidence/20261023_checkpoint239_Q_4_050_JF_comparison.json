@@ -1,0 +1,40 @@
+{
+  "checkpoint": 239,
+  "date": "2026-10-23",
+  "parent": "d6bddf87c4b973173734847949186ed6103fa6ca",
+  "id": "Q_4_050",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "performed": [
+    "最新HEAD確認",
+    "完全diff再取得・展開SHA一致",
+    "両稿9項目実本文読了",
+    "JF公式92頁PDFの印刷14/18頁本文を直接照合"
+  ],
+  "source": {
+    "id": "S141",
+    "url": "https://www.jfstandard.jpf.go.jp/pdf/limited/3_JFS_guidebook.pdf",
+    "scope": "2017年版印刷14頁1.4冒頭、18頁1.4.2(2)の三留意点。Web本文252–256、451–468行。"
+  },
+  "option_verdicts": [
+    "誤：印刷14頁は知識量と異なる活動・能力の例示を示す",
+    "誤：18頁は語彙文法等の材料準備を求める",
+    "誤：18頁は複数レベル/カテゴリーを見比べることを重視",
+    "正：活動・能力の例示と現場の材料準備が両立"
+  ],
+  "independent_answer": 4,
+  "explanation_review": "全4解説を同箇所へ対応。Can-do以外の必要能力の検討、非網羅性も18頁に明記。分類の二分法・CEFR全版の一括承認・効果実証へ拡張しない。",
+  "decision": "accept-github",
+  "library_disposition": "2017JFの範囲と留意点を指定したGitHub稿採用。文法学習との排他性は否定するが、併用の一般的実態を根拠未取得のまま移植しない。",
+  "limitations": [
+    "今回は両DOCX再取得なし。cp232検証済み完全diffを利用。",
+    "Q_4_051は差分読了のみ、共通設問・肢と資料の新規全対応未了。",
+    "統合Word・ケース差分・全頁・電子書籍検査未完。"
+  ],
+  "classified": 193,
+  "unclassified": 307,
+  "word_edits": 0,
+  "publication": "hold",
+  "next": "Q_4_051の共通肢を含む全文と評価概念資料を対応、統合稿の制作を進める。"
+}
