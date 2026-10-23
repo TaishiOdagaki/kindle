@@ -38,3 +38,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Initial simple parser flagged two questions Q_2_023 and Q_5_094 due to multi-paragraph dialogue/composition stem; corrected parser confirmed 500/500, not manuscript errors.
 - Result does **not** establish correct scholarship, question-to-answer semantic accuracy, or final visual Kindle quality. Manuscript unchanged. Structural regression report produced locally at /mnt/data/2027_構造検査結果.json.
 - Next: obtain full scholarly master, compare 500 ID full fields, render/visual-QA complete 2027 Word, and prepare final EPUB. Release remains blocked until content and publishing gates are met.
+
+## 2026-10-23 paragraph-level alignment check
+- Compared 2027 second editorial DOCX against 2026 fifth-edited DOCX with python-docx, 7,329 paragraphs each.
+- Differences only at paragraph indices 0,1,2,5,7,9,29,30,3178,3730,6729 (title, explanatory frontmatter, TOC and closing exercise labels). All tables identical in OOXML and question/answer/explanation paragraphs unchanged.
+- Thus 2027 current editorial draft inherits the 2026 fifth-edited question corpus; it is NOT yet proven identical to a later W6 academic master.
+- Local independent comparison report: `/mnt/data/2027_第7次照合報告.md`.
+- Still pending: obtain full W6 master data, match question-level content and reconcile subsequent revisions; final EPUB and Kindle QA. Publishing not approved.
