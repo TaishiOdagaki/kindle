@@ -1,0 +1,42 @@
+{
+  "checkpoint": 228,
+  "date": "2026-10-23",
+  "release_ready": false,
+  "source_urls": {
+    "TUFS228-038": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/card/038.html",
+    "TUFS228-039": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/039.html",
+    "TUFS228-043": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/contents/explanation/043.html"
+  },
+  "source_locations": {
+    "TUFS228-038": "表2、書く・行く・食べる・来る行（取得本文65–72行）",
+    "TUFS228-039": "グループ2の作り方34–46行、見るの例66–68行",
+    "TUFS228-043": "て形対応表48・54–62行"
+  },
+  "source_read_scope": "3ページの本文と表を取得。画像にしかないカード043の活用図は照合に使用せず、HTML表038と解説039/043を使用。",
+  "question_verdicts": {
+    "Q_3_020": {
+      "answer": 2,
+      "options": [
+        "食べて：資料のグループ2正用",
+        "行いて：資料の行ってと不一致。設問に明示された書くの規則を拡張した例",
+        "来て（きて）：資料のグループ3正用",
+        "見て：見るはグループ2の例にあり、ru除去＋te規則の適用"
+      ],
+      "explanations": "各肢の正用／規則拡張という4解説と一致。概念の根拠は第226回S29照合、本文履歴は第227回全9欄照合を継承。",
+      "classification": "accept-github"
+    },
+    "Q_3_019": {
+      "classification": "pending-evidence-linkage",
+      "remaining": "閉めるの個別分類・活用の直接対応"
+    }
+  },
+  "classified_count": 183,
+  "remaining_difference_questions": 317,
+  "word_edits": 0,
+  "new_question_source_linkage_completed": 1,
+  "manuscript_shas": {
+    "github": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "library": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a"
+  },
+  "next": "Q_3_019の残る個別語を確認後、未分類316問を実本文と資料対応で進める。全頁QAとEPUB検査は未完了。"
+}
