@@ -1,0 +1,31 @@
+{
+  "checkpoint": 229,
+  "date": "2026-10-23",
+  "release_ready": false,
+  "source_id": "NINJAL229-SHIMERU",
+  "source_url": "https://www2.ninjal.ac.jp/verbhandbook/headwords/締める・閉める・絞める.html",
+  "location": "冒頭活用表、取得本文7・9・20行",
+  "verified_claims": [
+    "閉める（しめる）は2グループ",
+    "た形はしめた"
+  ],
+  "question_id": "Q_3_019",
+  "independent_answer": 4,
+  "option_verdicts": [
+    "見る→見た：TUFS規則と分類から正用",
+    "閉める→閉めた：NINJAL活用表の正用",
+    "来る→来た（きた）：TUFS活用表の正用",
+    "行く→行いた：提示学習規則を例外へ広げた監査者作例。実際のタ形は行った（TUFS）"
+  ],
+  "explanation_review": "全4解説の形態主張と分類に上記根拠が対応。原著が日本語例を掲載したとはしない。",
+  "history_evidence": "第227回changes_batch5.jsonの設問・4肢・4解説の9 after対応を継承",
+  "concept_evidence": "第226回S29 Richards1970 §3.1照合を継承",
+  "word_edits": 0,
+  "classified_count": 184,
+  "remaining_difference_questions": 316,
+  "manuscript_shas": {
+    "github": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "library": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a"
+  },
+  "next": "Q_4_041以降の未分類差異を実本文で確認する。統合稿・全頁QA・EPUB検査は未完了。"
+}
