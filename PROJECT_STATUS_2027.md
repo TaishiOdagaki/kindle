@@ -195,3 +195,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Examples: Oxford's six strategies stems for cognitive, metacognitive and memory strategies; Schoen reflective-practice prompts are lexically close but may test different aspects. No auto-edits.
 - Case-form applied 75 questions use distinct formatting and were NOT included in this check. Never describe this as 500-question duplicate audit.
 - Detailed report in current conversation artifact `/mnt/data/2027_第29次_設問重複検査.json` (local only). W6 academic master unchanged/unretrieved via GitHub connector; full-field comparison still open. EPUBCheck/Kindle Previewer still open, release_ready=false.
+
+## 2026-10-23 Round 30: editorial classification of 10 near-duplicate pairs
+- Read actual 2027 third DOCX question text and 4 choices for the 12 involved global standard question numbers: 54,100,101,103,105,119,139,201,246,251,321,327.
+- Of 10 fuzzy-text candidate pairs from Round 29: 9 pairs test distinct concepts (Oxford cognitive/metacognitive/memory; Celce-Murcia strategy types; Saussure sign vs value; Austin illocution vs locution); keep. One pair (global standard question #119, #201; Schön reflective practice) overlaps substantively in correct idea of reexamining tacit practical knowledge. Editorial rewrite of one as practical classroom scenario is worth considering, but not a proven duplicate/error and requires subsequent academic re-audit.
+- No questions deleted, rewritten or answer keys changed. Decision artifact `/mnt/data/2027_第30次_類似設問10組_内容判定.json` generated for current conversation (not committed to repo). The analysis covers question stems and four choices, not independent first-source confirmation of every explanation.
+- Academic full master comparison/official EPUBCheck/Kindle Previewer remain open. W6 stopped and read-only; release_ready=false.
