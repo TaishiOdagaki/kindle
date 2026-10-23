@@ -1,0 +1,420 @@
+[
+  {
+    "id": "Q_1_024",
+    "original_choice": "日本語教育と教員養成のために設けられ、語学部には台湾人に日本語を教える国語学科と、日本人に台湾語を教える土語学科が置かれた。",
+    "baseline_choice": "日本語教育と教員養成を目的とし、語学部の国語学科では台湾人に日本語を、土語学科では日本人に台湾語を教えた。",
+    "current_choice": "日本語教育と教員養成を目的とし、語学部の国語学科では台湾人に日本語を、土語学科では日本人に台湾語を教えた。",
+    "answer": 1,
+    "reason": "二学科の対象と言語、学校設置の目的を保持。学科と対象の誤対応は生じない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S283"
+    ]
+  },
+  {
+    "id": "Q_1_029",
+    "original_choice": "国語審議会など四つの審議会等の機能を整理・統合し、2001年1月6日付けで文部科学省に文化審議会が設置された。国語分科会は国語の改善と普及に関する事項を調査審議する。",
+    "baseline_choice": "国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。",
+    "current_choice": "国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。",
+    "answer": 2,
+    "reason": "設置日・設置先・四審議会等の統合と国語分科会の事務を保持。詳細な四名称は解説にある。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S240"
+    ]
+  },
+  {
+    "id": "Q_2_009",
+    "original_choice": "言語的少数民族が存在する国において、当該少数民族に属する者が集団の他の構成員とともに自己の言語を使用する権利は、否定されない。",
+    "baseline_choice": "言語的少数民族に属する者は、同じ集団の人々とともに自己の言語を使用する権利を否定されない。",
+    "current_choice": "言語的少数民族に属する者は、同じ集団の人々とともに自己の言語を使用する権利を否定されない。",
+    "answer": 2,
+    "reason": "言語的少数民族に属する者という対象を保持。条文全体の逐語引用ではなく、自己の言語の使用権を問う設問内の要約。行政言語の義務へ拡張しない解説も維持。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S284"
+    ]
+  },
+  {
+    "id": "Q_2_012",
+    "original_choice": "受け手や場面に応じて、言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」が示され、必要に応じて意味の説明も付ける。",
+    "baseline_choice": "相手や場面に応じて言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」を示す。",
+    "current_choice": "受け手や場面に応じて、言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」が示され、必要に応じて意味の説明も付ける。",
+    "answer": 1,
+    "reason": "必要に応じた意味の説明を正答にも復元した。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S238"
+    ]
+  },
+  {
+    "id": "Q_2_023",
+    "original_choice": "「参る」は学習者側の動作を聞き手に丁重に述べる謙譲語Ⅱであり、「ご覧になる」は先生の動作を立てる尊敬語である。依頼の適切さは、これらの形式だけでなく、相手の負担や場面も踏まえて考える。",
+    "baseline_choice": "「参る」は謙譲語Ⅱ、「ご覧になる」は尊敬語である。依頼の適切さには形式だけでなく、相手の負担や場面も関わる。",
+    "current_choice": "「参る」は謙譲語Ⅱ、「ご覧になる」は尊敬語である。依頼の適切さには形式だけでなく、相手の負担や場面も関わる。",
+    "answer": 3,
+    "reason": "参るとご覧になるの分類および負担・場面への配慮を保持。動作の主体と待遇の対象は設問と解説で明示。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S04"
+    ]
+  },
+  {
+    "id": "Q_2_025",
+    "original_choice": "尊敬語は行為者などを、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを話や文章の相手に丁重に述べ、丁寧語はその相手に丁寧に述べる。",
+    "baseline_choice": "尊敬語は行為者を、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為を相手に丁重に、丁寧語は相手に丁寧に述べる。",
+    "current_choice": "尊敬語は行為者などを、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを話や文章の相手に丁重に述べ、丁寧語はその相手に丁寧に述べる。",
+    "answer": 3,
+    "reason": "「行為者など」「自分側の行為など」と、話や文章の相手という限定を復元済み。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S04"
+    ]
+  },
+  {
+    "id": "Q_3_004",
+    "original_choice": "食後に代金を払う店しか経験のない学習者が、飲食店では必ず食後に払うものだと考えていた。食前に会計を済ませる店の物語を読み、語句や文の意味は分かったが、支払いの順序に戸惑った。",
+    "baseline_choice": "食後払いの店しか知らない学習者が、食前払いの店を描いた文章を読み、語句は理解できても会計の順序に戸惑った。",
+    "current_choice": "食後払いの店しか知らない学習者が、食前払いの店を描いた文章を読み、語句は理解できても会計の順序に戸惑った。",
+    "answer": 3,
+    "reason": "食後払いの既有知識と食前払いの文章との不一致、語句の理解という条件を保持。国民性への一般化はしていない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S205"
+    ]
+  },
+  {
+    "id": "Q_3_011",
+    "original_choice": "短期貯蔵は、感覚登録器から選ばれた情報と長期貯蔵からの情報を受け取り、リハーサルは限られた情報の保持を維持する制御過程の一つである。",
+    "baseline_choice": "短期貯蔵は感覚登録器と長期貯蔵から情報を受け取り、リハーサルは限られた情報を保持する制御過程の一つである。",
+    "current_choice": "短期貯蔵は、感覚登録器から選ばれた情報と長期貯蔵からの情報を受け取り、リハーサルは限られた情報の保持を維持する制御過程の一つである。",
+    "answer": 1,
+    "reason": "感覚登録器から選ばれた情報という選択過程を復元済み。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S231"
+    ]
+  },
+  {
+    "id": "Q_3_017",
+    "original_choice": "日本語使用歴15年の学習者について、同じ意味・文脈で目標言語規範と異なる特定の助詞パターンが、複数年の会話記録で繰り返し確認された。",
+    "baseline_choice": "同じ学習者の特定の助詞の誤用が、同じ意味・文脈の複数年にわたる会話記録で繰り返し確認された。",
+    "current_choice": "同じ学習者の特定の助詞の誤用が、同じ意味・文脈の複数年にわたる会話記録で繰り返し確認された。",
+    "answer": 4,
+    "reason": "同じ学習者・特定の助詞・同じ意味文脈・複数年の観察を保持。使用歴15年の削除は永久的化石化の確定を避ける設問条件を変えない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S140"
+    ]
+  },
+  {
+    "id": "Q_3_021",
+    "original_choice": "独力で問題を解決できる実際の発達水準と、成人の指導や自分より有能な仲間との協働で解決できる潜在的な発達水準との間を指す。",
+    "baseline_choice": "独力で解ける実際の発達水準と、成人や有能な仲間の支援で解ける潜在的発達水準との間を指す。",
+    "current_choice": "独力で問題を解決できる実際の発達水準と、成人の指導や自分より有能な仲間との協働で解決できる潜在的な発達水準との間を指す。",
+    "answer": 3,
+    "reason": "仲間の有能さが学習者に対する比較であることを復元した。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S15"
+    ]
+  },
+  {
+    "id": "Q_3_039",
+    "original_choice": "将来の自己の指針となる二つの要素に加え、教師やカリキュラム、学習者集団、成功経験など、現在の学習環境・経験に関わる「L2学習経験」が含まれる。",
+    "baseline_choice": "将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。",
+    "current_choice": "将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。",
+    "answer": 4,
+    "reason": "二つの将来の自己と現在の学習経験を保持。教師等の環境要素も残り、正答の構成要素は欠けない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S137"
+    ]
+  },
+  {
+    "id": "Q_4_072",
+    "original_choice": "ある形式が一定期間残ることは観察できても、それが一時的な停滞か永久的な化石化かをどう判断するかは、別に検討すべき問題である。",
+    "baseline_choice": "一定期間続く形式が、一時的な停滞か永久的な化石化かは、別に検討する必要がある。",
+    "current_choice": "一定期間続く形式が、一時的な停滞か永久的な化石化かは、別に検討する必要がある。",
+    "answer": 3,
+    "reason": "安定化の観察と永久性の判断を区別する条件を保持。単回の正用・誤用で確定しない全解説も維持。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S140"
+    ]
+  },
+  {
+    "id": "Q_4_089",
+    "original_choice": "扱う問いと結論を整理し、読書傾向についての主張を支える資料の出所・調査方法・対象範囲を確かめ、根拠と自分の考察を区別して書き直す。",
+    "baseline_choice": "問いと結論を整理し、読書傾向に関する資料の出所・調査法・対象を確かめ、根拠と自分の考察を分けて書く。",
+    "current_choice": "問いと結論を整理し、読書傾向に関する資料の出所・調査法・対象を確かめ、根拠と自分の考察を分けて書く。",
+    "answer": 2,
+    "reason": "問い・結論・調査の出所方法対象と根拠／考察の区別を保持。接続語だけの置換を十分としない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S225"
+    ]
+  },
+  {
+    "id": "Q_4_094",
+    "original_choice": "話さずにカードゲームを行い、勝者が別の卓へ移って対戦を続けた。後の振り返りで、言語や文化の違いと、違いに直面したときの感情について話し合った。",
+    "baseline_choice": "無言でカードゲームを行い、勝者が別卓へ移動した後、言語や文化の違いと、その際の感情を話し合った。",
+    "current_choice": "無言でカードゲームを行い、勝者が別卓へ移動した後、言語や文化の違いと、その際の感情を話し合った。",
+    "answer": 4,
+    "reason": "無言の対戦・勝者の卓移動・振り返りの順序を保持。複数回の移動は解説で確認できる。普遍的な効果や感情は断定しない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S228",
+      "S229"
+    ]
+  },
+  {
+    "id": "Q_4_125",
+    "original_choice": "第32条第1項は公表された著作物を対象とし、公正な慣行と引用目的上正当な範囲を求める。引用して複製する場合は第48条の出所表示も必要となる。",
+    "baseline_choice": "第32条は公表著作物について公正な慣行と引用目的上正当な範囲を要求し、複製して引用する際は第48条の出所表示も求める。",
+    "current_choice": "第32条は公表著作物について公正な慣行と引用目的上正当な範囲を要求し、複製して引用する際は第48条の出所表示も求める。",
+    "answer": 2,
+    "reason": "引用の対象と公正な慣行・目的上正当な範囲・複製引用時の出所表示を保持。設問が第32条第1項を指定し、解説が第48条の方法・程度と著作者名の例外を示す。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S26"
+    ]
+  },
+  {
+    "id": "Q_5_015",
+    "original_choice": "「見る」はグループ2で「る」を取って「ない」を付け、「切る」はグループ1で辞書形末尾のuをaに変えて「ない」を付ける。",
+    "baseline_choice": "「見る」はグループ2で「る」を取り「ない」を付け、「切る」はグループ1で「切らない」と活用する。",
+    "current_choice": "「見る」はグループ2で「る」を取り「ない」を付け、「切る」はグループ1で「切らない」と活用する。",
+    "answer": 1,
+    "reason": "見る／切るの分類と実際のない形が一致。切るの一般的規則の説明を省いても、設問で指定された対比は維持される。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S110"
+    ]
+  },
+  {
+    "id": "Q_5_027",
+    "original_choice": "アクセントは単語レベルの音の高さの変化、イントネーションは文レベルの音の高さの変化であり、イントネーションは文の意味や感情の表現に関わる。",
+    "baseline_choice": "アクセントは語、イントネーションは文の高低変化に関わり、後者は意味や感情にも影響する。",
+    "current_choice": "アクセントは語、イントネーションは文の高低変化に関わり、後者は意味や感情にも影響する。",
+    "answer": 1,
+    "reason": "音の高低という内容は保持し、設問を日本語発音教材の範囲へ限定した。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S82"
+    ]
+  },
+  {
+    "id": "Q_5_028",
+    "original_choice": "日本語の「し」はseaのような[si]ではなくsheに近いが、唇を丸めすぎないよう注意させ、モデル音声を用いて調音と聞き分けを練習する。",
+    "baseline_choice": "日本語の「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。",
+    "current_choice": "日本語の「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。",
+    "answer": 2,
+    "reason": "英語seaとの違い、sheとの近似と円唇化しすぎない注意を保持。促音欠落や有声化の誤答との区別も一意。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S83"
+    ]
+  },
+  {
+    "id": "Q_5_061",
+    "original_choice": "様態の「〜そうだ」には、現状から判断して今後起こる可能性を述べる用法があり、伝聞の「〜そうだ」は聞いたり読んだりした情報を伝える用法である。",
+    "baseline_choice": "様態の「そうだ」は現状からの予測、伝聞の「そうだ」は聞いたり読んだりした情報を表す。",
+    "current_choice": "様態の「〜そうだ」には、現状から判断して今後起こる可能性を述べる用法があり、伝聞の「〜そうだ」は聞いたり読んだりした情報を伝える用法である。",
+    "answer": 4,
+    "reason": "様態の一用法であることを復元し、予測だけの定義という誤読を防いだ。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S62"
+    ]
+  },
+  {
+    "id": "Q_5_079",
+    "original_choice": "ネガティブ・フェイスは自分の行為を他者に妨げられたくないという欲求、ポジティブ・フェイスは自分の欲求が少なくとも一部の他者にとって望ましいものであってほしいという欲求である。",
+    "baseline_choice": "ネガティブ・フェイスは行為を妨げられたくない欲求、ポジティブ・フェイスは自分の欲求を一部の他者にも望ましく思われたい欲求である。",
+    "current_choice": "ネガティブ・フェイスは行為を妨げられたくない欲求、ポジティブ・フェイスは自分の欲求を一部の他者にも望ましく思われたい欲求である。",
+    "answer": 3,
+    "reason": "行為を妨げられたくない欲求と一部の他者に欲求を望ましく思われたい欲求を保持。名称の逆転はない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S122"
+    ]
+  },
+  {
+    "id": "Q_5_084",
+    "original_choice": "他の格率との衝突も協調の拒否もなく、聞き手を欺こうとしていないあからさまな不遵守では、協調原理との両立を考える推論が会話的含意を生むことがある。",
+    "baseline_choice": "格率の衝突・協調拒否・欺きによらない、あからさまな格率の不遵守は会話的含意を生みうる。",
+    "current_choice": "格率の衝突・協調拒否・欺きによらない、あからさまな格率の不遵守は会話的含意を生みうる。",
+    "answer": 3,
+    "reason": "格率衝突・協調拒否・欺きではないという条件と、含意が生じうるという可能性を保持。全ての不遵守への必然的効果ではない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S48"
+    ]
+  },
+  {
+    "id": "Q_5_092",
+    "original_choice": "注意・作動記憶の容量に限りがあるという前提で、他の条件が同じなら、ある側面への注意が他の側面の遂行を低下させる可能性を考える。",
+    "baseline_choice": "注意・作動記憶には限りがあり、ほかの条件が同じなら、一側面への注意が別の側面の遂行を下げうる。",
+    "current_choice": "注意・作動記憶には限りがあり、ほかの条件が同じなら、一側面への注意が別の側面の遂行を下げうる。",
+    "answer": 1,
+    "reason": "有限容量、他条件一定、側面間の遂行低下の可能性を保持。複雑さ等の同時向上が不可能とはしていない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S280"
+    ]
+  },
+  {
+    "id": "Q_5_100",
+    "original_choice": "依頼は聞き手の将来の行為に圧力をかけるため主として聞き手のネガティブ・フェイスを脅かし、謝罪は過去のFTAを悔いることを示すため話し手自身のポジティブ・フェイスを直接傷つける。",
+    "baseline_choice": "依頼は聞き手のネガティブ・フェイスを、謝罪は話し手自身のポジティブ・フェイスを脅かす。",
+    "current_choice": "依頼は聞き手のネガティブ・フェイスを、謝罪は話し手自身のポジティブ・フェイスを脅かす。",
+    "answer": 3,
+    "reason": "依頼の聞き手ネガティブ、謝罪の話し手ポジティブという対応を保持。設問・解説とも原著の分類内に限定され、排他的な唯一の効果とはしていない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S122"
+    ]
+  },
+  {
+    "id": "Q_5_101",
+    "original_choice": "Aさんはパソコンの種類を尋ねる質問に答え、Bさんは使いやすさを尋ねる質問へ進んでいる。この抜粋だけでAさんの会話への協力姿勢が不足しているとは断定できない。",
+    "baseline_choice": "Aはパソコンの種類に答え、Bは使いやすさを尋ねている。この抜粋だけではAの協力姿勢の不足を判断できない。",
+    "current_choice": "Aはパソコンの種類に答え、Bは使いやすさを尋ねている。この抜粋だけではAの協力姿勢の不足を判断できない。",
+    "answer": 2,
+    "reason": "応答が記録された問いと未記録の問いを区別し、協力姿勢全体を断定しない条件を保持。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S133"
+    ]
+  },
+  {
+    "id": "Q_O_030",
+    "original_choice": "学校で利用目的・必要な許可・保管方法を確認した上で発話の記録を残し、共通基準に沿って複数の教師が再確認できるようにする",
+    "baseline_choice": "利用目的・必要な許可・保管方法を確認して発話を記録し、共通基準で複数の教師が再確認する。",
+    "current_choice": "利用目的・必要な許可・保管方法を確認して発話を記録し、共通基準で複数の教師が再確認する。",
+    "answer": 3,
+    "reason": "利用目的・必要な許可・保管・共通基準・複数の教師の再確認をすべて保持。記録だけで妥当性が保証されるとはしていない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S179"
+    ]
+  },
+  {
+    "id": "Q_O_031",
+    "original_choice": "「ています」には過去の経験や記録を述べる用法もあるため、来日前のことだという理由だけで誤用と断定せず、意図や文脈を確かめる。",
+    "baseline_choice": "「ています」は過去の経験も表すため、来日前の学習を述べたというだけで誤用とは断定せず、意図や文脈を確認する。",
+    "current_choice": "「ています」は過去の経験も表すため、来日前の学習を述べたというだけで誤用とは断定せず、意図や文脈を確認する。",
+    "answer": 4,
+    "reason": "過去の経験も表すという可能性と文脈確認を保持。ケースでの来日前という理由だけの誤用断定を避ける。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S211",
+      "S212"
+    ]
+  },
+  {
+    "id": "Q_O_063",
+    "original_choice": "早い決定を優先するか、全員の納得まで話し合うかという、本人たちが述べた重視点の違い",
+    "baseline_choice": "多数決で早く決めたいか、全員の納得まで話し合いたいかという重視点の違い。",
+    "current_choice": "多数決で早く決めたいか、全員の納得まで話し合いたいかという重視点の違い。",
+    "answer": 2,
+    "reason": "ケース本文で双方が示した意思決定方法の相違に対応。多数決の文言をケース実文で再確認し、国籍を原因としない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S213"
+    ]
+  },
+  {
+    "id": "Q_M_002",
+    "original_choice": "来日を希望するインドネシア・フィリピン人の看護師・介護福祉士候補者を対象に、約6か月の初級〜中級程度の日本語教育を実施すると紹介されている。",
+    "baseline_choice": "インドネシア・フィリピン人の看護師・介護福祉士候補者に、約6か月の初級〜中級日本語教育を行う。",
+    "current_choice": "インドネシア・フィリピン人の看護師・介護福祉士候補者に、約6か月の初級〜中級日本語教育を行う。",
+    "answer": 1,
+    "reason": "設問自体に公式紹介と2026-10-20確認が明記され、2027年事業の全対象国・全研修を断定する文ではない。対象・約6か月・初級から中級は保持。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S276"
+    ]
+  },
+  {
+    "id": "Q_M_007",
+    "original_choice": "言語的マイノリティーを言語面で支え、ホスト社会との橋渡しをする。法律相談では専門家の助言を正確に通訳することも課題となる。",
+    "baseline_choice": "言語的少数者を言語面で支えて受け入れ社会と橋渡しする。法律相談では専門家の助言を正確に通訳する。",
+    "current_choice": "言語的少数者を言語面で支えて受け入れ社会と橋渡しする。法律相談では専門家の助言を正確に通訳する。",
+    "answer": 3,
+    "reason": "2014年記事という条件、言語的支援・社会との橋渡し、専門家助言の正確な通訳を保持。通訳者が法的助言を代行するとはしない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S286"
+    ]
+  },
+  {
+    "id": "Q_M_032",
+    "original_choice": "授業後に何がうまくいき、何がうまくいかなかったかを振り返り、活動に見積もった時間の見直しを検討することは、今後の授業改善を目指す省察の一例となる。",
+    "baseline_choice": "授業後に活動の成否を振り返り、時間配分を見直して今後の授業改善につなげる。",
+    "current_choice": "授業後に活動の成否を振り返り、時間配分を見直して今後の授業改善につなげる。",
+    "answer": 1,
+    "reason": "実施後の振り返り・配分見直し・将来の改善を保持。成果向上の必然性は全解説で否定。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S183"
+    ]
+  },
+  {
+    "id": "Q_M_055",
+    "original_choice": "基本的には、自分側の行為について相手側又は第三者の許可を受け、そのことで恩恵を受けるという事実や気持ちがある場合に使われる。",
+    "baseline_choice": "基本的には自分側の行為について、相手側や第三者の許可を受け、そのことで恩恵を受ける場合に使う。",
+    "current_choice": "基本的には、自分側の行為について相手側又は第三者の許可を受け、そのことで恩恵を受けるという事実や気持ちがある場合に使われる。",
+    "answer": 4,
+    "reason": "許可・恩恵についての事実または気持ちという条件を復元した。",
+    "decision": "restored_canonical_qualification",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S04"
+    ]
+  },
+  {
+    "id": "Q_MO_005",
+    "original_choice": "学習者の語彙知識や音声理解の状況を確かめ、場面の知識を活性化する活動と、音声中の語を認識する活動の双方を検討する。",
+    "baseline_choice": "語彙や聴解の実態に応じ、場面の知識を生かす活動と音声中の語を認識する活動を検討する。",
+    "current_choice": "語彙や聴解の実態に応じ、場面の知識を生かす活動と音声中の語を認識する活動を検討する。",
+    "answer": 4,
+    "reason": "語彙・聴解の実態、背景知識と音声中の語認識の双方を保持。特定の方法による一律改善は保証していない。",
+    "decision": "retain_contextually_equivalent_shortening",
+    "review_scope": "Read complete current stem/4 options/4 explanations and original correct choice; source evidence inherited except explicitly renewed sources in round40",
+    "scholarly_source_ids": [
+      "S99"
+    ]
+  }
+]

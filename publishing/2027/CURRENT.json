@@ -1,10 +1,13 @@
 {
-  "current_docx": "round38/2027_round38_review.docx",
-  "current_epub": "round38/2027_round38_review.epub",
-  "docx_sha256": "5d79e870977c77774e8aa7aa4f74a6e2dea4ffed1211fd0ebd1c89f6d9122826",
-  "epub_sha256": "d133ac2192dd9286a2917dd9e1c53e5345ccc9fa8b82cdf5e25033dc183ee935",
+  "current_docx": "round40/2027_review_manuscript.docx",
+  "current_epub": "round40/2027_review_manuscript.epub",
+  "docx_sha256": "bb9545195f0b0ce94a3be99ad41ef82d01c1df75794cb58e30338c5ca9d7648d",
+  "epub_sha256": "3c9f8ee7cda69771f6611fcb6b6986dc1a779935bbc1c7cc16b09501bbc1dba3",
   "questions": 500,
+  "review_manuscript_ready": true,
   "release_ready": false,
   "publication_approved": false,
-  "full_visual_qa_completed": false
+  "full_visual_qa_completed": true,
+  "visual_scope": "Word rendered400 pages,96dpi; Kindle GUI/device visual QA not completed",
+  "fresh_independent_primary_audit_all500": false
 }

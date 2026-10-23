@@ -1,0 +1,9 @@
+{
+  "removed_generated_title_documents": 1,
+  "removed_duplicate_generated_heading": 1,
+  "manuscript_title_retained": true,
+  "word_epub_full_body_equal_after_whitespace_normalization": true,
+  "normalized_characters": 309932,
+  "scope": "Entire linear book including all case premises, tables and appendices; OPF/nav/head metadata excluded",
+  "epub_sha256": "3c9f8ee7cda69771f6611fcb6b6986dc1a779935bbc1c7cc16b09501bbc1dba3"
+}

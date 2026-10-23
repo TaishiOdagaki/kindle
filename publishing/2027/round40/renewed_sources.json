@@ -1,0 +1,56 @@
+[
+  {
+    "file": "Schon1983.pdf",
+    "sha256": "e28267fb97073a8b6c0c17a1950a36b69955ca784ddaede82f6759ba8700907e",
+    "bytes": 28811364,
+    "scope": "Read printed61–62 primary text and rendered images; whole book not rereviewed",
+    "url": "https://www.socialworkerskills.eu/uploads/1/4/4/7/144711219/sch%C3%B6n_d._a.__1983_._the_reflective_practitioner.pdf",
+    "question": "Q_4_083",
+    "printed_pages": [
+      61,
+      62
+    ],
+    "pdf_pages_one_based": [
+      70,
+      71
+    ]
+  },
+  {
+    "file": "Keigo.pdf",
+    "sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+    "bytes": 613704,
+    "scope": "Read printed40 primary text and rendered image",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/keigo_tosin.pdf",
+    "question": "Q_M_055",
+    "printed_pages": [
+      40
+    ],
+    "pdf_pages_one_based": [
+      43
+    ]
+  },
+  {
+    "url": "https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-09-01.php",
+    "question": "Q_5_027",
+    "scope": "Official Japanese pronunciation teaching explanation",
+    "accessed": "2026-10-23"
+  },
+  {
+    "url": "https://newlearningonline.com/new-learning/chapter-8/reflexivity-towards-new-learning/vygotsky-on-the-zone-of-proximal-development",
+    "question": "Q_3_021",
+    "scope": "Primary author excerpt p86 reproduced on teaching site; not full book",
+    "accessed": "2026-10-23"
+  },
+  {
+    "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html",
+    "question": "Q_5_061",
+    "scope": "Japan Foundation grammar explanation",
+    "accessed": "2026-10-23"
+  },
+  {
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_00004.html",
+    "question": null,
+    "scope": "Only2026/R8 exam information found;2027 official guidance not confirmed",
+    "accessed": "2026-10-23"
+  }
+]

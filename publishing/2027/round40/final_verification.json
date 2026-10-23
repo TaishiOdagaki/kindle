@@ -1,0 +1,293 @@
+{
+  "questions": 500,
+  "word_epub_full_question_matches": 500,
+  "changed_question_ids": [
+    "Q_1_019",
+    "Q_2_012",
+    "Q_2_025",
+    "Q_2_026",
+    "Q_3_011",
+    "Q_3_014",
+    "Q_3_021",
+    "Q_3_040",
+    "Q_4_016",
+    "Q_4_050",
+    "Q_4_081",
+    "Q_4_083",
+    "Q_4_108",
+    "Q_4_109",
+    "Q_4_115",
+    "Q_5_027",
+    "Q_5_034",
+    "Q_5_059",
+    "Q_5_061",
+    "Q_M_055"
+  ],
+  "changed_questions": 20,
+  "keys_changed": 0,
+  "paragraphs": 7329,
+  "tables": 10,
+  "word_internal_links": 2059,
+  "word_broken_links": 0,
+  "whole_book_equal_normalized": true,
+  "whole_book_normalized_characters": 309932,
+  "epub": {
+    "questions": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "bookmarks": 1000,
+    "spine_documents": 55,
+    "xhtml_documents": 56,
+    "internal_hrefs": 2156,
+    "broken_hrefs": [],
+    "duplicate_ids": [],
+    "replacement_characters": 0,
+    "zip_crc_ok": true
+  },
+  "section_boundaries": [
+    {
+      "id": "nav-section-01",
+      "document": "EPUB/text/part001_s02.xhtml",
+      "text": "はじめに",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-02",
+      "document": "EPUB/text/part001_s03.xhtml",
+      "text": "本書の使い方",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-03",
+      "document": "EPUB/text/part001_s04.xhtml",
+      "text": "目次",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-04",
+      "document": "EPUB/text/part001_s05.xhtml",
+      "text": "第I部　基礎試験編（問題編）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-05",
+      "document": "EPUB/text/part001_s06.xhtml",
+      "text": "第1章　社会・文化・地域",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-06",
+      "document": "EPUB/text/part001_s07.xhtml",
+      "text": "第2章　言語と社会",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-07",
+      "document": "EPUB/text/part001_s08.xhtml",
+      "text": "第3章　言語と心理",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-08",
+      "document": "EPUB/text/part002_s02.xhtml",
+      "text": "第4章　言語と教育",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-09",
+      "document": "EPUB/text/part003_s02.xhtml",
+      "text": "第5章　言語",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-10",
+      "document": "EPUB/text/part004_s02.xhtml",
+      "text": "第II部　応用試験編（問題編）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-11",
+      "document": "EPUB/text/part004_s03.xhtml",
+      "text": "ケース1　初級クラスにおける直接法での位置表現の導入",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-12",
+      "document": "EPUB/text/part004_s04.xhtml",
+      "text": "ケース2　進学クラスにおけるニーズ分析からコースデザインへの展開",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-13",
+      "document": "EPUB/text/part005_s02.xhtml",
+      "text": "ケース3　会社のウチとソトに応じた待遇表現の指導",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-14",
+      "document": "EPUB/text/part005_s03.xhtml",
+      "text": "ケース4　多国籍クラスでの文化的な誤解への対応（架空事例）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-15",
+      "document": "EPUB/text/part005_s04.xhtml",
+      "text": "ケース5　読解授業におけるスキーマの活用",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-16",
+      "document": "EPUB/text/part005_s05.xhtml",
+      "text": "ケース6　スピーキングテストのルーブリック作成",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-17",
+      "document": "EPUB/text/part005_s06.xhtml",
+      "text": "ケース7　学習者の作文に見られる誤用の分析",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-18",
+      "document": "EPUB/text/part005_s07.xhtml",
+      "text": "ケース8　反転授業を用いた文型導入の試み",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-19",
+      "document": "EPUB/text/part005_s08.xhtml",
+      "text": "ケース9　JSL児童生徒への教科・日本語統合指導",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-20",
+      "document": "EPUB/text/part005_s09.xhtml",
+      "text": "ケース10　教材作成における著作物の利用",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-21",
+      "document": "EPUB/text/part005_s10.xhtml",
+      "text": "ケース11　教授法の理論的基盤を踏まえた授業設計の比較",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-22",
+      "document": "EPUB/text/part005_s11.xhtml",
+      "text": "ケース12　ポライトネス理論に基づく依頼場面の分析",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-23",
+      "document": "EPUB/text/part005_s12.xhtml",
+      "text": "ケース13　多文化クラスにおけるコンフリクト・マネジメントの実践（架空事例）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-24",
+      "document": "EPUB/text/part005_s13.xhtml",
+      "text": "ケース14　CLIL（内容言語統合型学習）を用いた授業実践",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-25",
+      "document": "EPUB/text/part005_s14.xhtml",
+      "text": "ケース15　学習ストラテジー指導による自律学習支援",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-26",
+      "document": "EPUB/text/part005_s15.xhtml",
+      "text": "第III部　実戦演習〈短縮版・75問〉（問題編）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-27",
+      "document": "EPUB/text/part005_s16.xhtml",
+      "text": "基礎試験（問題1〜60）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-28",
+      "document": "EPUB/text/part006_s02.xhtml",
+      "text": "応用試験・読解（問題61〜75）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-29",
+      "document": "EPUB/text/part006_s03.xhtml",
+      "text": "解答・解説編",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-30",
+      "document": "EPUB/text/part006_s04.xhtml",
+      "text": "早見表",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-31",
+      "document": "EPUB/text/part006_s05.xhtml",
+      "text": "第1章　社会・文化・地域　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-32",
+      "document": "EPUB/text/part007_s02.xhtml",
+      "text": "第2章　言語と社会　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-33",
+      "document": "EPUB/text/part007_s03.xhtml",
+      "text": "第3章　言語と心理　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-34",
+      "document": "EPUB/text/part008_s02.xhtml",
+      "text": "第4章　言語と教育　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-35",
+      "document": "EPUB/text/part010_s02.xhtml",
+      "text": "第5章　言語　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-36",
+      "document": "EPUB/text/part012_s02.xhtml",
+      "text": "応用試験編　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-37",
+      "document": "EPUB/text/part014_s02.xhtml",
+      "text": "実戦演習〈短縮版・75問〉　解説",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-38",
+      "document": "EPUB/text/part015_s02.xhtml",
+      "text": "出題範囲対応表",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-39",
+      "document": "EPUB/text/part015_s03.xhtml",
+      "text": "頻出用語集（50音順）",
+      "is_first_text": true
+    },
+    {
+      "id": "nav-section-40",
+      "document": "EPUB/text/part015_s04.xhtml",
+      "text": "あとがき",
+      "is_first_text": true
+    }
+  ],
+  "docx_sha256": "bb9545195f0b0ce94a3be99ad41ef82d01c1df75794cb58e30338c5ca9d7648d",
+  "epub_sha256": "3c9f8ee7cda69771f6611fcb6b6986dc1a779935bbc1c7cc16b09501bbc1dba3",
+  "fresh_independent_primary_audit_all500": false,
+  "publication_approved": false
+}
