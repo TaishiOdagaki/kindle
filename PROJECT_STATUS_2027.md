@@ -177,3 +177,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Ch1 Q4: correct 3, SSW1 living orientation and Japanese school guidance; based on previously consulted ISA SSW support list, source https://www.moj.go.jp/isa/policies/ssw/supportssw.html .
 - Verdict: all five keys and principal distinguishing option conditions consistent with cited sources. No manuscript edits. This is a focused five-question review, not a re-certification of 500 questions.
 - Next: other dated Q8/Q9/Q34/Q35 and associated explanations, plus large master full-field comparison and official EPUBCheck/Kindle display validation. W6 remains stopped/read-only. release_ready=false.
+
+## 2026-10-23: Round 27 primary-source review of Ch1 questions 8,9,34,35
+- Examined actual 2027 third DOCX at paragraph indices 97/105/284/291 and matched explanation headings at 3783/3790/3965/3972. Answer keys Q8=1, Q9=3, Q34=4, Q35=2.
+- Compared all 16 choice texts and four explanatory blocks to current official primary sources: BJT official score level https://www.kanken.or.jp/bjt/about/level_sample.html ; JLPT FAQ https://www.jlpt.jp/e/faq/ ; JASSO EJU Japanese scope and scores https://www.jasso.go.jp/ryugaku/eju/examinee/procedure/subject.html ; JASSO EJU equating https://www.jasso.go.jp/en/ryugaku/eju/about/score/index.html ; writing scoring https://www.jasso.go.jp/ryugaku/eju/about/score/writing.html ; ISA residence/work questions https://www.moj.go.jp/isa/applications/guide/kanri_qa.html.
+- Primary conclusions: BJT is scored 0-800/J5-J1+ not pass/fail; student permission and holiday 8h rule not unrestricted for dependent status; JLPT uses IRT scaled scores; EJU writing is independently rubric-scored, other Japanese test components are score-equated. No observed answer-key correction needed.
+- Scope caveat: full independent source substantiation of ACTFL OPI and JLPT expiration wording not finished in this batch. Treat as PARTIAL primary-source verification, not definitive 4-question approval; no text changed.
+- W6 read-only, current 2027 DOCX/EPUB academic master full field comparison and EPUBCheck/Kindle Previewer remain uncompleted. release_ready=false.
