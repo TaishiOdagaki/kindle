@@ -1,0 +1,93 @@
+{
+  "checkpoint": 248,
+  "date": "2026-10-24",
+  "parent": "98da1da18898aaaee695096793c2caf7321bba84",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "snapshot": {
+    "id": "Q_4_061",
+    "different_fields": [
+      "stem",
+      "option_1",
+      "option_2",
+      "option_3",
+      "option_4",
+      "explanation_1",
+      "explanation_2",
+      "explanation_3",
+      "explanation_4"
+    ],
+    "diffs": {
+      "stem": {
+        "github": "JALTの「Test Purposes」が説明する離散的項目と統合的項目の区別に合うものを一つ選べ。",
+        "library": "テスト項目の形式である「統合的テスト」と「離散的テスト」に関する記述として、最も適切なものはどれか。"
+      },
+      "option_1": {
+        "github": "統合的項目とは、単一の知識の一点だけを評価する項目である。",
+        "library": "統合的テストの代表例は、1文中の空欄に入る適切な助詞を1つ選ばせる4択問題（選択式問題）である。"
+      },
+      "option_2": {
+        "github": "統合的項目は、同時に複数の技能を使うことを求めない項目である。",
+        "library": "ディクテーション（聞き取り書き取り）やクローズ・テストは、離散的テストの典型例とされる。"
+      },
+      "option_3": {
+        "github": "同記事は、ディクテーションを、聞く技能も書く技能も使わない例として挙げる。",
+        "library": "離散的テストは、文脈の中で複数の言語技能や総合的な談話能力を同時に使用させる問題形式である。"
+      },
+      "option_4": {
+        "github": "離散的項目は知識の一点を評価しようとし、統合的項目は同時に複数の技能の使用を求めると説明される。",
+        "library": "離散的テストは、文法項目や特定の語彙など、単一の言語要素を個別に測定しようとする問題形式である。"
+      },
+      "explanation_1": {
+        "github": "同記事が離散的項目に与える説明と取り違えています。",
+        "library": "空欄に助詞を選ぶ問題は「離散的テスト」の代表例です。"
+      },
+      "explanation_2": {
+        "github": "同記事は複数の技能を同時に使うことを統合的項目の特徴として説明しています。",
+        "library": "ディクテーション（聴解・表記・文法理解の統合）や、文章中の定期的な空欄を文脈から推測して埋めるクローズ・テストは、「統合的テスト」の典型例です。"
+      },
+      "explanation_3": {
+        "github": "同記事は聞くことと書くことを用いる例としてディクテーションを挙げています。",
+        "library": "複数の言語技能や文脈理解、構造予測などを同時に使わせるのは「統合的テスト」です。"
+      },
+      "explanation_4": {
+        "github": "同記事の対比に合います。表面上の形式だけで、あらゆる課題の測定内容が同じだと決めるものではありません。",
+        "library": "離散的テストは、言語を細かな要素（個々の文法項目、語彙、音素など）に分解し、それぞれを独立して測定するテスト形式です（例：助詞の選択問題、発音識別問題）。"
+      }
+    }
+  },
+  "decision": {
+    "classification": "accept-github",
+    "checkpoint": 248,
+    "independent_answer": 4,
+    "source_ids": [
+      "S282"
+    ],
+    "option_verdicts": [
+      "誤：知識一点は離散的項目の説明",
+      "誤：同時の複数技能使用を統合的項目は求める",
+      "誤：ディクテーション例は聞く技能と書く技能を使用",
+      "正：同記事の両概念の対比に一致"
+    ],
+    "basis": "Gorsuch署名のJALT1997年1月記事82–88行に限定。表面の形式だけで全助詞選択・クローズの構成概念を一律分類しないGitHub稿採用。引用されたBrown/Davies原著全体の取得ではない。"
+  },
+  "sources": [
+    {
+      "id": "S282",
+      "url": "https://jalt-publications.org/tlt/articles/2090-test-purposes",
+      "author": "Greta Gorsuch",
+      "date": "January 1997",
+      "read": "Basic Testing Terminology、Web79–90行を本文取得・直接読了",
+      "scope": "記事自身の説明としての出題。引用先Brown1996/Davies1990原著全体や記事後半のNRT/CRT一般論を承認しない"
+    }
+  ],
+  "limitations": [
+    "Word編集0、統合稿未制作",
+    "本回両Word再取得なし。cp232で検証済み完全diff継承",
+    "changes.json本文空",
+    "C6完全同期・全頁・電子書籍最終検査未完了"
+  ],
+  "remaining": 296,
+  "next": "Q_4_062以降の未分類差分の根拠照合と統合反映"
+}
