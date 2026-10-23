@@ -65,3 +65,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - 28 edits: revised `after` text exists in current 2027 draft. 40 deletion records: old `before` passage absent. 1 interim change: CASE_O_07 record 49 `after` text absent, but record 50 uses record 49's after as its before, explicitly supersedes it, and record 50's after text exists in current text (included among 28). This is intentional sequential revision, NOT an omission.
 - Thus 69/69 historical supplemental records are accounted for by presence/deletion/supersession at text level; no new edit warranted. This is not independent scholarly correctness verification; pure matching doesn't validate case/explanation consistency or final whole-master equality.
 - Next: full academic master vs 2027 DOCX substantive comparison, 2027 claims, page rendering/EPUB QA. Do not replay earlier superseded versions. Publication still not approved.
+
+## 2026-10-23: 2027 edition title/section editorial fix
+- Checked 2027 second editorial Word for wording that implies full simulated exam. Five instances of `本番予想模擬試験〈短縮演習〉` occur in subtitle, contents, problem section and explanation heading despite frontmatter correctly explaining only 75 shorter exercises (60 basic, 15 applied reading, no listening).
+- Created 2027 third editorial Word in current session, replacing only these five instances with `実戦演習〈短縮版・75問〉`; source manuscript other 7,324 paragraphs unchanged. New SHA-256 `88e2c620374af6acd6fe6a78341351f7c1cd212a4ec38a3fbe71181ab5b81389`.
+- New working file: `2027_パーフェクト問題集_第3次編集稿_出版前確認.docx` (conversation attachment, NOT tracked in GitHub). Do not call it typeset/approved; no full visual render QA conducted yet.
+- Identified dated 2026 source claims at paragraph indices 70,98,106,113,120,155,285,292,3189,3785,3802,3975 etc. Preserve the cited dates until new official-source audit; do not silently rewrite historical question conditions as 2027 facts.
+- Academic-master full-field comparison, visual QA and EPUB publication QA still open. User KDP publication approval not given.
