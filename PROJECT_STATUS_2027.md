@@ -119,3 +119,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - The older claim 'official EPUBCheck passed' must not be made; epubcheck executable absent from local environment. Kindle Previewer not run.
 - Academic master full text still not retrievable through connector; no all-fields scholarly equality guarantee.
 - QA report locally created: /mnt/data/2027_第18次EPUB検査報告.json. No manuscript edits; release_ready=false. W6 remains stopped and read-only.
+
+## 2026-10-23: Round 19 EPUB main XHTML split
+- Input: `2027_パーフェクト問題集_目次改良版_未承認.epub` (large main XHTML 1,165,535 bytes).
+- Created `2027_パーフェクト問題集_分割検証版_未承認.epub`, SHA-256 `12ff0056561963eeaf8dc337f4e5bd5a3463210af96791f1466b350513f5064d` (current conversation artifact; NOT checked into GitHub).
+- Split main document into 15 EPUB XHTML files, max 107,256 uncompressed bytes. Rewrote internal fragment hrefs to correct new file, updated OPF manifest/spine, and EPUB nav.xhtml/NCX targets. Tested normalized full body text for byte-equivalent text after whitespace normalization; passed. Checked 2,099 local fragment references: 0 broken, ZIP CRC passed, TOC entries 41 link elements (includes an extra navigation link compared with previous 40 section entries).
+- This is structural transformation of the *existing* 2027 edition manuscript, not a scholarly edit. Official EPUBCheck and Kindle Previewer not run; do not represent as final. Canonical large W6 academic master remains unreadable; release_ready=false.
