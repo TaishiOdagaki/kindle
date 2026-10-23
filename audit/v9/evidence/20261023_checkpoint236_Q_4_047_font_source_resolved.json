@@ -1,0 +1,38 @@
+{
+  "checkpoint": 236,
+  "date": "2026-10-23",
+  "parent": "0f2eebc5e5938972bc16a3a0fbdefd3fe3c1a0af",
+  "id": "Q_4_047",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "source": {
+    "id": "S189",
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/pdf/92484001_01.pdf",
+    "bytes": 1430064,
+    "sha256": "548497460f13033d2bcb82a753e0d22612a71fcac1e5521cf6448c2225d31f54",
+    "page_count": 18,
+    "edition": "2020年8月",
+    "retrieval": "Web取得タイムアウト後、公式URLから直接バイト取得成功。本文抽出と印刷10頁レンダリング画像を直接目視。",
+    "verified_scope": "印刷5・7・10頁を再読。印刷8頁の簡潔化はcp235取得本文を利用。"
+  },
+  "resolved": "印刷10頁は漢字・ふりがな・行間の空きと、読みやすいフォントの使用を明記。解説2の具体記述に対応。",
+  "option_verdicts": [
+    "正：印刷7頁の整理・視覚情報・必要情報補足、10頁可読性への配慮",
+    "誤：印刷10頁の見やすさ・読みやすいフォントの方針と矛盾",
+    "誤：印刷7頁は必要時に不足情報を補う",
+    "誤：印刷5頁の能力に応じた柔軟調節、簡潔な文の方針と矛盾"
+  ],
+  "independent_answer": 1,
+  "explanations": "全4解説の対応をcp235本文と今回の追加取得で完了。効果実証や全教材に対する一律基準とはしない。",
+  "decision": "accept-github",
+  "word_edits": 0,
+  "classified": 190,
+  "unclassified": 310,
+  "publication": "hold",
+  "limitations": [
+    "今回両DOCXを再取得せずcp235の実本文・SHA確認を利用。",
+    "原稿統合・全頁QA・電子書籍検査未完。",
+    "今回の原資料画像確認は問題集の全頁QA件数に加算しない。"
+  ],
+  "next": "Q_4_048以降の未分類差異の照合と統合稿制作。"
+}
