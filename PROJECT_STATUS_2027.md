@@ -79,3 +79,11 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Existing DOCX a11y audit JSON reports high=0, medium=0, low=0; that doesn't certify factual or visual quality.
 - 146 page images exist from interrupted full rendering; full 373-page image-by-image visual review NOT completed. Do not claim final pass.
 - Academic master all-field comparison remains blocked by full source binary read. EPUBCheck/Kindle Previewer not done; release_ready=false.
+
+## 2026-10-23 EPUB candidate built from 2027 third DOCX
+- Source DOCX: 2027_パーフェクト問題集_第3次編集稿_出版前確認.docx.
+- Generated via pandoc: 2027_パーフェクト問題集_出版前検証候補.epub (current conversation artifact, not committed).
+- EPUB ZIP CRC inspection (`testzip`) passed. Parsed EPUB3 XHTML/nav: 2061 internal links, 0 unresolved destinations/anchor IDs.
+- Text scan shows revised `実戦演習〈短縮版・75問〉` appears 5 times, former `本番予想模擬試験` 0 times in main XHTML.
+- Pandoc emitted missing Japanese translation warning; EPUBCheck official tool not run, Kindle Previewer not run, all-page visual EPUB QA not run. Candidate is NOT final/publishing-approved.
+- Preserve previously confirmed 373-page DOCX mechanical QA and academic master block. Next: epubcheck and reader rendering, content equivalence, official 2027 policy updates. release_ready=false.
