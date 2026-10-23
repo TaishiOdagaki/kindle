@@ -59,3 +59,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Therefore at least these examples of the 69 supplemental edits are already included. **Do not reapply them.** This is spot verification only, not a 69/69 comparison or independent factual endorsement.
 - The full large academic_master_500_20261022.json could not be obtained through GitHub's text connector (empty content); the metadata QA is not an alternative to comparing manuscripts.
 - Next: compare remaining supplemental changes at field/paragraph level and record presence by ID, then verify academic master and final EPUB. No manuscript changes. Publication not approved.
+
+## 2026-10-23: all 69 supplemental edits reconciled against 2027 second editorial draft
+- Loaded all 69 records in audit/v9/academic_master_supplemental_edits_20261022.json, and all 21,095 lines of parsed 2027 second-edition DOCX (22 paged text reads). Compared normalized whitespace for each nonempty `after` and empty-after deletion candidates.
+- 28 edits: revised `after` text exists in current 2027 draft. 40 deletion records: old `before` passage absent. 1 interim change: CASE_O_07 record 49 `after` text absent, but record 50 uses record 49's after as its before, explicitly supersedes it, and record 50's after text exists in current text (included among 28). This is intentional sequential revision, NOT an omission.
+- Thus 69/69 historical supplemental records are accounted for by presence/deletion/supersession at text level; no new edit warranted. This is not independent scholarly correctness verification; pure matching doesn't validate case/explanation consistency or final whole-master equality.
+- Next: full academic master vs 2027 DOCX substantive comparison, 2027 claims, page rendering/EPUB QA. Do not replay earlier superseded versions. Publication still not approved.
