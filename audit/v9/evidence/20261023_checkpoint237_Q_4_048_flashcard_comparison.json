@@ -1,0 +1,46 @@
+{
+  "checkpoint": 237,
+  "date": "2026-10-23",
+  "parent": "28f199e53ccab3ccee8c431cf64c4905eba0cc94",
+  "id": "Q_4_048",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "performed": [
+    "GitHub最新HEAD一致確認",
+    "完全diff再取得と展開SHA確認",
+    "両稿の設問・4肢・4解説の9差分を直接読了",
+    "TKT公式用語集印刷17頁FlashcardとBritish Council Flashcards本文を直接照合"
+  ],
+  "sources": [
+    {
+      "id": "S183",
+      "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+      "scope": "印刷17頁 Flashcard、本文744–746行。文字・文・絵を含むカード、状況説明・物語・語彙等。"
+    },
+    {
+      "id": "S264",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/flashcards",
+      "scope": "本文70–77行。視覚資源としての定義、顔を識別する例、語彙以外の用途。"
+    }
+  ],
+  "option_verdicts": [
+    "正：人物・物の移動の識別という明示目的を満たす。矢印はこの問題の工夫例。",
+    "誤：今回必要な移動を判別できず、背景装飾だけでは目的に不適合。",
+    "誤：人物識別を妨げる条件で目的に不適合。文化表象一般の規則ではない。",
+    "誤：文字併用一律禁止はTKT定義に不適合。"
+  ],
+  "independent_answer": 1,
+  "explanations": "全4解説を同じ条件と定義へ対応。絵が常に一目で伝わる、文字が常に有害、授受の特定指導が必ず成功する等の効果主張を採用しない。",
+  "library_disposition": "旧稿の文字に関する一律説明や、全絵カードへ拡張する断定を保持しない。目的限定のGitHub稿採用。",
+  "limitations": [
+    "今回はDOCXを再取得せずcp232の両バイナリSHA検査・完全diffを利用。",
+    "Q_4_049は両稿を読んだが新規の一次資料全対応は未了、採用分類を追加しない。",
+    "Word統合・全頁・電子書籍検査未完。"
+  ],
+  "classified": 191,
+  "unclassified": 309,
+  "word_edits": 0,
+  "publication": "hold",
+  "next": "Q_4_049のS144・S147本文と全肢解説を対応し、未分類差異とケース統合を継続。"
+}
