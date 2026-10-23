@@ -45,3 +45,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Thus 2027 current editorial draft inherits the 2026 fifth-edited question corpus; it is NOT yet proven identical to a later W6 academic master.
 - Local independent comparison report: `/mnt/data/2027_第7次照合報告.md`.
 - Still pending: obtain full W6 master data, match question-level content and reconcile subsequent revisions; final EPUB and Kindle QA. Publishing not approved.
+
+## 2026-10-23: supplemental scholarly edits identified
+- GitHub academic_master_500_20261022.json remains unreadable via connector (empty content for whole/ranged read); metadata blob SHA c4252ee33ba264fee3aeb4033ebc25b7261a4094.
+- Successfully read `audit/v9/academic_master_supplemental_edits_20261022.json`: exactly 69 records. Field types: case_text, stem_continuation, glossary, table_cell. Includes CASE_O_01/03/05/07/10, CASE_MO_02/03, Q_3_029, Q_4_067, Q_5_008 and others. THESE ARE HISTORIC EDITS, not 69 confirmed omissions from the 2027 DOCX.
+- Read `audit/v9/evidence/20261022_academic_master_integrity_gate.json`: academic baseline 500 questions, 2000 option explanations, zero structural errors; 32 length-cue issues in this pre-publication academic baseline. Later 2026 edited lineage reportedly addressed those 32, thus do not report 32 outstanding problems for the 2027 draft without live rerun.
+- Crucial next task: check the 69 `after` edits against the 2027 second DOCX, distinguish present/absent/nontrivial contextual conflict, and avoid duplicate insertion. If academic master cannot be read, use these supplemental records and independently validated 2026 release as a partial controlled crosscheck; state coverage precisely. No automatic source-substance approval.
