@@ -100,3 +100,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Root cause in this local execution: pandoc EPUB export under POSIX locale. Re-exported source DOCX with LANG=C.UTF-8 LC_ALL=C.UTF-8; supplied explicit Japanese title, author, lang metadata.
 - New file `2027_パーフェクト問題集_EPUB修正版_未承認.epub` in conversation working container. SHA256 `4211ef572e970bdd59ae043ae21ce65379d6b66ee20f99a109913f872b1b1cc2`. EPUB ZIP passed CRC test; three XHTML files; 2064 local hyperlink destinations checked, zero missing; U+FFFD count 0; Japanese text present. OPF dc:title and dc:creator verified correct.
 - This is an important technical fix but EPUBCheck official validation, Kindle Previewer, full scholarly content equivalence and 2027 rules audit still outstanding. Release remains NOT APPROVED.
+
+## 2026-10-23 16th EPUB inspection and navigation repair
+- Compared current 2027 third editorial Word (7321 nonempty paragraphs) to current UTF-8-corrected EPUB main XHTML (7322 rendered blocks): all 7321 Word paragraphs longer than 15 non-whitespace characters were found within the normalized EPUB text; no absent paragraphs detected. This is text-presence QA, not exact styled/page equivalence.
+- EPUB main text has zero U+FFFD replacement glyphs; ZIP CRC valid; main XHTML 2059 local fragment links, zero broken targets.
+- Discovered critical navigation usability defect: epub nav.xhtml table of contents linked to just one entry. Generated improved EPUB `2027_パーフェクト問題集_目次改良版_未承認.epub` by adding anchors to 40 main section and chapter headings. Rebuilt both EPUB3 nav.xhtml and EPUB2 toc.ncx for 40 entries. All 40 navigation targets exist. ZIP CRC valid. Output SHA256 `50c8fe812ba6c328f10cd2f9dc1666b19280c6b366ac20e1436cbcb949ab4b8e`.
+- `2027_第15次EPUB本文照合報告.json` and `2027_第16次目次改善報告.json` generated in current working container. New EPUB is not in GitHub, is a candidate; it supersedes previous candidate for further testing.
+- Official EPUBCheck and Kindle Previewer not available/run; academic full text comparison and full ebook visual inspection remain outstanding. No new scholarly edits. Release ready FALSE, no KDP publish.
