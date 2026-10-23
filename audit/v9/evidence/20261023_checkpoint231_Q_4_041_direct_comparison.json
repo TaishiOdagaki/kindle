@@ -1,0 +1,34 @@
+{
+  "checkpoint": 231,
+  "date": "2026-10-23",
+  "source_head": "59d01867eea303ed99f7957a7c44c8ac8b06db4c",
+  "parent": "a6238531b1bf19c5f3692441268fc569af528655",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "id": "Q_4_041",
+  "performed": [
+    "実行環境復旧。GitHub gzipを分割転送、展開し完全diff SHA256一致確認",
+    "両稿の設問・全4肢・全4解説9項目の実本文を比較",
+    "changes_batch86.jsonの9 after本文と照合",
+    "著者公開原著の本文を再取得し全肢と解説対応を直接確認"
+  ],
+  "source_url": "https://www.sdkrashen.com/content/books/principles_and_practice.pdf",
+  "mapping": {
+    "stem": "1982単著の仮説内容という射程を明示、共同著書全体の承認ではない",
+    "option_1": "印刷21–22、31–32頁。必要inputと低filter促進。支持。",
+    "option_2": "印刷22頁。準備が整って発話が現れる。input不要・強制だけは矛盾。",
+    "option_3": "印刷10・83頁。学習と習得の区別、自動転換否定。",
+    "option_4": "印刷15–16頁。時間・形式注意・規則知識は必要条件、十分条件でない。"
+  },
+  "independent_answer": 1,
+  "decision": "accept-github",
+  "library_disposition": "正答番号は一致。原著の射程と条件を明示したGitHub本文を優先。ライブラリの全般的効果・誤り訂正説明を無条件転記しない。",
+  "limitations": [
+    "今回両DOCXバイナリの新規取得は未実施。既存cp220バイナリ抽出完全diffに依拠",
+    "Word修正0、統合版未制作、全頁QA・EPUB検査未完",
+    "過去184分類が全て今回の深度で再照合された意味ではない"
+  ],
+  "remaining": 315,
+  "next": "環境復旧を使い両DOCX取得と実本文抽出を再開。未分類の次問へ進み、新規統合稿制作。"
+}
