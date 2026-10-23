@@ -125,3 +125,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Created `2027_パーフェクト問題集_分割検証版_未承認.epub`, SHA-256 `12ff0056561963eeaf8dc337f4e5bd5a3463210af96791f1466b350513f5064d` (current conversation artifact; NOT checked into GitHub).
 - Split main document into 15 EPUB XHTML files, max 107,256 uncompressed bytes. Rewrote internal fragment hrefs to correct new file, updated OPF manifest/spine, and EPUB nav.xhtml/NCX targets. Tested normalized full body text for byte-equivalent text after whitespace normalization; passed. Checked 2,099 local fragment references: 0 broken, ZIP CRC passed, TOC entries 41 link elements (includes an extra navigation link compared with previous 40 section entries).
 - This is structural transformation of the *existing* 2027 edition manuscript, not a scholarly edit. Official EPUBCheck and Kindle Previewer not run; do not represent as final. Canonical large W6 academic master remains unreadable; release_ready=false.
+
+## 2026-10-23 round 20 EPUB manifest/spine/nav audit
+- Directly checked split EPUB `2027_パーフェクト問題集_分割検証版_未承認.epub`, SHA256 12ff0056561963eeaf8dc337f4e5bd5a3463210af96791f1466b350513f5064d.
+- Parsed package OPF / all 17 XHTML documents, validated 19 manifest items, 16 spine entries, 41 nav links, unique identifiers and EPUB3 modified date; 2117 relative href references resolved, 0 missing resources or fragment anchors, duplicate XHTML IDs 0, ZIP CRC pass, language ja-JP, U+FFFD 0.
+- Warning: no embedded cover image. Reader/KDP cover workflow must be checked separately. Official epubcheck not installed or run; Kindle Previewer not run.
+- Machine-readable output `/mnt/data/2027_第20次EPUBパッケージ監査.json` locally generated (not pushed to GitHub). Scholarly 500-field master comparison still outstanding; no new content edits, release_ready=false.
