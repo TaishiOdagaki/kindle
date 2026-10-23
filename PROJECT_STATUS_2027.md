@@ -112,3 +112,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Reopened `2027_パーフェクト問題集_目次改良版_未承認.epub` from current container. ZIP CRC pass, mimetype `application/epub+zip` stored without compression, OPF `dc:title` Japanese correct, `dc:creator` Japanese correct, `dc:language=ja-JP`. XHTML title and main chapter, navigation XHTML, OPF and NCX are XML well-formed. The CSS file was not parsed as XML (not expected).
 - Estimated remaining active labor if academic canonical source obtainable and no significant factual issues: ~3-8 hours across full-field comparison (1-3), substantive diffs (1-3), official EPUB/Kindle validation (1-2). This is a contingent planning estimate, not guaranteed completion time or background work.
 - Remaining hard blocker: full 500-question scholarly canonical JSON binary unavailable through GitHub connector; EPUBCheck and Kindle Previewer not run, full page visual QA unfinished. No substantive fixes applied. User approves no publication yet.
+
+## 2026-10-23: EPUB structural inspection round 18
+- Current EPUB candidate SHA256 50c8fe812ba6c328f10cd2f9dc1666b19280c6b366ac20e1436cbcb949ab4b8e.
+- Reparsed 3 XHTML docs and OPF. No duplicate XHTML id values. No cover-image manifest item and no image elements. EPUB has one large main content XHTML (1,165,535 bytes uncompressed; 582,695 decoded Python characters), which is not by itself evidence of invalid EPUB, but device rendering requires inspection.
+- The older claim 'official EPUBCheck passed' must not be made; epubcheck executable absent from local environment. Kindle Previewer not run.
+- Academic master full text still not retrievable through connector; no all-fields scholarly equality guarantee.
+- QA report locally created: /mnt/data/2027_第18次EPUB検査報告.json. No manuscript edits; release_ready=false. W6 remains stopped and read-only.
