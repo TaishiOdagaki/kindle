@@ -51,3 +51,11 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Successfully read `audit/v9/academic_master_supplemental_edits_20261022.json`: exactly 69 records. Field types: case_text, stem_continuation, glossary, table_cell. Includes CASE_O_01/03/05/07/10, CASE_MO_02/03, Q_3_029, Q_4_067, Q_5_008 and others. THESE ARE HISTORIC EDITS, not 69 confirmed omissions from the 2027 DOCX.
 - Read `audit/v9/evidence/20261022_academic_master_integrity_gate.json`: academic baseline 500 questions, 2000 option explanations, zero structural errors; 32 length-cue issues in this pre-publication academic baseline. Later 2026 edited lineage reportedly addressed those 32, thus do not report 32 outstanding problems for the 2027 draft without live rerun.
 - Crucial next task: check the 69 `after` edits against the 2027 second DOCX, distinguish present/absent/nontrivial contextual conflict, and avoid duplicate insertion. If academic master cannot be read, use these supplemental records and independently validated 2026 release as a partial controlled crosscheck; state coverage precisely. No automatic source-substance approval.
+
+## 2026-10-23 supplemental edit spot verification
+- Tested three source edits using exact string matching against 2027 second editorial DOCX (library file ID file_00000000da488211a71b772308dbf734). Case O01 revised initial scenario sentence found at parsed text line 6854; superseded old version not found as exact phrase.
+- Case O03 revised heading 'ケース3　会社のウチとソトに応じた待遇表現の指導' found at line 7061; superseded heading not found.
+- Case O03 revised explanation example '部長の田中は、このように申しておりました' found at line 18032.
+- Therefore at least these examples of the 69 supplemental edits are already included. **Do not reapply them.** This is spot verification only, not a 69/69 comparison or independent factual endorsement.
+- The full large academic_master_500_20261022.json could not be obtained through GitHub's text connector (empty content); the metadata QA is not an alternative to comparing manuscripts.
+- Next: compare remaining supplemental changes at field/paragraph level and record presence by ID, then verify academic master and final EPUB. No manuscript changes. Publication not approved.
