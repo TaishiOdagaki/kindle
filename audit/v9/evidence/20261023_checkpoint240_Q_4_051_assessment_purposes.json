@@ -1,0 +1,67 @@
+{
+  "checkpoint": 240,
+  "date": "2026-10-23",
+  "parent": "bb6540d74dc989914ba5bff50da9ae31ab5220e1",
+  "question_id": "Q_4_051",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "decision": {
+    "classification": "accept-github",
+    "checkpoint": 240,
+    "independent_answer": 4,
+    "source_ids": [
+      "S183",
+      "S179"
+    ],
+    "basis": "TKT印刷4–5・47頁、CEFR9.3.1印刷183–184頁、9.3.5印刷186頁を本文取得。評価を時期だけでなく目的で区別。総括結果の診断・形成的利用も許容するGitHub稿採用。JLPTの未照合例を移植しない。",
+    "option_verdicts": [
+      "誤：配置と診断の目的を総括と呼んでいる",
+      "誤：特定教材の達成は到達度であり熟達度の説明ではない",
+      "誤：強み弱みの特定を否定し診断の目的と矛盾",
+      "正：情報を学習支援・指導改善へ戻す利用目的が形成評価に対応"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S183",
+      "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+      "locations": "印刷4–5頁 Assessment、47頁 Test",
+      "coverage": "診断の強み弱みと授業計画、形成のフィードバックと指導変更、総括の成績、配置のクラス分け、到達度と熟達度の区別"
+    },
+    {
+      "id": "S179",
+      "url": "https://rm.coe.int/16802fc1bf",
+      "locations": "9.3.1、9.3.5",
+      "coverage": "到達度と熟達度の区別、形成目的、総括結果の診断・形成的利用"
+    }
+  ],
+  "comparison": {
+    "changed_fields": [
+      "option_3",
+      "explanation_1",
+      "explanation_2",
+      "explanation_3",
+      "explanation_4"
+    ],
+    "unchanged_fields": [
+      "stem",
+      "option_1",
+      "option_2",
+      "option_4"
+    ],
+    "library_basis": "cp232で両DOCX実取得・完全diff照合済み。本回はGitHub DOCXを再取得してSHAと全文を確認。ライブラリ実バイナリの再取得はしていない。",
+    "adoption": "終了時だから診断不能と誤解させない限定と、強み弱みの特定を明確に否定する誤答を採用。"
+  },
+  "limitations": [
+    "Word編集0、統合稿未制作",
+    "C6スレッドとの完全同期は未確認",
+    "既存193件すべてを本回で再照合したものではない",
+    "表示検査・EPUB・Kindle最終検査は未完了"
+  ],
+  "remaining": {
+    "unclassified_differing": 306,
+    "source_pdf_unviewed_pages": 69
+  },
+  "next": "Q_4_052以降の未分類差分と根拠本文を照合し、採否を統合稿へ反映する。"
+}
