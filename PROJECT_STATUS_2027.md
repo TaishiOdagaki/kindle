@@ -72,3 +72,10 @@ Release: NOT APPROVED. Do not publish without user approval.
 - New working file: `2027_パーフェクト問題集_第3次編集稿_出版前確認.docx` (conversation attachment, NOT tracked in GitHub). Do not call it typeset/approved; no full visual render QA conducted yet.
 - Identified dated 2026 source claims at paragraph indices 70,98,106,113,120,155,285,292,3189,3785,3802,3975 etc. Preserve the cited dates until new official-source audit; do not silently rewrite historical question conditions as 2027 facts.
 - Academic-master full-field comparison, visual QA and EPUB publication QA still open. User KDP publication approval not given.
+
+## 2026-10-23 visual-render continuity / PDF mechanical QA
+- Current third 2027 editorial DOCX converted to A4 PDF: 373 pages, PDF stored in working session as `2027_render_check/2027_パーフェクト問題集_第3次編集稿_出版前確認.pdf` (not committed).
+- Examined text blocks on all PDF pages with PyMuPDF: 373/373 contain text; zero blocks outside page bounds. No empty pages. Short-text pages 171–182 are answer-key tables, not missing text, as confirmed by PDF extraction.
+- Existing DOCX a11y audit JSON reports high=0, medium=0, low=0; that doesn't certify factual or visual quality.
+- 146 page images exist from interrupted full rendering; full 373-page image-by-image visual review NOT completed. Do not claim final pass.
+- Academic master all-field comparison remains blocked by full source binary read. EPUBCheck/Kindle Previewer not done; release_ready=false.
