@@ -1,0 +1,38 @@
+{
+  "checkpoint": 234,
+  "date": "2026-10-23",
+  "parent": "e99dd0cac33b6cc99171c307c41f149976276a72",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "id": "Q_4_046",
+  "compared_fields": [
+    "stem",
+    "option_1",
+    "option_2",
+    "option_3",
+    "option_4",
+    "explanation_1",
+    "explanation_2",
+    "explanation_3",
+    "explanation_4"
+  ],
+  "retrieval": "GitHub完全diff gzipを再取得し展開SHA一致確認。両DOCX新規再取得は今回はなし、cp232の実取得一致検査を利用。",
+  "primary_url": "https://www.teachingenglish.org.uk/comment/1307",
+  "author": "Jane Willis（本文署名確認）",
+  "source_scope": "本人の記事78–136行。コメントやコメント日時は根拠・刊年にしない。",
+  "option_verdicts": [
+    "非正答：準備課題を前へ移動＝再配列。本文84/109–114行。",
+    "非正答：既存準備をtask/report間へ移動＝再配列。115–120行。",
+    "非正答：文法をタスク後へ移動＝再配列。105–108/121–122行。",
+    "正答4：部数増加だけで順序不変。設問の操作的定義に非該当。"
+  ],
+  "explanation_review": "全4解説は上記の対応と同じ。文法を後置する全教材での普遍的優越や効果保証は承認しない。",
+  "adoption": "accept-github",
+  "library_disposition": "簡素化・加除・修正等の分類体系全体の根拠を取得したとせず、本文取得済みの再配列事例を問うGitHub稿を採用。",
+  "word_edits": 0,
+  "classified": 189,
+  "unclassified": 311,
+  "publication": "hold",
+  "next": "Q_4_047の共通肢4を含む実本文と2020公式ガイドラインの取得・照合。統合Word、ケース、全頁・電子書籍検査も未完。"
+}
