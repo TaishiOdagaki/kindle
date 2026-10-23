@@ -1,0 +1,51 @@
+{
+  "checkpoint": 232,
+  "date": "2026-10-23",
+  "parent": "b3758df19c9845b70d4e830670a927fabaf853df",
+  "source_head": "59d01867eea303ed99f7957a7c44c8ac8b06db4c",
+  "github_docx_sha256": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+  "library_docx_sha256": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a",
+  "full_diff_sha256": "d66ac5ccd19cbee348223a27013cf866d70da0b035abc29260618ce19fbee497",
+  "actual_binary_retrieval": {
+    "github": true,
+    "library": true,
+    "library_id": "libfile_89d653ac2c98819197ded26411d8f164",
+    "both_hashes_match": true
+  },
+  "diff_revalidation": {
+    "checked_fields_per_side": 4143,
+    "raw_string_mismatch": 28,
+    "all_raw_mismatch_are_whitespace_only": true,
+    "normalized_mismatch": 0,
+    "excluded": "case_context 26差分は別途検証が必要。非差分フィールド全数の再検査ではない。学術承認を自動付与していない。"
+  },
+  "question_review": {
+    "id": "Q_4_042",
+    "actual_diff_fields": 9,
+    "source_url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+    "scope": "2006年著者公開冊子の定義を架空活動へ適用。初級日本語への効果実証ではない。",
+    "stem": "意味中心・言語練習だけでない成果と判断基準を明示",
+    "option_verdicts": [
+      "誤。音声再現だけという明示条件が意味中心の課題に不適合。ALM一律分類を採用しない。",
+      "正。役ごとの未知情報を交換し到着条件に合う案を決定。情報差は印刷18頁、タスク特徴は31頁。",
+      "誤。例文提出だけという明示条件。文法関与自体を排除しない。31頁pedagogical taskは特定文法・語彙の関与を認める。",
+      "誤。許可判断をせず文型再現だけという明示条件。許可活動一般の排除ではない。"
+    ],
+    "explanations": "1～4全てを同じ条件・印刷18/31頁の本文へ対応確認",
+    "independent_answer": 2,
+    "decision": "accept-github",
+    "library_disposition": "情報差と成果を明示し、ALM一律分類や文型使用だけによる除外を避けたGitHub稿を採用。"
+  },
+  "word_edits": 0,
+  "classified_count": 186,
+  "unclassified_difference_count": 314,
+  "publication": "hold",
+  "remaining": [
+    "314差異の採否分類",
+    "ケース文脈26差分の独立再検証",
+    "新しい統合Wordへの反映",
+    "統合版の全500問と全頁・EPUB/Kindle検査",
+    "C6の後続改訂版との同期は別途必要"
+  ],
+  "next": "バイナリ復旧方式を再利用し、Q_4_043以降の根拠本文照合と統合を続ける。"
+}
