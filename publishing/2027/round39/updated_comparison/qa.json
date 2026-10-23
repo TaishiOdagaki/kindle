@@ -1,0 +1,31 @@
+{
+  "questions": 500,
+  "options": 2000,
+  "explanations": 2000,
+  "bookmarks": 1000,
+  "spine_documents": 56,
+  "xhtml_documents": 57,
+  "internal_hrefs": 2157,
+  "broken_hrefs": [],
+  "duplicate_ids": [],
+  "replacement_characters": 0,
+  "zip_crc_ok": true,
+  "sha256": "d133ac2192dd9286a2917dd9e1c53e5345ccc9fa8b82cdf5e25033dc183ee935",
+  "academic_sha256": "d6ad39206dcea6efbfd3b1201b5e6eb34b65341c3834e3d5219f1fe390d106ad",
+  "exact_matches": {
+    "stem": 461,
+    "options": 457,
+    "answer": 500,
+    "explanations": 487
+  },
+  "normalized_matches": {
+    "stem": 471,
+    "options": 457,
+    "answer": 500,
+    "explanations": 487
+  },
+  "fully_identical": 434,
+  "full_field_comparison_completed": true,
+  "scholarly_correctness_certified": false,
+  "release_ready": false
+}

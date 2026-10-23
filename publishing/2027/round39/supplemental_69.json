@@ -1,0 +1,487 @@
+[
+  {
+    "record": 1,
+    "id": "CASE_O_01",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 2,
+    "id": "CASE_O_01",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 3,
+    "id": "CASE_O_01",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 4,
+    "id": "CASE_O_03",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 5,
+    "id": "CASE_O_03",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 6,
+    "id": "CASE_O_03",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 7,
+    "id": "Q_4_067",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 8,
+    "id": "Q_4_067",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 9,
+    "id": "Q_5_008",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 10,
+    "id": "Q_5_008",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 11,
+    "id": "Q_5_008",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 12,
+    "id": "Q_4_069",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 13,
+    "id": "Q_4_069",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 14,
+    "id": "Q_4_069",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 15,
+    "id": "Q_4_069",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 16,
+    "id": "Q_4_079",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 17,
+    "id": "Q_4_079",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 18,
+    "id": "Q_4_079",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 19,
+    "id": "Q_4_079",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 20,
+    "id": "Q_5_085",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 21,
+    "id": "Q_5_085",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 22,
+    "id": "Q_5_085",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 23,
+    "id": "Q_5_085",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 24,
+    "id": "CASE_O_07",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 25,
+    "id": "CASE_O_05",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 26,
+    "id": "CASE_O_05",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 27,
+    "id": "CASE_O_05",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 28,
+    "id": "Q_5_010",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 29,
+    "id": "Q_4_039",
+    "field": "case_text",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 30,
+    "id": "Q_4_039",
+    "field": "case_text",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 31,
+    "id": "Q_4_017",
+    "field": "case_text",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 32,
+    "id": "Q_4_017",
+    "field": "case_text",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 33,
+    "id": "Q_4_017",
+    "field": "case_text",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 34,
+    "id": "Q_4_014",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 35,
+    "id": "Q_4_025",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 36,
+    "id": "Q_4_025",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 37,
+    "id": "Q_4_025",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 38,
+    "id": "Q_4_025",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 39,
+    "id": "Q_3_029",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 40,
+    "id": "Q_2_017",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 41,
+    "id": "Q_2_017",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 42,
+    "id": "Q_2_017",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 43,
+    "id": "Q_2_017",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 44,
+    "id": "Q_4_006",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 45,
+    "id": "CASE_O_10",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 46,
+    "id": "CASE_MO_03",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 47,
+    "id": "CASE_MO_02",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 48,
+    "id": "Q_4_004",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 49,
+    "id": "CASE_O_07",
+    "field": "case_text",
+    "state": "superseded",
+    "superseded_by": [
+      50
+    ]
+  },
+  {
+    "record": 50,
+    "id": "CASE_O_07",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 51,
+    "id": "CASE_O_07",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 52,
+    "id": "Q_4_103",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 53,
+    "id": "Q_4_103",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 54,
+    "id": "Q_4_103",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 55,
+    "id": "Q_4_103",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 56,
+    "id": "Q_3_034",
+    "field": "stem_continuation",
+    "state": "before_absent",
+    "superseded_by": []
+  },
+  {
+    "record": 57,
+    "id": "CASE4",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 58,
+    "id": "CASE4",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 59,
+    "id": "CASE13",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 60,
+    "id": "CASE13",
+    "field": "case_text",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 61,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 62,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 63,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 64,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 65,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 66,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 67,
+    "id": "APPENDIX_GLOSSARY",
+    "field": "glossary",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 68,
+    "id": "APPENDIX_MAP",
+    "field": "table_cell",
+    "state": "after_present",
+    "superseded_by": []
+  },
+  {
+    "record": 69,
+    "id": "APPENDIX_MAP",
+    "field": "table_cell",
+    "state": "after_present",
+    "superseded_by": []
+  }
+]

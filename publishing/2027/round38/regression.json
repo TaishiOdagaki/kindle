@@ -1,0 +1,96 @@
+{
+  "baseline_docx_epub_full_field_match": 500,
+  "updated_docx_epub_full_field_match": 500,
+  "changed_questions": 14,
+  "question_total": 500,
+  "answer_keys_changed": 0,
+  "changed_word_paragraphs": 110,
+  "word_paragraphs": 7329,
+  "tables": 10,
+  "word_internal_links": 2059,
+  "word_missing_destinations": 0,
+  "major_page_starts": [
+    {
+      "paragraph": 3,
+      "text": "はじめに"
+    },
+    {
+      "paragraph": 11,
+      "text": "本書の使い方"
+    },
+    {
+      "paragraph": 20,
+      "text": "目次"
+    },
+    {
+      "paragraph": 37,
+      "text": "第I部　基礎試験編（問題編）"
+    },
+    {
+      "paragraph": 2601,
+      "text": "第II部　応用試験編（問題編）"
+    },
+    {
+      "paragraph": 3178,
+      "text": "第III部　実戦演習〈短縮版・75問〉（問題編）"
+    },
+    {
+      "paragraph": 3716,
+      "text": "解答・解説編"
+    },
+    {
+      "paragraph": 7255,
+      "text": "出題範囲対応表"
+    },
+    {
+      "paragraph": 7257,
+      "text": "頻出用語集（50音順）"
+    },
+    {
+      "paragraph": 7324,
+      "text": "あとがき"
+    }
+  ],
+  "epub_modified_documents": [
+    "EPUB/text/part001_s06.xhtml",
+    "EPUB/text/part001_s07.xhtml",
+    "EPUB/text/part002_s01.xhtml",
+    "EPUB/text/part002_s02.xhtml",
+    "EPUB/text/part003_s01.xhtml",
+    "EPUB/text/part004_s01.xhtml",
+    "EPUB/text/part006_s05.xhtml",
+    "EPUB/text/part007_s02.xhtml",
+    "EPUB/text/part008_s01.xhtml",
+    "EPUB/text/part008_s02.xhtml",
+    "EPUB/text/part009_s01.xhtml",
+    "EPUB/text/part010_s01.xhtml",
+    "EPUB/text/part011_s01.xhtml"
+  ],
+  "epub_qa": {
+    "questions": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "bookmarks": 1000,
+    "spine_documents": 56,
+    "xhtml_documents": 57,
+    "internal_hrefs": 2157,
+    "broken_hrefs": [],
+    "duplicate_ids": [],
+    "replacement_characters": 0,
+    "zip_crc_ok": true
+  },
+  "docx_sha256": "5d79e870977c77774e8aa7aa4f74a6e2dea4ffed1211fd0ebd1c89f6d9122826",
+  "epub_sha256": "d133ac2192dd9286a2917dd9e1c53e5345ccc9fa8b82cdf5e25033dc183ee935",
+  "full_visual_qa_completed": false,
+  "epubcheck_completed": true,
+  "kindle_previewer_completed": false,
+  "release_ready": false,
+  "epubcheck_version": "5.4.0",
+  "epubcheck_errors": 0,
+  "epubcheck_warnings": 0,
+  "kindle_previewer_conversion_completed": true,
+  "kindle_previewer_automated_quality_checks_completed": true,
+  "kindle_previewer_quality_issues": 0,
+  "kindle_previewer_gui_visual_qa_completed": false,
+  "cover_notice": "W14016: Cover not specified"
+}

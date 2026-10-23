@@ -1,0 +1,208 @@
+{
+  "sections": [
+    {
+      "id": "nav-section-01",
+      "file": "EPUB/text/part001_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-02",
+      "file": "EPUB/text/part001_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-03",
+      "file": "EPUB/text/part001_s04.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-04",
+      "file": "EPUB/text/part001_s05.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-05",
+      "file": "EPUB/text/part001_s06.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-06",
+      "file": "EPUB/text/part001_s07.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-07",
+      "file": "EPUB/text/part001_s08.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-08",
+      "file": "EPUB/text/part002_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-09",
+      "file": "EPUB/text/part003_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-10",
+      "file": "EPUB/text/part004_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-11",
+      "file": "EPUB/text/part004_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-12",
+      "file": "EPUB/text/part004_s04.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-13",
+      "file": "EPUB/text/part005_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-14",
+      "file": "EPUB/text/part005_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-15",
+      "file": "EPUB/text/part005_s04.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-16",
+      "file": "EPUB/text/part005_s05.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-17",
+      "file": "EPUB/text/part005_s06.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-18",
+      "file": "EPUB/text/part005_s07.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-19",
+      "file": "EPUB/text/part005_s08.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-20",
+      "file": "EPUB/text/part005_s09.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-21",
+      "file": "EPUB/text/part005_s10.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-22",
+      "file": "EPUB/text/part005_s11.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-23",
+      "file": "EPUB/text/part005_s12.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-24",
+      "file": "EPUB/text/part005_s13.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-25",
+      "file": "EPUB/text/part005_s14.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-26",
+      "file": "EPUB/text/part005_s15.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-27",
+      "file": "EPUB/text/part005_s16.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-28",
+      "file": "EPUB/text/part006_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-29",
+      "file": "EPUB/text/part006_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-30",
+      "file": "EPUB/text/part006_s04.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-31",
+      "file": "EPUB/text/part006_s05.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-32",
+      "file": "EPUB/text/part007_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-33",
+      "file": "EPUB/text/part007_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-34",
+      "file": "EPUB/text/part008_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-35",
+      "file": "EPUB/text/part010_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-36",
+      "file": "EPUB/text/part012_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-37",
+      "file": "EPUB/text/part014_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-38",
+      "file": "EPUB/text/part015_s02.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-39",
+      "file": "EPUB/text/part015_s03.xhtml",
+      "is_first_nonempty_body_element": true
+    },
+    {
+      "id": "nav-section-40",
+      "file": "EPUB/text/part015_s04.xhtml",
+      "is_first_nonempty_body_element": true
+    }
+  ],
+  "count": 40,
+  "all_distinct_xhtml": true,
+  "all_at_document_start": true,
+  "reader_visual_pagination_completed": false
+}

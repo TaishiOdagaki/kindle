@@ -1,0 +1,34 @@
+{
+  "all_500_full_fields_compared": true,
+  "baseline_differing_questions": 56,
+  "stem_difference_classification": {
+    "retain_documented_supplemental_deletion": 16,
+    "whitespace_only": 10,
+    "retain_2027_schon_round33_revision_pending_primary_text_freeze": 1
+  },
+  "supplemental_records": {
+    "after_present": 28,
+    "before_absent": 40,
+    "superseded": 1
+  },
+  "before_all500": {
+    "total": 500,
+    "strictly_longest": 262,
+    "gap_at_least_10": 99,
+    "gap_at_least_20": 0,
+    "exact_duplicate_stems": [],
+    "duplicate_options": []
+  },
+  "after_all500": {
+    "total": 500,
+    "strictly_longest": 254,
+    "gap_at_least_10": 88,
+    "gap_at_least_20": 2,
+    "exact_duplicate_stems": [],
+    "duplicate_options": []
+  },
+  "newly_source_checked_questions": 12,
+  "qualification_restorations": 2,
+  "other_questions_not_newly_scholarly_reaudited": 486,
+  "release_ready": false
+}

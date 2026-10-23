@@ -1,0 +1,83 @@
+[
+  {
+    "id": "S17",
+    "url": "https://www.ling.ohio-state.edu/research/groups/lacqueys/readings/horowitz.pdf",
+    "sha256": "e85136eb93b48731380bceaf79134f372d19ec01f5e72a4f0306ae36387b0edb",
+    "bytes": 1192906,
+    "retrieved": true
+  },
+  {
+    "id": "S139",
+    "url": "https://whoville.ucsd.edu/PDFs/384_Squire_%20NeurobiolLearnMem2004.pdf",
+    "sha256": "659135fbc52c30d02d64fffad6635bd2adcda34ba56fe1432990ea0b9c46661e",
+    "bytes": 321426,
+    "retrieved": true
+  },
+  {
+    "id": "S141",
+    "url": "https://www.jfstandard.jpf.go.jp/pdf/limited/3_JFS_guidebook.pdf",
+    "sha256": "f4bdf26375fff8267e1e37e5dfb481fd1f2ebcd5eb94b7f029c9268af00a9ba7",
+    "bytes": 4386991,
+    "retrieved": true
+  },
+  {
+    "id": "S142",
+    "url": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+    "sha256": "78182353e8cd877535f6f3c8967da52d4d3af64725146c08606d38825941ac61",
+    "bytes": 1912044,
+    "retrieved": true
+  },
+  {
+    "id": "S67",
+    "url": "https://www2.ninjal.ac.jp/takoni/DGG/09_modarityi.pdf",
+    "sha256": "de7e099ccc0e484fe60a68df13896c2576301297ef45414d668a5340ccbdd3c0",
+    "bytes": 413848,
+    "retrieved": true
+  },
+  {
+    "id": "S20",
+    "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/94303201_01.pdf",
+    "sha256": "8eade8ea202ed69bac25b779028360b25702513d6ada6e433059dc73ce0e0077",
+    "bytes": 615641,
+    "retrieved": true
+  },
+  {
+    "id": "S134",
+    "url": "https://web.stanford.edu/~eckert/PDF/schegloffOpeningUpClosings.pdf",
+    "sha256": "1be2095f975542414f520165800656b4604862ed61b5784440a87b3a520e8fd3",
+    "bytes": 12018708,
+    "retrieved": true
+  },
+  {
+    "id": "S245",
+    "url": "https://pure.mpg.de/rest/items/item_64421/component/file_2225570/content",
+    "sha256": "245b523833cb57ba1e7f73df30b0489fdfdb4f42073b8d82c8ada7f59311c32e",
+    "bytes": 1374070,
+    "retrieved": true
+  },
+  {
+    "id": "S135",
+    "url": "https://www.conversationanalysis.org/wp-content/uploads/2019/06/09_Pomerantz_Agreeing___disagreeing_with_assessments.pdf",
+    "sha256": "7a7aed0ae73e239f68d6033cfd204b2c5f25325bdc0ebe4b6d506af10d3d74be",
+    "bytes": 3831882,
+    "retrieved": true,
+    "retrieval_note": "urllib 406; successful retry using curl browser User-Agent; PDF5 printed64–65 image inspected"
+  },
+  {
+    "id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+    "bytes": 1162784,
+    "retrieved": true
+  },
+  {
+    "id": "S125",
+    "url": "https://castle.eiu.edu/~scienced/5660/options/Op-4-R-4.html",
+    "scope": "unpaginated university transcription of Rowe1987; opening definitions read through web"
+  },
+  {
+    "id": "S186",
+    "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/kyoiku/coordinator_kenshu/",
+    "scope": "historical training overview; five roles read through web"
+  }
+]

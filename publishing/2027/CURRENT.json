@@ -1,0 +1,10 @@
+{
+  "current_docx": "round38/2027_round38_review.docx",
+  "current_epub": "round38/2027_round38_review.epub",
+  "docx_sha256": "5d79e870977c77774e8aa7aa4f74a6e2dea4ffed1211fd0ebd1c89f6d9122826",
+  "epub_sha256": "d133ac2192dd9286a2917dd9e1c53e5345ccc9fa8b82cdf5e25033dc183ee935",
+  "questions": 500,
+  "release_ready": false,
+  "publication_approved": false,
+  "full_visual_qa_completed": false
+}

@@ -1,0 +1,908 @@
+{
+  "pages": 466,
+  "render_font_environment": "explicit fontconfig with macOS Hiragino fallback; original document has no Normal style/font defaults; pagination not comparable to historical 373-page rendering",
+  "empty_pages": [],
+  "pages_without_japanese": [],
+  "out_of_page_characters": 0,
+  "replacement_pages": [],
+  "affected_paragraphs": [
+    {
+      "paragraph": 177,
+      "text_found": true,
+      "pages": [
+        13
+      ]
+    },
+    {
+      "paragraph": 178,
+      "text_found": true,
+      "pages": [
+        13
+      ]
+    },
+    {
+      "paragraph": 179,
+      "text_found": true,
+      "pages": [
+        13
+      ]
+    },
+    {
+      "paragraph": 180,
+      "text_found": true,
+      "pages": [
+        13
+      ]
+    },
+    {
+      "paragraph": 181,
+      "text_found": true,
+      "pages": [
+        13
+      ]
+    },
+    {
+      "paragraph": 527,
+      "text_found": true,
+      "pages": [
+        35
+      ]
+    },
+    {
+      "paragraph": 532,
+      "text_found": true,
+      "pages": [
+        36
+      ]
+    },
+    {
+      "paragraph": 533,
+      "text_found": true,
+      "pages": [
+        36
+      ]
+    },
+    {
+      "paragraph": 534,
+      "text_found": true,
+      "pages": [
+        36
+      ]
+    },
+    {
+      "paragraph": 535,
+      "text_found": true,
+      "pages": [
+        36
+      ]
+    },
+    {
+      "paragraph": 536,
+      "text_found": true,
+      "pages": [
+        36
+      ]
+    },
+    {
+      "paragraph": 691,
+      "text_found": true,
+      "pages": [
+        44
+      ]
+    },
+    {
+      "paragraph": 711,
+      "text_found": true,
+      "pages": [
+        45
+      ]
+    },
+    {
+      "paragraph": 712,
+      "text_found": true,
+      "pages": [
+        45
+      ]
+    },
+    {
+      "paragraph": 713,
+      "text_found": true,
+      "pages": [
+        45
+      ]
+    },
+    {
+      "paragraph": 714,
+      "text_found": true,
+      "pages": [
+        45
+      ]
+    },
+    {
+      "paragraph": 715,
+      "text_found": true,
+      "pages": [
+        45
+      ]
+    },
+    {
+      "paragraph": 897,
+      "text_found": true,
+      "pages": [
+        56
+      ]
+    },
+    {
+      "paragraph": 898,
+      "text_found": true,
+      "pages": [
+        56
+      ]
+    },
+    {
+      "paragraph": 899,
+      "text_found": true,
+      "pages": [
+        56
+      ]
+    },
+    {
+      "paragraph": 900,
+      "text_found": true,
+      "pages": [
+        56
+      ]
+    },
+    {
+      "paragraph": 901,
+      "text_found": true,
+      "pages": [
+        56
+      ]
+    },
+    {
+      "paragraph": 1037,
+      "text_found": true,
+      "pages": [
+        64
+      ]
+    },
+    {
+      "paragraph": 1038,
+      "text_found": true,
+      "pages": [
+        64
+      ]
+    },
+    {
+      "paragraph": 1039,
+      "text_found": true,
+      "pages": [
+        64
+      ]
+    },
+    {
+      "paragraph": 1040,
+      "text_found": true,
+      "pages": [
+        64
+      ]
+    },
+    {
+      "paragraph": 1041,
+      "text_found": true,
+      "pages": [
+        64
+      ]
+    },
+    {
+      "paragraph": 1278,
+      "text_found": true,
+      "pages": [
+        80
+      ]
+    },
+    {
+      "paragraph": 1279,
+      "text_found": true,
+      "pages": [
+        80
+      ]
+    },
+    {
+      "paragraph": 1280,
+      "text_found": true,
+      "pages": [
+        80
+      ]
+    },
+    {
+      "paragraph": 1281,
+      "text_found": true,
+      "pages": [
+        80
+      ]
+    },
+    {
+      "paragraph": 1282,
+      "text_found": true,
+      "pages": [
+        80
+      ]
+    },
+    {
+      "paragraph": 1499,
+      "text_found": true,
+      "pages": [
+        92
+      ]
+    },
+    {
+      "paragraph": 1500,
+      "text_found": true,
+      "pages": [
+        92
+      ]
+    },
+    {
+      "paragraph": 1501,
+      "text_found": true,
+      "pages": [
+        92
+      ]
+    },
+    {
+      "paragraph": 1502,
+      "text_found": true,
+      "pages": [
+        92
+      ]
+    },
+    {
+      "paragraph": 1503,
+      "text_found": true,
+      "pages": [
+        92
+      ]
+    },
+    {
+      "paragraph": 1692,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1693,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1694,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1695,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1696,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1699,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1700,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1701,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1702,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1703,
+      "text_found": true,
+      "pages": [
+        103
+      ]
+    },
+    {
+      "paragraph": 1742,
+      "text_found": true,
+      "pages": [
+        105
+      ]
+    },
+    {
+      "paragraph": 1743,
+      "text_found": true,
+      "pages": [
+        105
+      ]
+    },
+    {
+      "paragraph": 1744,
+      "text_found": true,
+      "pages": [
+        105
+      ]
+    },
+    {
+      "paragraph": 1745,
+      "text_found": true,
+      "pages": [
+        105
+      ]
+    },
+    {
+      "paragraph": 1746,
+      "text_found": true,
+      "pages": [
+        105
+      ]
+    },
+    {
+      "paragraph": 2086,
+      "text_found": true,
+      "pages": [
+        123
+      ]
+    },
+    {
+      "paragraph": 2087,
+      "text_found": true,
+      "pages": [
+        123
+      ]
+    },
+    {
+      "paragraph": 2088,
+      "text_found": true,
+      "pages": [
+        123
+      ]
+    },
+    {
+      "paragraph": 2089,
+      "text_found": true,
+      "pages": [
+        123
+      ]
+    },
+    {
+      "paragraph": 2090,
+      "text_found": true,
+      "pages": [
+        123
+      ]
+    },
+    {
+      "paragraph": 2263,
+      "text_found": true,
+      "pages": [
+        131
+      ]
+    },
+    {
+      "paragraph": 2264,
+      "text_found": true,
+      "pages": [
+        131
+      ]
+    },
+    {
+      "paragraph": 2265,
+      "text_found": true,
+      "pages": [
+        131
+      ]
+    },
+    {
+      "paragraph": 2266,
+      "text_found": true,
+      "pages": [
+        131
+      ]
+    },
+    {
+      "paragraph": 2267,
+      "text_found": true,
+      "pages": [
+        131
+      ]
+    },
+    {
+      "paragraph": 3862,
+      "text_found": true,
+      "pages": [
+        231
+      ]
+    },
+    {
+      "paragraph": 3863,
+      "text_found": true,
+      "pages": [
+        231
+      ]
+    },
+    {
+      "paragraph": 3864,
+      "text_found": true,
+      "pages": [
+        231
+      ]
+    },
+    {
+      "paragraph": 3865,
+      "text_found": true,
+      "pages": [
+        231
+      ]
+    },
+    {
+      "paragraph": 4199,
+      "text_found": true,
+      "pages": [
+        254
+      ]
+    },
+    {
+      "paragraph": 4200,
+      "text_found": true,
+      "pages": [
+        254
+      ]
+    },
+    {
+      "paragraph": 4201,
+      "text_found": true,
+      "pages": [
+        254
+      ]
+    },
+    {
+      "paragraph": 4202,
+      "text_found": true,
+      "pages": [
+        254
+      ]
+    },
+    {
+      "paragraph": 4368,
+      "text_found": true,
+      "pages": [
+        266
+      ]
+    },
+    {
+      "paragraph": 4369,
+      "text_found": true,
+      "pages": [
+        266
+      ]
+    },
+    {
+      "paragraph": 4370,
+      "text_found": true,
+      "pages": [
+        266
+      ]
+    },
+    {
+      "paragraph": 4371,
+      "text_found": true,
+      "pages": [
+        266
+      ]
+    },
+    {
+      "paragraph": 4550,
+      "text_found": true,
+      "pages": [
+        279
+      ]
+    },
+    {
+      "paragraph": 4551,
+      "text_found": true,
+      "pages": [
+        279
+      ]
+    },
+    {
+      "paragraph": 4552,
+      "text_found": true,
+      "pages": [
+        279
+      ]
+    },
+    {
+      "paragraph": 4553,
+      "text_found": true,
+      "pages": [
+        279
+      ]
+    },
+    {
+      "paragraph": 4670,
+      "text_found": true,
+      "pages": [
+        287
+      ]
+    },
+    {
+      "paragraph": 4671,
+      "text_found": true,
+      "pages": [
+        287
+      ]
+    },
+    {
+      "paragraph": 4672,
+      "text_found": true,
+      "pages": [
+        287
+      ]
+    },
+    {
+      "paragraph": 4673,
+      "text_found": true,
+      "pages": [
+        287
+      ]
+    },
+    {
+      "paragraph": 4908,
+      "text_found": true,
+      "pages": [
+        304
+      ]
+    },
+    {
+      "paragraph": 4909,
+      "text_found": true,
+      "pages": [
+        304
+      ]
+    },
+    {
+      "paragraph": 4910,
+      "text_found": true,
+      "pages": [
+        304
+      ]
+    },
+    {
+      "paragraph": 4911,
+      "text_found": true,
+      "pages": [
+        304
+      ]
+    },
+    {
+      "paragraph": 5125,
+      "text_found": true,
+      "pages": [
+        320
+      ]
+    },
+    {
+      "paragraph": 5126,
+      "text_found": true,
+      "pages": [
+        320
+      ]
+    },
+    {
+      "paragraph": 5127,
+      "text_found": true,
+      "pages": [
+        320
+      ]
+    },
+    {
+      "paragraph": 5128,
+      "text_found": true,
+      "pages": [
+        320
+      ]
+    },
+    {
+      "paragraph": 5314,
+      "text_found": true,
+      "pages": [
+        333
+      ]
+    },
+    {
+      "paragraph": 5315,
+      "text_found": true,
+      "pages": [
+        333
+      ]
+    },
+    {
+      "paragraph": 5316,
+      "text_found": true,
+      "pages": [
+        333
+      ]
+    },
+    {
+      "paragraph": 5317,
+      "text_found": true,
+      "pages": [
+        333
+      ]
+    },
+    {
+      "paragraph": 5321,
+      "text_found": true,
+      "pages": [
+        334
+      ]
+    },
+    {
+      "paragraph": 5322,
+      "text_found": true,
+      "pages": [
+        334
+      ]
+    },
+    {
+      "paragraph": 5323,
+      "text_found": true,
+      "pages": [
+        334
+      ]
+    },
+    {
+      "paragraph": 5324,
+      "text_found": true,
+      "pages": [
+        334
+      ]
+    },
+    {
+      "paragraph": 5363,
+      "text_found": true,
+      "pages": [
+        337
+      ]
+    },
+    {
+      "paragraph": 5364,
+      "text_found": true,
+      "pages": [
+        337
+      ]
+    },
+    {
+      "paragraph": 5365,
+      "text_found": true,
+      "pages": [
+        337
+      ]
+    },
+    {
+      "paragraph": 5366,
+      "text_found": true,
+      "pages": [
+        337
+      ]
+    },
+    {
+      "paragraph": 5686,
+      "text_found": true,
+      "pages": [
+        357
+      ]
+    },
+    {
+      "paragraph": 5687,
+      "text_found": true,
+      "pages": [
+        357
+      ]
+    },
+    {
+      "paragraph": 5688,
+      "text_found": true,
+      "pages": [
+        357
+      ]
+    },
+    {
+      "paragraph": 5689,
+      "text_found": true,
+      "pages": [
+        357
+      ]
+    },
+    {
+      "paragraph": 5861,
+      "text_found": true,
+      "pages": [
+        368
+      ]
+    },
+    {
+      "paragraph": 5862,
+      "text_found": true,
+      "pages": [
+        368
+      ]
+    },
+    {
+      "paragraph": 5863,
+      "text_found": true,
+      "pages": [
+        368
+      ]
+    },
+    {
+      "paragraph": 5864,
+      "text_found": true,
+      "pages": [
+        368
+      ]
+    }
+  ],
+  "affected_pages": [
+    13,
+    35,
+    36,
+    44,
+    45,
+    56,
+    64,
+    80,
+    92,
+    103,
+    105,
+    123,
+    131,
+    231,
+    254,
+    266,
+    279,
+    287,
+    304,
+    320,
+    333,
+    334,
+    337,
+    357,
+    368
+  ],
+  "major_sections": [
+    {
+      "heading": "はじめに",
+      "page_starts": [
+        2
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "本書の使い方",
+      "page_starts": [
+        3
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "目次",
+      "page_starts": [
+        4
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "第I部　基礎試験編（問題編）",
+      "page_starts": [
+        5
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "第II部　応用試験編（問題編）",
+      "page_starts": [
+        150
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "第III部　実戦演習〈短縮版・75問〉（問題編）",
+      "page_starts": [
+        181
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "解答・解説編",
+      "page_starts": [
+        208
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "出題範囲対応表",
+      "page_starts": [
+        461
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "頻出用語集（50音順）",
+      "page_starts": [
+        462
+      ],
+      "word_page_break_before": true
+    },
+    {
+      "heading": "あとがき",
+      "page_starts": [
+        466
+      ],
+      "word_page_break_before": true
+    }
+  ],
+  "full_page_visual_qa_completed": false,
+  "visually_inspected_pages": [
+    13,
+    35,
+    36,
+    44,
+    45,
+    56,
+    64,
+    80,
+    92,
+    103,
+    105,
+    123,
+    131,
+    231,
+    254,
+    266,
+    279,
+    287,
+    304,
+    320,
+    333,
+    334,
+    337,
+    357,
+    368
+  ],
+  "changed_page_visual_result": "no clipping/overlap/missing Japanese observed on all 25 affected pages; complete 466-page visual review remains open"
+}

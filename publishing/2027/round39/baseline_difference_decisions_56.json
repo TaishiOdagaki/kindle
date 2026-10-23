@@ -1,0 +1,857 @@
+[
+  {
+    "id": "Q_1_024",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "日本語教育と教員養成のために設けられ、語学部には台湾人に日本語を教える国語学科と、日本人に台湾語を教える土語学科が置かれた。",
+            "baseline": "日本語教育と教員養成を目的とし、語学部の国語学科では台湾人に日本語を、土語学科では日本人に台湾語を教えた。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_1_029",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "国語審議会など四つの審議会等の機能を整理・統合し、2001年1月6日付けで文部科学省に文化審議会が設置された。国語分科会は国語の改善と普及に関する事項を調査審議する。",
+            "baseline": "国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_2_009",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "言語的少数民族が存在する国において、当該少数民族に属する者が集団の他の構成員とともに自己の言語を使用する権利は、否定されない。",
+            "baseline": "言語的少数民族に属する者は、同じ集団の人々とともに自己の言語を使用する権利を否定されない。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_2_012",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "受け手や場面に応じて、言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」が示され、必要に応じて意味の説明も付ける。",
+            "baseline": "相手や場面に応じて言い換えや説明を工夫する。「インフォームドコンセント」には「納得診療」「説明と同意」を示す。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_2_017",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          40,
+          41,
+          42,
+          43
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_2_023",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      },
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "「参る」は学習者側の動作を聞き手に丁重に述べる謙譲語Ⅱであり、「ご覧になる」は先生の動作を立てる尊敬語である。依頼の適切さは、これらの形式だけでなく、相手の負担や場面も踏まえて考える。",
+            "baseline": "「参る」は謙譲語Ⅱ、「ご覧になる」は尊敬語である。依頼の適切さには形式だけでなく、相手の負担や場面も関わる。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_2_025",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "尊敬語は行為者などを、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為などを話や文章の相手に丁重に述べ、丁寧語はその相手に丁寧に述べる。",
+            "baseline": "尊敬語は行為者を、謙譲語Ⅰは行為の向かう先を立てる。謙譲語Ⅱは自分側の行為を相手に丁重に、丁寧語は相手に丁寧に述べる。",
+            "documented_text_present": false,
+            "restored_in_round38": true
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_2_035",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_3_004",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "食後に代金を払う店しか経験のない学習者が、飲食店では必ず食後に払うものだと考えていた。食前に会計を済ませる店の物語を読み、語句や文の意味は分かったが、支払いの順序に戸惑った。",
+            "baseline": "食後払いの店しか知らない学習者が、食前払いの店を描いた文章を読み、語句は理解できても会計の順序に戸惑った。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_3_011",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "短期貯蔵は、感覚登録器から選ばれた情報と長期貯蔵からの情報を受け取り、リハーサルは限られた情報の保持を維持する制御過程の一つである。",
+            "baseline": "短期貯蔵は感覚登録器と長期貯蔵から情報を受け取り、リハーサルは限られた情報を保持する制御過程の一つである。",
+            "documented_text_present": false,
+            "restored_in_round38": true
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_3_017",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "日本語使用歴15年の学習者について、同じ意味・文脈で目標言語規範と異なる特定の助詞パターンが、複数年の会話記録で繰り返し確認された。",
+            "baseline": "同じ学習者の特定の助詞の誤用が、同じ意味・文脈の複数年にわたる会話記録で繰り返し確認された。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_3_021",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "独力で問題を解決できる実際の発達水準と、成人の指導や自分より有能な仲間との協働で解決できる潜在的な発達水準との間を指す。",
+            "baseline": "独力で解ける実際の発達水準と、成人や有能な仲間の支援で解ける潜在的発達水準との間を指す。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_3_029",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          39
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_3_034",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          56
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_3_039",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "将来の自己の指針となる二つの要素に加え、教師やカリキュラム、学習者集団、成功経験など、現在の学習環境・経験に関わる「L2学習経験」が含まれる。",
+            "baseline": "将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_3_041",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_4_004",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          48
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_006",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          44
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_012",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_4_014",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          34
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_017",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          31,
+          32,
+          33
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_025",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          35,
+          36,
+          37,
+          38
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_039",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          29,
+          30
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_067",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          7,
+          8
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_069",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_072",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "ある形式が一定期間残ることは観察できても、それが一時的な停滞か永久的な化石化かをどう判断するかは、別に検討すべき問題である。",
+            "baseline": "一定期間続く形式が、一時的な停滞か永久的な化石化かは、別に検討する必要がある。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_4_079",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_083",
+    "fields": {
+      "stem": {
+        "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+      },
+      "options": {
+        "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+      },
+      "explanations": {
+        "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+      }
+    }
+  },
+  {
+    "id": "Q_4_086",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_4_089",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      },
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "扱う問いと結論を整理し、読書傾向についての主張を支える資料の出所・調査方法・対象範囲を確かめ、根拠と自分の考察を区別して書き直す。",
+            "baseline": "問いと結論を整理し、読書傾向に関する資料の出所・調査法・対象を確かめ、根拠と自分の考察を分けて書く。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_4_094",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "話さずにカードゲームを行い、勝者が別の卓へ移って対戦を続けた。後の振り返りで、言語や文化の違いと、違いに直面したときの感情について話し合った。",
+            "baseline": "無言でカードゲームを行い、勝者が別卓へ移動した後、言語や文化の違いと、その際の感情を話し合った。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_4_103",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          52,
+          53,
+          54,
+          55
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_4_110",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_4_114",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_4_125",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "第32条第1項は公表された著作物を対象とし、公正な慣行と引用目的上正当な範囲を求める。引用して複製する場合は第48条の出所表示も必要となる。",
+            "baseline": "第32条は公表著作物について公正な慣行と引用目的上正当な範囲を要求し、複製して引用する際は第48条の出所表示も求める。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_008",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          9,
+          10,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_5_010",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          28
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_5_015",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "「見る」はグループ2で「る」を取って「ない」を付け、「切る」はグループ1で辞書形末尾のuをaに変えて「ない」を付ける。",
+            "baseline": "「見る」はグループ2で「る」を取り「ない」を付け、「切る」はグループ1で「切らない」と活用する。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_027",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "アクセントは単語レベルの音の高さの変化、イントネーションは文レベルの音の高さの変化であり、イントネーションは文の意味や感情の表現に関わる。",
+            "baseline": "アクセントは語、イントネーションは文の高低変化に関わり、後者は意味や感情にも影響する。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_028",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "日本語の「し」はseaのような[si]ではなくsheに近いが、唇を丸めすぎないよう注意させ、モデル音声を用いて調音と聞き分けを練習する。",
+            "baseline": "日本語の「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_061",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "様態の「〜そうだ」には、現状から判断して今後起こる可能性を述べる用法があり、伝聞の「〜そうだ」は聞いたり読んだりした情報を伝える用法である。",
+            "baseline": "様態の「そうだ」は現状からの予測、伝聞の「そうだ」は聞いたり読んだりした情報を表す。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_079",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "ネガティブ・フェイスは自分の行為を他者に妨げられたくないという欲求、ポジティブ・フェイスは自分の欲求が少なくとも一部の他者にとって望ましいものであってほしいという欲求である。",
+            "baseline": "ネガティブ・フェイスは行為を妨げられたくない欲求、ポジティブ・フェイスは自分の欲求を一部の他者にも望ましく思われたい欲求である。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_084",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "他の格率との衝突も協調の拒否もなく、聞き手を欺こうとしていないあからさまな不遵守では、協調原理との両立を考える推論が会話的含意を生むことがある。",
+            "baseline": "格率の衝突・協調拒否・欺きによらない、あからさまな格率の不遵守は会話的含意を生みうる。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_085",
+    "fields": {
+      "stem": {
+        "decision": "retain_documented_supplemental_deletion",
+        "supplemental_records": [
+          20,
+          21,
+          22,
+          23
+        ]
+      }
+    }
+  },
+  {
+    "id": "Q_5_092",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "注意・作動記憶の容量に限りがあるという前提で、他の条件が同じなら、ある側面への注意が他の側面の遂行を低下させる可能性を考える。",
+            "baseline": "注意・作動記憶には限りがあり、ほかの条件が同じなら、一側面への注意が別の側面の遂行を下げうる。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_094",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      }
+    }
+  },
+  {
+    "id": "Q_5_100",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "依頼は聞き手の将来の行為に圧力をかけるため主として聞き手のネガティブ・フェイスを脅かし、謝罪は過去のFTAを悔いることを示すため話し手自身のポジティブ・フェイスを直接傷つける。",
+            "baseline": "依頼は聞き手のネガティブ・フェイスを、謝罪は話し手自身のポジティブ・フェイスを脅かす。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_5_101",
+    "fields": {
+      "stem": {
+        "decision": "whitespace_only"
+      },
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "Aさんはパソコンの種類を尋ねる質問に答え、Bさんは使いやすさを尋ねる質問へ進んでいる。この抜粋だけでAさんの会話への協力姿勢が不足しているとは断定できない。",
+            "baseline": "Aはパソコンの種類に答え、Bは使いやすさを尋ねている。この抜粋だけではAの協力姿勢の不足を判断できない。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_O_030",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "学校で利用目的・必要な許可・保管方法を確認した上で発話の記録を残し、共通基準に沿って複数の教師が再確認できるようにする",
+            "baseline": "利用目的・必要な許可・保管方法を確認して発話を記録し、共通基準で複数の教師が再確認する。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_O_031",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "「ています」には過去の経験や記録を述べる用法もあるため、来日前のことだという理由だけで誤用と断定せず、意図や文脈を確かめる。",
+            "baseline": "「ています」は過去の経験も表すため、来日前の学習を述べたというだけで誤用とは断定せず、意図や文脈を確認する。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_O_063",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 2,
+            "academic": "早い決定を優先するか、全員の納得まで話し合うかという、本人たちが述べた重視点の違い",
+            "baseline": "多数決で早く決めたいか、全員の納得まで話し合いたいかという重視点の違い。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_M_002",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "来日を希望するインドネシア・フィリピン人の看護師・介護福祉士候補者を対象に、約6か月の初級〜中級程度の日本語教育を実施すると紹介されている。",
+            "baseline": "インドネシア・フィリピン人の看護師・介護福祉士候補者に、約6か月の初級〜中級日本語教育を行う。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_M_007",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 3,
+            "academic": "言語的マイノリティーを言語面で支え、ホスト社会との橋渡しをする。法律相談では専門家の助言を正確に通訳することも課題となる。",
+            "baseline": "言語的少数者を言語面で支えて受け入れ社会と橋渡しする。法律相談では専門家の助言を正確に通訳する。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_M_032",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 1,
+            "academic": "授業後に何がうまくいき、何がうまくいかなかったかを振り返り、活動に見積もった時間の見直しを検討することは、今後の授業改善を目指す省察の一例となる。",
+            "baseline": "授業後に活動の成否を振り返り、時間配分を見直して今後の授業改善につなげる。",
+            "documented_text_present": true,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_M_055",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "基本的には、自分側の行為について相手側又は第三者の許可を受け、そのことで恩恵を受けるという事実や気持ちがある場合に使われる。",
+            "baseline": "基本的には自分側の行為について、相手側や第三者の許可を受け、そのことで恩恵を受ける場合に使う。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  },
+  {
+    "id": "Q_MO_005",
+    "fields": {
+      "options": {
+        "decision": "review_historical_shortening",
+        "details": [
+          {
+            "option": 4,
+            "academic": "学習者の語彙知識や音声理解の状況を確かめ、場面の知識を活性化する活動と、音声中の語を認識する活動の双方を検討する。",
+            "baseline": "語彙や聴解の実態に応じ、場面の知識を生かす活動と音声中の語を認識する活動を検討する。",
+            "documented_text_present": false,
+            "restored_in_round38": false
+          }
+        ],
+        "scholarly_reendorsement": false
+      }
+    }
+  }
+]
