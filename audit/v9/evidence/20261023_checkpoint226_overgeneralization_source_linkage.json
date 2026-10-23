@@ -1,0 +1,39 @@
+{
+  "checkpoint": 226,
+  "date": "2026-10-23",
+  "release_ready": false,
+  "question_ids": [
+    "Q_3_019",
+    "Q_3_020"
+  ],
+  "new_primary_documents_read": 1,
+  "word_edits": 0,
+  "classified_count": 182,
+  "unclassified_questions_with_difference": 318,
+  "source_review": {
+    "id": "S29",
+    "url": "https://files.eric.ed.gov/fulltext/ED037721.pdf",
+    "author": "Jack C. Richards",
+    "year": 1970,
+    "edition": "TESOL発表稿 ED037721、38 PDF頁",
+    "location": "PDF9頁（0始まり8）、§3.1、本文192–204行",
+    "finding": "既知の目標言語構造の経験をもとに非目標構造を作るという説明を確認。現行設問が学習した規則を明示する構成と対応。日本語例自体は著者の実例ではなく監査者の作例。",
+    "limitation": "§3.2の規則制約無視との区分もあるため、あらゆる例外誤用が唯一の分類名を持つとの普遍主張には用いない。"
+  },
+  "source_attempt": {
+    "id": "S28",
+    "url": "https://ba.jpf.go.jp/wp-content/uploads/2022/03/Akiko3_bunpoo382002.pdf",
+    "result": "本文再取得2回ともタイムアウト。sources.mdに既存照合記録はあるが新規取得とは扱わない。",
+    "existing_locations": "テ形PDF1頁、タ形PDF14頁"
+  },
+  "history_attempt": {
+    "path": "audit/v9/changes.json",
+    "blob": "a07ea1091845d61333f1923cc44c6b1773d652e7",
+    "result": "fetch_file utf-8/base64のいずれもcontent空。Git blob GETも取得エラー。変更履歴照合済みとは扱わない。"
+  },
+  "next": "S28本文と該当changesの取得を復旧し、GitHub現行全肢・全解説と最終変更の一致を確認。再開2問はpending-evidence-linkageを維持。",
+  "manuscript_shas": {
+    "github": "aea97d09d9cefebbd4c2220c4728e8c01adaecfd97e832fc0963c053ac2d32ee",
+    "library": "c19bc83a517805bb1235ce2e124b127e5b6c6219f37691bf61d4c1cbb6e73e6a"
+  }
+}
