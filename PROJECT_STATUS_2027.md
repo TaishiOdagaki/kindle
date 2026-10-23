@@ -87,3 +87,9 @@ Release: NOT APPROVED. Do not publish without user approval.
 - Text scan shows revised `実戦演習〈短縮版・75問〉` appears 5 times, former `本番予想模擬試験` 0 times in main XHTML.
 - Pandoc emitted missing Japanese translation warning; EPUBCheck official tool not run, Kindle Previewer not run, all-page visual EPUB QA not run. Candidate is NOT final/publishing-approved.
 - Preserve previously confirmed 373-page DOCX mechanical QA and academic master block. Next: epubcheck and reader rendering, content equivalence, official 2027 policy updates. release_ready=false.
+
+## 2026-10-23 live academic answer-key comparison (all 500)
+- Extracted exactly 500 `正解：[1-4]` labels from 2027 third editorial DOCX (`2027_パーフェクト問題集_第3次編集稿_出版前確認.docx`) using python-docx.
+- Read complete GitHub `audit/v9/decisions.json` (500 records). The raw JSON insertion order is not the book order; an unsorted comparison gave 302 *spurious* mismatches. Therefore mapped by canonical category and numeric question ID: Q_1 41, Q_2 36, Q_3 41, Q_4 127, Q_5 105, Q_O 75, Q_M 60, Q_MO 15, totaling 500.
+- After canonical question-ID ordering: 500/500 answer numbers equal independent_answer, **0 mismatches**. This is a new direct check of the 2027 third DOCX against the W6 decisions, not reliance on old 2026 reports.
+- Important limitation: matching answer numbers cannot establish that stem text, answer option text or explanations match. Full scholarly master still not completely available via connector; these gates remain open. No manuscript modifications in this comparison; release_ready=false.
