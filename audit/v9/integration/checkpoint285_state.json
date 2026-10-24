@@ -1,0 +1,19 @@
+{
+  "checkpoint": 285,
+  "word_path": "audit/v9/integration/v9_integration_working_cp275.docx",
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "ledger_path": "audit/v9/evidence/20261024_two_track_classifications_checkpoint285.json",
+  "classified": 267,
+  "unclassified": 233,
+  "visual": {
+    "pdf_sha256": "d6de8c6e5e350237a3174e45bb294e218f3c8a91c6c03ca135c3d5b58ecf30f0",
+    "pages": 485,
+    "viewed_range": [
+      1,
+      24
+    ],
+    "remaining": 461
+  },
+  "publication": "hold",
+  "next": "Q_5_011 onward; Q_5_004; Q_4_070/071/072/099/103; visual QA and Kindle rendering"
+}
