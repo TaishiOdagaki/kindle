@@ -1,0 +1,23 @@
+{
+  "checkpoint": 310,
+  "word_path": "audit/v9/integration/v9_integration_working_cp310.docx",
+  "word_sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+  "ledger_path": "audit/v9/evidence/20261025_two_track_classifications_checkpoint308.json",
+  "classified": 500,
+  "unclassified": 0,
+  "visual": {
+    "word_sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+    "pages": 486,
+    "reviewed_pages": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "reviewed_unique": 4,
+    "remaining": 482,
+    "reset_reason": "Word SHA and page count changed after Q_5_029 pagination fix"
+  },
+  "publication": "hold",
+  "next": "restart full visual QA on cp310 from page 1; EPUBCheck and Kindle Previewer; final release audit"
+}

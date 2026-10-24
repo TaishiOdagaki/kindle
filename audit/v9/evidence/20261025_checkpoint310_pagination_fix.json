@@ -1,0 +1,53 @@
+{
+  "checkpoint": 310,
+  "kind": "layout-only-pagination-fix",
+  "source_word": {
+    "path": "audit/v9/integration/v9_integration_working_cp275.docx",
+    "sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+    "pages": 485
+  },
+  "output_word": {
+    "path": "audit/v9/integration/v9_integration_working_cp310.docx",
+    "sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+    "pages": 486
+  },
+  "defect": {
+    "old_page": 128,
+    "question_id": "Q_5_029",
+    "description": "The explanation/navigation paragraph existed in PDF text but was visually below the page boundary in the rasterized page.",
+    "fix": "Set pageBreakBefore on the Q_5_029 heading so the complete question and navigation remain visible."
+  },
+  "content_regression": {
+    "paragraph_and_table_text_sequence_identical": true,
+    "question_content_changed": false,
+    "answers_changed": false,
+    "explanations_changed": false
+  },
+  "font": {
+    "name": "Noto Sans CJK JP Regular",
+    "sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+    "cjk_unique": 1376,
+    "missing": 0
+  },
+  "postfix_visual": {
+    "inspected_pages": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "page_png_sha256": {
+      "127": "e28fef3545a8764cd470f59b28854ca87e6820d592a8ae138acf84b6a4c9a39d",
+      "128": "024b9043470786c06e59e6812c5ba698a950be810290d7302703584eec62c986",
+      "129": "9a5ceb88ed4d73c91e5e53cc1a6f509458e116c0411ef8cb1208d097bb89dbb8",
+      "130": "fa3782159ab96bd4bb021fe8b69217ed4f2dae87f985ec7128ea43c5de85f768"
+    },
+    "result": "pass: Q_5_029 and its navigation are fully visible; adjacent pages show no clipping, overlap, missing glyphs, or broken navigation."
+  },
+  "full_visual_qa": {
+    "reset_required": true,
+    "reviewed_unique_pages": 4,
+    "remaining": 482
+  },
+  "publication": "hold"
+}
