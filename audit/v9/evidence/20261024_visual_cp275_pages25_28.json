@@ -1,0 +1,33 @@
+{
+  "schema": "visual-qa-v2",
+  "checkpoint": 287,
+  "word_path": "audit/v9/integration/v9_integration_working_cp275.docx",
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "page_count": 485,
+  "font": "Noto Sans CJK JP",
+  "font_file_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "raster_manifest_sha256": "c9672738580719eeb97a5bb49a7f96243e023298c1b027aa0c8c2c1d4f272d09",
+  "raster_repeat_test": {
+    "second_render_all_485_png_sha256_equal": true,
+    "pdf_sha256_first": "41245a8917d1fc16f52f826031e9c4e54e9a346a819a08bdfa28bc6d88674af4",
+    "pdf_sha256_second": "e5982d203c231adff2b9d7e38765d8f954d16991b2855be15eefddb178ac654e",
+    "note": "PDF container bytes vary across otherwise identical LibreOffice renders; all 485 rendered PNG bytes matched exactly."
+  },
+  "viewed_pages_this_checkpoint": [
+    25,
+    26,
+    27,
+    28
+  ],
+  "viewed_cumulative": [
+    1,
+    28
+  ],
+  "remaining": 457,
+  "results": {
+    "25": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "26": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "27": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "28": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed"
+  }
+}
