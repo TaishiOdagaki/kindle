@@ -1,0 +1,32 @@
+{
+  "schema": "visual-qa-v2",
+  "checkpoint": 297,
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "page_count": 485,
+  "font": "Noto Sans CJK JP Regular",
+  "font_sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+  "font_source": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf",
+  "viewed_pages_this_checkpoint": [
+    65,
+    66,
+    67,
+    68
+  ],
+  "viewed_cumulative": [
+    1,
+    68
+  ],
+  "remaining": 417,
+  "page_png_sha256": {
+    "65": "a78d870463c5360e5a1c2f28d140aa6f3631c1c8deb75a87bad6037f307d0ac1",
+    "66": "de817bd424dc6453069159175987f1c50571ffc1a500a6a9d9e6d45ca760452b",
+    "67": "7d58fd0413c7267819e6837874252ca26e24a65fae333baf1de7fdde7b0c3abb",
+    "68": "5ff02f791d42d7c3c8bee1354ca15e018f004378f62d5ba63210942010cb509c"
+  },
+  "results": {
+    "65": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "66": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "67": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "68": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed"
+  }
+}
