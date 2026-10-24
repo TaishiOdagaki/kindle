@@ -1,0 +1,43 @@
+[
+  {
+    "id": "S144",
+    "url": "https://www.professorjackrichards.com/wp-content/uploads/Richards-Communicative-Language.pdf",
+    "sha256": "47b6df7be48b29e4f54873536db95e29d9f7a4efe3223c7222e3a0b7ee1791e6",
+    "retrieved": "2026-10-24",
+    "pdf_pages": 52,
+    "printed_pages_read": [
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      45
+    ],
+    "printed_images_read": [
+      7,
+      11,
+      17,
+      19,
+      28,
+      31
+    ],
+    "pdf_page_one_based_offset": 4
+  }
+]
