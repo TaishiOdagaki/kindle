@@ -388,15 +388,91 @@
   },
   {
     "id": "Q_1_040",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "58d0a8a36d5ff648a16cd0088ad067bcb5cc0fb791cee49a3b704b21a8e0d8ba",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      5,
+      6,
+      25,
+      26,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "相互理解と課題遂行・異文化理解の両能力"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "拘束力のある全国統制とは説明しない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "体験記録と成果も構成要素"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "共有できるという説明と逆"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_1_041",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "37e3ce4226e42d8da142bc6e0a1dc315ac667458b14b8b76430167bce91280cd",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      14,
+      18,
+      19
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "活動能力の例示で知識量だけでない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "汎言語的と日本語場面の関係が逆"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "汎言語的なCEFRと具体場面のJFの区別"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "例示であり網羅ではない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_2_001",
@@ -852,9 +928,47 @@
   },
   {
     "id": "Q_2_022",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "6fbe5c0c05e3bd4936c7d427166e5be720a78be881c357387faa8e4221e30edd",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      311,
+      312,
+      313,
+      317
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "仲間意識はポジティブ"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "非言語を含み敬語形式だけで決まらない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "自由への干渉を抑えるネガティブ"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "自己像否定はポジティブの定義でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_2_023",
@@ -985,15 +1099,88 @@
   },
   {
     "id": "Q_2_026",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e6290c9d8099661d36c44ea67ae3865b9abdd11e107baf3ec25ecc9e25c17f27",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      312,
+      313,
+      314
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "欲求の定義は合うが主な脅威の分類が違う"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "行動自由の欲求はネガティブ"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "承認欲求はポジティブ"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "依頼は将来行為に圧力をかけ自由を脅かす"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_2_027",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "5da4c6727b54841ba8082bbc120c94537a3de99068861dda2fc270b2f14949c4",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      316,
+      317
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "仲間意識はポジティブ"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "緊急性等の文脈を除外した常時最高判定は不可"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "図で別枝、慣習的間接性はオンレコードもある"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "仲間や友人として欲求共有を示す方策"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_2_028",
@@ -1086,15 +1273,81 @@
   },
   {
     "id": "Q_3_001",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "cc0464e5b76c46bdbd259d3ffbc989e7c996041c78f9ee757177a6d58ddd760e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "背景予測はトップダウン"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "音声解読はボトムアップ"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "語の認識が乏しい場合の限界"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "別々の練習と実際の併用は両立"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_3_002",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e02760b5f578f9ec710035429469f12df4927a4288fc7084ea7d081128e37453",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "話題場面の知識から事前予測"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "単語分割と計数は音声解読"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "単語境界の確認は音声解読"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "予測を明示的に除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_3_003",
@@ -1188,23 +1441,131 @@
   },
   {
     "id": "Q_3_018",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "2694ab1bf05e47f183fd0053f9affc8f12725e9d2055d3c54c3cd6967025d941",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S29"
+    ],
+    "printed_pages": [
+      3,
+      6
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "母語転移だけへの限定が誤り"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "目標言語内の経験を誤除外"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "他の目標言語構造の経験から逸脱形を形成"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "経験に基づく規則形成を誤否定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_3_019",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "f316c95d7e1ab1aaf9134b084f3614d199d1c9a8e8857d186c881f71aaac890a",
-    "reviewed_this_pass": false,
+    "reviewed_this_pass": true,
     "manuscript_change_applied": true,
-    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。",
+    "independent_answer": 4,
+    "source_ids": [
+      "S29"
+    ],
+    "printed_pages": [
+      6,
+      9
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "見るの正しいタ形"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "閉めるの正しいタ形"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "来るの正しいタ形"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "既習く→いたを例外の行くに適用した架空例"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_3_020",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "8b00b8392597d261c83ef9eaedcce8661794e50e9423095ddd91a8e3133782f5",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S29"
+    ],
+    "printed_pages": [
+      6,
+      9
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "食べるの正しいテ形"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "既習く→いてを例外の行くに適用した架空例"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "来るの正しいテ形"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "見るの正しいテ形"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_3_021",
@@ -2742,9 +3103,45 @@
   },
   {
     "id": "Q_4_050",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "7784a2b740c5cd49b25f4134b3c0deda2618144bfb773c459f804a3cd1a702aa",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      14,
+      18
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "知識項目を網羅する一覧でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "言語材料準備は必要"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "複数を見比べるという注意と逆"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "比較し現場に応じ材料を準備"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_4_051",
@@ -2841,9 +3238,45 @@
   },
   {
     "id": "Q_4_055",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "53972169a97e530e41e4e62863441eb06ef0ad43a136ca063d5f8233bfd40729",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      25,
+      26
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "振り返りを誤排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "三構成要素のうち二つを誤排除"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "学習者本人の選定と振り返りを誤排除"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "評価表・体験・成果を振り返りへ利用"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_4_056",
@@ -3230,9 +3663,45 @@
   },
   {
     "id": "Q_4_073",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "933f286ddfe66d6bf048002f9c952a24ff3435596a307ae757ef3d07f6b6a4a6",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S29"
+    ],
+    "printed_pages": [
+      3,
+      6
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "目標言語の経験を誤除外"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "待遇上の文体切替で指定定義でない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "既習構造の適用範囲を越えた非目標形"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "使用言語の切替で指定定義でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_4_074",
@@ -3410,9 +3879,42 @@
   },
   {
     "id": "Q_4_085",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "804b7ada318124b9fa930d5fa70d38213ea2c08b075a7edbbc665814fb01a048",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S23"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "教科と言語の支援を統合し学習参加を育成"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "固定した文法項目配列の最優先を誤主張"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "教科から完全分離した初期指導だけに誤限定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "母語母文化の支えを誤排除"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_4_086",
@@ -3720,9 +4222,49 @@
   },
   {
     "id": "Q_4_106",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "fe80ac7494d542051e0181fd77497e4256563f7879befc9d9f87c20b9d9b90f0",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      311,
+      312,
+      317,
+      319,
+      320,
+      321
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "自己像の承認と行動自由の混同"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "仲間と欲求共有を誤排除"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "距離・力・負担と文化状況個人の評価差"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "国籍だけで方策の受取りは確定しない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_4_107",
@@ -4186,9 +4728,47 @@
   },
   {
     "id": "Q_5_008",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "37438d7c0820049ecb20f42c6d3677f1599cd224f394bcde3299f9e873ce06b9",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S29"
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "母語影響と目標言語内要因を検討"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "母語のみへの誤限定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "異なる母語にも共通する記述に反する"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "対照だけで全原因を確定できない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_5_009",
@@ -4700,9 +5280,42 @@
   },
   {
     "id": "Q_5_088",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "526728bc980626e0b40ed9371e79f8fba982d1642c32b2175e1ba6280e41fba9",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "音声理解が乏しい場合の限界を誤否定"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "文脈知識と音声解読を併用"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "トップダウンとボトムアップを逆対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "ボトムアップとトップダウンを逆対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_5_089",
@@ -4968,9 +5581,45 @@
   },
   {
     "id": "Q_O_009",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "418559cb244cd3d70e1648fc77bade72281b379de2589d3475642e784e1406f6",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      18,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "学習者との共有という利点と逆"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "本人の自己評価は不要にならない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "言語材料の準備は不要にならない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "目標・評価内容を共有しやすくする"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_O_010",
@@ -5777,27 +6426,159 @@
   },
   {
     "id": "Q_O_042",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "a4e5e770929455718a39acc2afc869743ea11f6c6b4b87862981c73ebf9de438",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S23"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "母語だけへ切替という事実はケースにない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教科と日本語を関連づける明示方針に反する"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "日本語表現練習という事実に反する"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "算数と言語の関連づけで全課程実施の認定ではない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_O_043",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b8f1a9ff9b4722618dd0b452d89ae6f47e199d68b849e31e0f0c2928a4be3a7b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S23"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "実態把握を除外して一律化"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "効果低下はケースに示されていない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "教科と言語の関係を誤否定"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "理解と表現両面の情報共有による検討"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_O_044",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "a4e3a5974edbaf5ddd666517dec171a6bc036d13655b96ab6280e36ce5f49706",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S23"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "母語母文化の支えを誤排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教科固有の表現支援を誤排除"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "他教科の固有の表現も実態に応じ検討"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "所属学級参加を除外し常時分離"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_O_045",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "d4375610bb71e7d4badc90e164c9cdeb144750ad5bf540b3911aee365bb3be15",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S23"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "理解と参加を継続把握し見直しへ用いる"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "理解確認と評価を誤排除"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "教師指導者の理解把握を誤排除"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "開始後の継続確認を誤排除"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_O_046",
@@ -6121,27 +6902,180 @@
   },
   {
     "id": "Q_O_057",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "f21c47095c5305ca15dec6987c3a7fbced1c33500ef63d5a26290f598d3c51b8",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      313,
+      316,
+      317
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "明示依頼にも配慮を添えられる"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "明示された負担配慮を仲間意識だけに誤限定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "依頼の存在や負担検討は消えない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "干渉の謝罪緩和という観点を適用"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_O_058",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "be3e746de04540c23b442746e281b3304ff27fde93c4a44fcd2d25fb2bea1fc2",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      316,
+      319,
+      320,
+      321
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "形式だけで負担を固定できない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "直接行為の条件に緊急性等を含む"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "直接的で配慮を添えない方策も図にある"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "間接形式だけで成功を保証できない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_O_059",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b1db3e828b6e333ad315d6cc7e8c0a7ee3ed257ae12d2a7ad801c5e8a1a4f873",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      313,
+      317,
+      319,
+      320,
+      321
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "距離力関係の評価を誤排除"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "三要因と文脈評価をケース比較へ適用"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "謝罪緩和慣習間接性は扱われる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "依頼は聞き手への脅威の例に含まれる"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_O_060",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "881f541a37b03e44bc1f86ae9f24ef4531d8ca36a67f68402682c90061e510b3",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S245"
+    ],
+    "printed_pages": [
+      311,
+      312,
+      317,
+      320,
+      321
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "具体的内容の文化差を著者は認める"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "フェイスは国籍別性格でなく欲求"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "理論的分類から実際の好意的反応は未確定"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "枠組みと文化状況個人差および実際の受取りを区別"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_O_061",
@@ -6868,9 +7802,45 @@
   },
   {
     "id": "Q_M_031",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "3b008261e25402dd2e4a0d8d978401781acefa202e1fc5dace17b052e93a5594",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S141"
+    ],
+    "printed_pages": [
+      26,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "本人ができることを参照し自己評価"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教師のみの記入は本人の自己評価でない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "他者順位だけでは項目達成を振り返らない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "収集だけでは自己評価にならない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "設問・四肢・四解説とケース12本文を再読し、原資料のページ画像で分類・条件・制約を対照。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "指定ガイドブックまたはBrown/Levinson著者本文の再録を確認。理論への批判文献全体や個々の指導効果を検証した意味ではない。"
   },
   {
     "id": "Q_M_032",
@@ -7190,9 +8160,42 @@
   },
   {
     "id": "Q_MO_001",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "08d297fe3409c0bf69ad4cb00d681f6bda42d88de1c91204ed37877d782919b0",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "ケースから形式単独原因を確定不能"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教材無問題とも学習者単独原因とも確定不能"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "初級のみで全聴解を排除できない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "語彙知識と連続音声での認識を区別して確認"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_MO_002",
@@ -7202,9 +8205,42 @@
   },
   {
     "id": "Q_MO_003",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "773753e3781db75c301b1fb0e1c233fca1929c9ab405992e2373d29c23176cca",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "背景知識活性化という明示目的と異なる"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "料理写真から場面知識を活性化して予測"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "著作権の適法性は設問で未判定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "背景知識予測を文法分析だけに誤限定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_MO_004",
@@ -7250,9 +8286,42 @@
   },
   {
     "id": "Q_MO_005",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "aa003207ab68e0453a689affa42507f20597b4d73bc924d44ce72cd97cbf8e64",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S99"
+    ],
+    "printed_pages": [],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "実態を考慮せず上級へ一律化"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "オンラインを理由に支援を誤排除"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "聴解継続の設問条件に反する"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "実態に応じて背景予測と語認識を検討"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現行の設問・全肢・全解説を指定本文と対照。架空例・ケースの条件、原因未確定、支援効果の非保証を維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "S29の1970会議稿、S99署名記事、S23公式報告の記載と適用。引用先の全原著や因果効果を独立実証した意味ではない。"
   },
   {
     "id": "Q_MO_006",

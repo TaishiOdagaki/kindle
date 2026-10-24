@@ -1,14 +1,14 @@
 {
   "total": 500,
-  "freshly_reviewed": 122,
-  "remaining": 378,
+  "freshly_reviewed": 152,
+  "remaining": 348,
   "status_counts": {
-    "再確認済み": 120,
-    "未着手": 378,
+    "再確認済み": 150,
+    "未着手": 348,
     "修正反映・再確認済み": 2
   },
   "original_source_audit_complete": false,
   "publication_approved": false,
   "working_manuscript_visual_qa_complete": false,
-  "latest_batch": 8
+  "latest_batch": 10
 }

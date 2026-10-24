@@ -365,5 +365,124 @@
       169
     ],
     "scope": "指定原論文・分類の本文と表。引用先の全原著・全実証研究を独立検証した意味ではない。"
+  },
+  {
+    "id": "S29",
+    "url": "https://files.eric.ed.gov/fulltext/ED037721.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "aca43007ffd90ea4267473f2c99e83cc7de297716e70a1cc2208c60b90231eab",
+    "printed_pages_read": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "printed_images_read": [
+      3,
+      6,
+      9
+    ],
+    "scope": "1970年会議稿の書誌・序論・1節・3.1〜3.2節。日本語のタ形・テ形は架空適用として確認。"
+  },
+  {
+    "id": "S23",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/001.htm",
+    "retrieved": "2026-10-24",
+    "sha256": "c3bb7ee53aa228b43c7aa4c49e60531b9df5f9b9fee3e1b08c9b35be67014ed2",
+    "printed_pages_read": [],
+    "printed_images_read": [],
+    "scope": "基本構想全文、評価、サポート・システム、所属学級支援。TLS検証失敗後に公開資料のみ検証無効で取得し公式web本文とも照合。"
+  },
+  {
+    "id": "S23",
+    "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/001/008/006.htm",
+    "retrieved": "2026-10-24",
+    "sha256": "b2aea471e162b952ee930314cd3b3d80a33328ea88f248df84a6298482aae49c",
+    "printed_pages_read": [],
+    "printed_images_read": [],
+    "scope": "教科志向型1〜2.3。個々の支援と日本語で学ぶ力、学習参加。"
+  },
+  {
+    "id": "S99",
+    "url": "https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/listening-top-down-and-bottom",
+    "retrieved": "2026-10-24",
+    "sha256": null,
+    "access": "web tool official HTML text, no local original bytes; local download timed out",
+    "sections_read": [
+      "署名",
+      "Top-down vs. bottom-up listening",
+      "Listening in the classroom",
+      "Top-down listening activities",
+      "Bottom-up listening activities",
+      "Conclusion"
+    ],
+    "scope": "Catherine Morley記事本文全体。参考文献原著の全検証や特定活動の効果量の確認ではない。"
+  },
+  {
+    "id": "S141",
+    "url": "https://www.jfstandard.jpf.go.jp/pdf/limited/3_JFS_guidebook.pdf",
+    "retrieved": "prior checkpoint local PDF; fresh image reading 2026-10-24",
+    "sha256": "f4bdf26375fff8267e1e37e5dfb481fd1f2ebcd5eb94b7f029c9268af00a9ba7",
+    "printed_pages_read": [
+      5,
+      6,
+      14,
+      18,
+      19,
+      25,
+      26,
+      49
+    ],
+    "printed_images_read": [
+      5,
+      6,
+      14,
+      18,
+      19,
+      25,
+      26,
+      49
+    ],
+    "scope": "S141本文は文字抽出が乱れるため全指定頁を画像精読。S245著者再録本文311〜321頁を画像精読。編集者の読書課題を著者本文の根拠にしない。"
+  },
+  {
+    "id": "S245",
+    "url": "https://pure.mpg.de/rest/items/item_64421/component/file_2225570/content",
+    "retrieved": "prior checkpoint local PDF; fresh image reading 2026-10-24",
+    "sha256": "245b523833cb57ba1e7f73df30b0489fdfdb4f42073b8d82c8ada7f59311c32e",
+    "printed_pages_read": [
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321
+    ],
+    "printed_images_read": [
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321
+    ],
+    "scope": "S141本文は文字抽出が乱れるため全指定頁を画像精読。S245著者再録本文311〜321頁を画像精読。編集者の読書課題を著者本文の根拠にしない。"
   }
 ]
