@@ -1,0 +1,41 @@
+{
+  "checkpoint": 282,
+  "head_parent": "e4da5ded5556fb1ecc7dab99269af5511de5860b",
+  "word_path": "audit/v9/integration/v9_integration_working_cp275.docx",
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "ledger_path": "audit/v9/evidence/20261024_two_track_classifications_checkpoint282.json",
+  "classified": 261,
+  "unclassified": 239,
+  "visual": {
+    "pdf_sha256": "d6de8c6e5e350237a3174e45bb294e218f3c8a91c6c03ca135c3d5b58ecf30f0",
+    "pages": 485,
+    "actually_viewed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "remaining": 469
+  },
+  "epub": {
+    "path": "audit/v9/integration/v9_integration_working_cp275.epub",
+    "sha256": "a6267260e237ee08b4e92878e1d19bb243bff88b43cbf2b9b59954f158396c0f",
+    "epubcheck_errors": 0,
+    "epubcheck_warnings": 0,
+    "kindle_preview": "not tested"
+  },
+  "publication": "hold",
+  "next": "Q_5_004 onward; no repeats of classified IDs; verify unresolved Q4 items; continue visual QA"
+}
