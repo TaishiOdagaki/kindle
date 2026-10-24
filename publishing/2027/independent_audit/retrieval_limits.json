@@ -5,11 +5,11 @@
     "local_pdf_download": "HTTP403",
     "web_text_available": true,
     "web_screenshots": "several cache misses",
-    "status": "本文照合中・画像未完了、19問を確認済みに自動計上しない"
+    "status": "解消：別公開先のPDFが既取得公式原本とSHA256・バイト数一致。本文と画像を再精読し18問を確認。TKI主根拠のQ_O_062は別途確認。"
   },
   {
     "question": "Q_4_049",
     "source": "S147",
-    "status": "Richards2006部分は確認。2013論文7頁の追加根拠が未取得のため未承認"
+    "status": "解消：第2バッチでS147の7頁本文・図を取得再確認済み"
   }
 ]

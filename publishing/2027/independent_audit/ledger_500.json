@@ -1,21 +1,128 @@
 [
   {
     "id": "Q_1_001",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "39235505d78883e4d31061bdbbc359e8bb0e3ff2eb1747313ed1e494a6845914",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      73
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "自文化の尺度と自集団優位"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "文化放棄の過程でなく評価の見方"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "他文化優位は方向が逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "相手の基準を使う姿勢で自文化中心でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_1_002",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "55fa545fbb16a70e00f432ada8e27d17ac5a4814a0b11478e23812e914f71de8",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      41,
+      42
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "背景を聞かず優劣を逆転"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "全面放棄を求め権利を尊重しない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "発言だけで心理状態は確定しない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "本人の経験を尋ね判断を留保し権利を尊重"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_1_003",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "6efcf4d625b7861b9416ad38602c533bb54e4c7261ea2227eeaa02299aba4278",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      29,
+      30
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "複数所属と主観的重要性の変動"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "国家民族だけに限定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "不可逆固定は変動性と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "以前の所属喪失は同時複数所属と逆"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_1_004",
@@ -305,9 +412,47 @@
   },
   {
     "id": "Q_2_004",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "07735ad4925b0d8084b9459a1801ee36729bf39a611f87be63828f4821ef76bb",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S190"
+    ],
+    "source_page_map": {
+      "S190": [
+        2,
+        3,
+        5
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "CALPとBICSを逆にする"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "概念的区別を全能力理論と誤解"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "会話だけで教科言語を判断しない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "BICSとCALPの定義を取り違える"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_005",
@@ -688,9 +833,44 @@
   },
   {
     "id": "Q_2_031",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "267a5292f552fbc3abe1c70e308af30abd0789344149efa6476f61176f96de40",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      48
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "語句以外の観察を排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "言語非言語の不一致への注意を排除"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "話し方身体動作と社会的文脈へ注意"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "同状況の反応の類似相違の比較を排除"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_2_032",
@@ -922,9 +1102,45 @@
   },
   {
     "id": "Q_3_034",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "8bd99633a4665d07d414c7ad3b396084c50a9c3dd863c15923b359d78b3e6022",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      29,
+      30
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "家族や趣味等を除外"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "集団内部の資源と意味づけの個人差を否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "所属の主観的重要性の変動を否定"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "複数所属と場面時間による変化の適用"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_3_035",
@@ -1715,9 +1931,53 @@
   },
   {
     "id": "Q_4_037",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "2ce0741240cb4cd66439b5535c0633acb05b58953d791191dc7ecabe504c815b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S190",
+      "S191"
+    ],
+    "source_page_map": {
+      "S190": [
+        2,
+        3,
+        5
+      ],
+      "S191": [
+        9,
+        10,
+        11
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "内容思考と言語の支援を関連付ける"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "全言語習得後に内容という原則でない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "既有知識と文脈的支援を無視して思考全廃"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "CALPは口頭も含む"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_038",
@@ -2018,15 +2278,84 @@
   },
   {
     "id": "Q_4_052",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "eb247af02e4f0c7084d5521bc07336e9b90d1d3d1b0e7cc6409f2c3b8d9f3062",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S142"
+    ],
+    "printed_pages": [
+      218,
+      221
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "基準準拠の説明を規範と誤対応"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "定義領域と参照集団分布の区別"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "規範準拠の説明を基準と誤対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "特定参照集団が定義にある"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全肢・全解説を共同標準2014本文・用語集に再照合。妥当性の用途別解釈、反復の仮定、人の判断、実施方式と適応的選択を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_053",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "60956ae19e173e1b05b6d861dadb2f1480024aed86a7e7e0450cd27100653c77",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S142"
+    ],
+    "printed_pages": [
+      79
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "全体一得点は総合的採点"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "観点ごと独立の得点"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "いずれも明示的基準が必要"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "人の判断と訓練監視不一致解消は残る"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全肢・全解説を共同標準2014本文・用語集に再照合。妥当性の用途別解釈、反復の仮定、人の判断、実施方式と適応的選択を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_054",
@@ -2042,15 +2371,85 @@
   },
   {
     "id": "Q_4_056",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "571bbfaeb8ddec8bbdb30639908f81a94d5be8c7c3e72eff6167dd0bc6a24934",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S142"
+    ],
+    "printed_pages": [
+      33,
+      34
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "測定反復の得点一貫性と誤差要因"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "完全同一は通常保証されない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "採点者差も変動に含まれる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "能力不変の仮定を無視"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全肢・全解説を共同標準2014本文・用語集に再照合。妥当性の用途別解釈、反復の仮定、人の判断、実施方式と適応的選択を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_057",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "5fca00605a6b9055279699905cc5b25fe643eec95411f7753a7611442c2d7a0b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S142"
+    ],
+    "printed_pages": [
+      11,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "印象だけで根拠検討を省けない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "一根拠で全用途保証はしない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "用途ごとの裏付けが必要"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "用途別得点解釈を証拠理論で検討"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全肢・全解説を共同標準2014本文・用語集に再照合。妥当性の用途別解釈、反復の仮定、人の判断、実施方式と適応的選択を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_058",
@@ -2385,9 +2784,47 @@
   },
   {
     "id": "Q_4_084",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "85fbc1e9bf2d5776572fddedc1c79a99c9cbd082e7d6228658399ff7e0eee797",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S190"
+    ],
+    "source_page_map": {
+      "S190": [
+        2,
+        3,
+        5
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "会話流暢さだけで教科学習支援を排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "口頭を除外する定義は誤り"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "教科の理解表現を確かめ支援を検討"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "課題の要求と支えは学習者による"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_085",
@@ -2584,9 +3021,46 @@
   },
   {
     "id": "Q_4_099",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e675b8729dee73be4e827eac860d3fe10657697458449a1a7e7ecae6f2ce81cb",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      41,
+      42,
+      73
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "主要文化を基準に他を評価"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "尊重と全採用の区別を無視"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "自分の当然さを問い直す姿勢と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "人権侵害等への尊重の限界を無視"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_4_100",
@@ -2608,9 +3082,47 @@
   },
   {
     "id": "Q_4_103",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "15d84e3b331640df090b09affde91fee6a2fccdec8943eb376d9223f44db8160",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      41,
+      45,
+      47,
+      48
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "記憶違いのみを断定する証拠なし"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "悪意の断定は根拠なし"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "本人の視点と複数解釈を検討"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "出身による一律判断は個人の視点を除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_4_104",
@@ -2680,9 +3192,44 @@
   },
   {
     "id": "Q_4_115",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "ab316c651a31bbb7778786b3966b8e5fade08c9560da91ed5352218566b6ee4e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S142"
+    ],
+    "printed_pages": [
+      215,
+      217
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "実施方式と過去反応による項目選択の区別"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "CBTとCATの関係を逆にする"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "固定項目でもコンピュータ実施ならCBT"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "項目選択を画面調節と誤認"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全肢・全解説を共同標準2014本文・用語集に再照合。妥当性の用途別解釈、反復の仮定、人の判断、実施方式と適応的選択を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_116",
@@ -2692,9 +3239,46 @@
   },
   {
     "id": "Q_4_117",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "f07e509f45e245d55c2ae67de6b29ca0055df1fdf8198f1e898ec1465489d2fb",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        1,
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "動画以外の教材も示す"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "継続観察と形成的評価を除外できない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "集団の相互作用と教師支援を除外する誤り"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "直接指導を個人へ移し集団を相互作用の場へ"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_118",
@@ -3670,9 +4254,46 @@
   },
   {
     "id": "Q_O_005",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "76a7edc7b1dd9e312af651fe1f24c1f5f79de03a6bd6ebadd3380f743fd5e1f6",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      47,
+      52,
+      53
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "経験が浅いことは省察不要の理由でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "誤用と決めず訂正の根拠を点検する必要"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "発話記録と自己の前提判断を照合"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "将来の変更を一律に拒否"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_006",
@@ -3688,9 +4309,46 @@
   },
   {
     "id": "Q_O_008",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "ba2913f7b2d7f5f1ae0c38a53d9a17f7cb361d992468b0fef3271c3e48174e7b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S190"
+    ],
+    "source_page_map": {
+      "S190": [
+        2,
+        3
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "講義の概念要点理解と記録が不安に対応"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "発音だけでは理解記録を含まない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "会話だけで講義理解を保証しない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "挨拶のみでは講義理解記録を含まない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_009",
@@ -3843,33 +4501,212 @@
   },
   {
     "id": "Q_O_016",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "a53f83ca8d31bc833262b0320718d469df384ee9016e86376c99aa335507b57a",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      52
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "文法誤用を示す本文なし"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "順序決定の前提差が本文にある"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "音声問題を示す本文なし"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "語彙不足を示す本文なし"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_017",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "61d3dad22a8bf291ab03af0a8204eda21d9811a2ce287cebd23ebbbe408dcaa7",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      51,
+      52
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "くじ引き自体の一律禁止でない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "相互理解と合意形成の機会がない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "機会欠如を最善とする根拠なし"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "事情を聞くこと自体は原典に沿う"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_018",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "bb6b745c0256a6fc291cea26e6c8e3ec6c5bb6a5d96f652a5391fca79a264f1f",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      51,
+      52
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "一方だけ採用し受入可能な解決を探らない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "背景と視点を共有し一緒に検討"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "対立内容を扱わず解決を探らない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "一時休止と永久分離は区別"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_019",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b7bd7702aa77f8cf680c8afdac468aa7e0a262da594d61dd2806c10ba142e47b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      30,
+      51
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "意見表明と合意形成を行う機会"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "国籍による対立傾向は本文から不明"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "教師のみ決定で学習者の合意機会なし"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "共有活動の協働の機会を除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_020",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "4b4f7331ccfe6251e574f8138de9052c537e60dd6b66f5d30c225bb88358e3ba",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      52,
+      53
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "本人が述べた背景も一括除外"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "能動的振り返りを不要とする"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "前提偏りと判断の関係を点検"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "再発しないとする情報なし"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_021",
@@ -3963,39 +4800,258 @@
   },
   {
     "id": "Q_O_036",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "de17ca1f43e105d7f3f5300407f7faacb90f3f6c3219176f0fe34837155f8463",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        1,
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "事前学習と教室活動の記録だけで全柱実践は不明"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "動画指示だけで全柱は確認できない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "観察と支援も柱の指標にある"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "動画以外の教材を禁止していない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_037",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "028ad4266d96ab382a045d49db6e8b0e471f23fe231ad644ea80bf15a3bbb805",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "成績不算入だけでは形成的利用でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "小テストで事前学習不要とはならない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "P2が形成的評価を明示"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "観察記録を次の指導に生かす"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_038",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "96ff0a01ca45aaee732ed89eee0baf3780f26de8d09680e2b71734d3daed5248",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "観察とアクセス配慮を放棄"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "偶然だけと断定する情報なし"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "未視聴の記録と矛盾"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "理由と環境を確かめアクセスを検討"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_039",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "16f6607f794dfe0d3209469205b2aca839ff726820fa3e18ff0efcd6a08de8c5",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "必要に応じた支援を全放棄"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "確認せず調整しない方針"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "観察結果に応じ補足とフィードバック"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "参加支援の条件に反して完全排除"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_040",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b7d7e02f80c5a07b302375626d4db7cfe6330a8c70c2591c1c019805e322f3aa",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S173"
+    ],
+    "source_page_map": {
+      "S173": [
+        2
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "全時間を反復で使い切り応用に接続しない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "再試行という条件と異なる"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "事情確認とアクセス・活動接続の見直し"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "理解状況を確認しない一律対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_041",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "74512ae571263b87a120476033bd681a757707606905221e99c50672e26beb15",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S190"
+    ],
+    "source_page_map": {
+      "S190": [
+        2,
+        3,
+        5
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "会話と教科学習の同一視"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "困難な表現内容を確かめる"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "文章題に時間を要するだけで認知不足と診断不可"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "CALPは口頭説明の理解も含み得る"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_042",
@@ -4379,51 +5435,354 @@
   },
   {
     "id": "Q_O_063",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e106dc784c056a6d0a9f233ec3710869d833e01aa86a0a217e699bca0fc83229",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      52
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "文法差だけの原因を示す情報なし"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "本人の発言にある進め方の重視点の相違"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "本文に対立理由が明示"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "発音差の情報なし"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_064",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "45aa89b959acf78a22c688a04926f3def60c983b3c0ff95dfb1fc0e8474cc89c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      30,
+      51
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "学習者の話合い機会を除外"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "国籍だけでは意見交換機会にならない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "ルールの話合いが合意形成の機会"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "意見交換の機会を縮小"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_065",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "22dcf87cd0a0f7809a553889c72bb18522b2ff87d61102338e5b16157fdbf077",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      52
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "発音だけでは本文の目標と異なる"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "視点理解と受入可能な解決探究"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "文法語彙だけでは本文の目標と異なる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "特定言語の使用だけでは目標を満たさない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_O_066",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "3fe65c7e81362880e93985bdcdd8ce13c5de54c6e9305072257d670c1d45a559",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S191"
+    ],
+    "source_page_map": {
+      "S191": [
+        9,
+        10,
+        11
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "内容目標と必要な言語を統合"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "内容理解を除外"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "必要な言語の学習を除外"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "内容言語の二重焦点を否定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_067",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "5e2876ada56625866f5ee6e09b298aad73a6f408abfb2a90c77072166f0ecf90",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S191"
+    ],
+    "source_page_map": {
+      "S191": [
+        10
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "Contentは四要素の一つ"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "Cognitionは四要素の一つ"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "Communicationは四要素の一つ"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "CompetitionでなくCulture"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_068",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "f24383188695ffe1895692735b10378b3ae06434c2b68c6ad8d5c51efdf67076",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S191"
+    ],
+    "source_page_map": {
+      "S191": [
+        9,
+        10,
+        11
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "内容目標を除き量だけに限定"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "内容思考と意味伝達の機会"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "内容相手の考えを除く反復だけに限定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "内容意味を問わず発音だけに限定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_069",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "56a2c75b74ba95f7caf29e7ef1678666faf0a8f66b5f11c1facfd7c43e68b3ac",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S191",
+      "S192"
+    ],
+    "source_page_map": {
+      "S191": [
+        9,
+        10,
+        11
+      ],
+      "S192": [
+        15
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "目標の内容理解を評価しない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "運用目標を正確さだけで判断"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "目標基準に応じ内容と言語を全体で評価"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "感想だけで両目標の達成は不明"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_070",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e8c5ce23df024bcb946051b68807221be90b248fcb5d3be49abc519b70de5362",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S191",
+      "S192"
+    ],
+    "source_page_map": {
+      "S191": [
+        9,
+        10,
+        11
+      ],
+      "S192": [
+        14,
+        15
+      ]
+    },
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "名称だけで普遍的効果保証はない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "日本語を用いた実践も記述"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "内容思考と言語を結び支援と負担を検討"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "言語と手順の支援を全除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_071",
@@ -4858,9 +6217,46 @@
   },
   {
     "id": "Q_M_038",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "fe55e7593b868186bdd356c9940d136163782f54254966749590b2afae41ae40",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      48,
+      49,
+      73
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "情動伝染のみでなく技能を位置付ける"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "自己から距離を取り相手視点を理解"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "情動面の視点取得を除外"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "sympathyを一形態として含める"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_M_039",
@@ -5084,9 +6480,45 @@
   },
   {
     "id": "Q_MO_004",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "1915793713ec5fda5b76d3c290798859f9f626f85de49e7ff516398a991e16f0",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S213"
+    ],
+    "printed_pages": [
+      52,
+      53
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "自分の前提を検討しない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "一度の助言で振り返り終了とは定義されない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "反応と見立ての差から判断の限界を点検"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "原因再検討と変更を一律拒否"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "現在の全肢・全解説と指定本文・注記を再照合。ケース1/4/13およびオンライン聴解の前提も再読。原典内の説明と架空例の適用を区別しており追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "RFCDC自身の概念枠組み。国籍による心理診断・因果効果・別理論の独立確認へ拡張しない。"
   },
   {
     "id": "Q_MO_005",

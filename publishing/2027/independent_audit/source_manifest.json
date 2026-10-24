@@ -166,5 +166,141 @@
       "60"
     ],
     "scope": "本則の対象条文を全文精読。附則同番号条を混在させず、将来の施行・経過措置全体の承認としない。"
+  },
+  {
+    "id": "S213",
+    "url": "https://rm.coe.int/16807bc66c",
+    "retrieved_from": "https://wergelandcentre.org/content/uploads/2020/02/Reference-Framework-of-competences-Vol-1-1.pdf",
+    "retrieved": "2026-10-24",
+    "bytes": 4154359,
+    "pdf_pages": 89,
+    "sha256": "a93866bccc575a825b4cc9e9b5f25c115d7c1ffd29dc677a1acc0aa226daa612",
+    "identical_to_prior_official_pdf": "audit/v9/evidence/batch156_sources.json",
+    "printed_pages_read": [
+      29,
+      30,
+      41,
+      42,
+      45,
+      47,
+      48,
+      49,
+      51,
+      52,
+      53,
+      73
+    ],
+    "printed_images_read": [
+      30,
+      41,
+      42,
+      48,
+      49,
+      51,
+      52,
+      53,
+      73
+    ],
+    "pdf_page_one_based_offset": 2
+  },
+  {
+    "id": "S173",
+    "url": "https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "8710b0c0f1a34f9ca2df143876659a96fb5d0e4795bdaf6d055ce5b21d09aa2e",
+    "pages_read": [
+      1,
+      2
+    ],
+    "page_images_read": [
+      1,
+      2
+    ],
+    "pdf_page_one_based_offset": 0,
+    "page_numbering": "Printed pages",
+    "scope": "指定頁の記述とケース適用。引用先研究全体の追試・未取得書籍全文・普遍的介入効果は承認しない。"
+  },
+  {
+    "id": "S190",
+    "url": "https://eclass.upatras.gr/modules/document/file.php/PDE1535/CumminsBICSCALPSpringer2007.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "a1e7a83e8540631dccb79d7a23d1222e8d535cf2de6e7094b0b7ed58568a6151",
+    "pages_read": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "page_images_read": [
+      2,
+      3,
+      5
+    ],
+    "pdf_page_one_based_offset": null,
+    "page_numbering": "PDF pages",
+    "scope": "指定頁の記述とケース適用。引用先研究全体の追試・未取得書籍全文・普遍的介入効果は承認しない。"
+  },
+  {
+    "id": "S191",
+    "url": "https://assets.cambridge.org/97811087/29734/excerpt/9781108729734_excerpt.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "fb242ad4c4cec5ef59e0e25564ff0c28cc6e55993ccb58be3eca4904be49017e",
+    "pages_read": [
+      9,
+      10,
+      11
+    ],
+    "page_images_read": [
+      9,
+      10,
+      11
+    ],
+    "pdf_page_one_based_offset": -1,
+    "page_numbering": "Printed pages",
+    "scope": "指定頁の記述とケース適用。引用先研究全体の追試・未取得書籍全文・普遍的介入効果は承認しない。"
+  },
+  {
+    "id": "S192",
+    "url": "https://www.cambridgeenglish.org/Images/22191-tkt-clil-handbook.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "1a8d64343ddf539351efc2ff8a4d048e8d44d8c3a090095e0171902abdabafda",
+    "pages_read": [
+      14,
+      15
+    ],
+    "page_images_read": [
+      14,
+      15
+    ],
+    "pdf_page_one_based_offset": 1,
+    "page_numbering": "Printed pages",
+    "scope": "指定頁の記述とケース適用。引用先研究全体の追試・未取得書籍全文・普遍的介入効果は承認しない。"
+  },
+  {
+    "id": "S142",
+    "url": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+    "sha256": "78182353e8cd877535f6f3c8967da52d4d3af64725146c08606d38825941ac61",
+    "retrieval": "Previous original PDF independently reread2026-10-24",
+    "printed_pages_read": [
+      11,
+      14,
+      33,
+      34,
+      79,
+      215,
+      217,
+      218,
+      221
+    ],
+    "printed_images_read": [
+      33,
+      34,
+      79,
+      215,
+      217,
+      218,
+      221
+    ],
+    "pdf_page_one_based_offset": 10
   }
 ]
