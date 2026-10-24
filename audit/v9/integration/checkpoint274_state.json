@@ -1,0 +1,71 @@
+{
+  "checkpoint": 274,
+  "publication_status": "hold",
+  "working_docx": "audit/v9/integration/v9_integration_working_cp269.docx",
+  "docx_sha256": "1e6602ad3edb2c6c656ec986bc6771ebcfa20e8cb542fbafe4480372a9bd95fc",
+  "working_epub": "audit/v9/integration/v9_integration_working_cp269.epub",
+  "epub_sha256": "1710f471db74d79ca42e4e6b1cd0c3264136b01a71e801b1d614924537e02d2c",
+  "classification_ledger": "audit/v9/evidence/20261024_two_track_classifications_checkpoint274.json",
+  "classified": 247,
+  "unclassified": 253,
+  "visual": {
+    "pdf_sha256": "2983515594b280f29b20e750ec1993f23706537055ceb216a1f487a47cd501e8",
+    "total_pages": 485,
+    "actually_viewed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "remaining_pages": 449
+  },
+  "epubcheck": {
+    "version": "5.4.0",
+    "fatals": 0,
+    "errors": 0,
+    "warnings": 0
+  },
+  "kindle_previewer": "not performed; executable unavailable on PATH",
+  "pending_sources": [
+    "Q_4_099",
+    "Q_4_103"
+  ],
+  "next": [
+    "Q_4_109 onwards",
+    "page37 onwards",
+    "EPUB rendered display"
+  ],
+  "note": "Intermediate only; academic track historical500 judgments are separate from two-track adoption classification."
+}
