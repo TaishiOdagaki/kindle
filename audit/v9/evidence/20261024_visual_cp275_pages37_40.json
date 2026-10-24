@@ -1,0 +1,31 @@
+{
+  "schema": "visual-qa-v2",
+  "checkpoint": 290,
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "page_count": 485,
+  "font": "Noto Sans CJK JP",
+  "viewed_pages_this_checkpoint": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "viewed_cumulative": [
+    1,
+    40
+  ],
+  "remaining": 445,
+  "page_png_sha256": {
+    "37": "b941e5b520eadf962f2f7ee57a0fce8ac3b5f2eaa5cf61b891c39dde1e4e59e3",
+    "38": "2da90c4d77404172c55017e4291ed46fce942178f080e3366c976a4288d1bc0a",
+    "39": "33ea21d6506424dde405deb81b88dd2e84c68dc1ceeb45bd7cfa4cdf9cac70b8",
+    "40": "996a15438f210c760a39291b1732eec08b659ccc120da1ef1b7e35272ba85415"
+  },
+  "results": {
+    "37": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "38": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "39": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "40": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed"
+  },
+  "inspection_note": "Page 40 option 2 numbering was rechecked at original scale by crop; number and text are present."
+}
