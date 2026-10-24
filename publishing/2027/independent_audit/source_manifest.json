@@ -39,5 +39,132 @@
       31
     ],
     "pdf_page_one_based_offset": 4
+  },
+  {
+    "id": "S147",
+    "url": "https://www.professorjackrichards.com/wp-content/uploads/Curriculum-Approaches-in-Language-Teaching.pdf",
+    "sha256": "b1585867ba0fb153a9d273bbacba268008025d5f970c2efcd6e4c7cc23386de0",
+    "retrieved": "2026-10-24",
+    "pdf_pages": 29,
+    "printed_pages_read": [
+      7,
+      8,
+      13,
+      20,
+      28,
+      30
+    ],
+    "printed_images_read": [
+      7,
+      8,
+      28,
+      30
+    ],
+    "pdf_page_one_based_offset": -4
+  },
+  {
+    "id": "S04",
+    "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/keigo_tosin.pdf",
+    "sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+    "retrieval": "Previous downloaded original PDF reread independently2026-10-24; not a new download",
+    "printed_pages_read": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      26,
+      27,
+      30,
+      38,
+      39,
+      40,
+      43,
+      44,
+      48,
+      49,
+      50,
+      51
+    ],
+    "printed_images_read": [
+      13,
+      18,
+      30,
+      40,
+      44,
+      49,
+      50,
+      51
+    ],
+    "pdf_page_one_based_offset": 3
+  },
+  {
+    "id": "S183",
+    "url": "https://www.cambridgeenglish.org/images/22184-tkt-glossary-document.pdf",
+    "sha256": "93ea9516e0013ed4cf119a01967fd07d96daf09593d0c59622fb85cfb9ad2762",
+    "retrieval": "Previous original PDF reread independently2026-10-24",
+    "printed_pages_read": [
+      2,
+      4,
+      5,
+      6,
+      14,
+      22,
+      37,
+      38,
+      44,
+      48
+    ],
+    "pdf_images_read": [
+      15,
+      23,
+      39,
+      45,
+      49
+    ],
+    "pdf_page_one_based_offset": 1
+  },
+  {
+    "id": "S26",
+    "url": "https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048",
+    "retrieved": "2026-10-24",
+    "bytes": 945280,
+    "sha256": "175e7c3bda1de44a747713629b9ef613258ef2fca202438e70ad611b4a014169",
+    "read_main_provision_articles": [
+      "2.1.1",
+      "2.1.15",
+      "10",
+      "17",
+      "20",
+      "21",
+      "23",
+      "24",
+      "27",
+      "32",
+      "35",
+      "36",
+      "47_6",
+      "48",
+      "50",
+      "59",
+      "60"
+    ],
+    "scope": "本則の対象条文を全文精読。附則同番号条を混在させず、将来の施行・経過措置全体の承認としない。"
   }
 ]

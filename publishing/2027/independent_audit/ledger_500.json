@@ -181,9 +181,49 @@
   },
   {
     "id": "Q_1_031",
-    "status": "未着手",
-    "current_question_sha256": "2a5e5930d760a77aacfdf389539f56cc3c0c47cd804e8e2c90b0fa4e1a7884ba",
-    "reviewed_this_pass": false
+    "status": "修正反映・再確認済み",
+    "current_question_sha256": "08e05b223f1f192f94e4d621df7f75c87222c666ec8921f0fb21995ac1d94138",
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      13,
+      14,
+      18,
+      21,
+      22,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "尊敬語と謙譲語Ⅱの混同"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "5分類と3分類の対応は13頁に一致"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "美化語を尊敬語へ一括する誤り"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "社外でも必ず上司を立てるという誤り"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "修正後の選択肢・解説を指針16・18〜19頁へ再照合。正答は一意に維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "manuscript_change_applied": true
   },
   {
     "id": "Q_1_032",
@@ -355,21 +395,133 @@
   },
   {
     "id": "Q_2_019",
-    "status": "未着手",
-    "current_question_sha256": "9034f1187c4c8641a897ee17a66ea8c4f1bb30a9b196a159d7b3f2a3614efd1a",
-    "reviewed_this_pass": false
+    "status": "修正反映・再確認済み",
+    "current_question_sha256": "a2749e420715974c967c5aa66829174a94e78e578f1d3ea4471968aa094270fe",
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      13,
+      15,
+      16,
+      18,
+      19,
+      21
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "美化語を尊敬語に含める誤り"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "向かう先への謙譲ⅠをⅡと誤分類"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "謙譲Ⅱの働きをⅠと誤分類"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "原則として正しいが本人のみでなく自分側を含む点と例外を補う"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "修正後の選択肢・解説を指針16・18〜19頁へ再照合。正答は一意に維持。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "manuscript_change_applied": true
   },
   {
     "id": "Q_2_020",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "4dfaf0c8780ef134b95b1090c74f1cca6c7cd5e742756f845185bc0731922d04",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      18,
+      22,
+      43,
+      44,
+      51
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "自分側の父に申すを使える"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "自分側を必ず立てる説明は原則と逆"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "申すは謙譲Ⅱであり尊敬語でない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "社内外の選択変更を禁止していない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_021",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "3b4a8d4369a6d312614597b1d227e1128f824c3e228d3746d6f71420ce8043a1",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      30
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "同語に同種類の敬語を重ねる"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "て連結でなく同語に重ねる形"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "一文に二種類あるだけでは二重でない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "読むといるの敬語連結"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_022",
@@ -379,21 +531,130 @@
   },
   {
     "id": "Q_2_023",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "80225509e970cc7ec075880bb97383804d4987bc63a0672993bc633c07060ba7",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      18,
+      24,
+      48,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "参るは謙譲Ⅱ"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "形式だけで適切さは保証されない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "分類と依頼の場面条件を区別"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "目上への一律禁止はない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_024",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "d37f6902342ce55099c38d1de26ecb87a115daad3225e02ec2bacef5d13bbe9f",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      50
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "品を立てる形式を推奨していない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "型を基礎に表現の工夫を継続"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "若者だけに特有と明確に否定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "態度と言葉の不一致も問題"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_025",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "dac48bc804de3afa4de513f8504be56685bdd48ebda9bdbb7357ce41d7ddce1c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      14,
+      15,
+      18,
+      19,
+      20
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "参るは行為者を立てる尊敬語でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "ですますは話文章の相手への丁寧さ"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "立てる対象と丁重丁寧に述べる相手を区別"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "向かう先と話相手が異なれば働きも違う"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_026",
@@ -786,9 +1047,44 @@
   },
   {
     "id": "Q_4_008",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "afc59ece4c076f85d6c840ff795d61d8be87c5fbfef9c1e3d2f463b29404e0ad",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S147"
+    ],
+    "printed_pages": [
+      8,
+      20
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "フォワードの方向"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "セントラルの方向"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "学習成果を出発点にする図4"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "授業後の得点による後付けではない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_009",
@@ -935,15 +1231,84 @@
   },
   {
     "id": "Q_4_015",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "44b1c0a52a5de34be9ec2c2e238590fb6a2f480dabcb7639015ab08923da71a3",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      22
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "明確化要求を排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "双方向を一方向と誤認"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "例示の反復等を排除"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "反復と明確化要求が項目の例"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_016",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b4c9fa86ab5b5c185b0b1f39c02a774da59b542f8024ab79770b3d16d7632491",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      37,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "援助相手を教師だけに制限"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "助け合いと他者への援助要求を促す例"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "Rapportが良くても相互援助禁止は支持されない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "援助要求を控えさせる点が指定例と逆"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_017",
@@ -1162,9 +1527,45 @@
   },
   {
     "id": "Q_4_029",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "9291fd7d0b2195b811db81ee605218d30175b57ff6577cdf0bb5a1873b399987",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S147"
+    ],
+    "printed_pages": [
+      13,
+      20,
+      30
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "表2セントラルの活動基盤・交渉・発展"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "交渉を否定して固定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "交渉を除外して発音のみに限定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "表2の学習者と教師の役割と逆"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_030",
@@ -1221,9 +1622,43 @@
   },
   {
     "id": "Q_4_033",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "4675a5855892a640319c8ba49882ccadddde1ccd09b438f6f3b2dcba73a9bc2d",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "変換でなく同構造の置換"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "提示語で目的語・動詞を置換"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "斉唱でなく一人で置換"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "個別だが単なる反復でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_034",
@@ -1387,9 +1822,45 @@
   },
   {
     "id": "Q_4_043",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "fcaf2c79cba362e04a996246751bed860ba5257283a4bbd4f4366583ce3b537c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      2,
+      6,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "継続使用教材と追加教材の役割"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "adaptの省略例が全完遂の義務を否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "内容変更の定義と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "補足教材をコースブック自体と誤対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_044",
@@ -1494,9 +1965,44 @@
   },
   {
     "id": "Q_4_049",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "de27bdc4f38f87b50daabbaed7079e6c3533ac74d58796c55c89b82f9047b068",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S144",
+      "S147"
+    ],
+    "printed_pages": [
+      7
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "言語機能を編成基準にする"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "文法を場面と誤対応"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "主題名をタスクと誤対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "目標書式から内容編成は決まらない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_050",
@@ -1572,9 +2078,43 @@
   },
   {
     "id": "Q_4_062",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "103b2746e9b5e5d70039a8a79c710962f20fddaee3994f317532905ef769b3cc",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S147"
+    ],
+    "printed_pages": [
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "成果が後回しで図と逆"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "図10の段階順序に一致"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "成果を最後にする順序は異なる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "図10の成果と教材・テストを除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_063",
@@ -1881,21 +2421,130 @@
   },
   {
     "id": "Q_4_090",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "bd03820b7298d0d666ce7bd5705054de4a1c0889d0da30c725a8ac771da1756c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      7,
+      18,
+      48,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "場面・負担・関係による選択"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "前置き全省略は負担への配慮と不一致"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "立てるべき相手の行為に参るを必須とできない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "正しい形式だけでは場面の適合性は決まらない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_091",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "5cc38f0eb1df135d7fd8448d6d03fedd66bc774ddabb0bf0cd19ba707ef8b50c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      16,
+      26,
+      27,
+      40
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "拝見は謙譲Ⅰ"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "確認する主体と恩恵の向きが逆"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "いただくの主体がBとなり指定関係と違う"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "A側からBの確認の恩恵を受ける"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_092",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "192ff29cfef38ce62f8dbed34299e84022a1638eb1fe4545edfeb4f829a4e3ba",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      48,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "急な依頼の負担を示す前置き"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "敬語形式のみでは配慮を保証しない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "同僚でも負担の配慮が必要な指定場面"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "簡潔な依頼の適切な場合もある"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_093",
@@ -2073,39 +2722,259 @@
   },
   {
     "id": "Q_4_122",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "3e3738952971594a4315301461e6a7ad4cd288d6932b5219bb7f5e0845a63b81",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "2.1.1",
+      "10",
+      "17.2",
+      "59",
+      "60"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "販売は定義上の条件でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "60条の死後保護を否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "無方式主義と逆"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "2条の定義に一致"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_4_123",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "cab2b22f3cc0d1ef6b3ad81b895326bf10613371d6bca1e2b018712577ebc66e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "営利設置を除外する条件を無視"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "公衆送信の原則と同時授業の例外"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "利益を不当に害する場合を含める誤り"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "要件充足の紙複製まで許諾必須でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_4_124",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "52cef555d0602f66e6d7fa08366c253d64e8cd35f8b16281cb567b4695f5d172",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "補償金は1項要件を免除しない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "3項にはリアルタイム以外の要件もある"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "自動公衆送信はリアルタイム限定でない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "設置者の原則と3項の例外に対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_4_125",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "300eda3ff99a55f60e6ed9c17dfaff9767ef36fb9e054ac47de06351a01f9314",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "32",
+      "48"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "公表済みの要件を落とす"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "引用の条件と出所表示を両方確認"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "引用目的上の範囲も条件"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "出所表示は32条要件を免除しない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_4_126",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "879913a0303f49222169943870d1516223aeb211e87f84541c4a38bc2e4d71d7",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "36"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "公表済み必要限度但書と営利補償金"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "市販問題集への自動自由利用は認めない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "公表済みが対象"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "営利利用への補償金制度を否定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_4_127",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "2c634ab071dc62018c41de2bb9cff178379e32cb72bc9dc4dffb28cae3c9415d",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "2.1.15",
+      "21",
+      "23",
+      "24",
+      "32",
+      "48"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "指定条件では楽曲複製送信の根拠なし"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "引用要件と出所著者表示を満たすと明示"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "録音も複製であり送信も別の権利"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "イラストの複製送信の根拠なし"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_5_001",
@@ -2697,9 +3566,47 @@
   },
   {
     "id": "Q_5_099",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "fe81288aeab2959bcdf9d1ab2e437f5e4349f27a32980af8c45cb516ab80e8b9",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      7,
+      10,
+      11,
+      44,
+      51
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "場面を無関係とする誤り"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "指定関係と負担で選ぶ練習"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "親しさ等を無視する説明は原則と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "方言敬語の身内敬語等を無視"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_5_100",
@@ -2799,9 +3706,45 @@
   },
   {
     "id": "Q_O_011",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "000ad4cde2e5598acde61c35822e7722e4078bfd61dd99f0e834d61097a22d4d",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      14,
+      18,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "おっしゃっての活用は正しい"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "社内の上下のみで固定できない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "取引先へは部長を自分側として扱う"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "おっしゃるは尊敬語"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_012",
@@ -2817,15 +3760,86 @@
   },
   {
     "id": "Q_O_014",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "72cd99e1abd48436f0a1414827ae5229877b62c9cb0b52d6ff5173cfc95d07ac",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      10,
+      11,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "場面を除くドリルでは目的に不一致"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "場面による選択も指導の対象"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "扱わない方針では目的に不一致"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "社内外の具体的比較が目的に対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_015",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "86c10913a1782ca7cfcd0b125ce69598b2718523e8fccd541ba2f5b17fe79486",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      10,
+      11
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "形式だけに限定して場面選択を除外"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "仕組み・複数例・選択と実践を併用"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "唯一表現の固定は指針と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "経験だけで意図的学習を除くのは指針と逆"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_016",
@@ -3009,27 +4023,171 @@
   },
   {
     "id": "Q_O_046",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "6ec23b13159ec7f2174befa5c3eba89ad2630c2de9063219c3ec5cf4f30cd29e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "授業過程の目的でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "営利設置を除外する条件を無視"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "公表済みの要件を否定"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "機関主体公表必要限度但書が対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_O_047",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "33cb71a336de0d20b96d43988848304dd39b2fc2bb37b2a655d80f3705286dd1",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "必要限度だけでは但書を免除しない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "部数や利用態様の検討は必要"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "1項ただし書に対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "教育目的だけで無条件にはならない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_O_048",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e76ba88588c213d8809325d192c55090caeed289b97ddc8eadf7fb51215e3c4e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "授業目的でも2項が原則"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "設置者が支払主体で録画後日視聴は3項でない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "支払主体を学習者と誤認"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "後日録画視聴を同時受講と誤認"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_O_049",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "c010472c7ea478aedc8a10c5f2381596879a538fc61cf97a409975dadee3b7d0",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "20",
+      "27",
+      "35",
+      "47_6",
+      "50"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "根拠の35条要件を免除できない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "翻案等を認めるが人格権は別"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "50条の非影響と逆"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "1号は翻案を明示している"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_O_050",
@@ -3090,9 +4248,43 @@
   },
   {
     "id": "Q_O_053",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "a75748cb064461c208754b0ea8ffa1d2d5f84855b351991a69cc0e5580ec9770",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "ケースに自由交渉なし"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "目標を学習者が自由選択していない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "キューによる同文型の置換"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "暗唱と言い直しがあり黙読だけでない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_054",
@@ -3337,15 +4529,88 @@
   },
   {
     "id": "Q_M_013",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b58f158f23e10ac87cfa593680449aa820ab0660cce4fbb3c01b69ca817ce687",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      2,
+      5,
+      48,
+      49
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "敬語は敬意表現に含まれる"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "敬意表現の範囲を狭めている"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "人間関係を表す働きを否定"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "前置き等を含む敬意表現をですますに限定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_M_014",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "caa88a1a01d2bbcf89059918ba41958d0287e3440d68d04cbfeccaf6cdaa5e51",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      18,
+      22,
+      44
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "社内外の社長の例に対応"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "例示された使い分けを否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "自分側でも聞き手へ丁重に述べられる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "場面選択を敬語全廃と誤解"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_M_015",
@@ -3475,9 +4740,44 @@
   },
   {
     "id": "Q_M_030",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e543bcc7bbab267a331222ea081f9c9622155c6f407e8fcc537f608d0b10e3eb",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      4,
+      5
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "評価目的の分類で主体でない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "学習者同士の評価という主体の名称"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "強み弱みの把握という目的"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "本人自身の評価で相互でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_M_031",
@@ -3487,9 +4787,44 @@
   },
   {
     "id": "Q_M_032",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "9bdd668054e2354af2b1eee99619622de4c9e99dba4b20bdab72b3af88ad226e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S183"
+    ],
+    "printed_pages": [
+      38,
+      48
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "実施後の振り返りと時間見積りの検討"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "改善検討を閉ざす"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "実施の振り返りでなく無作為"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "時間計画と省察の関係を否定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定された用語集の項目と各解説の主張を再照合。Q_4_016の旧S13は現行問題の根拠には不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_M_033",
@@ -3660,9 +4995,44 @@
   },
   {
     "id": "Q_M_055",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "f388f8735b2e6fd7910d4939d240265d36069bd4a23427f879b455e561401934",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S04"
+    ],
+    "printed_pages": [
+      27,
+      40
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "使用頻度から適切さは決まらない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "いただくは謙譲Ⅰ"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "基本条件の許可と恩恵を除外"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "許可・恩恵の事実や気持ちという条件"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説と補助的主張を原資料へ照合。個人差・基本原則・指定モデルと効果保証を区別。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_M_056",
@@ -3756,21 +5126,127 @@
   },
   {
     "id": "Q_MO_011",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "26aca3bf465a6a8b78e56c3972785e02000dafe84f61e83104311921540caae4",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "紙複製だけには2項補償金でない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "公衆送信の原則と同時授業例外を区別"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "オンデマンドも公衆送信に含まれる"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "対面直接受講等の要件を無視"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_MO_012",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "4fb4c07058919ca3c201e019f8e42e1439e62c0f20cd0836b466c349c5b99c2d",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "35"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "授業過程の目的という条件がある"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "必要限度を超える利用は同項でない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "必要限度とただし書に対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "必要限度でも不当利益侵害は除外"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_MO_013",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "5e5d68a16a800d34ba797bde60a81bc1a18c1cbd9570d5367853cee3721a588b",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S26"
+    ],
+    "article_sections": [
+      "2.1.1",
+      "10.2"
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "事実伝達にすぎないものも保護すると誤る"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "創作的表現と事実伝達の除外を区別"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "創作的コラムまで一律除外は誤り"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "媒体だけでなく内容が条件"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "全4解説を再取得した本則へ対照。ケース前提・権利制限の条件と但書・補償金・著作者人格権を区別。追加修正不要。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "scope": "2026-10-24取得API本文の対象規定。2027年の全改正・施行経過措置を承認した意味ではない。"
   },
   {
     "id": "Q_MO_014",
