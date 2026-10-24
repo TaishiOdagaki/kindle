@@ -151,8 +151,10 @@
   {
     "id": "Q_1_008",
     "status": "未着手",
-    "current_question_sha256": "5eeb86d8d3cd87052f9c22de8d1c2144effbe2034a72acb2c11ac3caf4216478",
-    "reviewed_this_pass": false
+    "current_question_sha256": "fd114f6c1cccbee65d7e3338ae8742e7a9e6c4007e6a3836b5c26223ef62b0f6",
+    "reviewed_this_pass": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
   },
   {
     "id": "Q_1_009",
@@ -347,14 +349,18 @@
   {
     "id": "Q_1_034",
     "status": "未着手",
-    "current_question_sha256": "cc47ea0d06c5e7053ce8b0aee116246cc13f0c878f2666dcfa1439adca32af73",
-    "reviewed_this_pass": false
+    "current_question_sha256": "6467551d125f3e157b63840a4603fb7f48aefe5e4af5087e1d888b4d203ba4e4",
+    "reviewed_this_pass": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
   },
   {
     "id": "Q_1_035",
     "status": "未着手",
-    "current_question_sha256": "92998418158cc3258a35126b303e8946cffef8a9f0c4e7e31eac014980e1cea1",
-    "reviewed_this_pass": false
+    "current_question_sha256": "c168229a2b67aafa85e69cb9554267c146c080372552715630c40374dc1d8320",
+    "reviewed_this_pass": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
   },
   {
     "id": "Q_1_036",
@@ -504,33 +510,209 @@
   },
   {
     "id": "Q_2_013",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "a0d0d3a46cf3d04e3303f2af1b2a1cc47c9c45ef719c95d9e4832e914c99784e",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      27,
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "内容放棄は回避縮小"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "時間稼ぎを回避と誤分類"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "外国語風発音は達成補償"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "伝達目標の維持と不足補償"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_014",
-    "status": "未着手",
-    "current_question_sha256": "c7207bb2bc7d37b29555caebc43f5866b62c72f90bbecad5b135779d90c47c3e",
-    "reviewed_this_pass": false
+    "status": "再確認済み",
+    "current_question_sha256": "d3ef4e0389c471d3e55705156d3f656941df1ad4934a64ff27862928a5b678df",
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "説明的句は迂言"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "vegetarianistは造語の原例"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "fishでcarp代用は近接語"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "身振りは非言語で発音外国語化でない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "学術内容は対応。解説に残った旧稿の変更履歴を読者向けの内容説明へ整理する。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "editorial_change_required": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "内容を再確認したうえで制作履歴だけを整理。"
   },
   {
     "id": "Q_2_015",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "52539981696653e7007b955eb97de0490fe2693c653c29e8eb89feea6b844457",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      27,
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "直接援助要求は回避縮小でない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "直接質問と助けを促す間接表明の区別"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "反復要求と自己修正を誤対応"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "協力的な知識利用で打切りでない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_016",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "7104ad0f24bbea2a58589c28d975e16d1a8c549cbc40252332981355ccc3c158",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      27,
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "身振り指さし絵が表の非言語的手段"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "迂言と非言語を混同"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "達成補償を回避へ誤分類"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "造語と非言語を混同"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_017",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "ccb6f5b5bfacfa224de5d286bdc6e48eb851cf8c06b5741ddac2637326ef13b0",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "道具説明と肯定応答があり放棄否定でない"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "既有語句で対象を説明する迂言"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "映画話題は本文にない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "教師への質問は本文にない"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_2_018",
@@ -1013,8 +1195,10 @@
   {
     "id": "Q_3_019",
     "status": "未着手",
-    "current_question_sha256": "ad27a2f01611bc500f8bb163d7f4883feb2ce7bd64f43e77b6e965cfe66e3c03",
-    "reviewed_this_pass": false
+    "current_question_sha256": "f316c95d7e1ab1aaf9134b084f3614d199d1c9a8e8857d186c881f71aaac890a",
+    "reviewed_this_pass": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
   },
   {
     "id": "Q_3_020",
@@ -1036,45 +1220,298 @@
   },
   {
     "id": "Q_3_023",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "38494eb669fb878ca2fa9086dad9c58bd1ce9b81b5dbf8affebc316ead423bf5",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      13,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "理解点検はメタ認知"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "類義語迂言は補償"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "他者への説明要求は社会的"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "言語材料の直接分析は認知"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_024",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "e8a097dcf3782382cf091669f7a1d54c73201b04951f4543178125fd2f8485d9",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "計画点検評価で過程全体を管理"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "要約分析は認知"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "他者への説明確認は社会的"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "不安調整は情意"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_025",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "b5632fcb84e8c9eb9de4019c889e2f9e4688f6266809968932fbeca7c00a9090",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      13
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "終了後の評価で学習中の点検でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "開始前の計画"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "学習中の理解と聞き逃しの自己点検"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "文脈推測で不足を補う補償"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_026",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "ea081d6c7e630527e1d1e2c314da0bb3b84cf0c3d83b82708fbfeec39616c046",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      13,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "類義語迂言は補償"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "他者質問は社会的"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "要約ノートは認知"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "イメージで記憶検索を支える"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_027",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "ddd111de08ae4c5b7e218754e46c1e192cefb90ba9604ed1dc66f9c587bbcbaf",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      8,
+      9,
+      10
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "方略の連鎖を否定"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教師による気づき支援を否定"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "課題との適合と関連方略の連携"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "常に一種類という一律断定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_028",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "56c16a25181b3027d5b8fe13b5738742d90f47512243e26df93acc2442fdd931",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      13,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "対象が語彙でも記憶方略がある"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "迂言の分類と認知の例を誤対応"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "記憶検索と材料の直接処理の区別"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "計画メタ認知と不安調整情意を誤対応"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_3_029",
-    "status": "未着手",
-    "current_question_sha256": "c70576c2efc9925b717e0b4b150fdba82a11191af143b54c80501f12d103eb33",
-    "reviewed_this_pass": false
+    "status": "再確認済み",
+    "current_question_sha256": "90eef7069be0d48e39734d962c720713260828d58933642d4b76ce6557eaad92",
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S148"
+    ],
+    "printed_pages": [
+      12,
+      13,
+      14
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "気持ち調整は今回の行動でない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "事前計画は今回の行動でない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "他者質問は明示的に除外"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "文脈推測を補償に分類"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "学術内容は対応。解説に残った旧稿の変更履歴を読者向けの内容説明へ整理する。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false,
+    "editorial_change_required": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "内容を再確認したうえで制作履歴だけを整理。"
   },
   {
     "id": "Q_3_030",
@@ -1587,9 +2024,43 @@
   },
   {
     "id": "Q_4_021",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "585feaaa12520deaf9f990a8378bb11a036c31cda057946a69144ecdd16ce5b7",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "相手の理解を確かめる理解チェック"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "意味の説明要求は明確化要求"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "何と発話したかを確かめる確認要求"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "反復要求と理解チェックの混同"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_022",
@@ -1926,13 +2397,15 @@
   {
     "id": "Q_4_036",
     "status": "未着手",
-    "current_question_sha256": "bf5b22faea708308dcbfd49a5f08199de4b093e907cd563b9833efcc1b83db47",
-    "reviewed_this_pass": false
+    "current_question_sha256": "80aed6a42d758951dade3eaf22aa555dd12c39f1146f63bc6b9ec5b8ad8eef91",
+    "reviewed_this_pass": false,
+    "manuscript_change_applied": true,
+    "editorial_finding": "制作履歴の表現のみ整理。原典の新規再監査は未着手のまま。"
   },
   {
     "id": "Q_4_037",
     "status": "再確認済み",
-    "current_question_sha256": "2ce0741240cb4cd66439b5535c0633acb05b58953d791191dc7ecabe504c815b",
+    "current_question_sha256": "9d57d4d41f00facffc7b940d6b8796bc475fc902ad264405da67217523f8c104",
     "reviewed_this_pass": true,
     "independent_answer": 1,
     "source_ids": [
@@ -1977,7 +2450,10 @@
     "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
     "multiple_correct": false,
     "no_correct": false,
-    "manuscript_change_required": false
+    "manuscript_change_required": false,
+    "manuscript_change_applied": true,
+    "editorial_change_required": false,
+    "editorial_finding": "内容を再確認したうえで制作履歴だけを整理。"
   },
   {
     "id": "Q_4_038",
@@ -2706,9 +3182,45 @@
   },
   {
     "id": "Q_4_071",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "0166e5754f7ec626da9d98c5adb3dffd1324235cf01afda723b345d159cf9226",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 2,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      166,
+      167,
+      168
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "発達時点の体系性を否定"
+      },
+      {
+        "option": 2,
+        "correct": true,
+        "reason": "系統的誤用から現時点の知識を再構成"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "一度の正用は反復かもしれない"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "非系統的mistakeと系統的errorを混同"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_072",
@@ -2730,15 +3242,85 @@
   },
   {
     "id": "Q_4_075",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "2be4f1b27cef12f4c0f27e6d080dc85334c78f74d42c0a894ddd6eae2cfd66b8",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      166,
+      167
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "errorの説明をmistakeと誤対応"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "遂行上の偶発誤りをerrorと誤対応"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "遂行上の非系統と知識上の系統の区別"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "著者は区別と分析上の難しさを明示"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_076",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "64b581b88b55dd357238d9ace6c12131205282beda8f4c9427f6ce1aaebdaf9d",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S149"
+    ],
+    "printed_pages": [
+      27,
+      28
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "話題回避とメッセージ放棄"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "迂言は達成補償"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "フィラー反復は時間稼ぎ"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "自発的修復は自己モニタリング"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_4_077",
@@ -3622,9 +4204,43 @@
   },
   {
     "id": "Q_5_011",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "64f519b0bab3c10aba231679e0dfdb94a3f80e6a49d91ba4e40621198ef39465",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      168
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "母語関係は多いが全てではない"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "母語の促進面を否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "必ず初期だけで消えるとは述べない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "母語関係の多さと促進面を併記"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_5_012",
@@ -4776,9 +5392,43 @@
   },
   {
     "id": "Q_O_032",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "442ea5e8cb6eba548b09cc0165b2c47106c397463f7f822dbac4dc45af4a1846",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 4,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      168
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "非逸脱形でも状況との意味対応が必要"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "全て母語関係とはしない"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "母語関係を全否定もしない"
+      },
+      {
+        "option": 4,
+        "correct": true,
+        "reason": "意図と状況の意味を確認する適用"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_033",
@@ -4788,15 +5438,87 @@
   },
   {
     "id": "Q_O_034",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "19ab138142fb2f3a19f61c996f2e1708c29f82480268dce6b53deac58ed13083",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 1,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      166,
+      167
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": true,
+        "reason": "目標への進展と残る課題を把握"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "教師への意義を否定"
+      },
+      {
+        "option": 3,
+        "correct": false,
+        "reason": "mistakeとerrorの区別を無視"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "系統的誤用を全て偶発と誤認"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_035",
-    "status": "未着手",
+    "status": "再確認済み",
     "current_question_sha256": "4a3d53d1eb5a0a4f289117648aa230532b86231bd9c774b0699f87e048646a1c",
-    "reviewed_this_pass": false
+    "reviewed_this_pass": true,
+    "independent_answer": 3,
+    "source_ids": [
+      "S118"
+    ],
+    "printed_pages": [
+      165,
+      166,
+      167,
+      169
+    ],
+    "option_verdicts": [
+      {
+        "option": 1,
+        "correct": false,
+        "reason": "学習者の必要を排除"
+      },
+      {
+        "option": 2,
+        "correct": false,
+        "reason": "方略の共通性から順序同一は導かれない"
+      },
+      {
+        "option": 3,
+        "correct": true,
+        "reason": "残る課題に応じた計画という適用"
+      },
+      {
+        "option": 4,
+        "correct": false,
+        "reason": "誤用の証拠性を否定"
+      }
+    ],
+    "all_four_explanations_reviewed": true,
+    "explanation_finding": "指定分類・原例・誤用の系統性・文脈条件を全肢と解説へ対照。分類の違いを他理論や普遍的な効果へ拡張しない。",
+    "multiple_correct": false,
+    "no_correct": false,
+    "manuscript_change_required": false
   },
   {
     "id": "Q_O_036",
@@ -5560,7 +6282,7 @@
   {
     "id": "Q_O_066",
     "status": "再確認済み",
-    "current_question_sha256": "3fe65c7e81362880e93985bdcdd8ce13c5de54c6e9305072257d670c1d45a559",
+    "current_question_sha256": "2dac4c016e1e3017ad97d33682574d1a1dd54a53a859f3f90a30d4e154b64f2f",
     "reviewed_this_pass": true,
     "independent_answer": 1,
     "source_ids": [
@@ -5599,7 +6321,10 @@
     "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
     "multiple_correct": false,
     "no_correct": false,
-    "manuscript_change_required": false
+    "manuscript_change_required": false,
+    "manuscript_change_applied": true,
+    "editorial_change_required": false,
+    "editorial_finding": "内容を再確認したうえで制作履歴だけを整理。"
   },
   {
     "id": "Q_O_067",
@@ -5738,7 +6463,7 @@
   {
     "id": "Q_O_070",
     "status": "再確認済み",
-    "current_question_sha256": "e8c5ce23df024bcb946051b68807221be90b248fcb5d3be49abc519b70de5362",
+    "current_question_sha256": "f94c2e44560b4efeff043ff1617b66412ec919b5ec4ccdba99ec9a71fac88f3c",
     "reviewed_this_pass": true,
     "independent_answer": 3,
     "source_ids": [
@@ -5782,7 +6507,10 @@
     "explanation_finding": "指定された概念・指標・ケース条件と全解説を本文・図へ再照合。概念的区別と因果効果、単元全体と各課題の評価焦点を区別。追加修正不要。",
     "multiple_correct": false,
     "no_correct": false,
-    "manuscript_change_required": false
+    "manuscript_change_required": false,
+    "manuscript_change_applied": true,
+    "editorial_change_required": false,
+    "editorial_finding": "内容を再確認したうえで制作履歴だけを整理。"
   },
   {
     "id": "Q_O_071",

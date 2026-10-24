@@ -2,8 +2,8 @@
   "questions": 500,
   "word_epub_question_fields_match": 500,
   "keys_changed": 0,
-  "docx_sha256": "902eb3a7c673a4d751bf4461215dd0edce27b338a94a0240969057b9a5558a4c",
-  "epub_sha256": "2b71b19656709301dca1ae38aa4581efe82e2502c5f9c12c26e8a36f2514ef8d",
+  "docx_sha256": "77d192d821957e531470542ce291dbbf8dc212be0854e85318ae08e0f2754f41",
+  "epub_sha256": "d4fdeda2b53abfb00744215322e3ae45dc7f95c3adea166ef8a301a34e513e19",
   "epub_qa": {
     "questions": 500,
     "options": 2000,

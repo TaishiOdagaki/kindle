@@ -302,5 +302,68 @@
       221
     ],
     "pdf_page_one_based_offset": 10
+  },
+  {
+    "id": "S148",
+    "url": "https://web.ntpu.edu.tw/~language/workshop/read2.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "da687ec83ed2f15eda15c826db87db79476dfb4561ced6d88d460d47e0c77158",
+    "printed_pages_read": [
+      8,
+      9,
+      10,
+      12,
+      13,
+      14
+    ],
+    "printed_images_read": [
+      8,
+      10,
+      12,
+      13,
+      14
+    ],
+    "scope": "指定原論文・分類の本文と表。引用先の全原著・全実証研究を独立検証した意味ではない。"
+  },
+  {
+    "id": "S149",
+    "url": "https://b9f19ceb-f720-4252-a2be-ccde56c0821f.filesusr.com/ugd/ba734f_1c905f1db74f488d924e158afdb63986.pdf?index=true",
+    "retrieved": "2026-10-24",
+    "sha256": "9fb885c3bb38327f14584fba6d7f307b353b331d9c65e9f42d26283ed4c02d96",
+    "printed_pages_read": [
+      5,
+      26,
+      27,
+      28,
+      29
+    ],
+    "printed_images_read": [
+      5,
+      26,
+      27,
+      28,
+      29
+    ],
+    "scope": "指定原論文・分類の本文と表。引用先の全原著・全実証研究を独立検証した意味ではない。"
+  },
+  {
+    "id": "S118",
+    "url": "https://files.eric.ed.gov/fulltext/ED019903.pdf",
+    "retrieved": "2026-10-24",
+    "sha256": "9d5a9f2d9e7d2feeeead240edf880273e5a49c394985fa7f030fb2bd8f8dbdd2",
+    "printed_pages_read": [
+      165,
+      166,
+      167,
+      168,
+      169
+    ],
+    "printed_images_read": [
+      166,
+      167,
+      168,
+      169
+    ],
+    "scope": "指定原論文・分類の本文と表。引用先の全原著・全実証研究を独立検証した意味ではない。"
   }
 ]
