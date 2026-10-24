@@ -1,0 +1,8 @@
+# checkpoint256
+継続作業スキルcontinue-authorized-workを作成・検証しSkillsリポジトリmasterへpush成功、commit8ceee59。最初のpushはHTTP422、HTTP1.1指定の再試行で成功、status同期確認。チェックポイント・コミット・1問完了を終了条件にせず、次工程へ戻る規則を追加。無期限実行や将来の確実な発火は保証しない。作成後に監査再開済み。
+
+Q4_067はS37/S123の原著46–48頁の分類と国語研の見る/見ます/見たの表を本文取得して照合し、独立正答4でGitHub稿採用。設問内の修正例に一本化された実Wordと4肢確認、全4解説も正形式提示の有無・明示性の対比と整合。旧ケース復活不要。
+https://www2.ninjal.ac.jp/bunkeibank/about.html
+https://www.researchgate.net/publication/252160472_CORRECTIVE_FEEDBACK_AND_LEARNER_UPTAKE_Negotiation_of_Form_in_Communicative_Classrooms
+分類210/500、未分類290。Q4_068は同原著48頁repetition定義を追加取得、Q4_069とともに今後照合。まだ確定数に含めない。
+統合稿SHA1554daab707ff2f1f0994acfde6749642b8718c19cbdb3456e55a7197d931740の485頁版page4を画像確認、目次に欠落・重なりなし。リンク実動作は別検査。累計目視1–4頁、残481頁。Word本文変更0。全検査未完了・出版保留。
