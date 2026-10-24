@@ -1,0 +1,19 @@
+{
+  "sha256": "1554daab707ff2f1f0994acfde6749642b8718c19cbdb3456e55a7197d931740",
+  "question_bookmarks": 500,
+  "chapter_counts": {
+    "1": 41,
+    "2": 36,
+    "3": 41,
+    "4": 127,
+    "5": 105,
+    "O": 75,
+    "M": 60,
+    "MO": 15
+  },
+  "duplicate_bookmarks": [],
+  "internal_links": 2060,
+  "missing_internal_targets": [],
+  "table_header_markers": 10,
+  "scope": "OOXML structural checks only; not content or visual approval"
+}
