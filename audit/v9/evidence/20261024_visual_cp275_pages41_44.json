@@ -1,0 +1,30 @@
+{
+  "schema": "visual-qa-v2",
+  "checkpoint": 291,
+  "word_sha256": "988dce1d6f4ca5bcd0b9194a4c26735e6e679c8351db896fb00277c81a1907a5",
+  "page_count": 485,
+  "font": "Noto Sans CJK JP",
+  "viewed_pages_this_checkpoint": [
+    41,
+    42,
+    43,
+    44
+  ],
+  "viewed_cumulative": [
+    1,
+    44
+  ],
+  "remaining": 441,
+  "page_png_sha256": {
+    "41": "434b9ecfba76b83332256ea020c3dd8c9fa109a9eb852ae58d98032456d5d0e5",
+    "42": "6a1d623343cc81bab284296b03d2302a2be16ab6d1af92503c17dd93b95675b7",
+    "43": "4bedd79104edff4e9d78bde4c5e71bb0276d8695af5fc601c4cbd56535b2f30e",
+    "44": "f2bed9c8042bcfc10bfa6ca6cfe79c923c02b7aa54124008a60fe96f9f575c1d"
+  },
+  "results": {
+    "41": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "42": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "43": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed",
+    "44": "pass: no clipping, overlap, missing glyphs, or broken navigation labels observed"
+  }
+}
