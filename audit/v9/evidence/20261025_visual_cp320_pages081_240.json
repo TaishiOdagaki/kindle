@@ -1,0 +1,40 @@
+{
+  "checkpoint": 323,
+  "document": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "render_pdf_pages": 485,
+  "newly_reviewed_ranges": [
+    {
+      "start": 81,
+      "end": 240
+    }
+  ],
+  "reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 240
+    }
+  ],
+  "reviewed_count_unique": 240,
+  "remaining_count": 245,
+  "result": "pass",
+  "criteria": [
+    "clipping",
+    "overlap",
+    "missing_glyphs",
+    "navigation_visibility",
+    "unintended_page_breaks",
+    "answer_table_layout",
+    "section_transition"
+  ],
+  "font": "Noto Sans CJK JP",
+  "font_embedded": true,
+  "next_visual_page": 241,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 81-240 were reviewed from the same cp320 PDF at original render resolution.",
+    "The review includes the end of the question section, mock questions, answer tables, and the transition into explanations.",
+    "Truncated intermediate PNG files were regenerated from the same PDF before inspection; no PDF or document defect was found.",
+    "No clipping, overlap, missing glyphs, hidden navigation rows, broken answer tables, or unintended page breaks were found."
+  ]
+}
