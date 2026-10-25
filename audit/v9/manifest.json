@@ -28,7 +28,7 @@
   },
   "full_visual_qa_completed": true,
   "integration_branch": "audit/v9-integration-2026-10-21",
-  "latest_checkpoint": 328,
+  "latest_checkpoint": 329,
   "working_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
   "working_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
   "content_integration": {
@@ -56,5 +56,32 @@
       "missing": 0
     }
   },
-  "kindle_previewer": "not_run_application_unavailable"
+  "kindle_previewer": "not_run_unsupported_linux_environment",
+  "kindle_previewer_validation": {
+    "status": "blocked_by_platform",
+    "checked_at_jst": "2026-10-25",
+    "official_supported_platforms": [
+      "Windows 10 64-bit or later",
+      "macOS 12 or later (Intel or Apple Silicon)"
+    ],
+    "current_runtime": "Linux 6.18.55 x86_64, no DISPLAY",
+    "executables_found": {
+      "kindle_previewer": false,
+      "wine": false,
+      "wine64": false,
+      "kindlegen": false,
+      "calibre": false,
+      "ebook_convert": false,
+      "chromium": false,
+      "firefox": false,
+      "xvfb_run": false
+    },
+    "online_previewer_not_used": "KDP upload prohibited without explicit user approval",
+    "official_sources": [
+      "https://kdp.amazon.com/help/topic/G202131170",
+      "https://kdp.amazon.com/help/topic/G79CTKR8BX79E96L",
+      "https://kdp.amazon.com/help/topic/G200641240"
+    ],
+    "manual_test_plan": "audit/v9/evidence/20261025_checkpoint329_kindle_previewer_handoff.md"
+  }
 }

@@ -162,3 +162,8 @@ EPUB候補の10表・20見出しセルへ `scope="col"` を明示し、表見出
 ## 統合系チェックポイント328 2026-10-25
 
 GitHubのW3C/EPUBCheck公式リリースv5.4.0を、公開SHA256と照合して実行した。候補EPUB（SHA256 `358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10`）はfatal 0、error 0、warning 0、info 0、終了コード0で合格した。Kindle PreviewerはLinux環境にアプリケーションがなく未実施。KDPアップロードは行っていないため、出版判断は保留する。
+
+
+## 統合系チェックポイント329 2026-10-25
+
+Amazon KDP公式要件と実行環境を再照合した。Kindle Previewerの公式対応環境はWindows 10（64-bit）以降またはmacOS 12以降であり、現在のLinux環境にはPreviewer、Wine、GUIブラウザ、仮想ディスプレイがない。KDP Online Previewerは原稿アップロードが必要なため、明示承認前のアップロード禁止条件に従い使用していない。対象EPUBのSHAを固定し、端末種別・向き・文字サイズ・61目次項目・10表・往復リンク・15ケース・日本語／例字・Auto-Advance全編確認を含む最終検査票を `evidence/20261025_checkpoint329_kindle_previewer_handoff.md` に保存した。Kindle Previewer未実施のため出版判断は保留する。
