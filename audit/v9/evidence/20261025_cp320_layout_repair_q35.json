@@ -1,0 +1,44 @@
+{
+  "checkpoint": 320,
+  "source_document": "audit/v9/integration/v9_integration_working_cp310.docx",
+  "source_sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+  "document": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "render_pdf_pages": 485,
+  "defect": {
+    "source_render_page": 204,
+    "question_heading": "問題35",
+    "stem_prefix": "授業改善を目的とするピア・オブザベーション",
+    "symptom": "4肢の後の「解説を見る／目次に戻る」行が頁外へ落ちた",
+    "repair": "問題35見出し段落にpageBreakBeforeを設定",
+    "semantic_text_changed": false
+  },
+  "font_qa": {
+    "font": "Noto Sans CJK JP",
+    "pdf_embedded": true,
+    "invalid_render_discarded": {
+      "pages": 296,
+      "reason": "Noto Sans CJK JP unavailable; DejaVu Sans substituted"
+    }
+  },
+  "targeted_regression_pages": [
+    203,
+    204,
+    205
+  ],
+  "targeted_regression_result": "pass",
+  "visual_qa": {
+    "reviewed_count": 3,
+    "remaining_count": 482,
+    "next_full_sweep_page": 1,
+    "status": "reset_after_document_change"
+  },
+  "content_classification": {
+    "completed": 500,
+    "total": 500,
+    "unclassified": 0
+  },
+  "publication_status": "hold",
+  "epubcheck": "not_run",
+  "kindle_previewer": "not_run"
+}
