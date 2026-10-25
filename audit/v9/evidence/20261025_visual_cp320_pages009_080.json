@@ -1,0 +1,42 @@
+{
+  "checkpoint": 322,
+  "document": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "render_pdf_pages": 485,
+  "newly_reviewed_ranges": [
+    {
+      "start": 9,
+      "end": 80
+    }
+  ],
+  "reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 80
+    },
+    {
+      "start": 203,
+      "end": 205,
+      "kind": "targeted_regression"
+    }
+  ],
+  "reviewed_count_unique": 83,
+  "remaining_count": 402,
+  "result": "pass",
+  "criteria": [
+    "clipping",
+    "overlap",
+    "missing_glyphs",
+    "navigation_visibility",
+    "unintended_page_breaks"
+  ],
+  "font": "Noto Sans CJK JP",
+  "font_embedded": true,
+  "next_visual_page": 81,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 9-80 were reviewed from the same cp320 PDF at original render resolution.",
+    "A small number of truncated intermediate PNG files were regenerated from the same PDF before inspection; this was a raster extraction issue and not a document defect.",
+    "No clipping, overlap, missing glyphs, hidden navigation rows, or unintended page breaks were found."
+  ]
+}
