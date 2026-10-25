@@ -152,3 +152,8 @@ OOXML検査は問題500、解説500、問題段落3505（全段落 keepLines、3
 統合稿 `audit/v9/integration/v9_integration_working_cp320.docx`（SHA256 `d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3`）について、500/500問の内容採否分類と、同一485頁PDFの1〜485頁原寸表示監査を完了した。未確認頁0、開いている表示欠陥0。詳細は `evidence/20261025_checkpoint325.md` と `integration/checkpoint325_state.json`。
 
 同じcp320からEPUB 3候補 `integration/v9_integration_working_cp320_candidate.epub`（SHA256 `0a8efb03bf164dfb2e748f709bdeb631fe62c78dcf3c72cfce0e8592cec56538`）を生成した。20 XHTMLへ分割し、500問題・500解説アンカー、2,145内部リンク、OPF/spine、XML、ZIP、Pandoc再読込を検査して合格した。公式EPUBCheckとKindle Previewerは実行環境に本体がないため未実施。電子書籍検証が完了するまで出版判断は保留する。詳細は `evidence/20261025_checkpoint326.md`。
+
+
+## 統合系チェックポイント327 2026-10-25
+
+EPUB候補の10表・20見出しセルへ `scope="col"` を明示し、表見出しアクセシビリティを補強した。更新後SHA256は `358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10`。本文・問題／解説アンカー・内部リンク・目次は不変で、ZIP/XML/OPF/spine/リンク/Pandoc再読込に合格。公式EPUBCheckとKindle Previewerは未実施のため出版判断は保留する。
