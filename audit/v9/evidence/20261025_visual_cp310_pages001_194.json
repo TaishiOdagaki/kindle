@@ -1,0 +1,36 @@
+{
+  "checkpoint": 319,
+  "document": "audit/v9/integration/v9_integration_working_cp310.docx",
+  "document_sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+  "render_pdf_pages": 486,
+  "reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 194
+    }
+  ],
+  "reviewed_count": 194,
+  "remaining_count": 292,
+  "newly_reviewed_ranges": [
+    {
+      "start": 179,
+      "end": 194
+    }
+  ],
+  "result": "pass",
+  "criteria": [
+    "clipping",
+    "overlap",
+    "missing_glyphs",
+    "navigation_visibility",
+    "unintended_page_breaks"
+  ],
+  "font": "Noto Sans CJK JP",
+  "font_missing_cjk_glyphs": 0,
+  "next_visual_page": 195,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 179-194 were opened individually at original resolution and visually inspected.",
+    "The transition to Part III on page 192 is complete and all headings, choices, and navigation rows through page 194 are visible."
+  ]
+}
