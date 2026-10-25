@@ -1,0 +1,11 @@
+{
+  "checkpoint": 325,
+  "branch": "audit/v9-integration-2026-10-21",
+  "working_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "working_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "content_classification": {"completed": 500, "total": 500, "unclassified": 0},
+  "visual_qa": {"render_pages": 485, "reviewed_ranges": [[1, 485]], "reviewed_unique": 485, "remaining": 0, "next_page": null, "status": "complete"},
+  "epubcheck": "not_run",
+  "kindle_previewer": "not_run",
+  "publication_status": "hold"
+}

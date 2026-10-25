@@ -1,0 +1,22 @@
+{
+  "checkpoint": 325,
+  "document": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "render_pdf_pages": 485,
+  "newly_reviewed_ranges": [{"start": 401, "end": 485}],
+  "reviewed_ranges": [{"start": 1, "end": 485}],
+  "reviewed_count_unique": 485,
+  "remaining_count": 0,
+  "result": "pass",
+  "criteria": ["clipping", "overlap", "missing_glyphs", "navigation_visibility", "unintended_page_breaks", "explanation_layout", "front_and_back_matter"],
+  "font": "Noto Sans CJK JP",
+  "font_embedded": true,
+  "next_visual_page": null,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 401-485 were reviewed from the same cp320 PDF at original render resolution.",
+    "Question explanations, case sections, scope table, glossary, and afterword display correctly.",
+    "The intermediate PNG for page 467 was regenerated from the same PDF before inspection; no PDF or document defect was found.",
+    "All 485 pages of cp320 have now been visually reviewed."
+  ]
+}
