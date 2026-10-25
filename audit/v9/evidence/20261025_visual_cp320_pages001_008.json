@@ -1,0 +1,41 @@
+{
+  "checkpoint": 321,
+  "document": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "render_pdf_pages": 485,
+  "reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 203,
+      "end": 205,
+      "kind": "targeted_regression"
+    }
+  ],
+  "reviewed_count_unique": 11,
+  "remaining_count": 474,
+  "newly_reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 8
+    }
+  ],
+  "result": "pass",
+  "criteria": [
+    "clipping",
+    "overlap",
+    "missing_glyphs",
+    "navigation_visibility",
+    "unintended_page_breaks"
+  ],
+  "font": "Noto Sans CJK JP",
+  "font_embedded": true,
+  "next_visual_page": 9,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 1-8 were opened individually at original resolution.",
+    "The full-page display made the page-8 top heading appear abbreviated; a raw crop plus PDF word coordinates confirmed the complete text 問題7 is inside the page at top 80.18 pt."
+  ]
+}
