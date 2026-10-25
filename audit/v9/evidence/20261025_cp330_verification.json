@@ -1,0 +1,36 @@
+{
+  "schema": "release-verification-cp330-v1",
+  "docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "epub_sha256": "358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10",
+  "questions": 500,
+  "answers": 500,
+  "four_options_verified": 500,
+  "four_explanations_verified": 500,
+  "single_correct_tag_matching_answer": 500,
+  "docx_epub_question_and_answer_blocks_equal": 1000,
+  "block_text_mismatches": [],
+  "docx_paragraphs_checked": 8359,
+  "docx_paragraphs_missing_in_epub": [],
+  "normalization": "Whitespace only; no punctuation, wording, numeral or answer normalization.",
+  "section_counts": {
+    "1": 41,
+    "2": 36,
+    "3": 41,
+    "4": 127,
+    "5": 105,
+    "MO": 15,
+    "M": 60,
+    "O": 75
+  },
+  "adoption_counts": {
+    "accept-github": 492,
+    "equivalent": 7,
+    "manual-rewrite": 1
+  },
+  "manual_rewrite_Q_4_111_704_page_applied": true,
+  "answer_quick_reference_rows_matching_current_answers": 500,
+  "word_tables_with_header_row": 10,
+  "scope_limit": "Structural checks and conversion preservation; does not independently re-prove scholarly truth or Kindle rendering.",
+  "kindle_previewer": "not_run",
+  "publication_decision": "hold"
+}

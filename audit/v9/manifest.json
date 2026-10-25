@@ -28,7 +28,7 @@
   },
   "full_visual_qa_completed": true,
   "integration_branch": "audit/v9-integration-2026-10-21",
-  "latest_checkpoint": 329,
+  "latest_checkpoint": 330,
   "working_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
   "working_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
   "content_integration": {
@@ -83,5 +83,13 @@
       "https://kdp.amazon.com/help/topic/G200641240"
     ],
     "manual_test_plan": "audit/v9/evidence/20261025_checkpoint329_kindle_previewer_handoff.md"
+  },
+  "release_verification": {
+    "result": "pass",
+    "ledger": "audit/v9/integration/v9_cp320_500_question_audit_ledger.csv",
+    "result_file": "audit/v9/evidence/20261025_cp330_verification.json",
+    "publication_report": "audit/v9/integration/v9_cp330_publication_hold_report.md",
+    "docx_epub_matching_blocks": 1000,
+    "quick_reference_matching_rows": 500
   }
 }

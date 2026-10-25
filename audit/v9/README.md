@@ -167,3 +167,8 @@ GitHubのW3C/EPUBCheck公式リリースv5.4.0を、公開SHA256と照合して�
 ## 統合系チェックポイント329 2026-10-25
 
 Amazon KDP公式要件と実行環境を再照合した。Kindle Previewerの公式対応環境はWindows 10（64-bit）以降またはmacOS 12以降であり、現在のLinux環境にはPreviewer、Wine、GUIブラウザ、仮想ディスプレイがない。KDP Online Previewerは原稿アップロードが必要なため、明示承認前のアップロード禁止条件に従い使用していない。対象EPUBのSHAを固定し、端末種別・向き・文字サイズ・61目次項目・10表・往復リンク・15ケース・日本語／例字・Auto-Advance全編確認を含む最終検査票を `evidence/20261025_checkpoint329_kindle_previewer_handoff.md` に保存した。Kindle Previewer未実施のため出版判断は保留する。
+
+
+## 統合系チェックポイント330 2026-10-25
+
+固定SHAのcp320 WordとEPUBを現物で再検査し、問題500・解説500のID別全文一致（空白のみ正規化）、4選択肢／4解説／一つの正解タグの500問一致、早見表500行一致、全8,359段落のEPUB内存在を確認した。現物由来の500問CSV、実測JSON、再実行用Python、出版保留報告を新規保存。採否はGitHub492・同文7・手動改稿1、Q_4_111の704頁修正も適用済み。本文・Word・EPUB・既存学術判定は変更していない。Kindle Previewer未実施のため出版保留。
