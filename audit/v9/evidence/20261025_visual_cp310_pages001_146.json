@@ -1,0 +1,36 @@
+{
+  "checkpoint": 316,
+  "document": "audit/v9/integration/v9_integration_working_cp310.docx",
+  "document_sha256": "5dabc22b6adca713969217a5b0329902d378425b8feb9069fc189952ff1862de",
+  "render_pdf_pages": 486,
+  "reviewed_ranges": [
+    {
+      "start": 1,
+      "end": 146
+    }
+  ],
+  "reviewed_count": 146,
+  "remaining_count": 340,
+  "newly_reviewed_ranges": [
+    {
+      "start": 131,
+      "end": 146
+    }
+  ],
+  "result": "pass",
+  "criteria": [
+    "clipping",
+    "overlap",
+    "missing_glyphs",
+    "navigation_visibility",
+    "unintended_page_breaks"
+  ],
+  "font": "Noto Sans CJK JP",
+  "font_missing_cjk_glyphs": 0,
+  "next_visual_page": 147,
+  "publication_status": "hold",
+  "notes": [
+    "Pages 131-146 were opened individually at original resolution and visually inspected.",
+    "Page 144 and page 146 begin near the top edge, but headings and all content are fully visible; no clipping was found."
+  ]
+}
