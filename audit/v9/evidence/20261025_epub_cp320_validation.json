@@ -1,0 +1,16 @@
+{
+  "source_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "source_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "epub_file": "audit/v9/integration/v9_integration_working_cp320_candidate.epub",
+  "epub_sha256": "0a8efb03bf164dfb2e748f709bdeb631fe62c78dcf3c72cfce0e8592cec56538",
+  "epub_bytes": 313500,
+  "question_anchor_count": 500,
+  "answer_anchor_count": 500,
+  "navigation_links": 61,
+  "pandoc_roundtrip_read": "pass",
+  "zip_integrity": "pass",
+  "custom_structural_validation": "pass",
+  "epubcheck": "not_run_binary_unavailable",
+  "kindle_previewer": "not_run_application_unavailable",
+  "publication_status": "hold"
+}
