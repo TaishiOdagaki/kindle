@@ -14,16 +14,34 @@
   "release_ready": false,
   "academic_audit_complete": true,
   "visual_qa_progress": {
-    "render_pages": 395,
-    "reviewed_unique_pages": 286,
-    "remaining_pages": 109,
+    "render_pages": 485,
+    "reviewed_unique_pages": 485,
+    "remaining_pages": 0,
     "latest_continuous_range": [
       1,
-      282
+      485
     ],
-    "latest_checkpoint": 219,
-    "open_visual_defects": 4,
-    "reinspection_required": true
+    "latest_checkpoint": 325,
+    "open_visual_defects": 0,
+    "reinspection_required": false,
+    "document_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3"
   },
-  "full_visual_qa_completed": false
+  "full_visual_qa_completed": true,
+  "integration_branch": "audit/v9-integration-2026-10-21",
+  "latest_checkpoint": 326,
+  "working_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
+  "working_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
+  "content_integration": {
+    "completed": 500,
+    "total": 500,
+    "unclassified": 0
+  },
+  "epub_candidate": {
+    "path": "audit/v9/integration/v9_integration_working_cp320_candidate.epub",
+    "sha256": "0a8efb03bf164dfb2e748f709bdeb631fe62c78dcf3c72cfce0e8592cec56538",
+    "custom_structural_validation": "pass",
+    "pandoc_roundtrip": "pass",
+    "epubcheck": "not_run_binary_unavailable"
+  },
+  "kindle_previewer": "not_run_application_unavailable"
 }

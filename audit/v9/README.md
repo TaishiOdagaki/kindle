@@ -145,3 +145,10 @@ OOXML検査は問題500、解説500、問題段落3505（全段落 keepLines、3
 ## 第219チェックポイント 2026-10-21
 
 同一SHAの395頁統合稿を完全版CJKフォントで再描画し、243〜282頁の40頁を原寸目視した。累計286/395頁、未確認109頁、連続確認範囲1〜282頁。日本語欠字0、本文・正答・学術判定の変更なし。頁264（Q_4_058・059）、268（Q_4_069〜071）、280（Q_4_098）で戻りリンク帯の欠落、頁272（Q_4_082）で選択肢段落の連結を検出した。修正・再描画・影響頁再検査が必要なため出版保留。詳細は `evidence/batch219_visual_qa_pages_243_282.json` と `integration_checkpoint_219.md`。
+
+
+## 統合系チェックポイント326 2026-10-25
+
+統合稿 `audit/v9/integration/v9_integration_working_cp320.docx`（SHA256 `d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3`）について、500/500問の内容採否分類と、同一485頁PDFの1〜485頁原寸表示監査を完了した。未確認頁0、開いている表示欠陥0。詳細は `evidence/20261025_checkpoint325.md` と `integration/checkpoint325_state.json`。
+
+同じcp320からEPUB 3候補 `integration/v9_integration_working_cp320_candidate.epub`（SHA256 `0a8efb03bf164dfb2e748f709bdeb631fe62c78dcf3c72cfce0e8592cec56538`）を生成した。20 XHTMLへ分割し、500問題・500解説アンカー、2,145内部リンク、OPF/spine、XML、ZIP、Pandoc再読込を検査して合格した。公式EPUBCheckとKindle Previewerは実行環境に本体がないため未実施。電子書籍検証が完了するまで出版判断は保留する。詳細は `evidence/20261025_checkpoint326.md`。
