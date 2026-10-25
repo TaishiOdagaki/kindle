@@ -28,7 +28,7 @@
   },
   "full_visual_qa_completed": true,
   "integration_branch": "audit/v9-integration-2026-10-21",
-  "latest_checkpoint": 327,
+  "latest_checkpoint": 328,
   "working_docx": "audit/v9/integration/v9_integration_working_cp320.docx",
   "working_docx_sha256": "d544cb33f760023b8030bb3ca36c6401b7297ef394156cfb944f046fd0bff1d3",
   "content_integration": {
@@ -41,7 +41,15 @@
     "sha256": "358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10",
     "custom_structural_validation": "pass",
     "pandoc_roundtrip": "pass",
-    "epubcheck": "not_run_binary_unavailable",
+    "epubcheck": {
+      "version": "5.4.0",
+      "release_date": "2026-09-15",
+      "fatal": 0,
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0,
+      "status": "pass"
+    },
     "table_header_scope": {
       "th": 20,
       "scope_col": 20,

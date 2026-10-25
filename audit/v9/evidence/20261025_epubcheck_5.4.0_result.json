@@ -1,0 +1,40 @@
+{
+  "checkpoint": 328,
+  "epub": "audit/v9/integration/v9_integration_working_cp320_candidate.epub",
+  "epub_sha256": "358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10",
+  "epubcheck_release": "v5.4.0",
+  "epubcheck_release_date": "2026-09-15",
+  "epubcheck_release_url": "https://github.com/w3c/epubcheck/releases/tag/v5.4.0",
+  "epubcheck_asset_sha256": "33350c61038e71dfb3d45a76aed04bf5481e6d5500cb780f6e98db8bbd15a28c",
+  "asset_digest_verified": true,
+  "checker": {
+    "path": "./epub_cp320_run325/v9_integration_cp320_final_candidate.epub",
+    "filename": "v9_integration_cp320_final_candidate.epub",
+    "checkerVersion": "5.4.0",
+    "checkDate": "10-25-2026 01:14:27",
+    "elapsedTime": 4000,
+    "nFatal": 0,
+    "nError": 0,
+    "nWarning": 0,
+    "nUsage": 0
+  },
+  "message_summary": {
+    "path": "./epub_cp320_run325/v9_integration_cp320_final_candidate.epub",
+    "filename": "v9_integration_cp320_final_candidate.epub",
+    "checkerVersion": "5.4.0",
+    "checkDate": "10-25-2026 01:14:27",
+    "elapsedTime": 4000,
+    "nFatal": 0,
+    "nError": 0,
+    "nWarning": 0,
+    "nUsage": 0
+  },
+  "messages": [],
+  "result": "pass",
+  "fatal": 0,
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "kindle_previewer": "not_run_application_unavailable",
+  "publication_status": "hold"
+}

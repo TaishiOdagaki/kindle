@@ -157,3 +157,8 @@ OOXML検査は問題500、解説500、問題段落3505（全段落 keepLines、3
 ## 統合系チェックポイント327 2026-10-25
 
 EPUB候補の10表・20見出しセルへ `scope="col"` を明示し、表見出しアクセシビリティを補強した。更新後SHA256は `358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10`。本文・問題／解説アンカー・内部リンク・目次は不変で、ZIP/XML/OPF/spine/リンク/Pandoc再読込に合格。公式EPUBCheckとKindle Previewerは未実施のため出版判断は保留する。
+
+
+## 統合系チェックポイント328 2026-10-25
+
+GitHubのW3C/EPUBCheck公式リリースv5.4.0を、公開SHA256と照合して実行した。候補EPUB（SHA256 `358b7a80c18a992c07358123719ffd3679b12f1dbfb65964ededbe381a97db10`）はfatal 0、error 0、warning 0、info 0、終了コード0で合格した。Kindle PreviewerはLinux環境にアプリケーションがなく未実施。KDPアップロードは行っていないため、出版判断は保留する。
