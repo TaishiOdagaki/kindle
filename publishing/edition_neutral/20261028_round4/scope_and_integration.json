@@ -1,0 +1,2116 @@
+{
+  "date_jst": "2026-10-28",
+  "scope": "inherit historical audit; only explicit unresolved integration and changed-passage impacts",
+  "historical_ledger_git_blob": "42d8f5b6d1780e950ad7a96a425e5d8e8c978a50",
+  "historical_reviewed_records": 152,
+  "unchanged_inherited_records": 143,
+  "changed_records": [
+    {
+      "id": "Q_1_031",
+      "historical_status": "修正反映・再確認済み",
+      "current_text_hash": "2a5e5930d760a77aacfdf389539f56cc3c0c47cd804e8e2c90b0fa4e1a7884ba",
+      "reviewed_text_hash": "08e05b223f1f192f94e4d621df7f75c87222c666ec8921f0fb21995ac1d94138",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_014",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c7207bb2bc7d37b29555caebc43f5866b62c72f90bbecad5b135779d90c47c3e",
+      "reviewed_text_hash": "d3ef4e0389c471d3e55705156d3f656941df1ad4934a64ff27862928a5b678df",
+      "unchanged": false,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_019",
+      "historical_status": "修正反映・再確認済み",
+      "current_text_hash": "9034f1187c4c8641a897ee17a66ea8c4f1bb30a9b196a159d7b3f2a3614efd1a",
+      "reviewed_text_hash": "a2749e420715974c967c5aa66829174a94e78e578f1d3ea4471968aa094270fe",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_3_019",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ad27a2f01611bc500f8bb163d7f4883feb2ce7bd64f43e77b6e965cfe66e3c03",
+      "reviewed_text_hash": "f316c95d7e1ab1aaf9134b084f3614d199d1c9a8e8857d186c881f71aaac890a",
+      "unchanged": false,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_029",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c70576c2efc9925b717e0b4b150fdba82a11191af143b54c80501f12d103eb33",
+      "reviewed_text_hash": "90eef7069be0d48e39734d962c720713260828d58933642d4b76ce6557eaad92",
+      "unchanged": false,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_4_037",
+      "historical_status": "再確認済み",
+      "current_text_hash": "2ce0741240cb4cd66439b5535c0633acb05b58953d791191dc7ecabe504c815b",
+      "reviewed_text_hash": "9d57d4d41f00facffc7b940d6b8796bc475fc902ad264405da67217523f8c104",
+      "unchanged": false,
+      "source_ids": [
+        "S190",
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_066",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3fe65c7e81362880e93985bdcdd8ce13c5de54c6e9305072257d670c1d45a559",
+      "reviewed_text_hash": "2dac4c016e1e3017ad97d33682574d1a1dd54a53a859f3f90a30d4e154b64f2f",
+      "unchanged": false,
+      "source_ids": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_070",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e8c5ce23df024bcb946051b68807221be90b248fcb5d3be49abc519b70de5362",
+      "reviewed_text_hash": "f94c2e44560b4efeff043ff1617b66412ec919b5ec4ccdba99ec9a71fac88f3c",
+      "unchanged": false,
+      "source_ids": [
+        "S191",
+        "S192"
+      ]
+    },
+    {
+      "id": "Q_M_055",
+      "historical_status": "再確認済み",
+      "current_text_hash": "90833f2e5ab9142b935eaed47ef546793addeb751ce86912a5cdd9188fa86448",
+      "reviewed_text_hash": "f388f8735b2e6fd7910d4939d240265d36069bd4a23427f879b455e561401934",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "id": "Q_1_001",
+      "historical_status": "再確認済み",
+      "current_text_hash": "39235505d78883e4d31061bdbbc359e8bb0e3ff2eb1747313ed1e494a6845914",
+      "reviewed_text_hash": "39235505d78883e4d31061bdbbc359e8bb0e3ff2eb1747313ed1e494a6845914",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_002",
+      "historical_status": "再確認済み",
+      "current_text_hash": "55fa545fbb16a70e00f432ada8e27d17ac5a4814a0b11478e23812e914f71de8",
+      "reviewed_text_hash": "55fa545fbb16a70e00f432ada8e27d17ac5a4814a0b11478e23812e914f71de8",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_003",
+      "historical_status": "再確認済み",
+      "current_text_hash": "6efcf4d625b7861b9416ad38602c533bb54e4c7261ea2227eeaa02299aba4278",
+      "reviewed_text_hash": "6efcf4d625b7861b9416ad38602c533bb54e4c7261ea2227eeaa02299aba4278",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_1_031",
+      "historical_status": "修正反映・再確認済み",
+      "current_text_hash": "2a5e5930d760a77aacfdf389539f56cc3c0c47cd804e8e2c90b0fa4e1a7884ba",
+      "reviewed_text_hash": "08e05b223f1f192f94e4d621df7f75c87222c666ec8921f0fb21995ac1d94138",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_1_040",
+      "historical_status": "再確認済み",
+      "current_text_hash": "58d0a8a36d5ff648a16cd0088ad067bcb5cc0fb791cee49a3b704b21a8e0d8ba",
+      "reviewed_text_hash": "58d0a8a36d5ff648a16cd0088ad067bcb5cc0fb791cee49a3b704b21a8e0d8ba",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_1_041",
+      "historical_status": "再確認済み",
+      "current_text_hash": "37e3ce4226e42d8da142bc6e0a1dc315ac667458b14b8b76430167bce91280cd",
+      "reviewed_text_hash": "37e3ce4226e42d8da142bc6e0a1dc315ac667458b14b8b76430167bce91280cd",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_2_004",
+      "historical_status": "再確認済み",
+      "current_text_hash": "07735ad4925b0d8084b9459a1801ee36729bf39a611f87be63828f4821ef76bb",
+      "reviewed_text_hash": "07735ad4925b0d8084b9459a1801ee36729bf39a611f87be63828f4821ef76bb",
+      "unchanged": true,
+      "source_ids": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_2_013",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a0d0d3a46cf3d04e3303f2af1b2a1cc47c9c45ef719c95d9e4832e914c99784e",
+      "reviewed_text_hash": "a0d0d3a46cf3d04e3303f2af1b2a1cc47c9c45ef719c95d9e4832e914c99784e",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_014",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c7207bb2bc7d37b29555caebc43f5866b62c72f90bbecad5b135779d90c47c3e",
+      "reviewed_text_hash": "d3ef4e0389c471d3e55705156d3f656941df1ad4934a64ff27862928a5b678df",
+      "unchanged": false,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_015",
+      "historical_status": "再確認済み",
+      "current_text_hash": "52539981696653e7007b955eb97de0490fe2693c653c29e8eb89feea6b844457",
+      "reviewed_text_hash": "52539981696653e7007b955eb97de0490fe2693c653c29e8eb89feea6b844457",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_016",
+      "historical_status": "再確認済み",
+      "current_text_hash": "7104ad0f24bbea2a58589c28d975e16d1a8c549cbc40252332981355ccc3c158",
+      "reviewed_text_hash": "7104ad0f24bbea2a58589c28d975e16d1a8c549cbc40252332981355ccc3c158",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_017",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ccb6f5b5bfacfa224de5d286bdc6e48eb851cf8c06b5741ddac2637326ef13b0",
+      "reviewed_text_hash": "ccb6f5b5bfacfa224de5d286bdc6e48eb851cf8c06b5741ddac2637326ef13b0",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_2_019",
+      "historical_status": "修正反映・再確認済み",
+      "current_text_hash": "9034f1187c4c8641a897ee17a66ea8c4f1bb30a9b196a159d7b3f2a3614efd1a",
+      "reviewed_text_hash": "a2749e420715974c967c5aa66829174a94e78e578f1d3ea4471968aa094270fe",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_020",
+      "historical_status": "再確認済み",
+      "current_text_hash": "4dfaf0c8780ef134b95b1090c74f1cca6c7cd5e742756f845185bc0731922d04",
+      "reviewed_text_hash": "4dfaf0c8780ef134b95b1090c74f1cca6c7cd5e742756f845185bc0731922d04",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_021",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3b4a8d4369a6d312614597b1d227e1128f824c3e228d3746d6f71420ce8043a1",
+      "reviewed_text_hash": "3b4a8d4369a6d312614597b1d227e1128f824c3e228d3746d6f71420ce8043a1",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_022",
+      "historical_status": "再確認済み",
+      "current_text_hash": "6fbe5c0c05e3bd4936c7d427166e5be720a78be881c357387faa8e4221e30edd",
+      "reviewed_text_hash": "6fbe5c0c05e3bd4936c7d427166e5be720a78be881c357387faa8e4221e30edd",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_023",
+      "historical_status": "再確認済み",
+      "current_text_hash": "80225509e970cc7ec075880bb97383804d4987bc63a0672993bc633c07060ba7",
+      "reviewed_text_hash": "80225509e970cc7ec075880bb97383804d4987bc63a0672993bc633c07060ba7",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_024",
+      "historical_status": "再確認済み",
+      "current_text_hash": "d37f6902342ce55099c38d1de26ecb87a115daad3225e02ec2bacef5d13bbe9f",
+      "reviewed_text_hash": "d37f6902342ce55099c38d1de26ecb87a115daad3225e02ec2bacef5d13bbe9f",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_025",
+      "historical_status": "再確認済み",
+      "current_text_hash": "dac48bc804de3afa4de513f8504be56685bdd48ebda9bdbb7357ce41d7ddce1c",
+      "reviewed_text_hash": "dac48bc804de3afa4de513f8504be56685bdd48ebda9bdbb7357ce41d7ddce1c",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_2_026",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e6290c9d8099661d36c44ea67ae3865b9abdd11e107baf3ec25ecc9e25c17f27",
+      "reviewed_text_hash": "e6290c9d8099661d36c44ea67ae3865b9abdd11e107baf3ec25ecc9e25c17f27",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_027",
+      "historical_status": "再確認済み",
+      "current_text_hash": "5da4c6727b54841ba8082bbc120c94537a3de99068861dda2fc270b2f14949c4",
+      "reviewed_text_hash": "5da4c6727b54841ba8082bbc120c94537a3de99068861dda2fc270b2f14949c4",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_2_031",
+      "historical_status": "再確認済み",
+      "current_text_hash": "267a5292f552fbc3abe1c70e308af30abd0789344149efa6476f61176f96de40",
+      "reviewed_text_hash": "267a5292f552fbc3abe1c70e308af30abd0789344149efa6476f61176f96de40",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_3_001",
+      "historical_status": "再確認済み",
+      "current_text_hash": "cc0464e5b76c46bdbd259d3ffbc989e7c996041c78f9ee757177a6d58ddd760e",
+      "reviewed_text_hash": "cc0464e5b76c46bdbd259d3ffbc989e7c996041c78f9ee757177a6d58ddd760e",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_3_002",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e02760b5f578f9ec710035429469f12df4927a4288fc7084ea7d081128e37453",
+      "reviewed_text_hash": "e02760b5f578f9ec710035429469f12df4927a4288fc7084ea7d081128e37453",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_3_018",
+      "historical_status": "再確認済み",
+      "current_text_hash": "2694ab1bf05e47f183fd0053f9affc8f12725e9d2055d3c54c3cd6967025d941",
+      "reviewed_text_hash": "2694ab1bf05e47f183fd0053f9affc8f12725e9d2055d3c54c3cd6967025d941",
+      "unchanged": true,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_019",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ad27a2f01611bc500f8bb163d7f4883feb2ce7bd64f43e77b6e965cfe66e3c03",
+      "reviewed_text_hash": "f316c95d7e1ab1aaf9134b084f3614d199d1c9a8e8857d186c881f71aaac890a",
+      "unchanged": false,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_020",
+      "historical_status": "再確認済み",
+      "current_text_hash": "8b00b8392597d261c83ef9eaedcce8661794e50e9423095ddd91a8e3133782f5",
+      "reviewed_text_hash": "8b00b8392597d261c83ef9eaedcce8661794e50e9423095ddd91a8e3133782f5",
+      "unchanged": true,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_3_023",
+      "historical_status": "再確認済み",
+      "current_text_hash": "38494eb669fb878ca2fa9086dad9c58bd1ce9b81b5dbf8affebc316ead423bf5",
+      "reviewed_text_hash": "38494eb669fb878ca2fa9086dad9c58bd1ce9b81b5dbf8affebc316ead423bf5",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_024",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e8a097dcf3782382cf091669f7a1d54c73201b04951f4543178125fd2f8485d9",
+      "reviewed_text_hash": "e8a097dcf3782382cf091669f7a1d54c73201b04951f4543178125fd2f8485d9",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_025",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b5632fcb84e8c9eb9de4019c889e2f9e4688f6266809968932fbeca7c00a9090",
+      "reviewed_text_hash": "b5632fcb84e8c9eb9de4019c889e2f9e4688f6266809968932fbeca7c00a9090",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_026",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ea081d6c7e630527e1d1e2c314da0bb3b84cf0c3d83b82708fbfeec39616c046",
+      "reviewed_text_hash": "ea081d6c7e630527e1d1e2c314da0bb3b84cf0c3d83b82708fbfeec39616c046",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_027",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ddd111de08ae4c5b7e218754e46c1e192cefb90ba9604ed1dc66f9c587bbcbaf",
+      "reviewed_text_hash": "ddd111de08ae4c5b7e218754e46c1e192cefb90ba9604ed1dc66f9c587bbcbaf",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_028",
+      "historical_status": "再確認済み",
+      "current_text_hash": "56c16a25181b3027d5b8fe13b5738742d90f47512243e26df93acc2442fdd931",
+      "reviewed_text_hash": "56c16a25181b3027d5b8fe13b5738742d90f47512243e26df93acc2442fdd931",
+      "unchanged": true,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_029",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c70576c2efc9925b717e0b4b150fdba82a11191af143b54c80501f12d103eb33",
+      "reviewed_text_hash": "90eef7069be0d48e39734d962c720713260828d58933642d4b76ce6557eaad92",
+      "unchanged": false,
+      "source_ids": [
+        "S148"
+      ]
+    },
+    {
+      "id": "Q_3_034",
+      "historical_status": "再確認済み",
+      "current_text_hash": "8bd99633a4665d07d414c7ad3b396084c50a9c3dd863c15923b359d78b3e6022",
+      "reviewed_text_hash": "8bd99633a4665d07d414c7ad3b396084c50a9c3dd863c15923b359d78b3e6022",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_4_002",
+      "historical_status": "再確認済み",
+      "current_text_hash": "74fb7238737e4a2eeb9c901649cc158bb190a8f0ec784261302d0d4cf71f8d4a",
+      "reviewed_text_hash": "74fb7238737e4a2eeb9c901649cc158bb190a8f0ec784261302d0d4cf71f8d4a",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_008",
+      "historical_status": "再確認済み",
+      "current_text_hash": "afc59ece4c076f85d6c840ff795d61d8be87c5fbfef9c1e3d2f463b29404e0ad",
+      "reviewed_text_hash": "afc59ece4c076f85d6c840ff795d61d8be87c5fbfef9c1e3d2f463b29404e0ad",
+      "unchanged": true,
+      "source_ids": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_009",
+      "historical_status": "再確認済み",
+      "current_text_hash": "7b05baca65cb0b96c21b7437387fd447d3960198e4c037c61a570e2664a81d93",
+      "reviewed_text_hash": "7b05baca65cb0b96c21b7437387fd447d3960198e4c037c61a570e2664a81d93",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_011",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3dd7e911eef22da585af9a536303a70c55ac9668de49c68fd98260cc574158ea",
+      "reviewed_text_hash": "3dd7e911eef22da585af9a536303a70c55ac9668de49c68fd98260cc574158ea",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_014",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b77b2c19a67bf7b1ab076e95100f228cd588e0aba4f0cdfb72308e2d35bea22f",
+      "reviewed_text_hash": "b77b2c19a67bf7b1ab076e95100f228cd588e0aba4f0cdfb72308e2d35bea22f",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_015",
+      "historical_status": "再確認済み",
+      "current_text_hash": "44b1c0a52a5de34be9ec2c2e238590fb6a2f480dabcb7639015ab08923da71a3",
+      "reviewed_text_hash": "44b1c0a52a5de34be9ec2c2e238590fb6a2f480dabcb7639015ab08923da71a3",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_016",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b4c9fa86ab5b5c185b0b1f39c02a774da59b542f8024ab79770b3d16d7632491",
+      "reviewed_text_hash": "b4c9fa86ab5b5c185b0b1f39c02a774da59b542f8024ab79770b3d16d7632491",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_020",
+      "historical_status": "再確認済み",
+      "current_text_hash": "481c270ca0da20ae931f927668b504107dbbc4aec7dacf8802bf74216f5543fe",
+      "reviewed_text_hash": "481c270ca0da20ae931f927668b504107dbbc4aec7dacf8802bf74216f5543fe",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_021",
+      "historical_status": "再確認済み",
+      "current_text_hash": "585feaaa12520deaf9f990a8378bb11a036c31cda057946a69144ecdd16ce5b7",
+      "reviewed_text_hash": "585feaaa12520deaf9f990a8378bb11a036c31cda057946a69144ecdd16ce5b7",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_4_023",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3630eff441061434509ce11b92b4f5e91ce232acff2a1c7f412da0937eaffdc0",
+      "reviewed_text_hash": "3630eff441061434509ce11b92b4f5e91ce232acff2a1c7f412da0937eaffdc0",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_024",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a9c5fd91e9d90c07de21c9cc8cd5ca94eb044264baf3617374ad0391f6c4e9af",
+      "reviewed_text_hash": "a9c5fd91e9d90c07de21c9cc8cd5ca94eb044264baf3617374ad0391f6c4e9af",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_025",
+      "historical_status": "再確認済み",
+      "current_text_hash": "25ddf0eb1208b01cd4c7342711e846a907e9eb0f098340c3f3b4bf382081e3d8",
+      "reviewed_text_hash": "25ddf0eb1208b01cd4c7342711e846a907e9eb0f098340c3f3b4bf382081e3d8",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_029",
+      "historical_status": "再確認済み",
+      "current_text_hash": "9291fd7d0b2195b811db81ee605218d30175b57ff6577cdf0bb5a1873b399987",
+      "reviewed_text_hash": "9291fd7d0b2195b811db81ee605218d30175b57ff6577cdf0bb5a1873b399987",
+      "unchanged": true,
+      "source_ids": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_032",
+      "historical_status": "再確認済み",
+      "current_text_hash": "dd1b3fb3f495987cb95e90c711c68d395441326665db19cbe7041c628d44f284",
+      "reviewed_text_hash": "dd1b3fb3f495987cb95e90c711c68d395441326665db19cbe7041c628d44f284",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_033",
+      "historical_status": "再確認済み",
+      "current_text_hash": "4675a5855892a640319c8ba49882ccadddde1ccd09b438f6f3b2dcba73a9bc2d",
+      "reviewed_text_hash": "4675a5855892a640319c8ba49882ccadddde1ccd09b438f6f3b2dcba73a9bc2d",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_035",
+      "historical_status": "再確認済み",
+      "current_text_hash": "89ca843cb834d749e911850ab81fe528847a1c387936ef4cba2d14e62a9d5dd6",
+      "reviewed_text_hash": "89ca843cb834d749e911850ab81fe528847a1c387936ef4cba2d14e62a9d5dd6",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_037",
+      "historical_status": "再確認済み",
+      "current_text_hash": "2ce0741240cb4cd66439b5535c0633acb05b58953d791191dc7ecabe504c815b",
+      "reviewed_text_hash": "9d57d4d41f00facffc7b940d6b8796bc475fc902ad264405da67217523f8c104",
+      "unchanged": false,
+      "source_ids": [
+        "S190",
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_4_040",
+      "historical_status": "再確認済み",
+      "current_text_hash": "56763f0b85d8aecd52bdf621622b5ae7d6001a0147c326efdcad0e01cbdbbb97",
+      "reviewed_text_hash": "56763f0b85d8aecd52bdf621622b5ae7d6001a0147c326efdcad0e01cbdbbb97",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_042",
+      "historical_status": "再確認済み",
+      "current_text_hash": "16cec6423d5f5cb4ce240873b02d85c6cf73971ef184b6b674570df7ec501b7c",
+      "reviewed_text_hash": "16cec6423d5f5cb4ce240873b02d85c6cf73971ef184b6b674570df7ec501b7c",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_043",
+      "historical_status": "再確認済み",
+      "current_text_hash": "fcaf2c79cba362e04a996246751bed860ba5257283a4bbd4f4366583ce3b537c",
+      "reviewed_text_hash": "fcaf2c79cba362e04a996246751bed860ba5257283a4bbd4f4366583ce3b537c",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_4_044",
+      "historical_status": "再確認済み",
+      "current_text_hash": "82ab3a119494fba7e009a5c68301e8c8e9e269e27999aef4f2b73899a35a77f8",
+      "reviewed_text_hash": "82ab3a119494fba7e009a5c68301e8c8e9e269e27999aef4f2b73899a35a77f8",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_045",
+      "historical_status": "再確認済み",
+      "current_text_hash": "370972ac1359949b49988de5b18280573848e063e6af172951ae41fa81e1eb11",
+      "reviewed_text_hash": "370972ac1359949b49988de5b18280573848e063e6af172951ae41fa81e1eb11",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_049",
+      "historical_status": "再確認済み",
+      "current_text_hash": "de27bdc4f38f87b50daabbaed7079e6c3533ac74d58796c55c89b82f9047b068",
+      "reviewed_text_hash": "de27bdc4f38f87b50daabbaed7079e6c3533ac74d58796c55c89b82f9047b068",
+      "unchanged": true,
+      "source_ids": [
+        "S144",
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_050",
+      "historical_status": "再確認済み",
+      "current_text_hash": "7784a2b740c5cd49b25f4134b3c0deda2618144bfb773c459f804a3cd1a702aa",
+      "reviewed_text_hash": "7784a2b740c5cd49b25f4134b3c0deda2618144bfb773c459f804a3cd1a702aa",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_4_052",
+      "historical_status": "再確認済み",
+      "current_text_hash": "eb247af02e4f0c7084d5521bc07336e9b90d1d3d1b0e7cc6409f2c3b8d9f3062",
+      "reviewed_text_hash": "eb247af02e4f0c7084d5521bc07336e9b90d1d3d1b0e7cc6409f2c3b8d9f3062",
+      "unchanged": true,
+      "source_ids": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_053",
+      "historical_status": "再確認済み",
+      "current_text_hash": "60956ae19e173e1b05b6d861dadb2f1480024aed86a7e7e0450cd27100653c77",
+      "reviewed_text_hash": "60956ae19e173e1b05b6d861dadb2f1480024aed86a7e7e0450cd27100653c77",
+      "unchanged": true,
+      "source_ids": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_055",
+      "historical_status": "再確認済み",
+      "current_text_hash": "53972169a97e530e41e4e62863441eb06ef0ad43a136ca063d5f8233bfd40729",
+      "reviewed_text_hash": "53972169a97e530e41e4e62863441eb06ef0ad43a136ca063d5f8233bfd40729",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_4_056",
+      "historical_status": "再確認済み",
+      "current_text_hash": "571bbfaeb8ddec8bbdb30639908f81a94d5be8c7c3e72eff6167dd0bc6a24934",
+      "reviewed_text_hash": "571bbfaeb8ddec8bbdb30639908f81a94d5be8c7c3e72eff6167dd0bc6a24934",
+      "unchanged": true,
+      "source_ids": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_057",
+      "historical_status": "再確認済み",
+      "current_text_hash": "5fca00605a6b9055279699905cc5b25fe643eec95411f7753a7611442c2d7a0b",
+      "reviewed_text_hash": "5fca00605a6b9055279699905cc5b25fe643eec95411f7753a7611442c2d7a0b",
+      "unchanged": true,
+      "source_ids": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_062",
+      "historical_status": "再確認済み",
+      "current_text_hash": "103b2746e9b5e5d70039a8a79c710962f20fddaee3994f317532905ef769b3cc",
+      "reviewed_text_hash": "103b2746e9b5e5d70039a8a79c710962f20fddaee3994f317532905ef769b3cc",
+      "unchanged": true,
+      "source_ids": [
+        "S147"
+      ]
+    },
+    {
+      "id": "Q_4_063",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a8b49c4451c845049333cda5827161df2de9027bdfcdfe8cec36deb6d0eecb38",
+      "reviewed_text_hash": "a8b49c4451c845049333cda5827161df2de9027bdfcdfe8cec36deb6d0eecb38",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_064",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ed07739725fa34380f461a45fe35ea642634201895de1dec37f400ece1e2e5bb",
+      "reviewed_text_hash": "ed07739725fa34380f461a45fe35ea642634201895de1dec37f400ece1e2e5bb",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_065",
+      "historical_status": "再確認済み",
+      "current_text_hash": "d55afbac81e41fa4f38df6d01cf03318d420ca32d0d0eb1eb877e0771357cf18",
+      "reviewed_text_hash": "d55afbac81e41fa4f38df6d01cf03318d420ca32d0d0eb1eb877e0771357cf18",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_066",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b3628cd4e639523a77a99eb5e13ea635cb9bf686ad5a915339dfb322563942cd",
+      "reviewed_text_hash": "b3628cd4e639523a77a99eb5e13ea635cb9bf686ad5a915339dfb322563942cd",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_4_071",
+      "historical_status": "再確認済み",
+      "current_text_hash": "0166e5754f7ec626da9d98c5adb3dffd1324235cf01afda723b345d159cf9226",
+      "reviewed_text_hash": "0166e5754f7ec626da9d98c5adb3dffd1324235cf01afda723b345d159cf9226",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_4_073",
+      "historical_status": "再確認済み",
+      "current_text_hash": "933f286ddfe66d6bf048002f9c952a24ff3435596a307ae757ef3d07f6b6a4a6",
+      "reviewed_text_hash": "933f286ddfe66d6bf048002f9c952a24ff3435596a307ae757ef3d07f6b6a4a6",
+      "unchanged": true,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_4_075",
+      "historical_status": "再確認済み",
+      "current_text_hash": "2be4f1b27cef12f4c0f27e6d080dc85334c78f74d42c0a894ddd6eae2cfd66b8",
+      "reviewed_text_hash": "2be4f1b27cef12f4c0f27e6d080dc85334c78f74d42c0a894ddd6eae2cfd66b8",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_4_076",
+      "historical_status": "再確認済み",
+      "current_text_hash": "64b581b88b55dd357238d9ace6c12131205282beda8f4c9427f6ce1aaebdaf9d",
+      "reviewed_text_hash": "64b581b88b55dd357238d9ace6c12131205282beda8f4c9427f6ce1aaebdaf9d",
+      "unchanged": true,
+      "source_ids": [
+        "S149"
+      ]
+    },
+    {
+      "id": "Q_4_084",
+      "historical_status": "再確認済み",
+      "current_text_hash": "85fbc1e9bf2d5776572fddedc1c79a99c9cbd082e7d6228658399ff7e0eee797",
+      "reviewed_text_hash": "85fbc1e9bf2d5776572fddedc1c79a99c9cbd082e7d6228658399ff7e0eee797",
+      "unchanged": true,
+      "source_ids": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_4_085",
+      "historical_status": "再確認済み",
+      "current_text_hash": "804b7ada318124b9fa930d5fa70d38213ea2c08b075a7edbbc665814fb01a048",
+      "reviewed_text_hash": "804b7ada318124b9fa930d5fa70d38213ea2c08b075a7edbbc665814fb01a048",
+      "unchanged": true,
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_4_090",
+      "historical_status": "再確認済み",
+      "current_text_hash": "bd03820b7298d0d666ce7bd5705054de4a1c0889d0da30c725a8ac771da1756c",
+      "reviewed_text_hash": "bd03820b7298d0d666ce7bd5705054de4a1c0889d0da30c725a8ac771da1756c",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_4_091",
+      "historical_status": "再確認済み",
+      "current_text_hash": "5cc38f0eb1df135d7fd8448d6d03fedd66bc774ddabb0bf0cd19ba707ef8b50c",
+      "reviewed_text_hash": "5cc38f0eb1df135d7fd8448d6d03fedd66bc774ddabb0bf0cd19ba707ef8b50c",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_4_092",
+      "historical_status": "再確認済み",
+      "current_text_hash": "192ff29cfef38ce62f8dbed34299e84022a1638eb1fe4545edfeb4f829a4e3ba",
+      "reviewed_text_hash": "192ff29cfef38ce62f8dbed34299e84022a1638eb1fe4545edfeb4f829a4e3ba",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_4_099",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e675b8729dee73be4e827eac860d3fe10657697458449a1a7e7ecae6f2ce81cb",
+      "reviewed_text_hash": "e675b8729dee73be4e827eac860d3fe10657697458449a1a7e7ecae6f2ce81cb",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_4_103",
+      "historical_status": "再確認済み",
+      "current_text_hash": "15d84e3b331640df090b09affde91fee6a2fccdec8943eb376d9223f44db8160",
+      "reviewed_text_hash": "15d84e3b331640df090b09affde91fee6a2fccdec8943eb376d9223f44db8160",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_4_106",
+      "historical_status": "再確認済み",
+      "current_text_hash": "fe80ac7494d542051e0181fd77497e4256563f7879befc9d9f87c20b9d9b90f0",
+      "reviewed_text_hash": "fe80ac7494d542051e0181fd77497e4256563f7879befc9d9f87c20b9d9b90f0",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_4_115",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ab316c651a31bbb7778786b3966b8e5fade08c9560da91ed5352218566b6ee4e",
+      "reviewed_text_hash": "ab316c651a31bbb7778786b3966b8e5fade08c9560da91ed5352218566b6ee4e",
+      "unchanged": true,
+      "source_ids": [
+        "S142"
+      ]
+    },
+    {
+      "id": "Q_4_117",
+      "historical_status": "再確認済み",
+      "current_text_hash": "f07e509f45e245d55c2ae67de6b29ca0055df1fdf8198f1e898ec1465489d2fb",
+      "reviewed_text_hash": "f07e509f45e245d55c2ae67de6b29ca0055df1fdf8198f1e898ec1465489d2fb",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_4_122",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3e3738952971594a4315301461e6a7ad4cd288d6932b5219bb7f5e0845a63b81",
+      "reviewed_text_hash": "3e3738952971594a4315301461e6a7ad4cd288d6932b5219bb7f5e0845a63b81",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_123",
+      "historical_status": "再確認済み",
+      "current_text_hash": "cab2b22f3cc0d1ef6b3ad81b895326bf10613371d6bca1e2b018712577ebc66e",
+      "reviewed_text_hash": "cab2b22f3cc0d1ef6b3ad81b895326bf10613371d6bca1e2b018712577ebc66e",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_124",
+      "historical_status": "再確認済み",
+      "current_text_hash": "52cef555d0602f66e6d7fa08366c253d64e8cd35f8b16281cb567b4695f5d172",
+      "reviewed_text_hash": "52cef555d0602f66e6d7fa08366c253d64e8cd35f8b16281cb567b4695f5d172",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_125",
+      "historical_status": "再確認済み",
+      "current_text_hash": "300eda3ff99a55f60e6ed9c17dfaff9767ef36fb9e054ac47de06351a01f9314",
+      "reviewed_text_hash": "300eda3ff99a55f60e6ed9c17dfaff9767ef36fb9e054ac47de06351a01f9314",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_126",
+      "historical_status": "再確認済み",
+      "current_text_hash": "879913a0303f49222169943870d1516223aeb211e87f84541c4a38bc2e4d71d7",
+      "reviewed_text_hash": "879913a0303f49222169943870d1516223aeb211e87f84541c4a38bc2e4d71d7",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_4_127",
+      "historical_status": "再確認済み",
+      "current_text_hash": "2c634ab071dc62018c41de2bb9cff178379e32cb72bc9dc4dffb28cae3c9415d",
+      "reviewed_text_hash": "2c634ab071dc62018c41de2bb9cff178379e32cb72bc9dc4dffb28cae3c9415d",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_5_008",
+      "historical_status": "再確認済み",
+      "current_text_hash": "37438d7c0820049ecb20f42c6d3677f1599cd224f394bcde3299f9e873ce06b9",
+      "reviewed_text_hash": "37438d7c0820049ecb20f42c6d3677f1599cd224f394bcde3299f9e873ce06b9",
+      "unchanged": true,
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "Q_5_011",
+      "historical_status": "再確認済み",
+      "current_text_hash": "64f519b0bab3c10aba231679e0dfdb94a3f80e6a49d91ba4e40621198ef39465",
+      "reviewed_text_hash": "64f519b0bab3c10aba231679e0dfdb94a3f80e6a49d91ba4e40621198ef39465",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_5_088",
+      "historical_status": "再確認済み",
+      "current_text_hash": "526728bc980626e0b40ed9371e79f8fba982d1642c32b2175e1ba6280e41fba9",
+      "reviewed_text_hash": "526728bc980626e0b40ed9371e79f8fba982d1642c32b2175e1ba6280e41fba9",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_5_099",
+      "historical_status": "再確認済み",
+      "current_text_hash": "fe81288aeab2959bcdf9d1ab2e437f5e4349f27a32980af8c45cb516ab80e8b9",
+      "reviewed_text_hash": "fe81288aeab2959bcdf9d1ab2e437f5e4349f27a32980af8c45cb516ab80e8b9",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_005",
+      "historical_status": "再確認済み",
+      "current_text_hash": "76a7edc7b1dd9e312af651fe1f24c1f5f79de03a6bd6ebadd3380f743fd5e1f6",
+      "reviewed_text_hash": "76a7edc7b1dd9e312af651fe1f24c1f5f79de03a6bd6ebadd3380f743fd5e1f6",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_008",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ba2913f7b2d7f5f1ae0c38a53d9a17f7cb361d992468b0fef3271c3e48174e7b",
+      "reviewed_text_hash": "ba2913f7b2d7f5f1ae0c38a53d9a17f7cb361d992468b0fef3271c3e48174e7b",
+      "unchanged": true,
+      "source_ids": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_O_009",
+      "historical_status": "再確認済み",
+      "current_text_hash": "418559cb244cd3d70e1648fc77bade72281b379de2589d3475642e784e1406f6",
+      "reviewed_text_hash": "418559cb244cd3d70e1648fc77bade72281b379de2589d3475642e784e1406f6",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_O_011",
+      "historical_status": "再確認済み",
+      "current_text_hash": "000ad4cde2e5598acde61c35822e7722e4078bfd61dd99f0e834d61097a22d4d",
+      "reviewed_text_hash": "000ad4cde2e5598acde61c35822e7722e4078bfd61dd99f0e834d61097a22d4d",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_014",
+      "historical_status": "再確認済み",
+      "current_text_hash": "72cd99e1abd48436f0a1414827ae5229877b62c9cb0b52d6ff5173cfc95d07ac",
+      "reviewed_text_hash": "72cd99e1abd48436f0a1414827ae5229877b62c9cb0b52d6ff5173cfc95d07ac",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_015",
+      "historical_status": "再確認済み",
+      "current_text_hash": "86c10913a1782ca7cfcd0b125ce69598b2718523e8fccd541ba2f5b17fe79486",
+      "reviewed_text_hash": "86c10913a1782ca7cfcd0b125ce69598b2718523e8fccd541ba2f5b17fe79486",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_O_016",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a53f83ca8d31bc833262b0320718d469df384ee9016e86376c99aa335507b57a",
+      "reviewed_text_hash": "a53f83ca8d31bc833262b0320718d469df384ee9016e86376c99aa335507b57a",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_017",
+      "historical_status": "再確認済み",
+      "current_text_hash": "61d3dad22a8bf291ab03af0a8204eda21d9811a2ce287cebd23ebbbe408dcaa7",
+      "reviewed_text_hash": "61d3dad22a8bf291ab03af0a8204eda21d9811a2ce287cebd23ebbbe408dcaa7",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_018",
+      "historical_status": "再確認済み",
+      "current_text_hash": "bb6b745c0256a6fc291cea26e6c8e3ec6c5bb6a5d96f652a5391fca79a264f1f",
+      "reviewed_text_hash": "bb6b745c0256a6fc291cea26e6c8e3ec6c5bb6a5d96f652a5391fca79a264f1f",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_019",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b7bd7702aa77f8cf680c8afdac468aa7e0a262da594d61dd2806c10ba142e47b",
+      "reviewed_text_hash": "b7bd7702aa77f8cf680c8afdac468aa7e0a262da594d61dd2806c10ba142e47b",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_020",
+      "historical_status": "再確認済み",
+      "current_text_hash": "4b4f7331ccfe6251e574f8138de9052c537e60dd6b66f5d30c225bb88358e3ba",
+      "reviewed_text_hash": "4b4f7331ccfe6251e574f8138de9052c537e60dd6b66f5d30c225bb88358e3ba",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_032",
+      "historical_status": "再確認済み",
+      "current_text_hash": "442ea5e8cb6eba548b09cc0165b2c47106c397463f7f822dbac4dc45af4a1846",
+      "reviewed_text_hash": "442ea5e8cb6eba548b09cc0165b2c47106c397463f7f822dbac4dc45af4a1846",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_034",
+      "historical_status": "再確認済み",
+      "current_text_hash": "19ab138142fb2f3a19f61c996f2e1708c29f82480268dce6b53deac58ed13083",
+      "reviewed_text_hash": "19ab138142fb2f3a19f61c996f2e1708c29f82480268dce6b53deac58ed13083",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_035",
+      "historical_status": "再確認済み",
+      "current_text_hash": "4a3d53d1eb5a0a4f289117648aa230532b86231bd9c774b0699f87e048646a1c",
+      "reviewed_text_hash": "4a3d53d1eb5a0a4f289117648aa230532b86231bd9c774b0699f87e048646a1c",
+      "unchanged": true,
+      "source_ids": [
+        "S118"
+      ]
+    },
+    {
+      "id": "Q_O_036",
+      "historical_status": "再確認済み",
+      "current_text_hash": "de17ca1f43e105d7f3f5300407f7faacb90f3f6c3219176f0fe34837155f8463",
+      "reviewed_text_hash": "de17ca1f43e105d7f3f5300407f7faacb90f3f6c3219176f0fe34837155f8463",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_037",
+      "historical_status": "再確認済み",
+      "current_text_hash": "028ad4266d96ab382a045d49db6e8b0e471f23fe231ad644ea80bf15a3bbb805",
+      "reviewed_text_hash": "028ad4266d96ab382a045d49db6e8b0e471f23fe231ad644ea80bf15a3bbb805",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_038",
+      "historical_status": "再確認済み",
+      "current_text_hash": "96ff0a01ca45aaee732ed89eee0baf3780f26de8d09680e2b71734d3daed5248",
+      "reviewed_text_hash": "96ff0a01ca45aaee732ed89eee0baf3780f26de8d09680e2b71734d3daed5248",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_039",
+      "historical_status": "再確認済み",
+      "current_text_hash": "16f6607f794dfe0d3209469205b2aca839ff726820fa3e18ff0efcd6a08de8c5",
+      "reviewed_text_hash": "16f6607f794dfe0d3209469205b2aca839ff726820fa3e18ff0efcd6a08de8c5",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_040",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b7d7e02f80c5a07b302375626d4db7cfe6330a8c70c2591c1c019805e322f3aa",
+      "reviewed_text_hash": "b7d7e02f80c5a07b302375626d4db7cfe6330a8c70c2591c1c019805e322f3aa",
+      "unchanged": true,
+      "source_ids": [
+        "S173"
+      ]
+    },
+    {
+      "id": "Q_O_041",
+      "historical_status": "再確認済み",
+      "current_text_hash": "74512ae571263b87a120476033bd681a757707606905221e99c50672e26beb15",
+      "reviewed_text_hash": "74512ae571263b87a120476033bd681a757707606905221e99c50672e26beb15",
+      "unchanged": true,
+      "source_ids": [
+        "S190"
+      ]
+    },
+    {
+      "id": "Q_O_042",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a4e5e770929455718a39acc2afc869743ea11f6c6b4b87862981c73ebf9de438",
+      "reviewed_text_hash": "a4e5e770929455718a39acc2afc869743ea11f6c6b4b87862981c73ebf9de438",
+      "unchanged": true,
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_043",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b8f1a9ff9b4722618dd0b452d89ae6f47e199d68b849e31e0f0c2928a4be3a7b",
+      "reviewed_text_hash": "b8f1a9ff9b4722618dd0b452d89ae6f47e199d68b849e31e0f0c2928a4be3a7b",
+      "unchanged": true,
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_044",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a4e3a5974edbaf5ddd666517dec171a6bc036d13655b96ab6280e36ce5f49706",
+      "reviewed_text_hash": "a4e3a5974edbaf5ddd666517dec171a6bc036d13655b96ab6280e36ce5f49706",
+      "unchanged": true,
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_045",
+      "historical_status": "再確認済み",
+      "current_text_hash": "d4375610bb71e7d4badc90e164c9cdeb144750ad5bf540b3911aee365bb3be15",
+      "reviewed_text_hash": "d4375610bb71e7d4badc90e164c9cdeb144750ad5bf540b3911aee365bb3be15",
+      "unchanged": true,
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "Q_O_046",
+      "historical_status": "再確認済み",
+      "current_text_hash": "6ec23b13159ec7f2174befa5c3eba89ad2630c2de9063219c3ec5cf4f30cd29e",
+      "reviewed_text_hash": "6ec23b13159ec7f2174befa5c3eba89ad2630c2de9063219c3ec5cf4f30cd29e",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_O_047",
+      "historical_status": "再確認済み",
+      "current_text_hash": "33cb71a336de0d20b96d43988848304dd39b2fc2bb37b2a655d80f3705286dd1",
+      "reviewed_text_hash": "33cb71a336de0d20b96d43988848304dd39b2fc2bb37b2a655d80f3705286dd1",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_O_048",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e76ba88588c213d8809325d192c55090caeed289b97ddc8eadf7fb51215e3c4e",
+      "reviewed_text_hash": "e76ba88588c213d8809325d192c55090caeed289b97ddc8eadf7fb51215e3c4e",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_O_049",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c010472c7ea478aedc8a10c5f2381596879a538fc61cf97a409975dadee3b7d0",
+      "reviewed_text_hash": "c010472c7ea478aedc8a10c5f2381596879a538fc61cf97a409975dadee3b7d0",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_O_052",
+      "historical_status": "再確認済み",
+      "current_text_hash": "ce11543d1b4e3fe81735d89cbc862bbaf5bbeaf04dba01e49e50960e6e80b3b7",
+      "reviewed_text_hash": "ce11543d1b4e3fe81735d89cbc862bbaf5bbeaf04dba01e49e50960e6e80b3b7",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_O_053",
+      "historical_status": "再確認済み",
+      "current_text_hash": "a75748cb064461c208754b0ea8ffa1d2d5f84855b351991a69cc0e5580ec9770",
+      "reviewed_text_hash": "a75748cb064461c208754b0ea8ffa1d2d5f84855b351991a69cc0e5580ec9770",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_O_055",
+      "historical_status": "再確認済み",
+      "current_text_hash": "609df739f69d58da6857e15016f59c5a39f8d9184a4e5ef61148ff45769ff6d0",
+      "reviewed_text_hash": "609df739f69d58da6857e15016f59c5a39f8d9184a4e5ef61148ff45769ff6d0",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_O_057",
+      "historical_status": "再確認済み",
+      "current_text_hash": "f21c47095c5305ca15dec6987c3a7fbced1c33500ef63d5a26290f598d3c51b8",
+      "reviewed_text_hash": "f21c47095c5305ca15dec6987c3a7fbced1c33500ef63d5a26290f598d3c51b8",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_058",
+      "historical_status": "再確認済み",
+      "current_text_hash": "be3e746de04540c23b442746e281b3304ff27fde93c4a44fcd2d25fb2bea1fc2",
+      "reviewed_text_hash": "be3e746de04540c23b442746e281b3304ff27fde93c4a44fcd2d25fb2bea1fc2",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_059",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b1db3e828b6e333ad315d6cc7e8c0a7ee3ed257ae12d2a7ad801c5e8a1a4f873",
+      "reviewed_text_hash": "b1db3e828b6e333ad315d6cc7e8c0a7ee3ed257ae12d2a7ad801c5e8a1a4f873",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_060",
+      "historical_status": "再確認済み",
+      "current_text_hash": "881f541a37b03e44bc1f86ae9f24ef4531d8ca36a67f68402682c90061e510b3",
+      "reviewed_text_hash": "881f541a37b03e44bc1f86ae9f24ef4531d8ca36a67f68402682c90061e510b3",
+      "unchanged": true,
+      "source_ids": [
+        "S245"
+      ]
+    },
+    {
+      "id": "Q_O_063",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e106dc784c056a6d0a9f233ec3710869d833e01aa86a0a217e699bca0fc83229",
+      "reviewed_text_hash": "e106dc784c056a6d0a9f233ec3710869d833e01aa86a0a217e699bca0fc83229",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_064",
+      "historical_status": "再確認済み",
+      "current_text_hash": "45aa89b959acf78a22c688a04926f3def60c983b3c0ff95dfb1fc0e8474cc89c",
+      "reviewed_text_hash": "45aa89b959acf78a22c688a04926f3def60c983b3c0ff95dfb1fc0e8474cc89c",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_065",
+      "historical_status": "再確認済み",
+      "current_text_hash": "22dcf87cd0a0f7809a553889c72bb18522b2ff87d61102338e5b16157fdbf077",
+      "reviewed_text_hash": "22dcf87cd0a0f7809a553889c72bb18522b2ff87d61102338e5b16157fdbf077",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_O_066",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3fe65c7e81362880e93985bdcdd8ce13c5de54c6e9305072257d670c1d45a559",
+      "reviewed_text_hash": "2dac4c016e1e3017ad97d33682574d1a1dd54a53a859f3f90a30d4e154b64f2f",
+      "unchanged": false,
+      "source_ids": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_067",
+      "historical_status": "再確認済み",
+      "current_text_hash": "5e2876ada56625866f5ee6e09b298aad73a6f408abfb2a90c77072166f0ecf90",
+      "reviewed_text_hash": "5e2876ada56625866f5ee6e09b298aad73a6f408abfb2a90c77072166f0ecf90",
+      "unchanged": true,
+      "source_ids": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_068",
+      "historical_status": "再確認済み",
+      "current_text_hash": "f24383188695ffe1895692735b10378b3ae06434c2b68c6ad8d5c51efdf67076",
+      "reviewed_text_hash": "f24383188695ffe1895692735b10378b3ae06434c2b68c6ad8d5c51efdf67076",
+      "unchanged": true,
+      "source_ids": [
+        "S191"
+      ]
+    },
+    {
+      "id": "Q_O_069",
+      "historical_status": "再確認済み",
+      "current_text_hash": "56a2c75b74ba95f7caf29e7ef1678666faf0a8f66b5f11c1facfd7c43e68b3ac",
+      "reviewed_text_hash": "56a2c75b74ba95f7caf29e7ef1678666faf0a8f66b5f11c1facfd7c43e68b3ac",
+      "unchanged": true,
+      "source_ids": [
+        "S191",
+        "S192"
+      ]
+    },
+    {
+      "id": "Q_O_070",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e8c5ce23df024bcb946051b68807221be90b248fcb5d3be49abc519b70de5362",
+      "reviewed_text_hash": "f94c2e44560b4efeff043ff1617b66412ec919b5ec4ccdba99ec9a71fac88f3c",
+      "unchanged": false,
+      "source_ids": [
+        "S191",
+        "S192"
+      ]
+    },
+    {
+      "id": "Q_M_013",
+      "historical_status": "再確認済み",
+      "current_text_hash": "b58f158f23e10ac87cfa593680449aa820ab0660cce4fbb3c01b69ca817ce687",
+      "reviewed_text_hash": "b58f158f23e10ac87cfa593680449aa820ab0660cce4fbb3c01b69ca817ce687",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_M_014",
+      "historical_status": "再確認済み",
+      "current_text_hash": "caa88a1a01d2bbcf89059918ba41958d0287e3440d68d04cbfeccaf6cdaa5e51",
+      "reviewed_text_hash": "caa88a1a01d2bbcf89059918ba41958d0287e3440d68d04cbfeccaf6cdaa5e51",
+      "unchanged": true,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_M_025",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c90c6c15c1be22d3e89f151bdc8fd27ab68156c68e1ff1ff5cb9f204e4c8ad73",
+      "reviewed_text_hash": "c90c6c15c1be22d3e89f151bdc8fd27ab68156c68e1ff1ff5cb9f204e4c8ad73",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_M_030",
+      "historical_status": "再確認済み",
+      "current_text_hash": "e543bcc7bbab267a331222ea081f9c9622155c6f407e8fcc537f608d0b10e3eb",
+      "reviewed_text_hash": "e543bcc7bbab267a331222ea081f9c9622155c6f407e8fcc537f608d0b10e3eb",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_M_031",
+      "historical_status": "再確認済み",
+      "current_text_hash": "3b008261e25402dd2e4a0d8d978401781acefa202e1fc5dace17b052e93a5594",
+      "reviewed_text_hash": "3b008261e25402dd2e4a0d8d978401781acefa202e1fc5dace17b052e93a5594",
+      "unchanged": true,
+      "source_ids": [
+        "S141"
+      ]
+    },
+    {
+      "id": "Q_M_032",
+      "historical_status": "再確認済み",
+      "current_text_hash": "9bdd668054e2354af2b1eee99619622de4c9e99dba4b20bdab72b3af88ad226e",
+      "reviewed_text_hash": "9bdd668054e2354af2b1eee99619622de4c9e99dba4b20bdab72b3af88ad226e",
+      "unchanged": true,
+      "source_ids": [
+        "S183"
+      ]
+    },
+    {
+      "id": "Q_M_038",
+      "historical_status": "再確認済み",
+      "current_text_hash": "fe55e7593b868186bdd356c9940d136163782f54254966749590b2afae41ae40",
+      "reviewed_text_hash": "fe55e7593b868186bdd356c9940d136163782f54254966749590b2afae41ae40",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_M_040",
+      "historical_status": "再確認済み",
+      "current_text_hash": "c819cd4adc2a6cf6fa4b71635e849c036f2b6fbf9aa4b701e08e417493661385",
+      "reviewed_text_hash": "c819cd4adc2a6cf6fa4b71635e849c036f2b6fbf9aa4b701e08e417493661385",
+      "unchanged": true,
+      "source_ids": [
+        "S144"
+      ]
+    },
+    {
+      "id": "Q_M_055",
+      "historical_status": "再確認済み",
+      "current_text_hash": "90833f2e5ab9142b935eaed47ef546793addeb751ce86912a5cdd9188fa86448",
+      "reviewed_text_hash": "f388f8735b2e6fd7910d4939d240265d36069bd4a23427f879b455e561401934",
+      "unchanged": false,
+      "source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "id": "Q_MO_001",
+      "historical_status": "再確認済み",
+      "current_text_hash": "08d297fe3409c0bf69ad4cb00d681f6bda42d88de1c91204ed37877d782919b0",
+      "reviewed_text_hash": "08d297fe3409c0bf69ad4cb00d681f6bda42d88de1c91204ed37877d782919b0",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_003",
+      "historical_status": "再確認済み",
+      "current_text_hash": "773753e3781db75c301b1fb0e1c233fca1929c9ab405992e2373d29c23176cca",
+      "reviewed_text_hash": "773753e3781db75c301b1fb0e1c233fca1929c9ab405992e2373d29c23176cca",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_004",
+      "historical_status": "再確認済み",
+      "current_text_hash": "1915793713ec5fda5b76d3c290798859f9f626f85de49e7ff516398a991e16f0",
+      "reviewed_text_hash": "1915793713ec5fda5b76d3c290798859f9f626f85de49e7ff516398a991e16f0",
+      "unchanged": true,
+      "source_ids": [
+        "S213"
+      ]
+    },
+    {
+      "id": "Q_MO_005",
+      "historical_status": "再確認済み",
+      "current_text_hash": "aa003207ab68e0453a689affa42507f20597b4d73bc924d44ce72cd97cbf8e64",
+      "reviewed_text_hash": "aa003207ab68e0453a689affa42507f20597b4d73bc924d44ce72cd97cbf8e64",
+      "unchanged": true,
+      "source_ids": [
+        "S99"
+      ]
+    },
+    {
+      "id": "Q_MO_011",
+      "historical_status": "再確認済み",
+      "current_text_hash": "26aca3bf465a6a8b78e56c3972785e02000dafe84f61e83104311921540caae4",
+      "reviewed_text_hash": "26aca3bf465a6a8b78e56c3972785e02000dafe84f61e83104311921540caae4",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_MO_012",
+      "historical_status": "再確認済み",
+      "current_text_hash": "4fb4c07058919ca3c201e019f8e42e1439e62c0f20cd0836b466c349c5b99c2d",
+      "reviewed_text_hash": "4fb4c07058919ca3c201e019f8e42e1439e62c0f20cd0836b466c349c5b99c2d",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    },
+    {
+      "id": "Q_MO_013",
+      "historical_status": "再確認済み",
+      "current_text_hash": "5e5d68a16a800d34ba797bde60a81bc1a18c1cbd9570d5367853cee3721a588b",
+      "reviewed_text_hash": "5e5d68a16a800d34ba797bde60a81bc1a18c1cbd9570d5367853cee3721a588b",
+      "unchanged": true,
+      "source_ids": [
+        "S26"
+      ]
+    }
+  ],
+  "pending_integration_changes": [
+    {
+      "id": "Q_1_031",
+      "before": {
+        "id": "Q_1_031",
+        "stem": "文化審議会国語分科会が取りまとめた指針（『敬語の指針』など）における敬語体系の理解に関する記述として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "「謙譲語Ⅱ（丁重語）」とは、話している相手や話題の人物を直接高めるために、その人物の動作を直接的に持ち上げる表現である。",
+          "2007年の『敬語の指針』では、従来の「尊敬語・謙譲語・丁寧語」の3分類を再編し、「尊敬語・謙譲語Ⅰ・謙譲語Ⅱ（丁重語）・丁寧語・美化語」の5分類が提示された。",
+          "「お茶」「お料理」などの「お・ご」を言葉の頭に付ける表現は、すべて相手への敬意を示す「尊敬語」として一括して分類される。",
+          "日本語学習者への敬語指導において、話し手の身内（自分の上司など）の動作を社外の人に対して述べる場合、常に「尊敬語」を用いて上司を高めるのが現代の標準的マナーである。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "相手や話題の人物を直接高めるのは「尊敬語」です。「謙譲語Ⅱ（丁重語）」は、自分の動作や所有物を改まった態度で相手に述べる表現（例：「参ります」「いたします」）であり、自らの動作を丁重に言うことで聞き手への配慮を示すものです。",
+          "2007（平成19）年の文化審議会答申『敬語の指針』において、従来の3分類から、より実際の用法に即した「尊敬語」「謙譲語Ⅰ」「謙譲語Ⅱ（丁重語）」「丁寧語」「美化語」の5分類への整理が提唱されました。",
+          "単に言葉を上品にするために「お」や「ご」を付ける表現（例：「お酒」「お料理」）は、「美化語」として分類されます。",
+          "社外の人に対して社内の人間（上司など）の動作を述べる場合は、ウチ・ソトの文脈に基づき、上司の動作であっても尊敬語は使わず、謙譲語や基本形（例：「社長の〇〇はただいま外出しております」）を用います。"
+        ]
+      },
+      "after": {
+        "id": "Q_1_031",
+        "stem": "文化審議会国語分科会が取りまとめた指針（『敬語の指針』など）における敬語体系の理解に関する記述として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "「謙譲語Ⅱ（丁重語）」とは、話している相手や話題の人物を直接高めるために、その人物の動作を直接的に持ち上げる表現である。",
+          "2007年の『敬語の指針』では、従来の「尊敬語・謙譲語・丁寧語」の3分類を再編し、「尊敬語・謙譲語Ⅰ・謙譲語Ⅱ（丁重語）・丁寧語・美化語」の5分類が提示された。",
+          "「お茶」「お料理」などの「お・ご」を言葉の頭に付ける表現は、すべて相手への敬意を示す「尊敬語」として一括して分類される。",
+          "日本語学習者への敬語指導において、話し手の身内（自分の上司など）の動作を社外の人に対して述べる場合、常に「尊敬語」を用いて上司を高めるのが現代の標準的マナーである。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "相手側や第三者の行為・ものごと・状態などについて、その人物を立てて述べるのは尊敬語です。謙譲語Ⅱ（丁重語）は、基本的には自分側の行為・ものごとなどを、話や文章の相手に丁重に述べます（例：「参ります」「いたします」）。行為者を立てる働きとは区別します。",
+          "2007（平成19）年の文化審議会答申『敬語の指針』において、従来の3分類から、より実際の用法に即した「尊敬語」「謙譲語Ⅰ」「謙譲語Ⅱ（丁重語）」「丁寧語」「美化語」の5分類への整理が提唱されました。",
+          "単に言葉を上品にするために「お」や「ご」を付ける表現（例：「お酒」「お料理」）は、「美化語」として分類されます。",
+          "社外の人に対して社内の人間（上司など）の動作を述べる場合は、ウチ・ソトの文脈に基づき、上司の動作であっても尊敬語は使わず、謙譲語や基本形（例：「社長の〇〇はただいま外出しております」）を用います。"
+        ]
+      },
+      "reason": "謙譲語Ⅱを自分自身の動作だけに狭めず、自分側・話や文章の相手という基本的範囲を明示。",
+      "source": "S04",
+      "printed_pages": [
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "Q_2_019",
+      "before": {
+        "id": "Q_2_019",
+        "stem": "文化審議会国語分科会の『敬語の指針』（2007年）における敬語の「5分類」に関する記述として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "「美化語」とは、言葉遣いを上品にするために「お」や「ご」を付けるものであり、相手の動作を高める効果を持つため尊敬語の一種として扱われる。",
+          "従来「謙譲語」と一括されていたもののうち、自分の動作を低めることで向かう対象（相手・第三者）への敬意を表す語は「謙譲語Ⅱ（丁重語）」に分類される。",
+          "「謙譲語Ⅰ」は、話者の動作や状態を丁寧な言葉遣いで述べることで、聞き手に対する改まった気持ちを表すものであり、向かう相手の有無は問わない。",
+          "「謙譲語Ⅱ（丁重語）」は、自分の動作や状態を聞き手（話相手）に対して丁重に述べるものであり、相手（向かう対象）の有無にかかわらず用いられる。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "「美化語（例：お料理、お酒）」は上品な言葉遣いをするためのものであり、相手の動作を高める「尊敬語」とは概念上区別されます。",
+          "自分の動作を低める（向かう対象を相対的に高める）ことでその「向かう対象（話題の人物・聞き手）」への敬意を表すものは「謙譲語Ⅰ（例：伺う、申し上げる）」です。「謙譲語Ⅱ（丁重語）」は話相手（聞き手）に対する丁重な表現です。",
+          "これは「謙譲語Ⅱ（丁重語）」の説明です。「謙譲語Ⅰ」は向かう対象（行為の受け手）が存在することが必須の条件となります。",
+          "謙譲語Ⅱ（丁重語）は、自分の動作・状態を話相手（聞き手）に対して改まって丁重に述べる表現（例：参る、申す、致す）であり、向かう対象のない自動詞的な動作等でも使用できます。"
+        ]
+      },
+      "after": {
+        "id": "Q_2_019",
+        "stem": "文化審議会国語分科会の『敬語の指針』（2007年）における敬語の「5分類」に関する記述として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "「美化語」とは、言葉遣いを上品にするために「お」や「ご」を付けるものであり、相手の動作を高める効果を持つため尊敬語の一種として扱われる。",
+          "従来「謙譲語」と一括されていたもののうち、自分の動作を低めることで向かう対象（相手・第三者）への敬意を表す語は「謙譲語Ⅱ（丁重語）」に分類される。",
+          "「謙譲語Ⅰ」は、話者の動作や状態を丁寧な言葉遣いで述べることで、聞き手に対する改まった気持ちを表すものであり、向かう相手の有無は問わない。",
+          "「謙譲語Ⅱ（丁重語）」は、基本的には自分側の行為・ものごとなどを、話や文章の相手に丁重に述べる。立てるのにふさわしい「向かう先」があってもなくても使うことができる。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "「美化語（例：お料理、お酒）」は上品な言葉遣いをするためのものであり、相手の動作を高める「尊敬語」とは概念上区別されます。",
+          "行為の向かう先を立てるのは謙譲語Ⅰ（例：「伺う」「申し上げる」）です。謙譲語Ⅱは、話や文章の相手に丁重に述べる働きであり、両者は立てる対象と丁重に述べる相手を区別して考えます。",
+          "話や文章の相手に丁重に述べるという中心的な働きは、謙譲語Ⅱの説明です。謙譲語Ⅰは、行為・ものごとなどの「向かう先」を立てます。この「向かう先」には、借りる物の出どころや、指導を受ける相手も含まれ、単なる動作の受け手に限りません。",
+          "指針18〜19頁の基本的な定義と、「向かう先」の有無に関する説明に対応します。「自分側」には家族なども含まれます。また、「バスが参りました」など、第三者や事物について話や文章の相手に丁重に述べる用法もあります。立てるべき人物の行為を「先生が参ります」のように述べてよいという意味ではありません。"
+        ]
+      },
+      "reason": "指針18頁の自分側・第三者や事物への用法、16頁の向かう先の説明を反映し、自己行為・行為受け手だけへの限定を修正。",
+      "source": "S04",
+      "printed_pages": [
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "Q_1_008",
+      "before": {
+        "id": "Q_1_008",
+        "stem": "2026年10月18日に取得した各実施機関の公式説明に照らし、試験の目的・形式・評価方式について最も適切なものを一つ選べ。",
+        "options": [
+          "EJUは、日本の大学（学部）等への入学を希望する外国人留学生について、日本語力と基礎学力を評価する。",
+          "BJTの結果は点数やレベルではなく、合格・不合格の2区分だけで通知される。",
+          "JLPTには、受験者が実際に会話する必須の口頭試験が組み込まれている。",
+          "ACTFLのOPIは、面接で発話を引き出さず、紙の選択式回答だけから話す力を評価する。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "JASSOの2026年度実施要項にある目的と一致します。日本語のほか理科・総合科目・数学が設けられ、受験科目は志望大学等の指定に基づいて選びます。全受験者が全科目を受けるという意味ではありません。",
+          "BJT公式のレベル説明は、合格・不合格ではなく、0～800点のスコアと、その点数に応じたJ5～J1+の6段階で評価するとしています。この結果だけで就労可否が一元的に決まるという旧肢の想定も採用しません。",
+          "JLPT公式FAQは、会話や作文の試験は現在どちらもなく、解答は多枝選択のマークシート方式と説明します。必須の口頭試験があるとする肢とは一致しません。",
+          "ACTFL公式のOPI説明は、面接者が会話を進め、レベルチェックとプローブで発話の証拠を引き出すと説明します。自発的で事前練習していない言語使用を扱う口頭面接であり、紙の選択式回答だけで話す力を評価する形式ではありません。"
+        ]
+      },
+      "after": {
+        "id": "Q_1_008",
+        "stem": "2026年10月18日時点の各実施機関の公式説明に照らし、試験の目的・形式・評価方式について最も適切なものを一つ選べ。",
+        "options": [
+          "EJUは、日本の大学（学部）等への入学を希望する外国人留学生について、日本語力と基礎学力を評価する。",
+          "BJTの結果は点数やレベルではなく、合格・不合格の2区分だけで通知される。",
+          "JLPTには、受験者が実際に会話する必須の口頭試験が組み込まれている。",
+          "ACTFLのOPIは、面接で発話を引き出さず、紙の選択式回答だけから話す力を評価する。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "JASSOの2026年度実施要項にある目的と一致します。日本語のほか理科・総合科目・数学が設けられ、受験科目は志望大学等の指定に基づいて選びます。全受験者が全科目を受けるという意味ではありません。",
+          "BJT公式のレベル説明は、合格・不合格ではなく、0～800点のスコアと、その点数に応じたJ5～J1+の6段階で評価するとしています。この結果だけで就労可否が一元的に決まるという旧肢の想定も採用しません。",
+          "JLPT公式FAQは、会話や作文の試験は現在どちらもなく、解答は多枝選択のマークシート方式と説明します。必須の口頭試験があるとする肢とは一致しません。",
+          "ACTFL公式のOPI説明は、面接者が会話を進め、レベルチェックとプローブで発話の証拠を引き出すと説明します。自発的で事前練習していない言語使用を扱う口頭面接であり、紙の選択式回答だけで話す力を評価する形式ではありません。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_1_034",
+      "before": {
+        "id": "Q_1_034",
+        "stem": "2026年10月18日に取得した日本語能力試験（JLPT）の公式FAQに照らし、最も適切なものを一つ選べ。",
+        "options": [
+          "JLPTは、大学院での論文執筆能力だけを測定・認定することを目的とする。",
+          "JLPTでは、会話と作文を実際に行わせる試験が全レベルに含まれる。",
+          "JLPTの認定は、提出先がどのような条件を設けていても、受験から一律2年で無効になる。",
+          "JLPTの得点は、問題ごとの配点の単純な合計ではなく、項目応答理論に基づく尺度得点方式で出される。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "公式FAQは、原則として日本語を母語としない人の日本語能力を測定・認定する試験と説明します。大学院の論文執筆能力だけに目的を限定していません。EJUを研究能力全般の試験とする旧解説の比較も撤回します。",
+          "公式FAQは、会話と作文の試験はいずれも現在は実施していないと説明します。解答方式は多枝選択によるマークシート方式です。能力の間接的な推定と、発話・作文を直接行わせる試験の実施は区別します。",
+          "公式FAQによれば、認定自体に有効期限はなく、旧試験の認定も無効にはなりません。ただし、結果を利用する会社や学校が独自に期限を決める場合があり、提出先への確認が必要です。",
+          "公式FAQは、項目応答理論に基づく尺度得点方式を明記し、問題ごとの配点を合計する方式と区別しています。合否には総合得点の合格点と各得点区分の基準点の双方が関わります。旧稿の難易度差によって得点が変動しないという絶対的な表現は用いず、公式の得点方式の説明に限定します。"
+        ]
+      },
+      "after": {
+        "id": "Q_1_034",
+        "stem": "2026年10月18日時点の日本語能力試験（JLPT）の公式FAQに照らし、最も適切なものを一つ選べ。",
+        "options": [
+          "JLPTは、大学院での論文執筆能力だけを測定・認定することを目的とする。",
+          "JLPTでは、会話と作文を実際に行わせる試験が全レベルに含まれる。",
+          "JLPTの認定は、提出先がどのような条件を設けていても、受験から一律2年で無効になる。",
+          "JLPTの得点は、問題ごとの配点の単純な合計ではなく、項目応答理論に基づく尺度得点方式で出される。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "公式FAQは、原則として日本語を母語としない人の日本語能力を測定・認定する試験と説明します。大学院の論文執筆能力だけに目的を限定していません。",
+          "公式FAQは、会話と作文の試験はいずれも現在は実施していないと説明します。解答方式は多枝選択によるマークシート方式です。能力の間接的な推定と、発話・作文を直接行わせる試験の実施は区別します。",
+          "公式FAQによれば、認定自体に有効期限はなく、旧試験の認定も無効にはなりません。ただし、結果を利用する会社や学校が独自に期限を決める場合があり、提出先への確認が必要です。",
+          "公式FAQは、項目応答理論に基づく尺度得点方式を明記し、問題ごとの配点を合計する方式と区別しています。合否には総合得点の合格点と各得点区分の基準点の双方が関わります。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_1_035",
+      "before": {
+        "id": "Q_1_035",
+        "stem": "2026年度の日本留学試験（EJU）実施要項とJASSOの得点・日本語シラバスの説明に照らし、最も適切なものを一つ選べ。",
+        "options": [
+          "日本語の記述領域は、挨拶や自己紹介の定型文を正しく写す能力だけを問う。",
+          "日本語科目は記述、読解、聴解・聴読解の3領域からなり、日本の大学等での勉学に対応する日本語力を測る。",
+          "日本語の読解・聴解・聴読解の得点は、回次の違いを考慮せず、正答の配点を単純に合計した素点だけで表示する。",
+          "日本語の記述も尺度得点だけで表示し、課題への対応を評価する採点基準は用いない。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "日本語シラバスは、課題の指示に従って考えを根拠とともに筋道立てて書く能力を挙げます。主張・結論、根拠や実例、構成、表現などを扱うもので、定型文の書き写しだけには限定されません。",
+          "2026年度実施要項は、日本の大学等での勉学に対応する日本語力を目的とし、3領域の構成を示します。得点範囲は読解・聴解・聴読解が0～400点、記述が0～50点です。旧解説のアカデミック・ジャパンは、公式表記のアカデミック・ジャパニーズに訂正します。",
+          "JASSOは、回次や実施地による問題の難易度差に対して、項目反応理論に基づく得点等化を行い、共通の尺度上で結果を比較できるようにすると説明します。読解・聴解・聴読解を、素点だけで表示するという説明は合いません。",
+          "JASSOは、記述では尺度得点ではなく採点基準に基づく採点を行うと明記しています。読解等の尺度得点方式を記述にも一律に当てはめることはできません。旧稿のJLPTとの自動換算に関する肢は、取得本文で直接判定できる採点方式の比較へ置き換えました。"
+        ]
+      },
+      "after": {
+        "id": "Q_1_035",
+        "stem": "2026年度の日本留学試験（EJU）実施要項とJASSOの得点・日本語シラバスの説明に照らし、最も適切なものを一つ選べ。",
+        "options": [
+          "日本語の記述領域は、挨拶や自己紹介の定型文を正しく写す能力だけを問う。",
+          "日本語科目は記述、読解、聴解・聴読解の3領域からなり、日本の大学等での勉学に対応する日本語力を測る。",
+          "日本語の読解・聴解・聴読解の得点は、回次の違いを考慮せず、正答の配点を単純に合計した素点だけで表示する。",
+          "日本語の記述も尺度得点だけで表示し、課題への対応を評価する採点基準は用いない。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "日本語シラバスは、課題の指示に従って考えを根拠とともに筋道立てて書く能力を挙げます。主張・結論、根拠や実例、構成、表現などを扱うもので、定型文の書き写しだけには限定されません。",
+          "2026年度実施要項は、日本の大学等での勉学に対応する日本語力を目的とし、3領域の構成を示します。得点範囲は読解・聴解・聴読解が0～400点、記述が0～50点です。",
+          "JASSOは、回次や実施地による問題の難易度差に対して、項目反応理論に基づく得点等化を行い、共通の尺度上で結果を比較できるようにすると説明します。読解・聴解・聴読解を、素点だけで表示するという説明は合いません。",
+          "JASSOは、記述では尺度得点ではなく採点基準に基づく採点を行うと明記しています。読解等の尺度得点方式を記述にも一律に当てはめることはできません。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_2_014",
+      "before": {
+        "id": "Q_2_014",
+        "stem": "Celce-Murcia・Dörnyei・Thurrell（1995）の原論文の28頁表5に基づき、達成・補償ストラテジーの例と名称が対応するものを一つ選びなさい。次の英語の例は同表に示されたものである。",
+        "options": [
+          "「corkscrew」を知らず「the thing you open bottles with」と説明するのは、近接語の使用である。",
+          "必要な語が分からず、独自に「vegetarianist」という語を作るのは、造語の使用である。",
+          "「carp」の代わりに「fish」と言うのは、迂言による説明である。",
+          "言葉の代わりに身振りで表すのは、母語の語を目標言語風の発音にする方略である。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "同表は、語の代わりに説明的な句を使うこの例を迂言に挙げています。意味の近い別の語で代用する近接語とは分けています。",
+          "同表は「vegetarianist」を造語の例に挙げています。旧稿の「魚のホテル」は比喩や迂言との境界が明示されていなかったため、指定した原論文の例を使っています。",
+          "同表は「carp」の代わりに「fish」を使う例を近接語に挙げています。対象を説明する句を用いる迂言とは区別します。",
+          "同表は身振りや指さし、絵などを非言語的手段として挙げています。母語の語を目標言語風に発音する方略は、同じ達成・補償の欄にあっても別の項目です。"
+        ]
+      },
+      "after": {
+        "id": "Q_2_014",
+        "stem": "Celce-Murcia・Dörnyei・Thurrell（1995）の原論文の28頁表5に基づき、達成・補償ストラテジーの例と名称が対応するものを一つ選びなさい。次の英語の例は同表に示されたものである。",
+        "options": [
+          "「corkscrew」を知らず「the thing you open bottles with」と説明するのは、近接語の使用である。",
+          "必要な語が分からず、独自に「vegetarianist」という語を作るのは、造語の使用である。",
+          "「carp」の代わりに「fish」と言うのは、迂言による説明である。",
+          "言葉の代わりに身振りで表すのは、母語の語を目標言語風の発音にする方略である。"
+        ],
+        "answer": 2,
+        "explanations": [
+          "同表は、語の代わりに説明的な句を使うこの例を迂言に挙げています。意味の近い別の語で代用する近接語とは分けています。",
+          "同表は「vegetarianist」を造語の例に挙げています。",
+          "同表は「carp」の代わりに「fish」を使う例を近接語に挙げています。対象を説明する句を用いる迂言とは区別します。",
+          "同表は身振りや指さし、絵などを非言語的手段として挙げています。母語の語を目標言語風に発音する方略は、同じ達成・補償の欄にあっても別の項目です。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_3_019",
+      "before": {
+        "id": "Q_3_019",
+        "stem": "学習者は「書く→書いた」などから、グループ1の「く」で終わる動詞のタ形は「く」を「いた」に変えると学んだ。次のうち、その規則を例外にまで適用した過剰般化の例はどれか。",
+        "options": [
+          "「見る」のタ形を「見た」とした。",
+          "「閉める」のタ形を「閉めた」とした。",
+          "「来る」のタ形を「来た（きた）」とした。",
+          "「行く」のタ形を「行いた」とした。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "「見る」はグループ2の動詞であり、「る」を除いて「た」を付ける「見た」は正用です。設問の「く→いた」の規則を過剰に適用した例ではありません。",
+          "「閉める」はグループ2の動詞であり、「閉めた」は正しいタ形です。この例ではグループ1の「く→いた」の規則は適用されていません。",
+          "「来る」はグループ3の動詞であり、タ形は「来た（きた）」です。正しい形であり、過剰般化による誤用ではありません。",
+          "「行く」のタ形は例外的に「行った」となります。「く→いた」の規則を例外にも適用した「行いた」は、設問で示された学習済み規則の適用範囲を越えた例です。日本語例はRichardsの概念を用いて本監査で構成したものです。"
+        ]
+      },
+      "after": {
+        "id": "Q_3_019",
+        "stem": "学習者は「書く→書いた」などから、グループ1の「く」で終わる動詞のタ形は「く」を「いた」に変えると学んだ。次のうち、その規則を例外にまで適用した過剰般化の例はどれか。",
+        "options": [
+          "「見る」のタ形を「見た」とした。",
+          "「閉める」のタ形を「閉めた」とした。",
+          "「来る」のタ形を「来た（きた）」とした。",
+          "「行く」のタ形を「行いた」とした。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "「見る」はグループ2の動詞であり、「る」を除いて「た」を付ける「見た」は正用です。設問の「く→いた」の規則を過剰に適用した例ではありません。",
+          "「閉める」はグループ2の動詞であり、「閉めた」は正しいタ形です。この例ではグループ1の「く→いた」の規則は適用されていません。",
+          "「来る」はグループ3の動詞であり、タ形は「来た（きた）」です。正しい形であり、過剰般化による誤用ではありません。",
+          "「行く」のタ形は例外的に「行った」となります。「く→いた」の規則を例外にも適用した「行いた」は、設問で示された学習済み規則の適用範囲を越えた例です。日本語例はRichardsの概念を用いて構成した架空の例です。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_3_029",
+      "before": {
+        "id": "Q_3_029",
+        "stem": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の行動に対応する分類を一つ選びなさい。読解中に知らない語が現れたため、前後の文脈を手掛かりに意味を推測して知識の不足を補った。語の内部構造の分析、他者への質問、自分の理解状態の点検は、この事例には含めない。",
+        "options": [
+          "情意ストラテジー：深呼吸などで不安や緊張を調整する。",
+          "メタ認知ストラテジー：課題の目標や学習時間を事前に計画する。",
+          "社会的ストラテジー：相手に質問して意味や説明を確認する。",
+          "補償ストラテジー：読解で知らない語の意味を文脈から推測して不足を補う。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "同論文14頁の情意ストラテジーは不安への気づきや深呼吸などを含みます。設問の行動は気持ちの調整を記述していません。",
+          "同論文12頁では課題の計画はメタ認知ストラテジーの例です。設問は課題前の計画や学習過程の点検を行う事例ではありません。",
+          "同論文14頁では他者への質問や確認は社会的ストラテジーの例です。設問では他者に質問せず、文脈を使って不足を補っています。",
+          "同論文13頁は、読解や聴解で文脈から推測することを補償ストラテジーに挙げています。旧稿の語の構成分析と文脈推測を混在させた条件を分け、指定した分類で一義的に判断できる事例にしました。"
+        ]
+      },
+      "after": {
+        "id": "Q_3_029",
+        "stem": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の行動に対応する分類を一つ選びなさい。読解中に知らない語が現れたため、前後の文脈を手掛かりに意味を推測して知識の不足を補った。語の内部構造の分析、他者への質問、自分の理解状態の点検は、この事例には含めない。",
+        "options": [
+          "情意ストラテジー：深呼吸などで不安や緊張を調整する。",
+          "メタ認知ストラテジー：課題の目標や学習時間を事前に計画する。",
+          "社会的ストラテジー：相手に質問して意味や説明を確認する。",
+          "補償ストラテジー：読解で知らない語の意味を文脈から推測して不足を補う。"
+        ],
+        "answer": 4,
+        "explanations": [
+          "同論文14頁の情意ストラテジーは不安への気づきや深呼吸などを含みます。設問の行動は気持ちの調整を記述していません。",
+          "同論文12頁では課題の計画はメタ認知ストラテジーの例です。設問は課題前の計画や学習過程の点検を行う事例ではありません。",
+          "同論文14頁では他者への質問や確認は社会的ストラテジーの例です。設問では他者に質問せず、文脈を使って不足を補っています。",
+          "同論文13頁は、読解や聴解で文脈から推測することを補償ストラテジーに挙げています。本問では語の内部構造の分析や他者への質問などを除き、文脈を手掛かりに未知語の意味を推測する行動に限定しています。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_4_036",
+      "before": {
+        "id": "Q_4_036",
+        "stem": "Jane WillisがTeachingEnglishの記事「From priming tasks and target tasks to language focus and grammar」で説明する授業の段階について、最も適切なものを一つ選びなさい。",
+        "options": [
+          "タスク・サイクルの後で、教科書の文法部分を使って形式に焦点を当てた学習を行うことを提案している。",
+          "Pre-taskの目的を、新しい文法形式を全員が完全に暗唱できるまで、その形式の産出だけを強制することと定義している。",
+          "Planningでは意味を伝える表現を改善してはならず、辞書の使用や教師への言語面の相談も禁止すると説明している。",
+          "Reportでは流暢さだけに焦点を当て、正確さへの注意を排除すると説明している。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "記事の「Focus on Form: At the end of the task cycle」に対応します。ここでは取得した本人の記事の提案を問い、Prabhuの枠組みと一つにまとめたり、すべてのTBL授業で同じ手順が必須だとしたりはしません。",
+          "記事のPre-task/Primingは主なタスクへの準備であり、必要な語彙を活性化する活動などを挙げています。新形式の産出を暗唱完成まで強制するという定義ではありません。",
+          "記事のPlanningでは、伝えたいことを表す言語を改善し、辞書を調べたり、教師に相談したり、報告を練習したりできます。サイクル内では言語に注意を向けないという一括りの説明はできません。",
+          "記事はReportで流暢さと正確さの両方に焦点を当てると述べています。正確さを排除する説明は対応しません。"
+        ]
+      },
+      "after": {
+        "id": "Q_4_036",
+        "stem": "Jane WillisがTeachingEnglishの記事「From priming tasks and target tasks to language focus and grammar」で説明する授業の段階について、最も適切なものを一つ選びなさい。",
+        "options": [
+          "タスク・サイクルの後で、教科書の文法部分を使って形式に焦点を当てた学習を行うことを提案している。",
+          "Pre-taskの目的を、新しい文法形式を全員が完全に暗唱できるまで、その形式の産出だけを強制することと定義している。",
+          "Planningでは意味を伝える表現を改善してはならず、辞書の使用や教師への言語面の相談も禁止すると説明している。",
+          "Reportでは流暢さだけに焦点を当て、正確さへの注意を排除すると説明している。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "記事の「Focus on Form: At the end of the task cycle」に対応します。ここでは本人の記事の提案を問い、Prabhuの枠組みと一つにまとめたり、すべてのTBL授業で同じ手順が必須だとしたりはしません。",
+          "記事のPre-task/Primingは主なタスクへの準備であり、必要な語彙を活性化する活動などを挙げています。新形式の産出を暗唱完成まで強制するという定義ではありません。",
+          "記事のPlanningでは、伝えたいことを表す言語を改善し、辞書を調べたり、教師に相談したり、報告を練習したりできます。サイクル内では言語に注意を向けないという一括りの説明はできません。",
+          "記事はReportで流暢さと正確さの両方に焦点を当てると述べています。正確さを排除する説明は対応しません。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_4_037",
+      "before": {
+        "id": "Q_4_037",
+        "stem": "CLILの内容と言語を結び付ける枠組みと、Cummins（2008）のBICS・CALPの区別を踏まえた授業設計として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "教科内容に関わる概念や考えを理解し表現する言語も学習対象とし、内容・思考の活動と、それに必要な言語面の支援を結び付ける。",
+          "内容と言語を別々の学習とし、教科で必要な言語をすべて身に付けるまで、内容を扱う活動は始めないことをCLILの原則とする。",
+          "学習言語の熟達度が低ければ、学習者の既有知識や支援の有無にかかわらず、内容について考える活動を一切除く。",
+          "CALPは書き言葉だけの能力とみなし、教科内容について口頭で説明し合う活動は学習言語の育成に含めない。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "CLILの枠組みは内容と言語の双方を焦点とし、思考と言語使用を結び付けます。CALPには教科の概念や考えを口頭・書面で理解し表現する側面があるため、内容・思考の活動と必要な言語面の支援を結び付ける設計は両者に整合します。",
+          "取得したCLILの説明は、内容の目標から必要な言語を分析し、授業前の支援計画と授業中に生じる言語使用の両方を扱います。すべての言語を先に習得してから内容を扱うという一律の順序原則ではありません。",
+          "CLILの枠組みは内容・思考と言語を結び付け、Cumminsは課題の認知的要求や文脈的支えが既有知識などで変わると述べます。言語の熟達度だけから、支援も検討せず内容について考える活動を一切除く判断にはなりません。",
+          "CumminsによるCALPの定義には口頭と書面の双方が含まれます。CLILでも内容の意味を伝え合う言語を扱うため、教科内容についての口頭の説明を一律に学習言語の対象外とすることはできません。"
+        ]
+      },
+      "after": {
+        "id": "Q_4_037",
+        "stem": "CLILの内容と言語を結び付ける枠組みと、Cummins（2008）のBICS・CALPの区別を踏まえた授業設計として、最も適切なものを一つ選びなさい。",
+        "options": [
+          "教科内容に関わる概念や考えを理解し表現する言語も学習対象とし、内容・思考の活動と、それに必要な言語面の支援を結び付ける。",
+          "内容と言語を別々の学習とし、教科で必要な言語をすべて身に付けるまで、内容を扱う活動は始めないことをCLILの原則とする。",
+          "学習言語の熟達度が低ければ、学習者の既有知識や支援の有無にかかわらず、内容について考える活動を一切除く。",
+          "CALPは書き言葉だけの能力とみなし、教科内容について口頭で説明し合う活動は学習言語の育成に含めない。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "CLILの枠組みは内容と言語の双方を焦点とし、思考と言語使用を結び付けます。CALPには教科の概念や考えを口頭・書面で理解し表現する側面があるため、内容・思考の活動と必要な言語面の支援を結び付ける設計は両者に整合します。",
+          "CLILの説明は、内容の目標から必要な言語を分析し、授業前の支援計画と授業中に生じる言語使用の両方を扱います。すべての言語を先に習得してから内容を扱うという一律の順序原則ではありません。",
+          "CLILの枠組みは内容・思考と言語を結び付け、Cumminsは課題の認知的要求や文脈的支えが既有知識などで変わると述べます。言語の熟達度だけから、支援も検討せず内容について考える活動を一切除く判断にはなりません。",
+          "CumminsによるCALPの定義には口頭と書面の双方が含まれます。CLILでも内容の意味を伝え合う言語を扱うため、教科内容についての口頭の説明を一律に学習言語の対象外とすることはできません。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_O_066",
+      "before": {
+        "id": "Q_O_066",
+        "stem": "ケース14の授業をCLIL（内容言語統合型学習）として設計する際の目標設定として、最も適切なものを一つ選べ。",
+        "options": [
+          "環境問題に関する内容の理解と、その内容を日本語で理解・表現するための言語の学習を結び付ける。",
+          "環境問題は日本語を話すための話題にすぎないので、内容の理解を学習目標から除く。",
+          "環境問題の知識だけを目標とし、資料読解や意見交換で必要な日本語は学習対象に含めない。",
+          "内容と言語の二つの目標は両立しないので、どちらか一方の学習だけをCLILの原則とする。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Bower・Cross・Coyleの説明では、CLILは内容と言語の二重の焦点をもち、内容の目標から必要な言語を検討します。環境に関する資料を読み、話し合い、比較レポートを書くケースに、この二重の目標を具体化した設計です。",
+          "CLILのContentは、主題についての知識・概念・技能を含みます。話題を用いるだけで内容の理解を目標から除く説明では、内容と言語を統合する二重の焦点を満たしません。",
+          "Communicationは、学ぶ知識・概念・技能について意味を作り伝える言語に関わります。資料読解や意見交換に必要な日本語を学習対象から除く設計は、言語も焦点とする説明と合いません。",
+          "取得した著者の枠組みは、内容の目標と言語の要求を結び付けて設計するものです。二つは両立しないという説明は反対です。二重の目標を設定することと、全員の学習効果を保証することは別です。"
+        ]
+      },
+      "after": {
+        "id": "Q_O_066",
+        "stem": "ケース14の授業をCLIL（内容言語統合型学習）として設計する際の目標設定として、最も適切なものを一つ選べ。",
+        "options": [
+          "環境問題に関する内容の理解と、その内容を日本語で理解・表現するための言語の学習を結び付ける。",
+          "環境問題は日本語を話すための話題にすぎないので、内容の理解を学習目標から除く。",
+          "環境問題の知識だけを目標とし、資料読解や意見交換で必要な日本語は学習対象に含めない。",
+          "内容と言語の二つの目標は両立しないので、どちらか一方の学習だけをCLILの原則とする。"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Bower・Cross・Coyleの説明では、CLILは内容と言語の二重の焦点をもち、内容の目標から必要な言語を検討します。環境に関する資料を読み、話し合い、比較レポートを書くケースに、この二重の目標を具体化した設計です。",
+          "CLILのContentは、主題についての知識・概念・技能を含みます。話題を用いるだけで内容の理解を目標から除く説明では、内容と言語を統合する二重の焦点を満たしません。",
+          "Communicationは、学ぶ知識・概念・技能について意味を作り伝える言語に関わります。資料読解や意見交換に必要な日本語を学習対象から除く設計は、言語も焦点とする説明と合いません。",
+          "著者の枠組みは、内容の目標と言語の要求を結び付けて設計するものです。二つは両立しないという説明は反対です。二重の目標を設定することと、全員の学習効果を保証することは別です。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    },
+    {
+      "id": "Q_O_070",
+      "before": {
+        "id": "Q_O_070",
+        "stem": "CLILの内容と言語を結び付ける枠組みに沿って日本語の授業を設計する際の説明として、最も適切なものを一つ選べ。",
+        "options": [
+          "CLILという名称を用いれば、学習者の条件や課題の設計にかかわらず、他の授業より全員に高い学習効果が必ず生じる。",
+          "CLILの枠組みが扱う言語は英語に限られるため、教科内容を学ぶ言語として日本語を用いる授業には適用を検討できない。",
+          "内容について考え、その意味を日本語で理解し伝える学習を結び付ける。そのために必要な言語面の支援や課題の負担も検討する。",
+          "内容を日本語で扱うことにすれば、それだけで全員が授業を理解できるため、語彙・表現や活動手順の支援は不要になる。"
+        ],
+        "answer": 3,
+        "explanations": [
+          "取得した枠組みは授業設計の観点を述べたもので、名称を付ければ学習者や課題の条件と無関係に全員に優越した効果が出るという保証ではありません。",
+          "著者らは内容と言語の二重焦点を述べ、英語だけを対象言語とする原則にはしていません。日本語を教科内容の学習に用いる設計を、英語ではないことだけで除外する説明は誤りです。",
+          "内容に関わる思考と言語の使用を結び付ける設計です。公式handbookは語彙・文の枠組みや視覚的な支え、課題の分割・調整などを挙げます。設計上の意義と支援を述べ、全員への効果を保証する説明にはしていません。",
+          "公式handbookは内容と言語の双方への足場掛けや、学習者に応じた課題の調整を扱っています。内容を日本語にするだけで全員が理解し、言語や手順の支援が不要になるという説明とは異なります。"
+        ]
+      },
+      "after": {
+        "id": "Q_O_070",
+        "stem": "CLILの内容と言語を結び付ける枠組みに沿って日本語の授業を設計する際の説明として、最も適切なものを一つ選べ。",
+        "options": [
+          "CLILという名称を用いれば、学習者の条件や課題の設計にかかわらず、他の授業より全員に高い学習効果が必ず生じる。",
+          "CLILの枠組みが扱う言語は英語に限られるため、教科内容を学ぶ言語として日本語を用いる授業には適用を検討できない。",
+          "内容について考え、その意味を日本語で理解し伝える学習を結び付ける。そのために必要な言語面の支援や課題の負担も検討する。",
+          "内容を日本語で扱うことにすれば、それだけで全員が授業を理解できるため、語彙・表現や活動手順の支援は不要になる。"
+        ],
+        "answer": 3,
+        "explanations": [
+          "この枠組みは授業設計の観点を述べたもので、名称を付ければ学習者や課題の条件と無関係に全員に優越した効果が出るという保証ではありません。",
+          "著者らは内容と言語の二重焦点を述べ、英語だけを対象言語とする原則にはしていません。日本語を教科内容の学習に用いる設計を、英語ではないことだけで除外する説明は誤りです。",
+          "内容に関わる思考と言語の使用を結び付ける設計です。公式handbookは語彙・文の枠組みや視覚的な支え、課題の分割・調整などを挙げます。設計上の意義と支援を述べ、全員への効果を保証する説明にはしていません。",
+          "公式handbookは内容と言語の双方への足場掛けや、学習者に応じた課題の調整を扱っています。内容を日本語にするだけで全員が理解し、言語や手順の支援が不要になるという説明とは異なります。"
+        ]
+      },
+      "reason": "制作履歴・取得作業の説明を監査記録へ分離し、読者向けの内容説明と参照時点の表示に整える。学術的な追加承認を与える変更ではない。",
+      "category": "reader_facing_editorial_cleanup"
+    }
+  ],
+  "pending_integration_count": 12,
+  "pending_integration_source_blob": "3d298277aaa5c8bf2f6cdade49d7fe7475ada3aa",
+  "new_primary_reviews": 0,
+  "remaining468_claim_withdrawn": true,
+  "publication_approved": false
+}

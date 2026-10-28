@@ -1,22 +1,14 @@
 {
   "date_jst": "2026-10-28",
   "branch": "audit/edition-neutral-20261028",
-  "canonical_docx": "publishing/edition_neutral/20261028_round3/manuscript.docx",
-  "docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
-  "canonical_epub": "publishing/edition_neutral/20261028_round3/manuscript.epub",
-  "epub_sha256": "8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c",
+  "canonical_docx": "publishing/edition_neutral/20261028_round4/manuscript.docx",
+  "docx_sha256": "9400adfb763a033e86ad198ad1e85f6005b448de97a3b002ed26d561db74510d",
+  "canonical_epub": "publishing/edition_neutral/20261028_round4/manuscript.epub",
+  "epub_sha256": "cceb303f2448093af32a1daaf1624e8874b6e85969ee17d84cafaa77635e18ed",
   "questions": 500,
   "word_epub_match": 500,
   "publication_approved": false,
   "release_ready": false,
-  "latest_primary_review": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
-  "latest_primary_review_session": "20261028_07",
-  "latest_primary_review_count": 20,
-  "cumulative_explicit_primary_pass": 24,
-  "all500_fresh_primary_review": false,
-  "latest_source_review": "publishing/edition_neutral/20261028_round3/review08/source_review_8.json",
-  "latest_source_review_session": "20261028_08",
-  "latest_source_review_count": 8,
-  "cumulative_explicit_source_pass": 32,
-  "coverage_note": "32 scoped source-reviewed units include retained original framework and institutional pedagogical sources; not32 freshly acquired original research articles."
+  "review_policy": "Inherit existing audit; only explicit unresolved items and changes impact. Blanket500 question re-audit and remaining468 queue withdrawn.",
+  "checkpoint": "publishing/edition_neutral/20261028_round4/README.md"
 }
