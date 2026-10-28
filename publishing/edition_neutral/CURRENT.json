@@ -1,0 +1,12 @@
+{
+  "date_jst": "2026-10-28",
+  "branch": "audit/edition-neutral-20261028",
+  "canonical_docx": "publishing/edition_neutral/20261028_round2/manuscript.docx",
+  "docx_sha256": "c7ab90d791b36b237c94cdce73d0e2ce9aa9bba9c990fcaac26a5dab324b854d",
+  "canonical_epub": "publishing/edition_neutral/20261028_round2/manuscript.epub",
+  "epub_sha256": "2c260150ed136d3a72879706565ee221304a9d222c533c5a2ff13304c7534c05",
+  "questions": 500,
+  "word_epub_match": 500,
+  "publication_approved": false,
+  "release_ready": false
+}

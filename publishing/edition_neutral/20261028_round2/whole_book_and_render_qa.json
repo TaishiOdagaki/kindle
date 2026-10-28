@@ -1,0 +1,31 @@
+{
+  "pages": 400,
+  "empty_pages": [],
+  "out_of_page_words": [],
+  "replacement_pages": [],
+  "whole_book_word_epub_equal_normalized": true,
+  "normalized_characters": 309959,
+  "newly_visually_inspected_pages": [
+    2,
+    3,
+    47,
+    197
+  ],
+  "visually_checked_changed_pages_findings": "No clipped or missing text, no overlaps; expanded warnings and revised explanations readable.",
+  "pixel_identical_to_previously_reviewed_page_count": 396,
+  "previous_visual_review_reference": "2026-10-23 round40/render_qa.json and render40_verified page images",
+  "all_pages_newly_visually_reviewed": false,
+  "kindle_cli": {
+    "Book Name": "manuscript_epub",
+    "Enhanced Typesetting Status": "Supported",
+    "Conversion Status": "Success",
+    "Error Count": "0",
+    "Quality Issue Count": "0",
+    "Output File Path": "/Users/midorikobayakawa/Documents/Codex/2026-10-28/referenced-chatgpt-conversation-this-is-an/work/edition_neutral_02/kindle_previewer/KPF/manuscript_epub.kpf",
+    "Log File Path": "/Users/midorikobayakawa/Documents/Codex/2026-10-28/referenced-chatgpt-conversation-this-is-an/work/edition_neutral_02/kindle_previewer/Logs/manuscript_epub_log.csv",
+    "Quality Report Path": ""
+  },
+  "kindle_notice": "W14016: Cover not specified",
+  "kindle_gui_device_full_visual_review_completed": false,
+  "publication_approved": false
+}
