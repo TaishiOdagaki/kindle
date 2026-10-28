@@ -1,3 +1,13 @@
+## 最新 2026-10-28 第8セッション 資料照合8問
+
+継続ブランチ audit/edition-neutral-20261028、最新コミット 478c5a23631013c1de28c17bd0c1a3dc3e009e1c。第3次恒常稿の本文バイナリは前回から不変。CURRENT.json と publishing/edition_neutral/20261028_round3/review08/README.md を先に読む。
+
+反転学習6問（Q_4_117,Q_O_036〜040）と用語2問（Q_M_026,Q_M_027）を設問・全4肢・全4解説・共通ケースまで照合し、追加修正0。明示的な資料再照合PASS累計32問。FLN2014は保存済み公式PDFをハッシュ一致確認後に全2頁本文・画像で再読、Web再取得はタイムアウト。用語の資料は機関の公式教材を新規閲覧。原著研究・定義枠組み・実践教材の範囲を区別し、全32問を新規原著研究全文取得とはしない。
+
+次の候補はQ_5_091読解用語、Q_4_036/Q_4_046/Q_O_054のWillis本人記事。残り468問は過去監査を継承し今回新規PASSとはしない。Brown/Levinson4問の取得制約と、Kindle GUI/端末・表紙・名義・学術承認は未了。本文未変更につき全構造検査や再変換を初期化しない。ユーザーは他作業中、自律継続・中間ファイル提示不要・新規Workや並行編集不要。publication_approved=false。
+
+---
+
 ## 最新 2026-10-28 第7セッション 原典照合20問
 
 継続ブランチ audit/edition-neutral-20261028、最新確認コミット b5745bab5d4c1b4f2bff0bfcc10b322b43faa748。原稿本体は第3次恒常稿のまま（前回41eb11d8f10aa0320b539d86a6dfa3709ededc41からバイナリ変更0）。CURRENT.jsonと publishing/edition_neutral/20261028_round3/review07/README.md を最初に読む。
