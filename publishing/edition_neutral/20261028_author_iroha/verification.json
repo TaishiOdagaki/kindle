@@ -1,0 +1,90 @@
+{
+  "author": "登録日本語教員試験対策研究会「いろは」",
+  "bio": "豊富な指導経験をもった日本語教員が日々の課題を持ち寄り、切磋琢磨につとめる研究会。後進の育成と、さらなる効果的な教授法の開発を目指し、登録日本語教員試験の対策研究として、過去問題を分析し、予想問題をつくっている。",
+  "changes": [
+    {
+      "artifact": "EPUB",
+      "location": "EPUB/content.opf",
+      "old_name_occurrences": 1,
+      "operation": "metadata author replacement"
+    },
+    {
+      "artifact": "EPUB",
+      "location": "EPUB/text/author-about.xhtml",
+      "old_name_occurrences": 2,
+      "operation": "author name + full profile replacement"
+    },
+    {
+      "artifact": "Word",
+      "location": "word/document.xml author page",
+      "old_name_occurrences": 2,
+      "operation": "author name + full profile replacement"
+    },
+    {
+      "artifact": "Word",
+      "location": "docProps/core.xml",
+      "old_name_occurrences": 1,
+      "operation": "author metadata replacement"
+    },
+    {
+      "artifact": "商品説明.txt",
+      "location": "著者について",
+      "operation": "author name + profile replacement"
+    },
+    {
+      "artifact": "登録情報.json",
+      "location": "author / author_bio",
+      "operation": "author name + profile replacement"
+    }
+  ],
+  "residual_old_author_mentions": 0,
+  "all500_question_records_unchanged": true,
+  "word_epub500_match": true,
+  "qa": {
+    "questions": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "bookmarks": 1000,
+    "spine_documents": 56,
+    "xhtml_documents": 57,
+    "internal_hrefs": 2158,
+    "broken_hrefs": [],
+    "duplicate_ids": [],
+    "replacement_characters": 0,
+    "zip_crc_ok": true
+  },
+  "output_files": {
+    "本文.docx": {
+      "sha256": "e46dc19dd5b6f70361c7d9099eaef6017d82b76af84437c591da2cf69e3673a3",
+      "git_blob": "3bedf2e760df5febecc6214c97c41c85933db9c5"
+    },
+    "本文.epub": {
+      "sha256": "96a54e4d40e076320a5734e7e5cbbd77b5eb9fd6843a03c5724bf4295fe38ba4",
+      "git_blob": "64e3e50ea4dd53b2f418120097e9c535dfc75e5e"
+    },
+    "登録情報.json": {
+      "sha256": "81d35706dd277313b042b1d8e9aec139695a2da7174194868f84401253a5a03f",
+      "git_blob": "4fa02abc724f52295dea138da64ab7a9d776f783"
+    },
+    "商品説明.txt": {
+      "sha256": "3e17fe69e100ff52087bf58ab36aba2064380dbeb29cc649f01f9dcfd0c76729",
+      "git_blob": "9a3cfa3f4b9852b812f89b523d79a8aefe345240"
+    }
+  },
+  "epubcheck": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "kindle_conversion": {
+    "success": true,
+    "errors": 0,
+    "quality_issues": 0
+  },
+  "word_visual_check": {
+    "pages": 401,
+    "author_page": 3,
+    "author_page_inspected": true,
+    "standalone_page": true,
+    "note": "Full-page pixel comparison is not asserted: rendering environment differs. Prior review inherited; only author content changed."
+  }
+}
