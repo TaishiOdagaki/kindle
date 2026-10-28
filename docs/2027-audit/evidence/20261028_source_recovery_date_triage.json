@@ -1,0 +1,150 @@
+{
+  "date_jst": "2026-10-28",
+  "academic_master": {
+    "git_blob_sha": "c4252ee33ba264fee3aeb4033ebc25b7261a4094",
+    "bytes": 1493810,
+    "questions": 500,
+    "unique_ids": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "structural_errors": 0,
+    "independent_substance_approved": false
+  },
+  "comparison_copy": {
+    "path": "/Users/midorikobayakawa/Documents/Codex/2026-10-23/2027-github-https-github-com-taishiodagaki/outputs/2027年度版_パーフェクト問題集_最終確認稿.docx",
+    "sha256": "bb9545195f0b0ce94a3be99ad41ef82d01c1df75794cb58e30338c5ca9d7648d",
+    "paragraphs": 7329,
+    "tables": 10,
+    "is_requested_first_draft": false
+  },
+  "requested_first_draft": {
+    "expected_sha256": "08cdb0546f2e63c2b344d6400974ced6cad9c2024ff77a4cdb77cc977b7e9e4b",
+    "retrieved": false,
+    "reason": "Chrome reports download complete; execution read denied by OS even after per-file permission grant. No substitution performed."
+  },
+  "triage_14": [
+    {
+      "paragraph_index_zero_based": 19,
+      "text": "なお本書は学習の一助となることを目的としたオリジナル問題集です。制度や出題範囲についての最終的な確認は、必ず文部科学省や出入国在留管理庁など関係機関が公表する最新情報でお願いいたします。",
+      "classification": "公式情報への案内であり年度宣伝ではない",
+      "proposed_text": "なお本書は学習の一助となることを目的としたオリジナル問題集です。制度や出題範囲についての最終的な確認は、必ず文部科学省や出入国在留管理庁など関係機関が公表する受験時点の公式情報でお願いいたします。",
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 70,
+      "text": "出入国在留管理庁の特定技能総合支援サイト（2026年10月20日確認）に示された、特定技能1号の外国人への支援に合うものを一つ選べ。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 98,
+      "text": "2026年10月18日に取得した各実施機関の公式説明に照らし、試験の目的・形式・評価方式について最も適切なものを一つ選べ。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 106,
+      "text": "在留資格と就労活動に関する説明として、適切なものを一つ選べ（2026年10月20日確認）。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 113,
+      "text": "入管庁の育成就労制度Q&Aにおける制度目的と施行日の説明に合うものを一つ選べ（2026年10月20日確認）。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 117,
+      "text": "4. 育成就労は人手不足分野の人材育成・人材確保を目的とし、運用開始は2027年4月1日とされる。",
+      "classification": "施行日の保持",
+      "proposed_text": "4. 育成就労は人手不足分野の人材育成・人材確保を目的とし、受入れ開始日は2027年4月1日とされている。",
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 120,
+      "text": "入管庁の公表資料に照らし、特定技能1号と2号の通算在留期間の説明として適切なものを一つ選べ（2026年10月20日確認）。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 155,
+      "text": "「技術・人文知識・国際業務」の上陸許可基準で、外国文化に基盤を有する思考・感受性を必要とする業務の実務経験要件について、適切なものを一つ選べ（2026年10月20日確認）。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 285,
+      "text": "2026年10月18日に取得した日本語能力試験（JLPT）の公式FAQに照らし、最も適切なものを一つ選べ。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 292,
+      "text": "2026年度の日本留学試験（EJU）実施要項とJASSOの得点・日本語シラバスの説明に照らし、最も適切なものを一つ選べ。",
+      "classification": "年度付き資料の条件として保持・設問と解説を一括判断",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 945,
+      "text": "1. 自身の過去の経験のみを絶対視し、新しい教育テクノロジーや最新の第二言語習得理論の導入を意図的に避ける姿勢のことである。",
+      "classification": "最新という相対表現の編集候補",
+      "proposed_text": "1. 自身の過去の経験のみを絶対視し、新しい教育テクノロジーや第二言語習得研究の知見の導入を意図的に避ける姿勢のことである。",
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 3189,
+      "text": "国際交流基金のEPA日本語予備教育事業の公式紹介に合うものを一つ選べ（2026年10月20日確認）。",
+      "classification": "資料基準日を保持",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 3785,
+      "text": "1（正）　JASSOの2026年度実施要項にある目的と一致します。日本語のほか理科・総合科目・数学が設けられ、受験科目は志望大学等の指定に基づいて選びます。全受験者が全科目を受けるという意味ではありません。",
+      "classification": "年度付き資料の条件として保持・設問と解説を一括判断",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    },
+    {
+      "paragraph_index_zero_based": 3975,
+      "text": "2（正）　2026年度実施要項は、日本の大学等での勉学に対応する日本語力を目的とし、3領域の構成を示します。得点範囲は読解・聴解・聴読解が0～400点、記述が0～50点です。旧解説のアカデミック・ジャパンは、公式表記のアカデミック・ジャパニーズに訂正します。",
+      "classification": "年度付き資料の条件として保持・設問と解説を一括判断",
+      "proposed_text": null,
+      "applied": false,
+      "status": "PENDING_CANONICAL_BINARY"
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "finding": "2027-04-01受入れ開始を公式検索結果で再確認。全文取得による全条件再監査ではない。"
+    },
+    {
+      "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2026.html",
+      "finding": "年度付き実施要項と領域の構成を公式検索結果で再確認。年度を一括削除しない。"
+    }
+  ],
+  "publication_approved": false
+}
