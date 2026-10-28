@@ -1,3 +1,17 @@
+## 最新 2026-10-28 第7セッション 原典照合20問
+
+継続ブランチ audit/edition-neutral-20261028、最新確認コミット b5745bab5d4c1b4f2bff0bfcc10b322b43faa748。原稿本体は第3次恒常稿のまま（前回41eb11d8f10aa0320b539d86a6dfa3709ededc41からバイナリ変更0）。CURRENT.jsonと publishing/edition_neutral/20261028_round3/review07/README.md を最初に読む。
+
+今回は20問の設問・全4肢・全4解説を根拠資料に再照合し追加修正0。前回4と合わせ明示的な新規原典確認PASS累計24問。原著全巻ではなく再録抜粋によるZPD確認1問を含む。500問すべての新規原典監査や人による承認の完了とは宣言しない。各肢・資料範囲・限定は review07/primary_source_review_20.json に記録。
+
+前回優先4問Q_3_017/Q_4_072/Q_5_084/Q_5_092を確認済み。Q_4_125の現在施行条文取得保留もe-Govの32条1項・48条1項1号/2項を直接閲覧して解消。下記第6セッションの未了記載は履歴として保存する。
+
+次は採用台帳に基づく限定の重要な問題の原典確認、Kindle GUI/端末表示、表紙・著者名義等。Brown/Levinson関連Q_2_026/Q_5_079/Q_5_100/Q_O_056は機関PDF403により新規原典確認未了でPASSに数えない。合法的な読める版を探す。本文未変更につき検証済み400頁レンダリング・500問Word/EPUB一致・EPUBCheck・Kindle CLIを継承し、同じ検査を初期化してやり直さない。
+
+中間ファイルの逐次提示、新規Workチャット、並行編集は不要。ユーザーは他作業中で自律継続を希望。publication_approved=false / release_ready=false。
+
+---
+
 ## 最新 2026-10-28 第6セッション 第3次恒常稿
 
 継続稿はブランチ `audit/edition-neutral-20261028` のコミット `41eb11d8f10aa0320b539d86a6dfa3709ededc41`、`publishing/edition_neutral/20261028_round3/manuscript.docx` と同名EPUB。基点・残件・500行台帳は同ディレクトリREADMEとadoption_ledger_500.jsonを読む。第2次稿から戻さない。
