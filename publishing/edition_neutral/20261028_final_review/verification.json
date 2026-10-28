@@ -1,0 +1,27 @@
+{
+  "package": "final review candidate,not published",
+  "docx_sha256": "9400adfb763a033e86ad198ad1e85f6005b448de97a3b002ed26d561db74510d",
+  "epub_sha256": "59a153a38515edeac406ba9f4bc738230159951c7cdc9bfc4da8d91c20cd3d4b",
+  "cover_sha256": "6273a2e892f706b3447008339271de8553ff2cc685132ef9cb17018e17782f51",
+  "cover_dimensions": [
+    1600,
+    2560
+  ],
+  "cover_rgb": true,
+  "cover_title_author_match": true,
+  "body_changed": false,
+  "gui_preview_completed": false,
+  "gui_blocker": "Native file chooser became unresponsive to paths; CUA state timeout -10005. Official CLI --showpreview returned LaunchServices -10827 kLSNoExecutableErr. No full reader visual pass claimed.",
+  "author_confirmed_by_user": true,
+  "author_bio_claims": "No unverified experience years or organization achievements added.",
+  "publication_approved": false,
+  "epubcheck_errors": 0,
+  "epubcheck_warnings": 0,
+  "kindle_conversion": "Success",
+  "enhanced_typesetting": "Supported",
+  "kindle_errors": 0,
+  "kindle_quality_issues": 0,
+  "cover_notice_W14016_present": false,
+  "body_full_fields_match": 500,
+  "body_zip_members_unchanged": true
+}

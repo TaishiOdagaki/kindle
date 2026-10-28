@@ -3,12 +3,18 @@
   "branch": "audit/edition-neutral-20261028",
   "canonical_docx": "publishing/edition_neutral/20261028_round4/manuscript.docx",
   "docx_sha256": "9400adfb763a033e86ad198ad1e85f6005b448de97a3b002ed26d561db74510d",
-  "canonical_epub": "publishing/edition_neutral/20261028_round4/manuscript.epub",
-  "epub_sha256": "cceb303f2448093af32a1daaf1624e8874b6e85969ee17d84cafaa77635e18ed",
-  "questions": 500,
+  "canonical_epub": "publishing/edition_neutral/20261028_final_review/manuscript.epub",
+  "epub_sha256": "59a153a38515edeac406ba9f4bc738230159951c7cdc9bfc4da8d91c20cd3d4b",
+  "cover": "publishing/edition_neutral/20261028_final_review/cover.jpg",
+  "author_confirmed_by_user": true,
   "word_epub_match": 500,
+  "epubcheck_errors": 0,
+  "epubcheck_warnings": 0,
+  "kindle_conversion": "Success",
+  "cover_notice_W14016": false,
+  "gui_preview_completed": false,
   "publication_approved": false,
   "release_ready": false,
-  "review_policy": "Inherit existing audit; only explicit unresolved items and changes impact. Blanket500 question re-audit and remaining468 queue withdrawn.",
-  "checkpoint": "publishing/edition_neutral/20261028_round4/README.md"
+  "review_policy": "Inherit prior audit;only explicit unresolved issues and changed passages. No blanket re-audit.",
+  "checkpoint": "publishing/edition_neutral/20261028_final_review/README.md"
 }
