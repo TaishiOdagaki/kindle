@@ -1,0 +1,17 @@
+# 第8セッション 反転学習・活動用語8問（2026-10-28）
+
+基点 b5745bab5d4c1b4f2bff0bfcc10b322b43faa748、audit/edition-neutral-20261028、publishing/edition_neutral/20261028_round3 の正規Word/EPUBを継承。本文変更0、正答変更0。確認対象はQ_4_117、Q_O_036〜040、Q_M_026、Q_M_027。全設問・全4肢・全4解説と共通ケース8を読み、資料との照合は8 PASS / 0 FAIL。人による最終承認ではない。
+
+FLN2014の全2頁は以前保存した公式原資料PDFを全頁本文・全頁画像で再読。SHA256は過去のbatch113記録と一致。今回のWeb再取得はタイムアウトしており新規取得成功とは記録しない。後年のFLGI定義を2014年指定問題に代用しない。事例の10分動画を普遍的な最適時間とはしない。
+
+British CouncilのDictogloss・Skimming、JFいろどりのシャドーイング解説を新規閲覧。Scanning独立ページは取得失敗したがSkimming本文が明示するScanningとの区別を確認。JFディクトグロスの実施手順は補助資料。原著研究と機関の実践教材の根拠範囲を区別する。
+
+今回8問＋先行24問＝明示的な資料再照合PASS累計32問。資料の種類は混在し、全32問について原著研究論文全文を取得した意味ではない。残り468問は過去監査を引き継いでおり新規PASSとしない。判定根拠は source_review_8.json、全500行台帳は親ディレクトリadoption_ledger_500.json。
+
+Word SHA256 ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26
+EPUB SHA256 8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c
+本文不変を再確認し、既存のWord/EPUB500問一致・400頁表示確認・EPUBCheck・Kindle CLI検証を継承。不要な再変換はしていない。
+
+次は500行台帳の残る限定・参照箇所を優先し、例としてQ_5_091の読解活動の用語区別、Q_4_036/Q_4_046/Q_O_054のWillis本人記事に基づくタスクと形式への注意を照合する。Brown/Levinson4問の原典取得制約、Kindle GUI/端末表示、表紙W14016・名義、最終学術承認は残る。原稿全体の監査完了や発売可能とは宣言しない。
+
+ユーザーは他作業中。質問や中間ファイルの提示は不要。新規Workチャット・並行編集は不要。GitHubに根拠と再開位置を残す。publication_approved=false / release_ready=false。

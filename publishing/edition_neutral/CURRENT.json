@@ -13,5 +13,10 @@
   "latest_primary_review_session": "20261028_07",
   "latest_primary_review_count": 20,
   "cumulative_explicit_primary_pass": 24,
-  "all500_fresh_primary_review": false
+  "all500_fresh_primary_review": false,
+  "latest_source_review": "publishing/edition_neutral/20261028_round3/review08/source_review_8.json",
+  "latest_source_review_session": "20261028_08",
+  "latest_source_review_count": 8,
+  "cumulative_explicit_source_pass": 32,
+  "coverage_note": "32 scoped source-reviewed units include retained original framework and institutional pedagogical sources; not32 freshly acquired original research articles."
 }

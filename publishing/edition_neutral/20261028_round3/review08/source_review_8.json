@@ -1,0 +1,333 @@
+{
+  "session": "20261028_08",
+  "date_jst": "2026-10-28",
+  "parent_commit": "b5745bab5d4c1b4f2bff0bfcc10b322b43faa748",
+  "docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+  "epub_sha256": "8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c",
+  "unchanged_binary_hashes_verified": true,
+  "questions": [
+    {
+      "id": "Q_4_117",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "pp1-2 definition,F.2,I.2,P.1/P.2",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "動画に限るという条件は原文と異なる。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "観察と形成的評価が不要とはならない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "集団活動と教師支援を廃する定義ではない。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "個人学習への直接指導移動と集団での応用支援に対応。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_O_036",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "p1 and p2 F.2,P.1,I.2",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "反転設計は読めるが、全柱充足は未記録という限定を保持。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "動画指示だけから全柱の実践は推定できない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "観察・必要な支援を排除しない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "文章等の併用は禁止されていない。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_O_037",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "p2 P.2",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "成績不算入だけでは次の指導への活用を説明しない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "小テスト設置で事前学習は不要にならない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "形成的評価は明示されている。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "理解の手掛かりを今後の指導に使う適用。得点のみで視聴や原因を断定しない。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_O_038",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "p2 F.2/F.3/I.3",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "観察とアクセス検討をしない方針は適合しない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "偶然や無関係と断定する記録はない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "全員視聴は事例条件に反する。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "原因を決めつけず事情・アクセスを確かめる枠組みの適用。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_O_039",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "p2 F.2/P.1",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "一切支援しない方針は参加支援条件と不整合。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "状況を見ず一律に進める方針は調整に対応しない。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "必要に応じた説明とフィードバックの提案。全員への短時間効果は保証しない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "完全排除は設問の参加支援条件に反する。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_O_040",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S173"
+      ],
+      "locators": "p2 F.2/F.3/I.3",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "全て繰り返し時間を使い切る条件は応用活動への接続を説明しない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "再試行という設問条件と不整合。あらゆる中止を否定しない。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "事情とアクセス・活動接続の見直しは枠組みの適用として整合。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "観察なしの一律処置では調整を説明しない。共通内容自体は否定しない。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_M_026",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S104",
+        "S105",
+        "S100"
+      ],
+      "locators": "BC Dictogloss body;Irodori p8;BC Skimming body",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 2,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "逐語書き取りとキーワードによる再構成を区別。"
+        },
+        {
+          "option": 2,
+          "correct": true,
+          "finding": "短文聴取・キーワード・グループ再構成に対応。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "音声直後を追う発音は別活動。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "特定情報探索の読解は別活動。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    },
+    {
+      "id": "Q_M_027",
+      "status": "PASS",
+      "reviewer": "AI source-to-question recheck;not human approval",
+      "source_ids": [
+        "S105",
+        "S104",
+        "S100"
+      ],
+      "locators": "Irodori p8;BC Dictogloss and Skimming body",
+      "scope": "Full current stem,4options,4explanations; Q_O_036-040 shared case8 also read from canonical DOCX",
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "全部聞いた後の反復ではなく直後を追う発音に対応。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "キーワードを基に再構成する活動と異なる。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "特定情報探索の読解と異なる。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "速く大意を得る読解と異なる。"
+        }
+      ],
+      "action": "retain_current_text",
+      "text_changes": 0
+    }
+  ],
+  "sources": {
+    "S173": {
+      "url": "https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf",
+      "version": "FLN2014;URL upload year2016 is not publication year",
+      "acquisition": "Fresh web retrieval timed out twice. Retained original PDF from prior audit was re-read in full text and both page images this session; SHA256 matched historical batch113 evidence.",
+      "sha256": "8710b0c0f1a34f9ca2df143876659a96fb5d0e4795bdaf6d055ce5b21d09aa2e",
+      "pages_read": [
+        1,
+        2
+      ],
+      "limitation": "Historical specified framework; not FLGI later international definition; case applications are editorial judgments, not original intervention evidence. Source PDF not republished."
+    },
+    "S104": {
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/dictogloss",
+      "read_scope": "Definition,contrast with dictation,group example,classroom paragraph; comments excluded",
+      "limitation": "Institutional pedagogical definition,not Wajnryb original book or independent efficacy study."
+    },
+    "S105": {
+      "url": "https://www.irodori.jpf.go.jp/assets/data/elementary01/pdf/Y_howto_jp.pdf",
+      "read_scope": "PDF8/printed how-to8,shadowing definition and contrast with repetition",
+      "limitation": "Definition of practice only,not universal learning-effect claim."
+    },
+    "S100": {
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/q-s/skimming",
+      "read_scope": "Definition,contrast with scanning,example,classroom paragraph; comments excluded",
+      "limitation": "Separate scanning page timed out; explicit scanning definition on this successfully retrieved page supports distractor terminology."
+    },
+    "S24": {
+      "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/hint/201901.html",
+      "read_scope": "Procedure1-5,especially notes and collaborative reconstruction; supplementary institutional source",
+      "limitation": "Practice description only; not fresh empirical verification of all effectiveness claims in article."
+    }
+  },
+  "pass_count": 8,
+  "fail_count": 0,
+  "text_changes": 0,
+  "all500_fresh_primary_review": false,
+  "publication_approved": false,
+  "scope_note": "Defined thematic batch:6 flipped-learning items and2 terminology items. Original framework PDF re-read from verified retained evidence; other institutional teaching sources freshly retrieved. Do not label all8 as original-research primary papers."
+}
