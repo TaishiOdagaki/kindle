@@ -10,14 +10,21 @@
   "subtitle": "基礎から応用試験対策＋実戦演習〈全５００問〉",
   "word_epub_match": 500,
   "all500_question_fields_unchanged": true,
-  "final_visual_review_assigned_to_user": true,
+  "final_visual_review_assigned_to_user": false,
   "publication_approved": false,
   "release_ready": false,
   "review_policy": "Inherit existing audit; no blanket re-audit",
-  "checkpoint": "publishing/edition_neutral/20261028_reader_check/README.md",
-  "latest_change": "reader-visible QA:12 artificial mid-question/explanation splits repaired;all text unchanged",
+  "checkpoint": "publishing/edition_neutral/20261028_visual_check/README.md",
+  "latest_change": "Full Apple Books visual pass completed;orphan headings recorded;manuscript unchanged",
   "epub_frontmatter_matches_latest_word": true,
   "epub_update_requested": true,
   "reader_check": "publishing/edition_neutral/20261028_reader_check/reader_audit.json",
-  "cover_outside_review_scope": true
+  "cover_outside_review_scope": true,
+  "visual_review": {
+    "status": "completed_in_Apple_Books",
+    "scope": "Title through afterword;cover excluded;default font full-screen two-column display",
+    "reader_pages": "2–286",
+    "open_layout_finding": "V15-01 orphan question/explanation headings;review only,not edited",
+    "kindle_gui_review_completed": false
+  }
 }
