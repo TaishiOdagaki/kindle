@@ -1,0 +1,29 @@
+{
+  "epub_sha256": "0ec637b034cf7cda8a1e7feac273050025b0327d76e1c5c5db578d93eaf7754a",
+  "word_source_sha256": "0092239e41641f4fb571b6cbd6ecda2b6988edbd2fc9659c77f4d8b648d1d10c",
+  "independent_first_six_sections": [
+    "EPUB/text/part001_s01.xhtml",
+    "EPUB/text/part001_s02.xhtml",
+    "EPUB/text/author-about.xhtml",
+    "EPUB/text/part001_s03.xhtml",
+    "EPUB/text/part001_s04.xhtml",
+    "EPUB/text/part001_s05.xhtml"
+  ],
+  "word_epub_full_fields_equal": 500,
+  "whole_book_equal": true,
+  "epub_qa": {
+    "questions": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "bookmarks": 1000,
+    "spine_documents": 56,
+    "xhtml_documents": 57,
+    "internal_hrefs": 2158,
+    "broken_hrefs": [],
+    "duplicate_ids": [],
+    "replacement_characters": 0,
+    "zip_crc_ok": true
+  },
+  "user_final_visual_review": true,
+  "publication_approved": false
+}
