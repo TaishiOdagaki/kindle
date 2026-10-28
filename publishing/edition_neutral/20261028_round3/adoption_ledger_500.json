@@ -407,10 +407,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_1_032",
@@ -656,11 +659,12 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": true,
+    "new_independent_primary_review_this_session": false,
     "current_editorial_review": "full_question_source_rechecked",
     "substance_final_gate": "PASS",
     "publication_gate": "NOT_STARTED",
-    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval"
+    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval",
+    "prior_primary_review_evidence": "publishing/edition_neutral/20261028_round3/primary_source_review_5.json"
   },
   {
     "id": "Q_2_010",
@@ -696,10 +700,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "round40_precision_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_2_013",
@@ -789,10 +796,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_2_020",
@@ -815,10 +825,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_2_022",
@@ -843,11 +856,12 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": true,
+    "new_independent_primary_review_this_session": false,
     "current_editorial_review": "full_question_source_rechecked",
     "substance_final_gate": "PASS",
     "publication_gate": "NOT_STARTED",
-    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval"
+    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval",
+    "prior_primary_review_evidence": "publishing/edition_neutral/20261028_round3/primary_source_review_5.json"
   },
   {
     "id": "Q_2_024",
@@ -870,11 +884,12 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "round38_rewrite_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": true,
+    "new_independent_primary_review_this_session": false,
     "current_editorial_review": "full_question_source_rechecked",
     "substance_final_gate": "PASS",
     "publication_gate": "NOT_STARTED",
-    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval"
+    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval",
+    "prior_primary_review_evidence": "publishing/edition_neutral/20261028_round3/primary_source_review_5.json"
   },
   {
     "id": "Q_2_026",
@@ -1219,10 +1234,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_3_016",
@@ -1232,10 +1250,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_3_017",
@@ -1247,10 +1268,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_3_018",
@@ -1299,10 +1323,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "round40_precision_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_3_022",
@@ -2533,10 +2560,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_4_073",
@@ -2792,10 +2822,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_4_092",
@@ -3252,11 +3285,14 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
+    "substance_final_gate": "PASS",
     "publication_gate": "NOT_STARTED",
-    "recheck_limitation": "e-Gov HTML empty and XML unsupported through web tool; saved official-text excerpts reread, current effective-law independent refresh not completed."
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07",
+    "resolved_prior_recheck_limitation": "e-Gov HTML empty and XML unsupported through web tool; saved official-text excerpts reread, current effective-law independent refresh not completed."
   },
   {
     "id": "Q_4_126",
@@ -3480,10 +3516,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_016",
@@ -3639,10 +3678,13 @@
     ],
     "prior_adoption": "round40_precision_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_028",
@@ -3654,10 +3696,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_029",
@@ -4065,10 +4110,13 @@
     ],
     "prior_adoption": "round38_rewrite_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_060",
@@ -4091,10 +4139,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "round40_precision_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_062",
@@ -4312,10 +4363,13 @@
     "academic_master_changed_fields": [],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_079",
@@ -4394,10 +4448,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_085",
@@ -4409,10 +4466,13 @@
     ],
     "prior_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_086",
@@ -4502,10 +4562,13 @@
     ],
     "prior_adoption": "shortening_context_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": false,
+    "new_independent_primary_review_this_session": true,
     "current_editorial_review": "prior_adoption_preserved",
-    "substance_final_gate": "NEEDS_HUMAN",
-    "publication_gate": "NOT_STARTED"
+    "substance_final_gate": "PASS",
+    "publication_gate": "NOT_STARTED",
+    "substance_pass_scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+    "latest_primary_review_evidence": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+    "latest_primary_review_session": "20261028_07"
   },
   {
     "id": "Q_5_093",
@@ -6379,11 +6442,12 @@
     ],
     "prior_adoption": "round40_precision_review",
     "historical_source_review_inherited": true,
-    "new_independent_primary_review_this_session": true,
+    "new_independent_primary_review_this_session": false,
     "current_editorial_review": "reference_chapter_corrected",
     "substance_final_gate": "PASS",
     "publication_gate": "NOT_STARTED",
-    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval"
+    "substance_pass_scope": "AI source-to-question/4options/4explanations recheck within named source; no human approval",
+    "prior_primary_review_evidence": "publishing/edition_neutral/20261028_round3/primary_source_review_5.json"
   },
   {
     "id": "Q_M_056",

@@ -1,0 +1,902 @@
+{
+  "date_jst": "2026-10-28",
+  "session": "20261028_07",
+  "primary_source_units_checked": 20,
+  "pass_count": 20,
+  "fail_count": 0,
+  "text_changes": 0,
+  "docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+  "epub_sha256": "8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c",
+  "sources": {
+    "S140": {
+      "url": "https://files.eric.ed.gov/fulltext/ED321549.pdf",
+      "version": "Selinker1988 revised collected papers; not original1972 article",
+      "text_pages": [
+        27,
+        28,
+        29,
+        75,
+        76,
+        77
+      ],
+      "image_pdf_pages": [
+        31,
+        32,
+        33,
+        79,
+        80
+      ],
+      "scope": "Interlanguage hypothesis, five processes, reappearance, stabilization/permanence distinction only; no endorsement of five-percent or innateness claims elsewhere.",
+      "retained_file_sha256": "9882557e7381e207e428b7c639a851bf68c6a0a29dac6fe033d1dea7b2404625",
+      "retained_file_bytes": 2648371
+    },
+    "S48": {
+      "url": "https://projects.illc.uva.nl/inquisitivesemantics/assets/files/papers/Grice1975.pdf",
+      "version": "Grice1975 original paper",
+      "text_pages": [
+        45,
+        46,
+        49,
+        50
+      ],
+      "image_pdf_pages": [
+        5,
+        6,
+        9
+      ],
+      "scope": "Four maxim categories and violate/opt out/clash/flout distinctions; fictional examples are applications, not source quotations.",
+      "retained_file_sha256": "2d8141db45c2b39b22bee1694644e9c94935d6db7b6dbe9062fc2899812a406a",
+      "retained_file_bytes": 728179
+    },
+    "S280": {
+      "url": "https://www.researchgate.net/publication/267305922_Modelling_Second_Language_Performance_Integrating_Complexity_Accuracy_Fluency_and_Lexis",
+      "version": "Author-uploaded published article 2009,30(4),510-532,DOI10.1093/applin/amp047",
+      "text_pages": [
+        510,
+        511,
+        512
+      ],
+      "scope": "Author-uploaded article text, abstract/introduction read on ResearchGate. No claim to have reread the full article or replicated studies."
+    },
+    "S26": {
+      "url": "https://laws.e-gov.go.jp/law/345AC0000000048",
+      "version": "e-Gov currently effective version shown as2026-06-24,Act48of2026; future revisions distinguished",
+      "scope": "Browser-rendered main provisions32(1),48(1)(i),48(2),with surrounding article paragraphs read. No comprehensive all-amendment legal opinion.",
+      "browser_anchors": [
+        "Mp-Ch_2-Se_3-Ss_5-At_32",
+        "Mp-Ch_2-Se_3-Ss_5-At_48"
+      ]
+    },
+    "S04": {
+      "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+      "version": "Cultural Council2007-02-02 keigo guidance",
+      "text_pages": [
+        13,
+        14,
+        15,
+        18,
+        20,
+        21,
+        26,
+        27,
+        29,
+        30,
+        40,
+        43,
+        44
+      ],
+      "scope": "Types/forms,double honorifics,linked honorifics,in-group treatment,and beneficiary perspective; application to fictional examples distinguished.",
+      "retained_file_sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+      "retained_file_bytes": 613704
+    },
+    "S110": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c01/lesson11/step2/explanation/039.html",
+      "scope": "Official TUFS verb groups table and negative formation; includes miru/kiru exceptions.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S82": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/01-09-01.php",
+      "scope": "Official TUFS intonation basics; pedagogical account scoped to named source, not every intonation theory.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S83": {
+      "url": "https://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/03-04-01.php",
+      "scope": "Official TUFS shi teaching guidance; sea/she and lip rounding directly read. Nasal/closure/voicing distractors assessed phonetically; no empirical guarantee of intervention effectiveness.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S62": {
+      "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html",
+      "scope": "Official JF grammar article, conversations3/4 and table2. Supplement https://www.jpf.go.jp/j/urawa/j_rsorcs/textbook/setsumei_pdf/setsumei19_4.pdf printed238-239, examples2/4/5 and explanation A/B, read/heard information and source marking. Not wholesale adoption of the article interest model.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S238": {
+      "url": "https://www2.ninjal.ac.jp/gairaigo/Teian1_4/tebiki.html",
+      "scope": "Official 2006 compilation handbook sections3-6 and https://www2.ninjal.ac.jp/gairaigo/Teian1_4/Words/informed_consent.gen.html entry, both fully read relevant sections. This is historical proposal interpretation, not current clinical consent guidance.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S15": {
+      "url": "https://newlearningonline.com/new-learning/chapter-8/reflexivity-towards-new-learning/vygotsky-on-the-zone-of-proximal-development",
+      "scope": "Reproduced primary-text excerpt credited to Vygotsky1978 pp88,89-90,86. Definitional excerpt86 and adjacent development qualifications read. Original full book not newly retrieved; excerpt-level verification only.",
+      "access_date_jst": "2026-10-28"
+    },
+    "S67": {
+      "url": "https://www2.ninjal.ac.jp/takoni/DGG/09_modarityi.pdf",
+      "scope": "Inoue official NINJAL source PDF printed133-135; especially134 example6 and surrounding modal-use description. No claim about all ta usages.",
+      "access_date_jst": "2026-10-28"
+    }
+  },
+  "questions": [
+    {
+      "id": "Q_3_015",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S140",
+      "locator": [
+        27,
+        28,
+        76
+      ],
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "転移のみの説明ではない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "独立した体系を認めない説明は逆。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "学習者の発話に基づく仮定に対応。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "体系の仮定は永続的発達の保証ではない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_3_016",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S140",
+      "locator": [
+        28,
+        29,
+        75,
+        76
+      ],
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "一般的な定義に対応。観察と永久性は区別。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "母語の影響の過程であり停止の名称ではない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "訓練に由来する過程であり停止の名称ではない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "過剰般化と停止の名称は区別。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_3_017",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S140",
+      "locator": [
+        28,
+        29,
+        75
+      ],
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "一回の直後改善だけでは長期観察にならない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "二日間の変化は長期安定の証拠ではない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "同条件の期間内で再出現しない記録は誤用安定の例ではない。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "複数年・同一学習者・同じ意味文脈を保持。永久性や原因は断定しない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_4_072",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S140",
+      "locator": [
+        28,
+        29,
+        75
+      ],
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "一日の観察から永久性へ飛躍。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "直後の正用だけでは再出現を排除できない。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "一時的停滞と永久性の見極めを課題とする説明に対応。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "将来変化の検討不要とはならない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_078",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S48",
+      "locator": [
+        45,
+        46,
+        49,
+        50
+      ],
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "質の要求との取り違え。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "量の要求との取り違え。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "関係の関連性という説明に対応。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "条件付き含意生成の可能性を否定できない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_084",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S48",
+      "locator": [
+        45,
+        46,
+        49,
+        50
+      ],
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "floutとopt outは別。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "質と様態を混同。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "clash,opt out,misleadを除く条件と生みうるという可能性を保持。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "様態と関係は別のカテゴリー。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_085",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S48",
+      "locator": [
+        45,
+        46
+      ],
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "同じ話題の説明をすべて無関連とはできない。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "正確さと量は別。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "架空場面で指定した余分な情報量に対応。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "設定の正確さ・証拠と矛盾。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_092",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S280",
+      "locator": [
+        510,
+        511,
+        512
+      ],
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "有限性・他条件一定・下げうるという条件を保持。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "条件を問わない同率上昇は主張しない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "正確さへの注意だけで流暢さは保証されない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "共上昇とその条件を論じており両立不可能ではない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_4_125",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S26",
+      "locator": [
+        "32(1)",
+        "48(1)(i)",
+        "48(2)"
+      ],
+      "answer": 2,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "32(1)の対象は公表著作物。"
+        },
+        {
+          "option": 2,
+          "correct": true,
+          "finding": "二要件と複製引用時の合理的な出所表示に対応。著作者名の例外も保持。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "公正な慣行だけで範囲条件を省けない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "出所表示だけで引用の他条件を免除できない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_1_031",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S04",
+      "locator": [
+        13,
+        18,
+        21,
+        22,
+        44
+      ],
+      "answer": 2,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "人物を立てる働きと丁重に述べる働きを混同。"
+        },
+        {
+          "option": 2,
+          "correct": true,
+          "finding": "2007年の5分類整理に対応。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "美化語と尊敬語を一括できない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "社外相手にも常に上司を尊敬語で高めるという一律化は不適切。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_2_019",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S04",
+      "locator": [
+        13,
+        15,
+        18,
+        20,
+        21
+      ],
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "美化と尊敬を混同。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "向かう先を立てる働きの分類を逆にしている。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "謙譲語IとIIの働きを混同。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "話の相手への丁重さと向かう先の有無を区別。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_2_021",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S04",
+      "locator": [
+        30
+      ],
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "原文の二重敬語の例と定義に対応。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "同一語への重ねとてによる連結を混同。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "一文に敬語が複数あるだけでは定義を満たさない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "原文では敬語連結。個々の用法と意味の条件付きで許容。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_4_091",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S04",
+      "locator": [
+        15,
+        26,
+        27,
+        30,
+        40
+      ],
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "拝見するの分類と動作の主体を混同。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "確認して恩恵を与える行為と依頼を混同。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "いただくの受益側と確認動作側を取り違える。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "A受益・B確認の役割と謙譲語Iの働きに対応。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed in stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_015",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S110",
+      "locator": "group tables and negative formation",
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "見るのgroup2と切るのgroup1、ない形の作り分けに対応。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "ます形だけの確定は見るに反する。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "group3はする・くる。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "-iruだけでgroup2とは決められない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_027",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S82",
+      "locator": "解説",
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "教材の語と文のレベル、意味や感情への関与に対応。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "語と文の説明が逆。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "同一表現の音調による解釈差を否定できない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "教材のアクセント型保持と文末最終拍上昇に反する。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_028",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S83",
+      "locator": "解説",
+      "answer": 2,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "摩擦音を鼻音化する理由にならず、常時有声化の前提も不適切。"
+        },
+        {
+          "option": 2,
+          "correct": true,
+          "finding": "seaでなくsheに近く過度の円唇を避けるという教材説明に対応。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "設問は単音の差であり促音欠落ではない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "有声化と強い円唇化という方向は不適切。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_061",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S62",
+      "locator": "会話3/4・表2;補足PDF238-239",
+      "answer": 4,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "情報源をによると等で示せる。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "名詞直接接続は表2の標準接続と異なる。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "ます形と普通形、様態と伝聞を区別。"
+        },
+        {
+          "option": 4,
+          "correct": true,
+          "finding": "現状による可能性判断の用法があるという限定と、聞く読む情報伝達に対応。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_2_012",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S238",
+      "locator": "利用の手引き3-6と個別項目",
+      "answer": 1,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": true,
+          "finding": "相手・場面への配慮と二つの言い換え語、必要な説明付与に対応。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "一語固定の機械的置換を求めない。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "原語の全用法の反映ではない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "外来語と説明の併用を認める。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_3_021",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S15",
+      "locator": "reproduced excerpt credited to original p86",
+      "answer": 3,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "支援下での可能な水準が欠落。"
+        },
+        {
+          "option": 2,
+          "correct": false,
+          "finding": "協働を含む定義と不整合。"
+        },
+        {
+          "option": 3,
+          "correct": true,
+          "finding": "独力の実際水準と指導協働下の潜在水準の間に対応。無条件効果保証ではない。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "独力の現在水準だけでは定義の距離を表せない。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    },
+    {
+      "id": "Q_5_059",
+      "status": "PASS",
+      "gate": "substance",
+      "reviewer": "AI source-to-question recheck,not human approval",
+      "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+      "source_id": "S67",
+      "locator": "printed134 example6",
+      "answer": 2,
+      "option_verdicts": [
+        {
+          "option": 1,
+          "correct": false,
+          "finding": "発見・思い出しという例6の組合せと不整合。"
+        },
+        {
+          "option": 2,
+          "correct": true,
+          "finding": "例6の明示した二つの名称に対応。全タ形用法への一般化を避けている。"
+        },
+        {
+          "option": 3,
+          "correct": false,
+          "finding": "前者を習慣とする点が不整合。"
+        },
+        {
+          "option": 4,
+          "correct": false,
+          "finding": "後者を禁止とする点が不整合。"
+        }
+      ],
+      "scope": "Full current stem,4options,4explanations reviewed within stated source scope; source qualifications and answer uniqueness assessed",
+      "action": "retain_current_text",
+      "new_text_changes": 0
+    }
+  ],
+  "all500_fresh_primary_review": false,
+  "publication_approved": false,
+  "coverage_limitation": "Includes one reproduced primary-text excerpt (Q_3_021); does not assert full-book retrieval or independent human review. Remaining questions inherit prior audit history and are not newly PASS by implication.",
+  "access_limitation_queue": {
+    "source": "Brown and Levinson1987",
+    "ids": [
+      "Q_2_026",
+      "Q_5_079",
+      "Q_5_100",
+      "Q_O_056"
+    ],
+    "status": "not newly primary-reviewed; institutional PDF403. Seek legitimate accessible primary edition; do not bypass restriction."
+  },
+  "unchanged_binary_hashes_verified": true
+}

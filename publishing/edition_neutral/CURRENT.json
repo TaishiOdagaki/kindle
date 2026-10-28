@@ -8,5 +8,10 @@
   "questions": 500,
   "word_epub_match": 500,
   "publication_approved": false,
-  "release_ready": false
+  "release_ready": false,
+  "latest_primary_review": "publishing/edition_neutral/20261028_round3/review07/primary_source_review_20.json",
+  "latest_primary_review_session": "20261028_07",
+  "latest_primary_review_count": 20,
+  "cumulative_explicit_primary_pass": 24,
+  "all500_fresh_primary_review": false
 }
