@@ -1,0 +1,107 @@
+{
+  "date_jst": "2026-10-28",
+  "canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+  "checked_units": 5,
+  "new_primary_pass": 4,
+  "partial_pending": 1,
+  "source_pdf_sha256": "3a567c6d85e990e0f90f0698c1403ba5826c7c6f9e7e50c93ea5d4da9336882d",
+  "retained_pdf_verified": true,
+  "primary_pdf_visual_pages_inspected": [
+    18,
+    40,
+    49
+  ],
+  "primary_pdf_text_pages_read": [
+    14,
+    15,
+    18,
+    20,
+    21,
+    22,
+    24,
+    40,
+    41,
+    48,
+    49
+  ],
+  "source_pdf_page_number_offset": 3,
+  "questions": [
+    {
+      "id": "Q_2_009",
+      "status": "PASS",
+      "scope": "Current stem,4options,4explanations; AI primary-text check",
+      "source": "https://www.mofa.go.jp/mofaj/gaiko/kiyaku/2c_004.html",
+      "locator": "第27条",
+      "answer": 2,
+      "option_verdicts": [
+        "権利が条文にないという肢は本文と逆。",
+        "集団の他の構成員と自己の言語を使用する権利に対応。",
+        "文化享有の要件として言語を放棄する規定はない。",
+        "唯一の公用語とする義務を条文から導けない。"
+      ],
+      "decision": "retain_shortened_option_with_explicit_article27_scope",
+      "new_text_change": false
+    },
+    {
+      "id": "Q_2_023",
+      "status": "PASS",
+      "scope": "Current fictional conversation,4options,4explanations; source framework applied to example, not a literal source quotation",
+      "source": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+      "locator": "印刷14〜15,18,24,48〜49頁",
+      "answer": 3,
+      "option_verdicts": [
+        "自分側の参るを尊敬語とする分類が誤り。",
+        "敬語形式だけで依頼の適切さを保証できない。",
+        "形式分類と相手の負担・場面の区別を保持。",
+        "目上への依頼を場面不問で一律禁止する根拠はない。"
+      ],
+      "decision": "retain_contextual_shortening",
+      "new_text_change": false
+    },
+    {
+      "id": "Q_2_025",
+      "status": "PASS",
+      "scope": "Current stem,4options,4explanations; AI primary-text check",
+      "source": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+      "locator": "印刷14〜15,18〜20頁の定義と働きの比較",
+      "answer": 3,
+      "option_verdicts": [
+        "参るを行為者を立てる尊敬語とする分類が誤り。",
+        "です・ますの話や文章の相手への働きと第三者尊敬を混同。",
+        "行為者など・向かう先・話や文章の相手という区別に対応。",
+        "謙譲語IとIIの異なる相手への働きを同一視できない。"
+      ],
+      "decision": "keep_restored_qualifications",
+      "new_text_change": false
+    },
+    {
+      "id": "Q_M_055",
+      "status": "PASS",
+      "scope": "Current stem,4options,4explanations after reference fix; AI primary-text check",
+      "source": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+      "locator": "第3章第2の6、印刷40〜41頁",
+      "answer": 4,
+      "option_verdicts": [
+        "使用頻度から全場面の適切さは保証されない。",
+        "いただくは敬語の要素である。",
+        "原文が挙げる許可と恩恵を無関係とできない。",
+        "基本的には・許可・恩恵の事実や気持ちという条件に対応。"
+      ],
+      "decision": "correct_chapter2_to_chapter3_only",
+      "new_text_change": true
+    },
+    {
+      "id": "Q_4_125",
+      "status": "IN_PROGRESS",
+      "scope": "Current4options/4explanations compared with saved official e-Gov excerpts; current effective-text refresh incomplete",
+      "source": "https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000048",
+      "locator": "第32条第1項・第48条第1項第1号/第2項",
+      "answer": 2,
+      "decision": "retain_pending_current_primary_refresh",
+      "new_text_change": false,
+      "blocker": "Web HTML returned no text; XML endpoint content type unsupported. Saved official excerpts support current conditional wording but do not establish current enactment metadata."
+    }
+  ],
+  "reviewer": "AI source recheck; not human scholarly approval",
+  "whole500_fresh_primary_review": false
+}

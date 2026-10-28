@@ -1,0 +1,45 @@
+{
+  "question": "Q_M_055",
+  "field": "explanations",
+  "item": 4,
+  "old": "指針第2章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+  "new": "指針第3章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+  "reason": "基本条件の記載は敬語の指針第3章第2の6・印刷40頁。参照章の誤記のみ訂正。",
+  "source_url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+  "source_printed_page": 40,
+  "source_pdf_page_one_based": 43,
+  "source_evidence": "Official PDF text retrieved via web; retained primary PDF page40 image directly inspected. Table of contents confirms chapter3.",
+  "source_docx_sha256": "c7ab90d791b36b237c94cdce73d0e2ce9aa9bba9c990fcaac26a5dab324b854d",
+  "source_epub_sha256": "2c260150ed136d3a72879706565ee221304a9d222c533c5a2ff13304c7534c05",
+  "docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+  "epub_sha256": "8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c",
+  "paragraph_changes": [
+    {
+      "paragraph": 7113,
+      "before": "4（正）　指針第2章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+      "after": "4（正）　指針第3章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。"
+    }
+  ],
+  "questions": 500,
+  "word_epub_full_fields_equal": 500,
+  "keys_changed": 0,
+  "other_question_fields_changed": 0,
+  "docx_other_members_changed": 0,
+  "epub_changed_documents": [
+    "EPUB/text/part015_s01.xhtml"
+  ],
+  "epub_qa": {
+    "questions": 500,
+    "options": 2000,
+    "explanations": 2000,
+    "bookmarks": 1000,
+    "spine_documents": 55,
+    "xhtml_documents": 56,
+    "internal_hrefs": 2156,
+    "broken_hrefs": [],
+    "duplicate_ids": [],
+    "replacement_characters": 0,
+    "zip_crc_ok": true
+  },
+  "publication_approved": false
+}

@@ -1,0 +1,2421 @@
+{
+  "current_docx_sha256": "c7ab90d791b36b237c94cdce73d0e2ce9aa9bba9c990fcaac26a5dab324b854d",
+  "scope": "All500 question fields; historical changes plus two neutralization question changes",
+  "reconstructed_question_matches": 500,
+  "unexplained_current_question_changes": 0,
+  "academic_master_exact_matches": 443,
+  "academic_master_differences": 57,
+  "answer_changes": 0,
+  "historical_records": [
+    {
+      "path": "publishing/2027/round38/revisions_14.json",
+      "sha256": "a63c041a80784e56b55bdb02bff48837a03106ef9c64c66c1d2b414341078ec7",
+      "edits": 14
+    },
+    {
+      "path": "publishing/2027/round40/revisions_and_regression.json",
+      "sha256": "deb7dea549aaa851e57dd8a0e6e78d150fed6d550f9a913b37c27338b00f4246",
+      "edits": 6
+    }
+  ],
+  "difference_questions_with_baseline_record": 43,
+  "difference_questions_with_later_records": 16,
+  "status": "TRACE_PASS_NOT_NEW_ALL500_PRIMARY_REVIEW",
+  "questions": [
+    {
+      "id": "Q_1_010",
+      "changes": [
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "Q&Aの制度目的と運用開始日の説明に合います。2026年10月時点で新制度が既に全面運用されているという意味ではありません。",
+          "current": "制度の目的と施行日について、出入国在留管理庁が示した説明に合います。施行日については制度の経過を示す日付として扱い、受験時点の運用状況は公式資料で確認してください。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "first edition-neutral draft paragraph3802 preserved; exact binary hash verified"
+      ],
+      "source_review_ids": [
+        "S270"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_1_019",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "文部科学省が公開する研修案内に示された地域日本語教育コーディネーターの役割と、地域日本語教育の体制づくりへの国の支援について、最も適切なものを一つ選びなさい。",
+          "current": "文部科学省が公開する「地域日本語教育コーディネーター研修」の案内に示された役割に照らし、最も適切な取組を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "地域日本語教育コーディネーターには、地域の現状や課題、教育資源を把握し、関係者の連携・協働や、生活者としての外国人に適したプログラムの実践に向けた方法の開発を進める役割が示されている。",
+          "current": "地域の課題と教育資源を把握し、関係者の協働を通じて生活者に合うプログラムづくりを進める。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "国の地域日本語教育の体制づくりへの支援は、地方公共団体と関係機関の連携を排除し、民間語学機関だけが単独で教育を行うことを目的としている。",
+          "current": "地域の課題と教育資源を把握し、その結果にかかわらず他地域のプログラムを同じ手順で導入する。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "研修案内が示す役割は、地域の現状や課題を把握せず、すべての地域で日本語能力試験N1の合格だけを一律の学習目標に設定することである。",
+          "current": "地域教室の授業を担当し、組織間の調整はコーディネーターの役割に含めずに活動を進める。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "地域日本語教育コーディネーターの主な役割は、地域教室で自らボランティアとして直接日本語を教えることのみであり、行政や他機関との連携調整は含まれない。",
+          "current": "地域の教育資源を把握し、関係者が検討する課題を教室内の文法項目の配列だけに絞る。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "研修案内は、現状把握・課題設定、資源の把握・活用、課題解決の推進、連携、方法の開発を役割として示しています。地域コーディネーターがすべての運営業務を一人で総括すると決めつけず、関係者との協働を捉える説明です。",
+          "current": "研修案内の五つの役割には、現状と課題の把握、資源の活用、課題解決の推進、組織内外の連携、生活者に合う方法の開発が含まれます。地域の状況を踏まえて関係者と進める取組が対応します。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "国は、自治体等と連携した地域日本語教育の体制整備を支援しています。日本語教育の所管は、2024年4月に文化庁から文部科学省へ移管しました。地域の実情に応じた取組を自治体が進めることは、地域日本語教育の推進に重要です。",
+          "current": "他地域の実践を参考にすることは考えられますが、把握した地域の課題や資源を反映しない導入では、課題に応じた資源の活用や方法の開発という役割に合いません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "研修案内は地域の状況と課題を把握し、生活者としての外国人に適したプログラムの実践に向けて方法を開発するとしています。地域差を無視してN1合格だけを一律に設定する説明とは異なります。試験合格を学習目標に含めること自体を全面的に否定する趣旨ではありません。",
+          "current": "直接授業を担当する可能性は否定されません。しかし、案内は組織内外の調整と協働の推進も役割に含めており、それを除外する説明は不適切です。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "研修案内は、組織内外の調整や人・組織・地域をつなぐ協働を役割に含めています。自ら直接教えることがあっても、それだけで他機関との連携を含まないとする肢は不適切です。国の支援事業でも、総括コーディネーターと地域コーディネーターの設置・配置等が区別して挙げられています。",
+          "current": "文法項目の配列を検討することがあっても、それだけが対象ではありません。案内は地域教室の状況、教育体制、組織間の連携なども課題として扱います。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S186",
+        "S187",
+        "S06"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_1_024",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "日本語教育と教員養成のために設けられ、語学部には台湾人に日本語を教える国語学科と、日本人に台湾語を教える土語学科が置かれた。",
+          "current": "日本語教育と教員養成を目的とし、語学部の国語学科では台湾人に日本語を、土語学科では日本人に台湾語を教えた。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_1_024",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "日本語教育と教員養成のために設けられ、語学部には台湾人に日本語を教える国語学科と、日本人に台湾語を教える土語学科が置かれた。",
+                "baseline": "日本語教育と教員養成を目的とし、語学部の国語学科では台湾人に日本語を、土語学科では日本人に台湾語を教えた。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S283"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_1_029",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "国語審議会など四つの審議会等の機能を整理・統合し、2001年1月6日付けで文部科学省に文化審議会が設置された。国語分科会は国語の改善と普及に関する事項を調査審議する。",
+          "current": "国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_1_029",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "国語審議会など四つの審議会等の機能を整理・統合し、2001年1月6日付けで文部科学省に文化審議会が設置された。国語分科会は国語の改善と普及に関する事項を調査審議する。",
+                "baseline": "国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S240"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_2_009",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "言語的少数民族が存在する国において、当該少数民族に属する者が集団の他の構成員とともに自己の言語を使用する権利は、否定されない。",
+          "current": "言語的少数民族に属する者は、同じ集団の人々とともに自己の言語を使用する権利を否定されない。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_2_009",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "言語的少数民族が存在する国において、当該少数民族に属する者が集団の他の構成員とともに自己の言語を使用する権利は、否定されない。",
+                "baseline": "言語的少数民族に属する者は、同じ集団の人々とともに自己の言語を使用する権利を否定されない。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S284"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_2_017",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "次は分類を考えるための架空の会話である。学習者Aは「コルク抜き」と言いたかったが語が出てこず、Bに「瓶の栓を抜く道具を使いました」と説明した。Bが「コルク抜きですか」と尋ね、Aは「そうです」と答えた。Aは教師に質問していない。Celce-Murcia・Dörnyei・Thurrell（1995）28頁表5を基準に、Aの説明に対応する分析を一つ選びなさい。 学習者A：「昨日、友達と……（困った顔で止まる）……ええと、 魚がたくさん泳いでいる大きな部屋 に行きました。」 学習者B：「あ、水族館ですか？」 学習者A：「あ、そうです！ 水族館です！ そこはとても綺麗でした。」 この場面における学習者Aのコミュニケーション行動に関する分析として、最も適切なものを一つ選びなさい。",
+          "current": "次は分類を考えるための架空の会話である。学習者Aは「コルク抜き」と言いたかったが語が出てこず、Bに「瓶の栓を抜く道具を使いました」と説明した。Bが「コルク抜きですか」と尋ね、Aは「そうです」と答えた。Aは教師に質問していない。Celce-Murcia・Dörnyei・Thurrell（1995）28頁表5を基準に、Aの説明に対応する分析を一つ選びなさい。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_2_017",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              40,
+              41,
+              42,
+              43
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S149"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_2_023",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "「参る」は学習者側の動作を聞き手に丁重に述べる謙譲語Ⅱであり、「ご覧になる」は先生の動作を立てる尊敬語である。依頼の適切さは、これらの形式だけでなく、相手の負担や場面も踏まえて考える。",
+          "current": "「参る」は謙譲語Ⅱ、「ご覧になる」は尊敬語である。依頼の適切さには形式だけでなく、相手の負担や場面も関わる。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_2_023",
+        "fields": {
+          "stem": {
+            "decision": "whitespace_only"
+          },
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "「参る」は学習者側の動作を聞き手に丁重に述べる謙譲語Ⅱであり、「ご覧になる」は先生の動作を立てる尊敬語である。依頼の適切さは、これらの形式だけでなく、相手の負担や場面も踏まえて考える。",
+                "baseline": "「参る」は謙譲語Ⅱ、「ご覧になる」は尊敬語である。依頼の適切さには形式だけでなく、相手の負担や場面も関わる。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S04"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_2_026",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "BrownとLevinson（1987）の理論におけるフェイスとFTA（フェイスを脅かす行為）の説明に合うものを一つ選べ。",
+          "current": "BrownとLevinson（1987）の理論では、指示や依頼は主として聞き手のどのようなフェイスを脅かす行為に挙げられるか。適切な説明を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "フェイスへの配慮とは、相手のフェイスをできるだけ強く損なうことを目的とする方策である。",
+          "current": "自分の欲求を他者から望ましく思われたいという、聞き手のポジティブ・フェイスを脅かす。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "他者に自分の行動を妨げられたくないという欲求を、ポジティブ・フェイスと呼ぶ。",
+          "current": "自分の行為を他者に妨げられたくないという、聞き手のポジティブ・フェイスを脅かす。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "自分の欲求や自己像が他者から認められたいという側面を、ネガティブ・フェイスと呼ぶ。",
+          "current": "自分の欲求を他者から望ましく思われたいという、聞き手のネガティブ・フェイスを脅かす。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "指示や依頼、提案、助言は、聞き手に行動への圧力をかけるため、主として聞き手のネガティブ・フェイスを脅かす行為に挙げられる。",
+          "current": "自分の行為を他者に妨げられたくないという、聞き手のネガティブ・フェイスを脅かす。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "再録本文315～317頁は、フェイスへの脅威を避けたり緩和したりする方策を説明しています。脅威の最大化を目的とする説明は逆です。",
+          "current": "欲求を他者から望ましく思われたいという説明は、ポジティブ・フェイスに関わります。ただし、原著の分類で指示や依頼が主として脅かすのは、聞き手の行動の自由に関わる側面です。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "再録本文311～312頁では、この行動の自由に関わる欲求はネガティブ・フェイスです。二つの名称を取り違えています。",
+          "current": "行為を妨げられたくないという欲求は、ネガティブ・フェイスです。説明する欲求とフェイスの名称が対応していません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "再録本文311～312頁では、自己像や欲求が認められることに関わる側面はポジティブ・フェイスです。二つの名称を取り違えています。",
+          "current": "欲求を他者から望ましく思われたいという側面は、ポジティブ・フェイスです。ネガティブ・フェイスとの名称を取り違えています。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "再録本文313頁の分類に対応します。ただし314頁は、一つの行為が二つのフェイスをともに脅かす場合もあると述べています。この分類は、常に一方だけに影響するという意味ではありません。",
+          "current": "再録本文312頁の定義と313頁の分類に対応します。指示や依頼は聞き手の将来の行為に圧力をかけるとされます。ただし314頁は、一つの行為が両方のフェイスを脅かす場合も認めています。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S245"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_004",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "食後に代金を払う店しか経験のない学習者が、飲食店では必ず食後に払うものだと考えていた。食前に会計を済ませる店の物語を読み、語句や文の意味は分かったが、支払いの順序に戸惑った。",
+          "current": "食後払いの店しか知らない学習者が、食前払いの店を描いた文章を読み、語句は理解できても会計の順序に戸惑った。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_3_004",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "食後に代金を払う店しか経験のない学習者が、飲食店では必ず食後に払うものだと考えていた。食前に会計を済ませる店の物語を読み、語句や文の意味は分かったが、支払いの順序に戸惑った。",
+                "baseline": "食後払いの店しか知らない学習者が、食前払いの店を描いた文章を読み、語句は理解できても会計の順序に戸惑った。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S205"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_014",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Squire（2004）の長期記憶の分類に照らし、最も適切なものを一つ選びなさい。",
+          "current": "Squire（2004）の長期記憶の分類に照らし、事例と記憶の種類の組合せが適切なものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "世界についての事実を意識的に思い出す記憶はすべて手続き記憶に、技能や習慣はすべて意味記憶に分類される。",
+          "current": "世界について知っている事実を意識的に思い出すことは、非宣言的記憶に当たる。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "意味記憶とは、自分が昨日の授業で褒められた出来事を、その時の状況とともに思い出す記憶である。",
+          "current": "昨日の授業の出来事を、その時の状況とともに思い出すことは、意味記憶に当たる。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "先に見た単語を意識的に思い出すよう求められていなくても、後の単語処理に以前の提示の影響が現れる反復プライミングは、非宣言的記憶の一例である。",
+          "current": "以前の提示語の意図的な想起を求めない課題で現れる反復プライミングは、非宣言的記憶に当たる。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "エピソード記憶とは、ある単語の辞書的な意味など、世界についての一般的な知識だけを指す。",
+          "current": "単語の辞書的な意味など、世界についての一般的な知識は、エピソード記憶に当たる。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "事実の知識と技能・習慣の分類を逆にしています。原著173頁の分類図では、事実は宣言的記憶、技能・習慣は非宣言的記憶の側にあります。",
+          "current": "原著173頁の分類図では、事実を意識的に思い出す記憶は宣言的記憶の側に位置付けられます。非宣言的記憶との対応を取り違えています。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "出来事を元の状況とともに思い出す例は、エピソード記憶に対応します。意味記憶は世界についての事実の知識を扱います。",
+          "current": "出来事をその時の状況とともに思い出す記憶は、エピソード記憶に対応します。世界についての事実の知識を扱う意味記憶とは区別されます。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "原著172〜173頁の区別に対応します。先に見た単語を意識的に思い出す課題と、思いつく単語を答える課題を区別することが重要です。単語補完をさせただけで潜在記憶と断定はできません。",
+          "current": "原著172〜173頁はプライミングを非宣言的記憶に位置付け、課題の教示の重要性を述べています。単語補完の形式だけで分類せず、以前の語を意識的に想起するよう求める課題と区別します。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "辞書的な意味などの一般的知識は意味記憶に対応します。エピソード記憶との対応を逆にしています。",
+          "current": "辞書的な意味などの一般的な知識は、意味記憶に対応します。特定の出来事とその状況を思い出すエピソード記憶との対応を逆にしています。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S139"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_017",
+      "changes": [
+        {
+          "field": "options",
+          "item": 4,
+          "master": "日本語使用歴15年の学習者について、同じ意味・文脈で目標言語規範と異なる特定の助詞パターンが、複数年の会話記録で繰り返し確認された。",
+          "current": "同じ学習者の特定の助詞の誤用が、同じ意味・文脈の複数年にわたる会話記録で繰り返し確認された。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_3_017",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 4,
+                "academic": "日本語使用歴15年の学習者について、同じ意味・文脈で目標言語規範と異なる特定の助詞パターンが、複数年の会話記録で繰り返し確認された。",
+                "baseline": "同じ学習者の特定の助詞の誤用が、同じ意味・文脈の複数年にわたる会話記録で繰り返し確認された。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S140"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_029",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の行動に対応する分類を一つ選びなさい。読解中に知らない語が現れたため、前後の文脈を手掛かりに意味を推測して知識の不足を補った。語の内部構造の分析、他者への質問、自分の理解状態の点検は、この事例には含めない。 Bさんが使用した学習ストラテジーの分類として、最も適切なものを一つ選びなさい。",
+          "current": "Oxford本人の論文「Language Learning Styles and Strategies: An Overview」の6分類に基づき、次の行動に対応する分類を一つ選びなさい。読解中に知らない語が現れたため、前後の文脈を手掛かりに意味を推測して知識の不足を補った。語の内部構造の分析、他者への質問、自分の理解状態の点検は、この事例には含めない。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_3_029",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              39
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S148"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_034",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "留学生Cさんは、日本に滞在しながら、母国の家族、学校の友人、趣味のクラブの仲間とのつながりをそれぞれ大切にしている。また、相手や場面によって、自分のどのつながりを強く意識するかが変わると話した。欧州評議会のRFCDC（2018）におけるアイデンティティと文化的所属の捉え方に合う説明を一つ選べ。 Cさんが経験しているこの状態を説明する概念として、最も適切なものを一つ選びなさい。",
+          "current": "留学生Cさんは、日本に滞在しながら、母国の家族、学校の友人、趣味のクラブの仲間とのつながりをそれぞれ大切にしている。また、相手や場面によって、自分のどのつながりを強く意識するかが変わると話した。欧州評議会のRFCDC（2018）におけるアイデンティティと文化的所属の捉え方に合う説明を一つ選べ。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_3_034",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              56
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S213"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_039",
+      "changes": [
+        {
+          "field": "options",
+          "item": 4,
+          "master": "将来の自己の指針となる二つの要素に加え、教師やカリキュラム、学習者集団、成功経験など、現在の学習環境・経験に関わる「L2学習経験」が含まれる。",
+          "current": "将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_3_039",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 4,
+                "academic": "将来の自己の指針となる二つの要素に加え、教師やカリキュラム、学習者集団、成功経験など、現在の学習環境・経験に関わる「L2学習経験」が含まれる。",
+                "baseline": "将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S137"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_3_040",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Horwitz・Horwitz・Cope（1986）の外国語教室不安の説明として、最も適当なものを一つ選べ。",
+          "current": "Horwitz・Horwitz・Cope（1986）は、外国語教室不安と三つの関連する不安概念の関係をどのように捉えているか。最も適切なものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "コミュニケーション不安、テスト不安、否定的評価への恐れの三つを、そのまま単純に組み合わせたものと定義される。",
+          "current": "コミュニケーション不安、テスト不安、否定的評価への恐れを、そのまま足し合わせたものと捉える。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "三つの関連する不安概念が説明の手がかりとなるが、その単純な組合せではなく、教室での言語学習に特有の自己認識・信念・感情・行動の複合体とされる。",
+          "current": "三概念を説明の手がかりとしつつ、教室での言語学習に特有の自己認識・信念・感情・行動の複合体と捉える。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "発話に関する不安は対象外であり、読むことと聞くことに関する不安だけを扱う。",
+          "current": "教室で他者から評価される状況とは切り離し、言語学習以外でも一定して現れる性格特性と捉える。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "一般的な性格としての不安だけを扱い、教室での言語学習という状況に特有の不安は扱わない。",
+          "current": "コミュニケーション不安との関係は認めるが、テスト不安と否定的評価への恐れは説明に用いない。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "原著128頁は三つの関連概念の有用性を認めながら、それらの単純な組合せではないと明記しています。三概念を、そのまま尺度の確定した三下位尺度とする説明でもありません。",
+          "current": "原著128頁は、三つの不安を外国語学習へ移した単純な組合せではないと明記しています。関連概念との関係と、外国語教室不安の定義を区別する必要があります。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "原著127頁は三つの関連不安概念との関係を論じ、128頁では言語学習過程の独自性から生じる複合体として定義しています。関連概念と外国語教室不安そのものを区別する説明です。",
+          "current": "原著127〜128頁の説明に対応します。三概念を説明の手がかりとしながら、言語学習過程の独自性から生じる複合体として捉えています。三つの確定した下位尺度が定義されるという意味ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "原著127頁は、他者や人前で話す際の不安と外国語学習との関係を論じています。発話に関する不安を対象外とする説明は誤りです。",
+          "current": "原著は教室での言語学習に関連する不安を扱います。状況を切り離して一般的な性格特性だけに限定する説明は、この捉え方に合いません。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "原著128頁は教室での言語学習に関連した複合体を扱い、130頁も他の不安の単なる合成ではないと述べています。一般的な性格特性だけに限定する説明とは異なります。",
+          "current": "原著127〜128頁では、コミュニケーション不安だけでなく、テスト不安と否定的評価への恐れも関連概念として論じています。後二者を説明から排除することはできません。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S17"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_003",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "自身の過去の経験のみを絶対視し、新しい教育テクノロジーや最新の第二言語習得理論の導入を意図的に避ける姿勢のことである。",
+          "current": "自身の過去の経験のみを絶対視し、新しい教育テクノロジーや第二言語習得理論の導入を意図的に避ける姿勢のことである。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "20261028_date_decisions_14.json paragraph945"
+      ],
+      "source_review_ids": [
+        "S167"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_004",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "授業中、教師Aさんは学習者の「て形」の誤りに気付き、「自分の説明では形の違いが伝わっていないのではないか」と捉え直した。そこで予定していた練習を一時中断し、対比例を示して学習者の反応を確かめることにした。ショーン（1983）の概念をこの架空事例に当てはめた説明として、最も適切なものを一つ選びなさい。 このAさんの行動を分析した記述として、最も適切なものを一つ選びなさい。",
+          "current": "授業中、教師Aさんは学習者の「て形」の誤りに気付き、「自分の説明では形の違いが伝わっていないのではないか」と捉え直した。そこで予定していた練習を一時中断し、対比例を示して学習者の反応を確かめることにした。ショーン（1983）の概念をこの架空事例に当てはめた説明として、最も適切なものを一つ選びなさい。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_004",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              48
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S166"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_006",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "次は教材用の架空事例である。作文の学習者は「説明文を丁寧体で統一して書けるようになりたい」と教師に相談した。現在の作文には「昨日は映画を見ました。とても面白かった」とある。Holec（1981）の、学習者が学習を引き受ける能力の発達を支える立場に照らし、最も適切な対応を一つ選びなさい。文体の混在がすべての文章で誤りだという前提は置かない。 Bさんの対応のうち、「学習者の自律性を育む指導（ファシリテーター的支援）」として最も適切なものを一つ選びなさい。",
+          "current": "次は教材用の架空事例である。作文の学習者は「説明文を丁寧体で統一して書けるようになりたい」と教師に相談した。現在の作文には「昨日は映画を見ました。とても面白かった」とある。Holec（1981）の、学習者が学習を引き受ける能力の発達を支える立場に照らし、最も適切な対応を一つ選びなさい。文体の混在がすべての文章で誤りだという前提は置かない。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_006",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              44
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S152"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_014",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "大学の日本語コースで、環境問題などの主題を先に決め、それを軸に文献を読む、議論する、レポートを書く活動や必要な言語項目を組み立てる。主題は文型練習の例として後から選ぶのではなく、単元編成の基準とする。この編成の中心を説明するものを一つ選びなさい。 このシラバスの名称として最も適切なものを一つ選びなさい。",
+          "current": "大学の日本語コースで、環境問題などの主題を先に決め、それを軸に文献を読む、議論する、レポートを書く活動や必要な言語項目を組み立てる。主題は文型練習の例として後から選ぶのではなく、単元編成の基準とする。この編成の中心を説明するものを一つ選びなさい。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_014",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              34
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S144"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_016",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Krashen（1982）の情意フィルター仮説内の主張と、CambridgeのTKT公式用語集にあるラポールや支援的な雰囲気の説明について、最も適切なものを一つ選びなさい。",
+          "current": "CambridgeのTKT公式用語集に示された、支援的な雰囲気（supportive atmosphere）の例に合う教師の対応を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "情意フィルター仮説（クラッシェン）によれば、学習者の不安や緊張（情意フィルター）をできるだけ高く維持することが、言語習得の効率を最大化させる。",
+          "current": "学習者からの質問は教師だけが受け、学習者同士では助けを求めないように促す。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "ラポールは教師と学習者の関係に関わる概念であり、良好な関係を築くことが重視される。支援的な雰囲気の例には、学習者同士が助け合ったり助けを求めたりすることを教師が促すことがある。",
+          "current": "学習者が互いに助け合い、分からないときは他者に助けを求められるように促す。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "TKT公式用語集でいう支援的な雰囲気とは、学習者同士が助け合うことや他者に助けを求めることを教師が認めない雰囲気である。",
+          "current": "教師と学習者の関係が良ければ十分と考え、学習者同士の助け合いは認めない。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "フィードバックはラポールと同義であり、学習や活動がどの程度できているかを相手に伝えることは、フィードバックの意味に含まれない。",
+          "current": "自力での解決を目標に掲げ、活動中に他者へ助けを求めることは控えるように促す。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "Krashenは低い不安と低い情意フィルターを促す状況を重視します。高い不安を維持すれば習得の効率が最大になるとする肢とは逆です。ここでは仮説内の主張を述べており、不安と習得のあらゆる因果関係が実証済みだとするものではありません。",
+          "current": "用語集の例は、学習者同士が助け合い、他者に助けを求めることを促しています。援助の相手を教師だけに限定する対応とは異なります。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "TKT公式用語集はラポールを教師と学習者の関係に関わるものとし、良好な関係づくりを示します。支援的な雰囲気の例としては、学習者が助け合い、他者に助けを求めることを教師が促すことを挙げています。",
+          "current": "用語集のSupportiveの項目は、援助や励ましを与えることを説明し、教師が学習者同士の援助や助けを求めることを促す例を挙げています。本問はこの例との対応を問います。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "支援的な雰囲気の説明では、教師が学習者同士の援助や質問を促す例を挙げています。そのような助け合いや助けを求める行為を認めないという肢は、示された例に反します。",
+          "current": "Rapportは教師と学習者の関係に関わる概念ですが、その関係が良ければ学習者同士の援助を認めなくてよいという意味ではありません。Supportiveの項目の例には合いません。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "同用語集ではフィードバックに、学習や活動がどの程度できているかを伝えることが含まれます。関係に関わるラポールと同義ではありません。特定の訂正手法を使えば必ず信頼が高まるという保証や、信頼形成のため全フィードバックを禁じるという一律規則を意味するものでもありません。",
+          "current": "自力で取り組む場面を設けること自体を否定するものではありません。ただし、助けを求めることを控えさせる対応は、本問が指定する用語集の例とは異なります。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S13",
+        "S183"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_017",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "教師は、学習者が昨日見た映画の題名をまだ知らない。Nunan（1990）が説明する提示質問と参照質問の区別に照らし、教師が「何という映画を見たんですか」と題名を尋ねる質問の説明として最も適当なものを選べ。 学習者：「昨日、友達と映画を見に行きました。とても面白かったです。」 教師：「あ、映画を見たんですか。何という映画を見たんですか？」 学習者：「『千と千尋の神隠し』です。」",
+          "current": "教師は、学習者が昨日見た映画の題名をまだ知らない。Nunan（1990）が説明する提示質問と参照質問の区別に照らし、教師が「何という映画を見たんですか」と題名を尋ねる質問の説明として最も適当なものを選べ。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_017",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              31,
+              32,
+              33
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S124"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_025",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "ビジネス日本語コースを、「依頼する」「謝罪する」などの言語機能別の単元で編成する。同時に、各単元で扱う文法項目とその導入順を別の一覧で明示し、両方の観点から内容を調整する。この編成について、最も適切な説明を一つ選びなさい。 第1章：電話の取り次ぎと伝言のメモ 第2章：社外の人へのメールでのアポイントメント獲得 第3章：進捗状況の報告と相談 このシラバスの分類として、最も適切な組み合わせを一つ選びなさい。",
+          "current": "ビジネス日本語コースを、「依頼する」「謝罪する」などの言語機能別の単元で編成する。同時に、各単元で扱う文法項目とその導入順を別の一覧で明示し、両方の観点から内容を調整する。この編成について、最も適切な説明を一つ選びなさい。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_025",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              35,
+              36,
+              37,
+              38
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S144"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_039",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "LysterとRanta（1997）の分類に照らし、次の教師の応答に含まれる訂正の技法として最も適当なものを選べ。学習者：「映画はとても面白かったでした。」教師：「ああ、とても面白かったんですね。」 学習者：「昨日、友達と映画に行きました。とても面白かったでした。」 教師：「あぁ、映画がとても『面白かった』んですね。誰と行ったんですか？」",
+          "current": "LysterとRanta（1997）の分類に照らし、次の教師の応答に含まれる訂正の技法として最も適当なものを選べ。学習者：「映画はとても面白かったでした。」教師：「ああ、とても面白かったんですね。」"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_039",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              29,
+              30
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S37"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_050",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "国際交流基金の2017年版ガイドブックで説明されるCan-doと、その利用上の留意点について、最も適切なものを一つ選びなさい。",
+          "current": "国際交流基金の2017年版ガイドブックに沿ってCan-doを授業設計に使う場合、最も適切な進め方を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "Can-doは、知っている文法項目や漢字の個数だけで熟達度を示す文である。",
+          "current": "Can-doを選び、そのレベルの学習者が覚えるべき文法と漢字の全項目が記述されていると考える。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "Can-doを設定すれば、目標達成に必要な語彙や文法項目などの言語材料を準備する必要はない。",
+          "current": "Can-doを目標に定め、その記述だけで必要な言語材料はそろうとして、語彙や文法の準備を省く。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "一つのCan-doを見れば十分なので、異なるレベルやカテゴリーの記述を見比べてはならない。",
+          "current": "一つのCan-doを選び、目標の一貫性を保つため、他のレベルやカテゴリーの記述との比較を避ける。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "Can-doは、ある熟達段階でできる言語活動や持っている言語能力を例示するものであり、現場で必要な言語材料なども別に準備する。",
+          "current": "複数のCan-doを見比べて目標を検討し、現場のニーズに応じて必要な語彙や文法も準備する。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "ガイドブック14頁は、文法や単語・漢字の知識量とは異なる捉え方として、できる活動や能力の例を示しています。個数だけで熟達度を示す文という説明は誤りです。",
+          "current": "ガイドブック14頁はCan-doを、ある段階でできる言語活動や持っている言語能力の例として説明しています。18頁も網羅的なものではないとしており、文法や漢字の全項目の一覧とは扱えません。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "ガイドブック18頁は、実際の教育活動に必要な語彙や文法項目などの言語材料の準備を求めています。Can-doを設定することと、その準備が不要になることは同じではありません。",
+          "current": "18頁は、実際の教育活動に必要な語彙や文法項目などの言語材料を各現場で準備するよう求めています。Can-doの目標設定だけでその準備が不要になるわけではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "ガイドブック18頁は、複数のCan-doをレベルやカテゴリーをまたいで見比べることを重視しています。見比べてはならないという記述は逆です。",
+          "current": "18頁は、レベルやカテゴリーをまたいで複数のCan-doを見比べることを重視しています。比較を避けるという進め方は、この留意点と逆です。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "ガイドブック14・18頁の説明に対応します。Can-doによる例示と、各現場の目的・ニーズに応じた言語材料や記述されていない能力の検討を併せて行います。",
+          "current": "18頁の留意点に対応します。Can-doの例示を比較し、各現場のニーズや目的に応じて言語材料や記述されていない能力も検討します。既存の記述をそのまま使うことだけが方法ではありません。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S141"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_067",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "動詞「見る」のタ形を使って昨日の行動を報告する練習で、学習者が「昨日、友達と映画を見ます」と言った。教師は誤りを明示的に指摘せず、「昨日、友達と映画を見たんですね」と言い換えた。この教師の応答をLysterとRantaの分類で捉えると、最も適切なものはどれか。 学習者：「昨日、友達と映画に行きました。そして、美味しいラーメンを食べました。」 教師：「あ、映画に行って、美味しいラーメンを食べたんですね。」",
+          "current": "動詞「見る」のタ形を使って昨日の行動を報告する練習で、学習者が「昨日、友達と映画を見ます」と言った。教師は誤りを明示的に指摘せず、「昨日、友達と映画を見たんですね」と言い換えた。この教師の応答をLysterとRantaの分類で捉えると、最も適切なものはどれか。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_067",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              7,
+              8
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S28",
+        "S37"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_069",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "学習者Aは、以前は理解して読めなかった日本語の新聞を、今は理解して読めるようになったという能力の変化を述べようとしている。Aが「日本語の新聞が読むようになりました」と言うと、教師は「その意味なら、『読む』ではなく『読める』です。『日本語の新聞が読めるようになりました』と言います」と答えた。Aはそのモデルを繰り返した。この場面の分析として、適切なものはどれか。 【授業場面】 「〜ようになります（変化）」の練習中。 学習者A：「日本語の新聞が読むようになります。」 教師：「ん？『読む』じゃなくて……『読める』ですね。『日本語の新聞が読めるようになります』。」 学習者A：「あ、日本語の新聞が読めるようになります。」",
+          "current": "学習者Aは、以前は理解して読めなかった日本語の新聞を、今は理解して読めるようになったという能力の変化を述べようとしている。Aが「日本語の新聞が読むようになりました」と言うと、教師は「その意味なら、『読む』ではなく『読める』です。『日本語の新聞が読めるようになりました』と言います」と答えた。Aはそのモデルを繰り返した。この場面の分析として、適切なものはどれか。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_069",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S43",
+        "S44",
+        "S37"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_072",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "ある形式が一定期間残ることは観察できても、それが一時的な停滞か永久的な化石化かをどう判断するかは、別に検討すべき問題である。",
+          "current": "一定期間続く形式が、一時的な停滞か永久的な化石化かは、別に検討する必要がある。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_072",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "ある形式が一定期間残ることは観察できても、それが一時的な停滞か永久的な化石化かをどう判断するかは、別に検討すべき問題である。",
+                "baseline": "一定期間続く形式が、一時的な停滞か永久的な化石化かは、別に検討する必要がある。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S140"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_079",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "許可を求める表現のロールプレイで、教師Tは「Bさんはスマホを使う許可を求める役、私は許可するか判断する役です。まず自分で質問を考えて言ってください」と指示した。Bが話し始める前に、Tは間を置かず「『スマホを使ってもいいですか』と言います」と質問のモデルを示した。Bが「スマホを使ってもいいです」と言うと、Tは「今は許可を求める質問です。最後に『か』を付けて、『スマホを使ってもいいですか』と言います」と訂正した。この発話記録の分析として、適切なものはどれか。 【発話データ】 T（教師）：「はい、みなさん。ええと、辞書です。使います。いいです。『辞書を使ってもいいです』。……あ、Bさん、スマホ使います。どうですか？ 使ってもいいですか？」 S（学習者B）：「スマホを使ってもいいです。」 T：「あ、違います。『使ってもいいですか』です。聞き返してください。もう一度！」",
+          "current": "許可を求める表現のロールプレイで、教師Tは「Bさんはスマホを使う許可を求める役、私は許可するか判断する役です。まず自分で質問を考えて言ってください」と指示した。Bが話し始める前に、Tは間を置かず「『スマホを使ってもいいですか』と言います」と質問のモデルを示した。Bが「スマホを使ってもいいです」と言うと、Tは「今は許可を求める質問です。最後に『か』を付けて、『スマホを使ってもいいですか』と言います」と訂正した。この発話記録の分析として、適切なものはどれか。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_079",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              16,
+              17,
+              18,
+              19
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S46",
+        "S37"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_081",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Roweが区別したウェイト・タイム1とウェイト・タイム2の説明として、最も適当なものを選べ。",
+          "current": "教師の質問が終わってから学習者の応答が始まるまでの間をA、学習者の応答が終わってから教師が再び話し始めるまでの間をBとする。Roweのウェイト・タイム1と2の区別に合うものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "ウェイト・タイム1は、遅刻した学習者が着席するまでの時間である。",
+          "current": "Aがウェイト・タイム2、Bがウェイト・タイム1に当たる。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "ウェイト・タイム2は、教師の質問が終わってから学習者の応答が始まるまでの時間である。",
+          "current": "AとBはいずれもウェイト・タイム1に当たり、位置では区別しない。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "ウェイト・タイム1と2は、教師が授業の前に教材を準備する時間を二分したものである。",
+          "current": "AとBを合計した時間がウェイト・タイム2に当たる。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "ウェイト・タイム1は教師の質問後に応答を待つ間、ウェイト・タイム2は学習者の応答後に教師が再び発話するまでに置く間を指す。",
+          "current": "Aがウェイト・タイム1、Bがウェイト・タイム2に当たる。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "ウェイト・タイム1は、教師の質問後に学習者の応答を待つ間です。遅刻者の着席を待つ時間の名称ではありません。",
+          "current": "二つの名称を逆にしています。教師の質問後の間がウェイト・タイム1で、学習者の応答後の間がウェイト・タイム2です。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "これはウェイト・タイム1の説明です。ウェイト・タイム2は学習者の応答後に教師が再び発話するまでに置く間に関係します。",
+          "current": "二つの間は、質問・応答のやり取りのどこに置かれるかによって区別されます。どちらもウェイト・タイム1とする説明は適切ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "いずれも授業中の質問・応答のやり取りにおける間の区別です。授業前の教材準備時間を分類したものではありません。",
+          "current": "ウェイト・タイム2は、学習者の応答後に置かれる間です。質問後の間との合計時間を指す名称ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "Roweは、教師の質問後の間をウェイト・タイム1、学習者の応答後の間をウェイト・タイム2として区別しています。この問題は間を置く位置の定義を問い、すべての授業に共通する最適な秒数や効果を主張していません。",
+          "current": "Roweの区別に対応します。1は教師の質問後、2は学習者の応答後の間です。本問は間の位置を問い、どの授業でも同じ秒数が最適だという主張はしていません。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S125"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_083",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "ショーン（Schön, 1983）の省察についての説明に合うものを一つ選びなさい。",
+          "current": "ある日本語教師は、授業で行ったペア活動について、授業終了後に学習者の発話記録と観察メモを確認した。発話機会が一部の学習者に偏っていた理由を検討し、次回の活動の進め方を見直そうとしている。Schönのいう「行為の後の省察（reflection-on-action）」に最もよく当てはまる説明を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "「行為の中の省察」は、どのような実践でも、必ず数秒以内に完了しなければならない。",
+          "current": "授業中に学習者の反応を見て、その場で活動の手順を変更すること。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "省察の対象は結果の成否だけであり、行為に含まれる判断の基準や問題の捉え方は含まれない。",
+          "current": "授業終了後、実践を振り返らずに、予定していた指導手順を次回もそのまま繰り返すこと。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "省察は、完了した実践を後から振り返る場合にしか生じず、実践の進行中には生じない。",
+          "current": "授業後にテストの平均点だけを記録し、活動中の判断や進め方は検討しないこと。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "反復する実践で暗黙になった理解を問い直し、不確実な状況の新たな意味を捉えようとすることがある。",
+          "current": "授業終了後に記録を基に実践上の判断を振り返り、その理由を検討して次回の指導改善につなげること。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "62頁は、行為の中の省察が必ずしも速いとは限らず、行為がなお状況に影響し得る時間幅の中で起こると説明します。その時間幅は実践によって異なり、数秒以内という一律の制限はありません。",
+          "current": "授業中に、その授業の状況に働き掛けながら判断や行動を見直す点で「行為の中の省察」の例です。ただし原著62頁のaction-presentは、実践の単位によって長さが異なります。授業の終了時刻だけで両者を機械的に分ける趣旨ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "62頁は、判断を支える暗黙の基準、行動に含まれる方略や理論、問題の枠付け、自らの役割なども省察の対象に挙げています。結果の成否だけに限定する説明は誤りです。",
+          "current": "過去の実践を批判的に検討しておらず、省察の例とはいえません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "61〜62頁では、過去の実践を振り返る場合に加えて、実践が進行する中で省察する場合も説明されています。省察を終了後だけに限定することはできません。",
+          "current": "平均点の記録自体は有用でも、実践上の判断やその前提を問い直していないため、この設問でいう省察の例としては不十分です。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "61頁の説明に対応します。繰り返す実践から生まれた暗黙の理解を検討することが、見方の固定を問い直す働きを持ち得ると論じられています。全教師での効果や、実践的知識を得る唯一の方法を立証した説明ではありません。",
+          "current": "原著61頁は、経験した実践を後から振り返り、そのときの理解や判断を検討して将来の実践に備える場合を述べています。本問は終了した授業を振り返る架空の例です。記録を基に判断の理由を検討する点で、単なる記録や同じ手順の反復とは区別されます。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_083",
+        "fields": {
+          "stem": {
+            "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+          },
+          "options": {
+            "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+          },
+          "explanations": {
+            "decision": "retain_2027_schon_round33_revision_pending_primary_text_freeze"
+          }
+        }
+      },
+      "later_applied_records": [
+        "publishing/2027/round40/revisions_and_regression.json"
+      ],
+      "source_review_ids": [
+        "S166"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_089",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "扱う問いと結論を整理し、読書傾向についての主張を支える資料の出所・調査方法・対象範囲を確かめ、根拠と自分の考察を区別して書き直す。",
+          "current": "問いと結論を整理し、読書傾向に関する資料の出所・調査法・対象を確かめ、根拠と自分の考察を分けて書く。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_089",
+        "fields": {
+          "stem": {
+            "decision": "whitespace_only"
+          },
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "扱う問いと結論を整理し、読書傾向についての主張を支える資料の出所・調査方法・対象範囲を確かめ、根拠と自分の考察を区別して書き直す。",
+                "baseline": "問いと結論を整理し、読書傾向に関する資料の出所・調査法・対象を確かめ、根拠と自分の考察を分けて書く。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S225"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_094",
+      "changes": [
+        {
+          "field": "options",
+          "item": 4,
+          "master": "話さずにカードゲームを行い、勝者が別の卓へ移って対戦を続けた。後の振り返りで、言語や文化の違いと、違いに直面したときの感情について話し合った。",
+          "current": "無言でカードゲームを行い、勝者が別卓へ移動した後、言語や文化の違いと、その際の感情を話し合った。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_094",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 4,
+                "academic": "話さずにカードゲームを行い、勝者が別の卓へ移って対戦を続けた。後の振り返りで、言語や文化の違いと、違いに直面したときの感情について話し合った。",
+                "baseline": "無言でカードゲームを行い、勝者が別卓へ移動した後、言語や文化の違いと、その際の感情を話し合った。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S228",
+        "S229"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_103",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Cさんが日本語学習者Bさんに「日曜日の引っ越し、もしよかったら手伝いに行きましょうか」と申し出た。Bさんは「あ、大丈夫です。ありがとうございます」と答え、Cさんは「そうですか。じゃあ、気をつけてね」と応じた。当日Cさんが来ず、Bさんは不満を抱いた。欧州評議会のRFCDC（2018）が述べる異文化への開放性や曖昧さへの寛容性を踏まえ、この事例の背景を検討する対応として最も適切なものを一つ選べ。 【場面】 Cさん：「Bさん、日曜日の引っ越し、もしよかったら手伝いに行きましょうか？」 Bさん：「あ、大丈夫です。ありがとうございます。」 Cさん：「そうですか。じゃあ、気をつけてね。」 （日曜日当日、Cさんが来なかったことに対してBさんは不満を抱いた）",
+          "current": "Cさんが日本語学習者Bさんに「日曜日の引っ越し、もしよかったら手伝いに行きましょうか」と申し出た。Bさんは「あ、大丈夫です。ありがとうございます」と答え、Cさんは「そうですか。じゃあ、気をつけてね」と応じた。当日Cさんが来ず、Bさんは不満を抱いた。欧州評議会のRFCDC（2018）が述べる異文化への開放性や曖昧さへの寛容性を踏まえ、この事例の背景を検討する対応として最も適切なものを一つ選べ。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_103",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              52,
+              53,
+              54,
+              55
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S213"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_108",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "SchegloffとSacks「Opening Up Closings」が述べる隣接ペアの基本形式について、最も適当な説明を一つ選べ。",
+          "current": "SchegloffとSacks「Opening Up Closings」の隣接ペアの基本形式に照らし、「質問―回答」という組合せについて適切な説明を一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "異なる話し手が産出する第1部分と第2部分が、「質問―回答」「挨拶―挨拶」などの行為の組合せとして、順序と関連性をもつ。",
+          "current": "質問と回答は異なる話し手が産出し、先行する質問が、それに対応する回答という行為に関連する。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "第1部分と第2部分は、必ず同じ話し手が続けて産出する。",
+          "current": "質問と回答は同じ話し手が産出することを基本とし、異なる話し手のやり取りとは区別される。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "第2部分を先に産出し、そのあとに対応する第1部分を産出することが基本形式である。",
+          "current": "質問の後に別の話し手が発話すれば、その行為が何であっても回答とのペアが成立する。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "二つの発話が近接していれば、行為の組合せとして関連していなくても隣接ペアになる。",
+          "current": "回答に当たる発話を先に置き、それに対応する質問を後に置くことが基本の順序となる。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "原論文の再録版74頁は、異なる話し手による二つの部分、部分の相対的順序、行為の組合せを説明しています。ここでは、その基本形式を問うています。",
+          "current": "再録版74頁は、異なる話し手による二つの部分、部分の相対的順序、行為の組合せを示しています。「質問―回答」はその例であり、単なる二発話の近接とは区別されます。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "基本形式では二つの部分を異なる話し手が産出します。同じ話し手が続けて産出することを要件とする説明は逆です。",
+          "current": "基本形式では、二つの部分を異なる話し手が産出します。同じ話し手が両方を産出することを基本とする説明は、指定された形式に合いません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "第1部分が第2部分に先行することが基本形式です。順序を逆にした肢の説明とは一致しません。",
+          "current": "第1部分と第2部分には行為上の関連があります。別の話し手が次に発話したという位置関係だけで、それを質問に対応する回答とみなすことはできません。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "単に二発話が近接するだけでなく、質問と回答など、部分同士の行為上の関連性があります。近接だけで定義することはできません。",
+          "current": "基本の順序は第1部分が先、第2部分が後です。「質問―回答」の組合せで、対応する回答を先に置くことを基本とする説明は順序を逆にしています。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S134"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_109",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "Pomerantz（1984）による評価発話への応答の分析に照らし、会話分析の選好について最も適当な説明を一つ選べ。",
+          "current": "Pomerantz（1984）の評価発話への応答の分析に照らし、会話分析の「選好」の説明として最も適切なものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "選好とは、教師が特定の学習者だけを指名する授業中の行動を指す。",
+          "current": "先行する行為の種類より、応答者がその内容を個人的に好きかどうかによって決まる。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "先行する行為に対して選好される応答と、その代替となる応答を区別する。どちらが選好されるかは、先行する行為によって異なる。",
+          "current": "先行する行為との関係で捉えられ、自己卑下に同意する応答は非選好となる場合がある。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "選好とは、話し手が個人的に好きな人物を会話相手として選ぶことだけを指す。",
+          "current": "評価への応答では同意が選好されるため、自己卑下に対する同意も同じように扱われる。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "どのような先行する評価発話に対しても、同意だけが選好され、不同意は常に非選好となる。",
+          "current": "応答が先行発話から遅れて始まれば、行為の種類にかかわらず選好される応答となる。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "原著63〜64頁は、先行する行為とそれに続く応答の関係を分析しています。教師の指名相手の偏りを定義した用語ではありません。",
+          "current": "原著の選好は、先行する行為と応答、および応答の組み立てとの関係を扱います。応答者の個人的な好き嫌いだけで決めるという意味ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "原著は、先行する評価が一方の次行為を促す構造と応答の組み立てを扱います。例えば自己卑下に続く同意は非選好となり、同意がいつでも選好されるわけではありません。",
+          "current": "原著64頁は、どの応答が選好されるかは先行する行為にも関わるとし、自己卑下への同意が非選好となる例を挙げています。同意と選好を常に同一視しないことが要点です。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "原著の選好は、先行する行為に対する次の行為とその発話形式の関係です。好きな会話相手を選ぶという個人的好みだけでは説明できません。",
+          "current": "原著64頁は、自己卑下の後では通常の同意への選好が働かない場合を示しています。評価発話への応答をすべて同じ同意優先の形で扱う説明は適切ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "原著64頁は、自己卑下への同意を非選好とする場合を挙げています。したがって、すべての評価発話について同意と選好を同一視する説明は誤りです。",
+          "current": "原著64〜65頁では、遅れは非選好の応答の組み立てに関わる特徴として論じられています。遅れて始まるという一点から、すべての行為について選好されると判断する説明は誤りです。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S135"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_115",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "AERA・APA・NCMEの2014年版共同標準の用語定義に沿った、CBTとコンピュータ適応型テスト（CAT）の説明として最も適切なものを一つ選びなさい。",
+          "current": "AERA・APA・NCMEの2014年版共同標準の用語定義に照らし、CBTとコンピュータ適応型テスト（CAT）の関係を適切に説明したものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "CBTはコンピュータを使って実施するテストを指す。CATでは、それまでの反応に応じ、項目の測定特性や内容を考慮して次の項目などを選ぶ。",
+          "current": "CBTはコンピュータでの実施を指し、CATはそれに加えて過去の反応に応じた項目選択を行う。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "コンピュータで実施していても、出題項目が過去の反応に応じて変わらなければ、CBTとは呼べない。",
+          "current": "CBTは過去の反応に応じた項目選択を指し、CATはコンピュータでの実施一般を指す。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "CATとは、受検者の反応や項目の測定特性・内容を考慮せず、次の項目を選ぶ方式である。",
+          "current": "出題項目があらかじめ固定されているテストは、コンピュータで実施してもCBTには含まれない。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "CATの定義は、問題文をその場でゼロから自動生成することであり、項目を選択することとは無関係である。",
+          "current": "CATの適応性は画面表示の調節を意味し、過去の反応に応じた項目選択は定義に含まれない。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "共同標準217頁のコンピュータ実施型テストとコンピュータ適応型テスト、および215頁の適応型テストの定義に対応します。コンピュータでの実施と、反応に応じた項目選択は区別します。",
+          "current": "共同標準217頁はコンピュータで実施するテストとCATを区別し、215頁は適応型テストを過去の反応に応じた項目や項目群の選択として説明しています。選択には項目の測定特性や内容も考慮されます。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "共同標準217頁のコンピュータ実施型テストの定義には、適応型であることという条件はありません。CBTというだけでCATの仕組みまで備わると決めることはできません。",
+          "current": "コンピュータでの実施一般に対応するのがCBTです。過去の反応に応じて項目を選ぶ適応型の仕組みと、CBTの関係を取り違えています。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "共同標準215頁は、それまでの反応との関係で、項目の測定特性や内容に基づいて項目や項目群を選ぶと説明します。これらを考慮しないという記述は逆です。",
+          "current": "217頁のCBTの定義は、反応に応じた出題変更を必須としていません。項目が固定されていても、コンピュータで実施するテストであればCBTに含まれます。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "共同標準215・217頁のCATの定義が扱うのは、反応に応じた項目などの選択です。それを問題文の自動生成そのものと定義する記述は誤りです。",
+          "current": "215・217頁の定義でいう適応性は、過去の反応に応じた項目などの選択に関わります。画面表示を調節する機能だけをCATと呼ぶという意味ではありません。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S142"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_4_125",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "第32条第1項は公表された著作物を対象とし、公正な慣行と引用目的上正当な範囲を求める。引用して複製する場合は第48条の出所表示も必要となる。",
+          "current": "第32条は公表著作物について公正な慣行と引用目的上正当な範囲を要求し、複製して引用する際は第48条の出所表示も求める。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_4_125",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "第32条第1項は公表された著作物を対象とし、公正な慣行と引用目的上正当な範囲を求める。引用して複製する場合は第48条の出所表示も必要となる。",
+                "baseline": "第32条は公表著作物について公正な慣行と引用目的上正当な範囲を要求し、複製して引用する際は第48条の出所表示も求める。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S26"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_008",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "第二言語学習者の誤用の原因を分析する際、母語と目標言語の対照、および目標言語内の規則学習をどのように考えるべきか。Richardsの誤用分析の議論に照らして、適切なものはどれか。 （ア） 「私は昨日、映画を見た、そして本を読んだ。」（不自然な接続詞の多用） （イ） 「田中さんが本を読んでいる、でも鈴木さんがテレビを見ている。」（対比の「は」ではなく「が」を使用） （ウ）*「私は昨日、友達に会いました。私は友達と食事をしました。私は楽しかったです。」（主語の明示的重複）",
+          "current": "第二言語学習者の誤用の原因を分析する際、母語と目標言語の対照、および目標言語内の規則学習をどのように考えるべきか。Richardsの誤用分析の議論に照らして、適切なものはどれか。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_008",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              9,
+              10,
+              11
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S29"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_010",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "中国語の量詞と日本語の助数詞を比較する、次の架空の学習場面について、最も適切なものはどれか。学習者は書籍を2冊買い、「本を二本買いました。中国語で書籍を数える『本』を、そのまま日本語でも使いました」と説明した。 学習者の発話：*「私は昨日、デパートへ行って、衣服を二本買いました。」",
+          "current": "中国語の量詞と日本語の助数詞を比較する、次の架空の学習場面について、最も適切なものはどれか。学習者は書籍を2冊買い、「本を二本買いました。中国語で書籍を数える『本』を、そのまま日本語でも使いました」と説明した。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_010",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              28
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S116",
+        "S117"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_015",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "「見る」はグループ2で「る」を取って「ない」を付け、「切る」はグループ1で辞書形末尾のuをaに変えて「ない」を付ける。",
+          "current": "「見る」はグループ2で「る」を取り「ない」を付け、「切る」はグループ1で「切らない」と活用する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_015",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "「見る」はグループ2で「る」を取って「ない」を付け、「切る」はグループ1で辞書形末尾のuをaに変えて「ない」を付ける。",
+                "baseline": "「見る」はグループ2で「る」を取り「ない」を付け、「切る」はグループ1で「切らない」と活用する。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S110"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_027",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "アクセントとイントネーションの区別に関する記述として、最も適切なものはどれか。",
+          "current": "東京外国語大学の日本語発音教材の説明に照らし、日本語のアクセントとイントネーションの区別について、最も適切なものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "アクセントは単語レベルの音の高さの変化、イントネーションは文レベルの音の高さの変化であり、イントネーションは文の意味や感情の表現に関わる。",
+          "current": "アクセントは語、イントネーションは文の高低変化に関わり、後者は意味や感情にも影響する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_027",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "アクセントは単語レベルの音の高さの変化、イントネーションは文レベルの音の高さの変化であり、イントネーションは文の意味や感情の表現に関わる。",
+                "baseline": "アクセントは語、イントネーションは文の高低変化に関わり、後者は意味や感情にも影響する。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [
+        "publishing/2027/round40/revisions_and_regression.json"
+      ],
+      "source_review_ids": [
+        "S82"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_028",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "日本語の「し」はseaのような[si]ではなくsheに近いが、唇を丸めすぎないよう注意させ、モデル音声を用いて調音と聞き分けを練習する。",
+          "current": "日本語の「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_028",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "日本語の「し」はseaのような[si]ではなくsheに近いが、唇を丸めすぎないよう注意させ、モデル音声を用いて調音と聞き分けを練習する。",
+                "baseline": "日本語の「し」はseaの[si]よりsheに近いが、唇を丸めすぎないようにし、モデル音声で調音と聞き分けを練習する。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S83"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_034",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "2025年12月22日の内閣告示第4号「ローマ字のつづり方」に関する記述として、正しいものはどれか。",
+          "current": "2025年12月22日内閣告示第4号「ローマ字のつづり方」の本表と添え書きに合うものを一つ選びなさい。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "新しい告示では、「し・ち・つ・ふ」を必ずsi・ti・tu・huと書くものとし、shi・chi・tsu・fuは本表から除かれた。",
+          "current": "本表の「し・ち・つ・ふ」はsi・ti・tu・huであり、長音は母音字の上の符号でも表せる。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "本表では「し・ち・つ・ふ」をshi・chi・tsu・fuと書く。長音には母音字の上に符号を付ける方法のほか、現代仮名遣いに沿って母音字を並べる方法も示されている。",
+          "current": "本表の「し・ち・つ・ふ」はshi・chi・tsu・fuであり、長音は現代仮名遣いに沿う母音字の並びでも表せる。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "新しい告示は、過去の著作や文書に使われた別の方式をすべて誤りとし、さかのぼって書き直すことを要求している。",
+          "current": "本表の「し・ち・つ・ふ」はshi・chi・tsu・fuであり、長音を母音字の並びで表すことは認められない。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "新しい告示は、科学・技術・芸術の専門分野と個々人の表記にも、例外なく同じ方式を強制する。",
+          "current": "本表の「し・ち・つ・ふ」はshi・chi・tsu・fuであり、長音を表す際に母音字の上へ符号を付けることはない。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "本表にはshi・chi・tsu・fuが示されています。si・ti・tu・huだけを採用したという説明は誤りです。",
+          "current": "長音を符号で表す方法は示されていますが、本表の「し・ち・つ・ふ」はshi・chi・tsu・fuです。si・ti・tu・huを本表のつづりとする点が誤りです。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "告示の本表と添え書き3に対応する記述です。長音は原則として母音字の上のマクロンで表し、必要な場合にはサーカムフレックスも使用できます。また、現代仮名遣いと同様に母音字を並べる書き方も認められています。",
+          "current": "本表と添え書き3に対応します。長音は母音字の上の符号で表すほか、現代仮名遣いと同様に母音字を並べてもよいとされています。符号にはマクロンが示され、必要な場合にはサーカムフレックスも使えます。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "前書き3は、過去の著作や文書のつづり方を否定するものではないとしています。旧方式の資料を一律にさかのぼって修正する趣旨ではありません。",
+          "current": "本表の四つのつづりは適切ですが、長音の説明が誤りです。添え書き3は、現代仮名遣いに沿って母音字を並べる方法も認めています。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "前書き2は、科学・技術・芸術その他の専門分野や個々人の表記にまで及ぼそうとするものではないとしています。一般の社会生活で現代の国語をローマ字表記する際のよりどころです。",
+          "current": "本表の四つのつづりは適切ですが、長音の説明が誤りです。添え書き3は、母音字の上に符号を付ける方法を示しています。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S20"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_059",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "井上優「モダリティ」で説明される「ムードのタ」について、適切な説明はどれか。",
+          "current": "井上優「モダリティ」の例6で「ムードのタ」として挙げられる「あ、あった」「確か井上さんでしたっけ」の用法の組合せはどれか。"
+        },
+        {
+          "field": "options",
+          "item": 1,
+          "master": "「タ」を含む文は、例外なく過去の出来事の時間的位置だけを表す。",
+          "current": "前者は過去の習慣を報告し、後者は相手への行為の禁止を表す。"
+        },
+        {
+          "field": "options",
+          "item": 2,
+          "master": "「あ、あった」のような発見や、「確か井上さんでしたっけ」のような思い出しを表す用法が挙げられている。",
+          "current": "前者はその場での発見を表し、後者は思い出しに関わる用法を表す。"
+        },
+        {
+          "field": "options",
+          "item": 3,
+          "master": "「タ」は、現在の発見を表すことが文法的にできない。",
+          "current": "前者は過去の習慣を報告し、後者は思い出しに関わる用法を表す。"
+        },
+        {
+          "field": "options",
+          "item": 4,
+          "master": "「タ」を含む文はすべて命令文であり、相手の行為を禁止する。",
+          "current": "前者はその場での発見を表し、後者は相手への行為の禁止を表す。"
+        },
+        {
+          "field": "explanations",
+          "item": 1,
+          "master": "同資料には、発見や思い出しを表す用法も示されています。すべてを過去の時間的位置だけで説明することはできません。",
+          "current": "例6の「あ、あった」は発見、「確か井上さんでしたっけ」は思い出しの例です。過去の習慣の報告と行為の禁止という組合せには対応しません。"
+        },
+        {
+          "field": "explanations",
+          "item": 2,
+          "master": "同資料の例6は、発見と思い出しを「ムードのタ」の例として示しています。設問はこの記述を問うもので、タ形の全用法をこの二つに限定していません。",
+          "current": "同資料134頁の例6に対応します。ここでは、発見と思い出しを「ムードのタ」の例として示しています。タ形のすべての用法をこの二つに限定する説明ではありません。"
+        },
+        {
+          "field": "explanations",
+          "item": 3,
+          "master": "同資料には、その場での発見を表すタの例があります。現在の発見には使えないという説明は誤りです。",
+          "current": "後者を思い出しとする点は対応しますが、前者は過去の習慣の報告ではなく、同資料で発見の例として示されています。"
+        },
+        {
+          "field": "explanations",
+          "item": 4,
+          "master": "同資料の発見・思い出しの例は、相手の行為を禁止する命令ではありません。タを含む文をすべて禁止の命令文とする説明は誤りです。",
+          "current": "前者を発見とする点は対応しますが、後者は思い出しの例です。相手の行為を禁止する用法として挙げられているわけではありません。"
+        }
+      ],
+      "baseline_difference_record": null,
+      "later_applied_records": [
+        "publishing/2027/round38/revisions_14.json"
+      ],
+      "source_review_ids": [
+        "S67"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_079",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "ネガティブ・フェイスは自分の行為を他者に妨げられたくないという欲求、ポジティブ・フェイスは自分の欲求が少なくとも一部の他者にとって望ましいものであってほしいという欲求である。",
+          "current": "ネガティブ・フェイスは行為を妨げられたくない欲求、ポジティブ・フェイスは自分の欲求を一部の他者にも望ましく思われたい欲求である。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_079",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "ネガティブ・フェイスは自分の行為を他者に妨げられたくないという欲求、ポジティブ・フェイスは自分の欲求が少なくとも一部の他者にとって望ましいものであってほしいという欲求である。",
+                "baseline": "ネガティブ・フェイスは行為を妨げられたくない欲求、ポジティブ・フェイスは自分の欲求を一部の他者にも望ましく思われたい欲求である。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S122"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_084",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "他の格率との衝突も協調の拒否もなく、聞き手を欺こうとしていないあからさまな不遵守では、協調原理との両立を考える推論が会話的含意を生むことがある。",
+          "current": "格率の衝突・協調拒否・欺きによらない、あからさまな格率の不遵守は会話的含意を生みうる。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_084",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "他の格率との衝突も協調の拒否もなく、聞き手を欺こうとしていないあからさまな不遵守では、協調原理との両立を考える推論が会話的含意を生むことがある。",
+                "baseline": "格率の衝突・協調拒否・欺きによらない、あからさまな格率の不遵守は会話的含意を生みうる。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S48"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_085",
+      "changes": [
+        {
+          "field": "stem",
+          "item": 1,
+          "master": "次は架空のお菓子「雪の実」を渡す場面である。Bは「名前と、何のお菓子かだけ教えて」と依頼した。Aは「雪の実というクッキーです」と答えた後、求められていない製造会社の沿革や各年の販売数量の説明を長く続けた。追加情報はすべて正確で、Aには十分な証拠があるものとする。この場面で「求められた以上の情報を提供する」という点に対応する格率はどれか。 【場面】日本語学習者Aが、友人のBさんに旅行のお土産を渡す場面。 A：「これ、北海道のお土産です。どうぞ。」 B：「わあ、ありがとうございます！これ、何ですか。」 A：「これは白い恋人という有名なお菓子で、1976年から販売されていて、石屋製菓という会社が作っていて、年間で何百万個も売れていて、原料の牛乳は北海道産で…（長い解説が続く）」",
+          "current": "次は架空のお菓子「雪の実」を渡す場面である。Bは「名前と、何のお菓子かだけ教えて」と依頼した。Aは「雪の実というクッキーです」と答えた後、求められていない製造会社の沿革や各年の販売数量の説明を長く続けた。追加情報はすべて正確で、Aには十分な証拠があるものとする。この場面で「求められた以上の情報を提供する」という点に対応する格率はどれか。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_085",
+        "fields": {
+          "stem": {
+            "decision": "retain_documented_supplemental_deletion",
+            "supplemental_records": [
+              20,
+              21,
+              22,
+              23
+            ]
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S48"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_092",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "注意・作動記憶の容量に限りがあるという前提で、他の条件が同じなら、ある側面への注意が他の側面の遂行を低下させる可能性を考える。",
+          "current": "注意・作動記憶には限りがあり、ほかの条件が同じなら、一側面への注意が別の側面の遂行を下げうる。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_092",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "注意・作動記憶の容量に限りがあるという前提で、他の条件が同じなら、ある側面への注意が他の側面の遂行を低下させる可能性を考える。",
+                "baseline": "注意・作動記憶には限りがあり、ほかの条件が同じなら、一側面への注意が別の側面の遂行を下げうる。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S280"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_100",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "依頼は聞き手の将来の行為に圧力をかけるため主として聞き手のネガティブ・フェイスを脅かし、謝罪は過去のFTAを悔いることを示すため話し手自身のポジティブ・フェイスを直接傷つける。",
+          "current": "依頼は聞き手のネガティブ・フェイスを、謝罪は話し手自身のポジティブ・フェイスを脅かす。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_100",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "依頼は聞き手の将来の行為に圧力をかけるため主として聞き手のネガティブ・フェイスを脅かし、謝罪は過去のFTAを悔いることを示すため話し手自身のポジティブ・フェイスを直接傷つける。",
+                "baseline": "依頼は聞き手のネガティブ・フェイスを、謝罪は話し手自身のポジティブ・フェイスを脅かす。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S122"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_5_101",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "Aさんはパソコンの種類を尋ねる質問に答え、Bさんは使いやすさを尋ねる質問へ進んでいる。この抜粋だけでAさんの会話への協力姿勢が不足しているとは断定できない。",
+          "current": "Aはパソコンの種類に答え、Bは使いやすさを尋ねている。この抜粋だけではAの協力姿勢の不足を判断できない。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_5_101",
+        "fields": {
+          "stem": {
+            "decision": "whitespace_only"
+          },
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "Aさんはパソコンの種類を尋ねる質問に答え、Bさんは使いやすさを尋ねる質問へ進んでいる。この抜粋だけでAさんの会話への協力姿勢が不足しているとは断定できない。",
+                "baseline": "Aはパソコンの種類に答え、Bは使いやすさを尋ねている。この抜粋だけではAの協力姿勢の不足を判断できない。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S133"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_O_030",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "学校で利用目的・必要な許可・保管方法を確認した上で発話の記録を残し、共通基準に沿って複数の教師が再確認できるようにする",
+          "current": "利用目的・必要な許可・保管方法を確認して発話を記録し、共通基準で複数の教師が再確認する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_O_030",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "学校で利用目的・必要な許可・保管方法を確認した上で発話の記録を残し、共通基準に沿って複数の教師が再確認できるようにする",
+                "baseline": "利用目的・必要な許可・保管方法を確認して発話を記録し、共通基準で複数の教師が再確認する。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S179"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_O_031",
+      "changes": [
+        {
+          "field": "options",
+          "item": 4,
+          "master": "「ています」には過去の経験や記録を述べる用法もあるため、来日前のことだという理由だけで誤用と断定せず、意図や文脈を確かめる。",
+          "current": "「ています」は過去の経験も表すため、来日前の学習を述べたというだけで誤用とは断定せず、意図や文脈を確認する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_O_031",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 4,
+                "academic": "「ています」には過去の経験や記録を述べる用法もあるため、来日前のことだという理由だけで誤用と断定せず、意図や文脈を確かめる。",
+                "baseline": "「ています」は過去の経験も表すため、来日前の学習を述べたというだけで誤用とは断定せず、意図や文脈を確認する。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S211",
+        "S212"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_O_063",
+      "changes": [
+        {
+          "field": "options",
+          "item": 2,
+          "master": "早い決定を優先するか、全員の納得まで話し合うかという、本人たちが述べた重視点の違い",
+          "current": "多数決で早く決めたいか、全員の納得まで話し合いたいかという重視点の違い。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_O_063",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 2,
+                "academic": "早い決定を優先するか、全員の納得まで話し合うかという、本人たちが述べた重視点の違い",
+                "baseline": "多数決で早く決めたいか、全員の納得まで話し合いたいかという重視点の違い。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S213"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_M_002",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "来日を希望するインドネシア・フィリピン人の看護師・介護福祉士候補者を対象に、約6か月の初級〜中級程度の日本語教育を実施すると紹介されている。",
+          "current": "インドネシア・フィリピン人の看護師・介護福祉士候補者に、約6か月の初級〜中級日本語教育を行う。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_M_002",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "来日を希望するインドネシア・フィリピン人の看護師・介護福祉士候補者を対象に、約6か月の初級〜中級程度の日本語教育を実施すると紹介されている。",
+                "baseline": "インドネシア・フィリピン人の看護師・介護福祉士候補者に、約6か月の初級〜中級日本語教育を行う。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S276"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_M_007",
+      "changes": [
+        {
+          "field": "options",
+          "item": 3,
+          "master": "言語的マイノリティーを言語面で支え、ホスト社会との橋渡しをする。法律相談では専門家の助言を正確に通訳することも課題となる。",
+          "current": "言語的少数者を言語面で支えて受け入れ社会と橋渡しする。法律相談では専門家の助言を正確に通訳する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_M_007",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 3,
+                "academic": "言語的マイノリティーを言語面で支え、ホスト社会との橋渡しをする。法律相談では専門家の助言を正確に通訳することも課題となる。",
+                "baseline": "言語的少数者を言語面で支えて受け入れ社会と橋渡しする。法律相談では専門家の助言を正確に通訳する。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S286"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_M_032",
+      "changes": [
+        {
+          "field": "options",
+          "item": 1,
+          "master": "授業後に何がうまくいき、何がうまくいかなかったかを振り返り、活動に見積もった時間の見直しを検討することは、今後の授業改善を目指す省察の一例となる。",
+          "current": "授業後に活動の成否を振り返り、時間配分を見直して今後の授業改善につなげる。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_M_032",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 1,
+                "academic": "授業後に何がうまくいき、何がうまくいかなかったかを振り返り、活動に見積もった時間の見直しを検討することは、今後の授業改善を目指す省察の一例となる。",
+                "baseline": "授業後に活動の成否を振り返り、時間配分を見直して今後の授業改善につなげる。",
+                "documented_text_present": true,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S183"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    },
+    {
+      "id": "Q_MO_005",
+      "changes": [
+        {
+          "field": "options",
+          "item": 4,
+          "master": "学習者の語彙知識や音声理解の状況を確かめ、場面の知識を活性化する活動と、音声中の語を認識する活動の双方を検討する。",
+          "current": "語彙や聴解の実態に応じ、場面の知識を生かす活動と音声中の語を認識する活動を検討する。"
+        }
+      ],
+      "baseline_difference_record": {
+        "id": "Q_MO_005",
+        "fields": {
+          "options": {
+            "decision": "review_historical_shortening",
+            "details": [
+              {
+                "option": 4,
+                "academic": "学習者の語彙知識や音声理解の状況を確かめ、場面の知識を活性化する活動と、音声中の語を認識する活動の双方を検討する。",
+                "baseline": "語彙や聴解の実態に応じ、場面の知識を生かす活動と音声中の語を認識する活動を検討する。",
+                "documented_text_present": false,
+                "restored_in_round38": false
+              }
+            ],
+            "scholarly_reendorsement": false
+          }
+        }
+      },
+      "later_applied_records": [],
+      "source_review_ids": [
+        "S99"
+      ],
+      "trace_status": "PASS",
+      "trace_meaning": "Reconstructed current question exactly from prior baseline, sequential revision records, and explicitly recorded neutralization; not independent factual approval."
+    }
+  ],
+  "followup_correction": {
+    "question": "Q_M_055",
+    "field": "explanations",
+    "item": 4,
+    "old": "指針第2章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+    "new": "指針第3章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+    "reason": "基本条件の記載は敬語の指針第3章第2の6・印刷40頁。参照章の誤記のみ訂正。",
+    "source_url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93927001_09.pdf",
+    "source_printed_page": 40,
+    "source_pdf_page_one_based": 43,
+    "source_evidence": "Official PDF text retrieved via web; retained primary PDF page40 image directly inspected. Table of contents confirms chapter3.",
+    "source_docx_sha256": "c7ab90d791b36b237c94cdce73d0e2ce9aa9bba9c990fcaac26a5dab324b854d",
+    "source_epub_sha256": "2c260150ed136d3a72879706565ee221304a9d222c533c5a2ff13304c7534c05",
+    "docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+    "epub_sha256": "8423bbc045fc3a7ee89e2f932b81b47dde00f0d7b5d12a7f772bf3fa0612e54c",
+    "paragraph_changes": [
+      {
+        "paragraph": 7113,
+        "before": "4（正）　指針第2章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。",
+        "after": "4（正）　指針第3章の「させていただく」の節が示す基本条件と一致します。条件を満たすかのように見立てる用法や、その許容度の個人差も説明されており、形式だけで一律に判断する趣旨ではありません。"
+      }
+    ],
+    "questions": 500,
+    "word_epub_full_fields_equal": 500,
+    "keys_changed": 0,
+    "other_question_fields_changed": 0,
+    "docx_other_members_changed": 0,
+    "epub_changed_documents": [
+      "EPUB/text/part015_s01.xhtml"
+    ],
+    "epub_qa": {
+      "questions": 500,
+      "options": 2000,
+      "explanations": 2000,
+      "bookmarks": 1000,
+      "spine_documents": 55,
+      "xhtml_documents": 56,
+      "internal_hrefs": 2156,
+      "broken_hrefs": [],
+      "duplicate_ids": [],
+      "replacement_characters": 0,
+      "zip_crc_ok": true
+    },
+    "publication_approved": false
+  },
+  "current_canonical_docx_sha256": "ecf3878c476840088d769bcc8cddeaac61a5c28061831731bc4b2e7ccdd78c26",
+  "current_master_differences": 58,
+  "new_master_difference_reason": "Q_M_055の第2章という参照誤記は学術masterにも残っていた。原典目次・40頁に基づき第3章へ訂正。",
+  "current_unexplained_changes": 0
+}
