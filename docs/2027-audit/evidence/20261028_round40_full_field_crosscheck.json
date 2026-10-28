@@ -1,0 +1,1829 @@
+{
+  "date_jst": "2026-10-28",
+  "scope": "Recovered round40 reference only; NOT first edition-neutral draft",
+  "docx_sha256": "bb9545195f0b0ce94a3be99ad41ef82d01c1df75794cb58e30338c5ca9d7648d",
+  "epub_sha256": "3c9f8ee7cda69771f6611fcb6b6986dc1a779935bbc1c7cc16b09501bbc1dba3",
+  "questions": 500,
+  "word_epub_full_field_matches": 500,
+  "academic_master_full_field_matches": 445,
+  "academic_master_different_questions": 55,
+  "changed_key_ids": [],
+  "difference_field_counts": {
+    "stem": 30,
+    "options": 39,
+    "explanations": 13
+  },
+  "adoption_ledger_coverage": 500,
+  "adoption_categories": {
+    "inherit_unchanged_academic_content_and_supplemental_decisions": 455,
+    "round38_rewrite_review": 14,
+    "shortening_context_review": 25,
+    "round40_precision_review": 6
+  },
+  "date_scan_paragraphs": 153,
+  "date_scan_table_paragraphs": 0,
+  "date_scan": [
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5,
+      "in_table": false,
+      "text": "本書は、全国【登録日本語教員試験】研究グループの名義による独自の演習問題集です。基礎試験と応用試験〈読解〉に関係する学習事項を、四肢択一で繰り返し確認できるよう構成しました。2026年版『直前対策500問＋詳細な解説』をもとに、翌年度以降の学習にも使える問題集として編集した版です。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6,
+      "in_table": false,
+      "text": "登録日本語教員は、2024年度に制度が始まった国家資格です。試験範囲は社会・文化から言語学、教授法、評価法まで多岐にわたり、独学では何を優先して学べばよいか判断がつきにくい面があります。本書では、文部科学省が公表する試験実施要項や養成課程の必須の教育内容を参考に、主要な学習分野を整理して問題を収録しました。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7,
+      "in_table": false,
+      "text": "本書は、登録日本語教員試験の学習に活用できる、全500問の四肢択一演習問題集です。2027年度の正式な試験要項・出題形式が公表された場合は、必ず最新の公式資料で確認してください。",
+      "matches": [
+        "2027年",
+        "最新"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 19,
+      "in_table": false,
+      "text": "なお本書は学習の一助となることを目的としたオリジナル問題集です。制度や出題範囲についての最終的な確認は、必ず文部科学省や出入国在留管理庁など関係機関が公表する最新情報でお願いいたします。",
+      "matches": [
+        "最新"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 49,
+      "in_table": false,
+      "text": "欧州評議会のRFCDC第1巻（2018年）用語集に示された、自文化中心主義（エスノセントリズム）の説明に合うものを一つ選びなさい。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 56,
+      "in_table": false,
+      "text": "日本語学校の学習者Aさん（来日3か月）が、母国の習慣について尋ねられ、「自分の国は遅れているから、日本のやり方がすべて正しい」と話したとする。RFCDC第1巻（2018年）の開放性と尊重の説明に沿う教師の対応を一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 63,
+      "in_table": false,
+      "text": "欧州評議会のRFCDC第1巻（2018年）第5章が示す、文化的アイデンティティと文化への帰属の説明に合うものを一つ選びなさい。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 70,
+      "in_table": false,
+      "text": "出入国在留管理庁の特定技能総合支援サイト（2026年10月20日確認）に示された、特定技能1号の外国人への支援に合うものを一つ選べ。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 77,
+      "in_table": false,
+      "text": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、書き言葉の作成について最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 84,
+      "in_table": false,
+      "text": "国史館台湾文献館が2013年に公開した解説「臺灣總督府首任學務部長伊澤修二來臺推展日語教育」の本文に照らし、1895年の伊沢修二と芝山巌学堂について合うものを一つ選べ。",
+      "matches": [
+        "2013年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 91,
+      "in_table": false,
+      "text": "文化審議会が2022年1月7日に建議した「公用文作成の考え方」の基本的な考え方と用語の扱いについて、説明に合うものを一つ選べ。",
+      "matches": [
+        "2022年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 98,
+      "in_table": false,
+      "text": "2026年10月18日に取得した各実施機関の公式説明に照らし、試験の目的・形式・評価方式について最も適切なものを一つ選べ。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 106,
+      "in_table": false,
+      "text": "在留資格と就労活動に関する説明として、適切なものを一つ選べ（2026年10月20日確認）。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 113,
+      "in_table": false,
+      "text": "入管庁の育成就労制度Q&Aにおける制度目的と施行日の説明に合うものを一つ選べ（2026年10月20日確認）。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 115,
+      "in_table": false,
+      "text": "2. 育成就労の運用開始日は2024年6月21日であり、法の公布と同日に受入れが開始された。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 117,
+      "in_table": false,
+      "text": "4. 育成就労は人手不足分野の人材育成・人材確保を目的とし、運用開始は2027年4月1日とされる。",
+      "matches": [
+        "2027年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 120,
+      "in_table": false,
+      "text": "入管庁の公表資料に照らし、特定技能1号と2号の通算在留期間の説明として適切なものを一つ選べ（2026年10月20日確認）。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 134,
+      "in_table": false,
+      "text": "外務省の2026年1月22日付「高度専門職査証：高度専門職、特別高度人材」の案内に合う説明を一つ選べ。ここでは同案内の査証申請手続を問い、高度専門職2号の国内手続や永住許可の要件は扱わない。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 141,
+      "in_table": false,
+      "text": "留学課程を置く認定日本語教育機関の出席管理について、2024年4月12日策定の公的ガイドラインに合う対応を一つ選べ。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 148,
+      "in_table": false,
+      "text": "総務省の「地域における多文化共生推進プラン」（2020年改訂）の、行政・生活情報の提供に関する説明として適切なものを一つ選べ。2020年版本文の内容を問い、現在の全制度の実施状況は問わない。",
+      "matches": [
+        "2020年",
+        "2020年",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 155,
+      "in_table": false,
+      "text": "「技術・人文知識・国際業務」の上陸許可基準で、外国文化に基盤を有する思考・感受性を必要とする業務の実務経験要件について、適切なものを一つ選べ（2026年10月20日確認）。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 163,
+      "in_table": false,
+      "text": "総務省自治行政局国際室「地域における多文化共生推進プランの改訂について」の「意識啓発と社会参画支援」（2020年改訂プラン抜粋）の説明に合うものを一つ選べ。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 170,
+      "in_table": false,
+      "text": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、読み手への配慮と表現の工夫として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 191,
+      "in_table": false,
+      "text": "出入国在留管理庁・文化庁の2020年版「在留支援のためのやさしい日本語ガイドライン」に基づき、外国人住民へ情報を伝える取組として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 230,
+      "in_table": false,
+      "text": "3. 1972年に外務省所管の特殊法人として設立され、2003年10月1日に独立行政法人となった。",
+      "matches": [
+        "2003年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 231,
+      "in_table": false,
+      "text": "4. 2003年10月1日に独立行政法人から特殊法人へ変更された。",
+      "matches": [
+        "2003年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 251,
+      "in_table": false,
+      "text": "2. 国語審議会など四審議会等の機能を統合し、2001年1月6日に文部科学省に文化審議会を設置。国語分科会は国語の改善・普及を審議する。",
+      "matches": [
+        "2001年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 256,
+      "in_table": false,
+      "text": "2010年（平成22年）11月30日告示「常用漢字表」の前書きと「表の見方及び使い方」の説明に合うものを一つ選べ。",
+      "matches": [
+        "2010年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 258,
+      "in_table": false,
+      "text": "2. 過去の著作や文書の漢字使用を否定し、現在の表に合わせて一律に改めることを求めている。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 265,
+      "in_table": false,
+      "text": "2. 2007年の『敬語の指針』では、従来の「尊敬語・謙譲語・丁寧語」の3分類を再編し、「尊敬語・謙譲語Ⅰ・謙譲語Ⅱ（丁重語）・丁寧語・美化語」の5分類が提示された。",
+      "matches": [
+        "2007年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 270,
+      "in_table": false,
+      "text": "2019年（令和元年）に施行された「日本語教育の推進に関する法律（日本語教育推進法）」に関する記述として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2019年",
+        "令和元年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 285,
+      "in_table": false,
+      "text": "2026年10月18日に取得した日本語能力試験（JLPT）の公式FAQに照らし、最も適切なものを一つ選べ。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 292,
+      "in_table": false,
+      "text": "2026年度の日本留学試験（EJU）実施要項とJASSOの得点・日本語シラバスの説明に照らし、最も適切なものを一つ選べ。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 299,
+      "in_table": false,
+      "text": "ACTFLの2024年版OPI受験案内に基づく、評価基準や実施方法の説明として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 314,
+      "in_table": false,
+      "text": "国際交流基金の2021年度「海外日本語教育機関調査」報告書の結果について、最も適切なものを一つ選べ。数値は回答機関で学ぶ学習者の集計であり、独習者を含む全人口の推計ではない。",
+      "matches": [
+        "2021年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 321,
+      "in_table": false,
+      "text": "CEFR（2001年版）の言語教育の考え方と共通参照レベルに関する記述として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2001年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 328,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックに示されたJF日本語教育スタンダードと、その利用に関する説明として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 335,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックにおける、CEFR Can-doとJF Can-doの関係の説明として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 358,
+      "in_table": false,
+      "text": "真田信治による国立国語研究所「ことば研究館」の2018年の記事「日本語とかかわるクレオールは存在しますか」で、宜蘭クレオールについて述べられていることを一つ選べ。同記事の調査報告を対象とする。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 401,
+      "in_table": false,
+      "text": "公用語と国家語の関係について、シンガポール憲法第153A条（政府公開の2023年4月24日施行版）に照らして正しいものを一つ選べ。",
+      "matches": [
+        "2023年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 415,
+      "in_table": false,
+      "text": "文化庁「消滅の危機にある言語・方言」が、ユネスコの2009年2月発表「Atlas of the World’s Languages in Danger」第3版を紹介している。その掲載言語について、文化庁の説明に合うものを一つ選べ。",
+      "matches": [
+        "2009年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 429,
+      "in_table": false,
+      "text": "国立国語研究所「外来語」委員会の2006年「外来語」言い換え提案 第1回～第4回総集編と「利用の手引き」に合う考え方を一つ選べ。",
+      "matches": [
+        "2006年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 480,
+      "in_table": false,
+      "text": "文化審議会国語分科会の『敬語の指針』（2007年）における敬語の「5分類」に関する記述として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2007年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 648,
+      "in_table": false,
+      "text": "1. 橋渡し推論とは、現在の記述と先行する文脈の関係を補うことではなく、未来の結末を予測することだけを指す。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 765,
+      "in_table": false,
+      "text": "4. 他者の支援なしに、自分ひとりで問題を解決できる現在の水準だけを指す。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 826,
+      "in_table": false,
+      "text": "オバーグ（1960）「Cultural Shock: Adjustment to New Cultural Environments」の2006年再録本文にある、滞在先への適応過程の説明に合うものを一つ選べ。",
+      "matches": [
+        "2006年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 840,
+      "in_table": false,
+      "text": "オバーグ（1960）「Cultural Shock: Adjustment to New Cultural Environments」の2006年再録本文で、カルチャーショックを説明する際の手がかりの捉え方に合うものを一つ選べ。",
+      "matches": [
+        "2006年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 891,
+      "in_table": false,
+      "text": "1. 「L2学習経験」は将来の自己像だけを扱い、現在の教師・カリキュラム・学習者集団は扱わない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 894,
+      "in_table": false,
+      "text": "4. 将来の二つの自己像に加え、教師・カリキュラム・学習者集団や成功経験など現在の「L2学習経験」を含む。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 945,
+      "in_table": false,
+      "text": "1. 自身の過去の経験のみを絶対視し、新しい教育テクノロジーや最新の第二言語習得理論の導入を意図的に避ける姿勢のことである。",
+      "matches": [
+        "最新"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 965,
+      "in_table": false,
+      "text": "次は教材用の架空事例である。作文の学習者は「説明文を丁寧体で統一して書けるようになりたい」と教師に相談した。現在の作文には「昨日は映画を見ました。とても面白かった」とある。Holec（1981）の、学習者が学習を引き受ける能力の発達を支える立場に照らし、最も適切な対応を一つ選びなさい。文体の混在がすべての文章で誤りだという前提は置かない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 998,
+      "in_table": false,
+      "text": "4. 特定のコースで教えた内容の達成度ではなく、言語の使用目的に対応する現在の能力を測定するテスト ── 診断テスト（ダイアグノスティックテスト）",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1082,
+      "in_table": false,
+      "text": "2. 学習者の現在または将来の目標タスクを特定するため、タスクに基づくニーズ分析を行う。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1118,
+      "in_table": false,
+      "text": "3. ニーズ分析は学習者の希望だけを扱い、現在知っていることや将来必要となることは対象に含めない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1119,
+      "in_table": false,
+      "text": "4. 学習者が現在知っていること、必要となること、学びたいことを調べ、コースの途中でもニーズを捉え直す。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1137,
+      "in_table": false,
+      "text": "1. 学習者が現在できることや必要な生活場面を調べず、全員に同じ文法項目を同じ速さで教えることだけを優先する。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1151,
+      "in_table": false,
+      "text": "Richards（2006）『Communicative Language Teaching Today』7頁が示す、典型的なオーディオリンガルの授業手順に対応する説明を一つ選びなさい。歴史的な授業の記述を問うのであり、現在の全授業への推奨ではない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1215,
+      "in_table": false,
+      "text": "1. 習得には現在の能力より少し先の構造を含む言語の理解が必要とし、理解可能なインプットの提供と低い情意フィルターを促す状況を重視する。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1257,
+      "in_table": false,
+      "text": "外国人学習者へ配るワークシートの作業案内を、2020年版「在留支援のためのやさしい日本語ガイドライン」の書き言葉の工夫に沿って作る例として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1278,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックに沿ってCan-doを授業設計に使う場合、最も適切な進め方を一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1293,
+      "in_table": false,
+      "text": "AERA・APA・NCMEの2014年版共同標準における、規範準拠と基準準拠の得点解釈の区別として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1300,
+      "in_table": false,
+      "text": "AERA・APA・NCMEの2014年版共同標準における分析的採点とルーブリックの説明として、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1307,
+      "in_table": false,
+      "text": "CEFR補遺版（2020年）の「文法的正確さ（Grammatical accuracy）」の尺度におけるB1の記述に最もよく対応するものはどれか。",
+      "matches": [
+        "2020年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1314,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックで説明されるポートフォリオについて、最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1321,
+      "in_table": false,
+      "text": "AERA・APA・NCMEの2014年版共同標準における、得点の信頼性・精度について最も適切な説明を一つ選びなさい。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1328,
+      "in_table": false,
+      "text": "AERA・APA・NCMEの2014年版共同標準に沿った、妥当性の捉え方として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1457,
+      "in_table": false,
+      "text": "1. mistakeは学習者の現在の言語知識を反映する系統的な誤用であり、規則として再構成できる。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1459,
+      "in_table": false,
+      "text": "3. mistakeは遂行上の偶発的で非系統的な誤り、errorは学習者の現在の知識を反映する系統的な誤用である。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1592,
+      "in_table": false,
+      "text": "異文化コミュニケーションを扱うバーンガ（Barnga）について、ニューハンプシャー大学Institute on Disabilityの2019年2月19日付実施報告に合う手順と振り返りの説明を一つ選べ。",
+      "matches": [
+        "2019年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1713,
+      "in_table": false,
+      "text": "Sacks・Schegloff・Jefferson（1974）が提案した発話交代規則に照らし、最初の移行適切場で現在の話し手が次話者を選んでいない場合の説明として、最も適当なものを選べ。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1715,
+      "in_table": false,
+      "text": "2. 現在の話し手は、他の参加者が話し始めていても、必ずその参加者を遮って話し続けなければならない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1717,
+      "in_table": false,
+      "text": "4. 他の参加者が自己選択して話し始めてよい。誰も自己選択しなければ、現在の話し手は話し続けてよい。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1742,
+      "in_table": false,
+      "text": "AERA・APA・NCMEの2014年版共同標準の用語定義に照らし、CBTとコンピュータ適応型テスト（CAT）の関係を適切に説明したものを一つ選びなさい。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 1763,
+      "in_table": false,
+      "text": "文部科学省「初等中等教育段階における生成AIの利活用に関するガイドライン」（2024年12月26日、Ver.2.0）を踏まえ、日本語を学ぶ児童生徒の作文活動で生成AIを活用する際の説明として、適切なものを一つ選びなさい。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2083,
+      "in_table": false,
+      "text": "4. 過去の著作や文書の漢字使用を否定し、必ず現在の表の字体へ書き換えるよう求めている。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2086,
+      "in_table": false,
+      "text": "2025年12月22日内閣告示第4号「ローマ字のつづり方」の本表と添え書きに合うものを一つ選びなさい。",
+      "matches": [
+        "2025年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2636,
+      "in_table": false,
+      "text": "ケース1の教師が自分の訂正を点検する際、RFCDC第1巻（2018年）の批判的思考と自己の批判的理解の観点に沿う取り組みを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2648,
+      "in_table": false,
+      "text": "1. 学習者が現在どれだけの語彙を知り、どの程度読んだり話したりできるかを調べる観点。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2655,
+      "in_table": false,
+      "text": "1. 学習時間は、学習者が現在どの程度の語彙や読解力を持つかを、それだけで直接示す情報である。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2668,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックに沿って、Can-doを使った「学習目標一覧」と「自己評価チェックリスト」を作る意義として最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2730,
+      "in_table": false,
+      "text": "ケース4の教師の対応について、RFCDC第1巻（2018年）が重視する対立当事者の視点の理解と合意形成の観点から、問題点として適当なものを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2737,
+      "in_table": false,
+      "text": "ケース4で双方が受け入れられる解決を探るために、RFCDC第1巻（2018年）の対立解決の説明に沿う対応を一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2744,
+      "in_table": false,
+      "text": "ケース4を踏まえ、今後のグループ活動で学習者が意見を出し合い合意を作る機会を設ける工夫として、RFCDC第1巻（2018年）の協働の説明に沿うものを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2751,
+      "in_table": false,
+      "text": "ケース4の教師が自分の対応を見直す際、RFCDC第1巻（2018年）の自己の批判的理解の説明に沿う取り組みを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2863,
+      "in_table": false,
+      "text": "3. 記憶の不調などによる偶発的な言い間違いと、学習者の現在の知識を反映する系統的な誤用は、同じものとして扱う。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2871,
+      "in_table": false,
+      "text": "4. 誤用は学習者の現在の言語体系を知る手がかりにならないと決め、分析結果を今後の指導計画で使わない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 2982,
+      "in_table": false,
+      "text": "このケースの著作物の利用条件の確認を、令和6年4月1日決定の「登録日本語教員実践研修・養成課程コアカリキュラム」の観点から捉える。適切な説明を一つ選べ。",
+      "matches": [
+        "令和6年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3089,
+      "in_table": false,
+      "text": "ケース13で、学習者が意思決定の方法について意見を出し合い、合意を作る機会を設ける工夫として、RFCDC第1巻（2018年）の協働の説明に沿うものを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3096,
+      "in_table": false,
+      "text": "ケース13で教師が明示した学習目標に対応する力として、RFCDC第1巻（2018年）の対立解決の説明に沿うものを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3189,
+      "in_table": false,
+      "text": "国際交流基金のEPA日本語予備教育事業の公式紹介に合うものを一つ選べ（2026年10月20日確認）。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3210,
+      "in_table": false,
+      "text": "国際交流基金の2021年度「海外日本語教育機関調査」の地域別学習者数について、最も適切なものを一つ選べ。回答機関で学ぶ学習者の集計を対象とする。",
+      "matches": [
+        "2021年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3217,
+      "in_table": false,
+      "text": "文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）の目的・目標に合うものを一つ選べ。",
+      "matches": [
+        "令和4年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3224,
+      "in_table": false,
+      "text": "東京外国語大学の2014年の取組紹介で説明される「コミュニティ通訳」の役割に合うものを一つ選べ。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3231,
+      "in_table": false,
+      "text": "文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）を踏まえ、生活者・留学生・就労者という区分を扱う際の考え方として合うものを一つ選べ。",
+      "matches": [
+        "令和4年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3253,
+      "in_table": false,
+      "text": "1. 現在の話者が次話者を選ぶ場合と、参加者が自ら次の話者になる場合を区別して扱う。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3254,
+      "in_table": false,
+      "text": "2. 次の話者は会話を始める前に全員分を固定しておくため、現在の発話の中で次話者を選ぶことはない。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3255,
+      "in_table": false,
+      "text": "3. 現在の話者が次話者を選ばない場合、参加者が自ら話し始めることは認められず、会話は必ず終了する。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3256,
+      "in_table": false,
+      "text": "4. 現在の話者が次話者を選ばず、他の参加者も自ら話し始めない場合でも、現在の話者が話し続けることはできない。",
+      "matches": [
+        "現在",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3392,
+      "in_table": false,
+      "text": "国際交流基金の2017年版ガイドブックに沿って、Can-doの自己評価チェックリストを用いる手続きとして最も適切なものを一つ選びなさい。",
+      "matches": [
+        "2017年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3434,
+      "in_table": false,
+      "text": "高齢の学習者も参加する地域日本語教室で文字指導を計画する。文化審議会国語分科会「地域における日本語教育の在り方について（報告）」（令和4年11月）の説明に合うものを一つ選べ。",
+      "matches": [
+        "令和4年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3441,
+      "in_table": false,
+      "text": "欧州評議会のRFCDC第1巻（2018年）のモデルにおけるエンパシー（共感）の説明として、適当なものを一つ選べ。",
+      "matches": [
+        "2018年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3518,
+      "in_table": false,
+      "text": "文化審議会「公用文作成の考え方」（2022年）の解説に照らし、広く一般に向けた解説・広報等での振り仮名の扱いとして、対応するものを一つ選べ。",
+      "matches": [
+        "2022年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 3525,
+      "in_table": false,
+      "text": "文化審議会「公用文作成の考え方」（2022年）の解説に照らし、読点の位置と文の意味について対応する説明を一つ選べ。",
+      "matches": [
+        "2022年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4803,
+      "in_table": false,
+      "text": "1（正）　JASSOの2026年度実施要項にある目的と一致します。日本語のほか理科・総合科目・数学が設けられ、受験科目は志望大学等の指定に基づいて選びます。全受験者が全科目を受けるという意味ではありません。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4805,
+      "in_table": false,
+      "text": "3（誤）　JLPT公式FAQは、会話や作文の試験は現在どちらもなく、解答は多枝選択のマークシート方式と説明します。必須の口頭試験があるとする肢とは一致しません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4818,
+      "in_table": false,
+      "text": "2（誤）　2024年6月21日は改正法の公布日です。制度の運用開始日とは区別します。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4820,
+      "in_table": false,
+      "text": "4（正）　Q&Aの制度目的と運用開始日の説明に合います。2026年10月時点で新制度が既に全面運用されているという意味ではありません。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4986,
+      "in_table": false,
+      "text": "2（誤）　公式FAQは、会話と作文の試験はいずれも現在は実施していないと説明します。解答方式は多枝選択によるマークシート方式です。能力の間接的な推定と、発話・作文を直接行わせる試験の実施は区別します。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 4993,
+      "in_table": false,
+      "text": "2（正）　2026年度実施要項は、日本の大学等での勉学に対応する日本語力を目的とし、3領域の構成を示します。得点範囲は読解・聴解・聴読解が0～400点、記述が0～50点です。旧解説のアカデミック・ジャパンは、公式表記のアカデミック・ジャパニーズに訂正します。",
+      "matches": [
+        "2026年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5007,
+      "in_table": false,
+      "text": "2（誤）　2014年版Testing Standardsのこの説明は妥当性に対応します。同書は信頼性・精度を測定手続きの反復における得点の一貫性に関わる概念として扱い、採点者や課題等の変動を検討します。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5009,
+      "in_table": false,
+      "text": "4（誤）　ACTFLの2024年版OPI受験案内8頁は、テスターの認定と基準調整、再認定の手続きを説明しています。訓練が一切不要という肢はこれと合いません。制度があることだけで、あらゆる採点で評価者が完全一致すると認定するものでもありません。",
+      "matches": [
+        "2024年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5014,
+      "in_table": false,
+      "text": "2（正）　報告書12～13頁の順位は、中国1,057,318人、インドネシア711,732人、韓国470,334人です。10～11頁の東アジア1,713,833人と東南アジア1,185,375人は、全体3,794,714人の76.4％を占めます。2021年度の調査結果として扱います。",
+      "matches": [
+        "2021年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5016,
+      "in_table": false,
+      "text": "4（誤）　報告書11頁の学習者数の割合は、西欧2.4％、東欧1.2％であり、合わせても過半数にはなりません。これらは2021年度の回答機関の集計で、現在の世界全体の全学習者数と同一視しません。",
+      "matches": [
+        "2021年",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5023,
+      "in_table": false,
+      "text": "4（正）　3.2節の図1ではAをBasic User、BをIndependent User、CをProficient Userとし、それぞれを二分したA1〜C2を示します。これは2001年版の共通参照レベルであり、目的に応じた下位区分や記述の調整を禁じるものではありません。",
+      "matches": [
+        "2001年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5051,
+      "in_table": false,
+      "text": "3（誤）　記事は年配者だけでなく子供・孫世代も担い手であると述べています。高年層に限定する説明は逆です。2018年の記事の記述であり、現在の話者数を示すものではありません。",
+      "matches": [
+        "2018年",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5105,
+      "in_table": false,
+      "text": "1（誤）　文化庁の一覧では、アイヌ語は「極めて深刻」に挙げられています。安全な言語として一覧から除かれているという説明は合いません。ここでは同ページが紹介する2009年発表の一覧を確認しています。",
+      "matches": [
+        "2009年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5107,
+      "in_table": false,
+      "text": "3（正）　文化庁の本文と一覧に対応します。同ページは、ユネスコでは「言語」と「方言」を区別せず、全て「言語」として統一していると注記しています。これは2009年の資料を紹介する説明であり、日本の危機的なことばがこの8つに尽きるという主張ではありません。",
+      "matches": [
+        "2009年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5323,
+      "in_table": false,
+      "text": "1（誤）　現在の記述と先行する文脈との因果的なつながりを補うことも、橋渡し推論の一例です。未来の展開を予測することだけに限定する説明は不適切です。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5330,
+      "in_table": false,
+      "text": "1（正）　花瓶の中の水がこぼれたという、明示されていない出来事を補い、先行する花瓶の落下と現在の床の水を因果的につなぎます。与えられた2文を一貫して理解するための橋渡し推論です。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5438,
+      "in_table": false,
+      "text": "4（誤）　独力で解決できる現在の水準は、実際の発達水準に当たります。それだけでは支援下での潜在的な水準との差を表しません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5564,
+      "in_table": false,
+      "text": "4（正）　原著20〜22頁の区別と一致します。著者は、二つの将来の自己の指針とは異なる水準で、現在の学習経験を位置づけています。自己像と現状の差だけで必ず意欲が生じるという意味ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5767,
+      "in_table": false,
+      "text": "3（誤）　第2章は、現在知っていること、必要となること、学びたいことの三つを扱います。希望以外を対象から外す説明は合いません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5772,
+      "in_table": false,
+      "text": "1（誤）　既習の文法や語彙数は、学習者が現在何を知っているかに関する情報です。この設問が焦点を当てる、時間や利用可能な資源の条件とは異なります。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5802,
+      "in_table": false,
+      "text": "3（誤）　同頁の手順1は、発音や文法の誤りへの訂正を直接・即時と記述しています。設問はその歴史的な手順を問うもので、現在のあらゆる活動で発話を即座に遮るべきという推奨ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5934,
+      "in_table": false,
+      "text": "2（誤）　特定コースで教えた内容の達成度を測る目的は到達度テストに対応します。熟達度テストは言語の使用目的に対応する現在の能力を対象とし、特定教材を学んだ結果の確認とは区別されます。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 5999,
+      "in_table": false,
+      "text": "4（誤）　9.3.8は直接の運用評価にも採点者の判断が関わるとし、明確な基準、複数の判断、訓練等を挙げています。なお2014年Testing Standardsの79〜80頁は文章等の自動採点も扱うため、直接評価が常に人間の採点を要するとも言い切れません。直接・間接という区別だけで採点コストや信頼性は決まりません。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6076,
+      "in_table": false,
+      "text": "4（誤）　原論文は、疲労・記憶の不調などに由来する非系統的なmistakeと、現在の知識を反映する系統的なerrorを区別しています。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6101,
+      "in_table": false,
+      "text": "1（誤）　これは原論文でerrorに割り当てられる説明です。系統的な誤用は学習者の現在の知識を再構成する資料になります。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6103,
+      "in_table": false,
+      "text": "3（正）　原誌166〜167頁は、偶発的な遂行上の誤りをmistake、現在までの知識を示す系統的な誤用をerrorとして区別しています。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6237,
+      "in_table": false,
+      "text": "4（正）　報告の手順と振り返りの内容に一致します。開発者側の2006年の紹介も、異なる解釈に気づき、その違いを理解・調整することをバーンガのねらいとして説明します。ただし、この実施報告は全参加者の感情が同じだったという測定結果でも、長期的な異文化適応力の向上を実証した研究でもありません。",
+      "matches": [
+        "2006年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6304,
+      "in_table": false,
+      "text": "1（誤）　2014年刊行書41頁は、ロールプレイ後に起きたことや発見、人物像が本物らしいか固定観念かを話し合い、振り返ることを重視します。この学習でその検討を禁止する方針は合いません。ただし、あらゆる学習で集団討議が唯一不可欠だという一般論ではありません。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6305,
+      "in_table": false,
+      "text": "2（正）　2014年刊行書41頁は、他集団への過度の一般化や固定観念の強化を避け、現れた固定観念を問い直すよう述べています。Compassも、演じた人物像とその情報の出所を批判的に振り返る問いを提案しています。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6306,
+      "in_table": false,
+      "text": "3（誤）　2014年刊行書41頁は、視線や言葉遣い、規範などに違いがあっても、人間としての価値が低くなるわけではないと説明します。違いを価値の上下へ直結させる説明は逆です。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6353,
+      "in_table": false,
+      "text": "1（誤）　原論文700頁の規則1(b)は、現在の話し手が次話者を選んでいない場合、自己選択によって次の話し手が決まることを認めています。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6354,
+      "in_table": false,
+      "text": "2（誤）　原論文の規則1(b)は、自己選択して先に話し始めた人に次のターンの権利があるとしています。現在の話し手に遮りを義務づける規則ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6355,
+      "in_table": false,
+      "text": "3（誤）　原論文の規則は、移行適切場で次話者選択・自己選択・現在話者の継続を扱います。会話全体の発話順を開始前に固定する規則ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6356,
+      "in_table": false,
+      "text": "4（正）　原論文の規則1(b)は他の参加者の自己選択を認め、1(c)は誰も自己選択しない場合に現在話者が継続できるとしています。継続は義務ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6700,
+      "in_table": false,
+      "text": "4（誤）　前書きは、過去の著作や文書での漢字使用を否定しないとしています。必ず現在の表へ書き換えることを求める説明とは逆です。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6865,
+      "in_table": false,
+      "text": "1（誤）　①は現在目の前で起きている動作、②はすでに生じた変化の結果を述べています。未来の予定だけを述べる用法ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 6874,
+      "in_table": false,
+      "text": "3（誤）　①は現在進行中の動き、②は現在続いている開店状態を述べています。②には営業終了時刻への言及がありますが、未来の出来事だけを述べる用法ではありません。",
+      "matches": [
+        "現在",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7246,
+      "in_table": false,
+      "text": "1（誤）　これは第2章の、学習者が現在知っていることを調べる観点です。設問で指定したのは、現在の到達度ではなく、志望学部での学習に必要な言語知識や技能です。",
+      "matches": [
+        "現在",
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7253,
+      "in_table": false,
+      "text": "1（誤）　同章は、既有知識を調べる例として語彙量、読解、文法、話す力を挙げています。利用できる時間の情報だけから、これらの現在の能力を確定することはできません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7449,
+      "in_table": false,
+      "text": "3（誤）　同論文166〜167頁は、偶発的な遂行上のmistakesと現在の知識を反映する系統的なerrorsを区別します。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7457,
+      "in_table": false,
+      "text": "4（誤）　原論文166〜167頁は、系統的な誤用を現在の言語体系の証拠とし、教師が残る学習課題を知る意義を説明しています。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7820,
+      "in_table": false,
+      "text": "1（正）　原論文703頁の順番配分の二つの方法に対応します。704頁では、次話者の選定、自ら話し始めること、現在の話者による継続の条件を順序づけた規則で説明しています。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7821,
+      "in_table": false,
+      "text": "2（誤）　原論文703頁は、現在の話者による次話者の選定を一つの方法として挙げています。すべての順番を事前に固定し、この方法を排除する説明は合いません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7822,
+      "in_table": false,
+      "text": "3（誤）　原論文704頁の規則1bは、現在の話者が次話者を選んでいない場合に自ら次の話者になる可能性を示しています。必ず会話が終わるという説明は合いません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7823,
+      "in_table": false,
+      "text": "4（誤）　原論文704頁の規則1cは、次話者が選ばれておらず他の参加者が自ら話し始めない場合、現在の話者が継続する可能性を示しています。継続自体を不可能とする説明は逆です。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 7941,
+      "in_table": false,
+      "text": "3（誤）　著者は、あらゆる教師・学習者・状況に対する一つの方法の優越性を実証できているという立場を取りません。これは1987年の論考の結論についての問題であり、現在までの全研究を網羅した結論ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 8018,
+      "in_table": false,
+      "text": "3（誤）　論文8頁では、長期志向・短期志向を努力の焦点を将来に置くか、現在や過去に置くかに関わる次元として挙げています。設問の集団への統合を表す名称ではありません。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 8291,
+      "in_table": false,
+      "text": "インプット仮説　学習者の現在のレベルよりやや高い、理解可能なインプット（i+1）が習得を促すとするクラッシェンの仮説。",
+      "matches": [
+        "現在"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 8336,
+      "in_table": false,
+      "text": "妥当性／信頼性　2014年版Testing Standardsでは、妥当性は、提案された用途に対するテスト得点の解釈を証拠と理論が支持する程度をいう。信頼性・精度は、測定手続を反復したときの得点の一貫性に関わり、課題・時点・採点者などによる変動を検討する。",
+      "matches": [
+        "2014年"
+      ]
+    },
+    {
+      "part": "word/document.xml",
+      "xml_paragraph_index": 8356,
+      "in_table": false,
+      "text": "登録日本語教員試験は2024年度に始まったばかりの新しい試験であり、本書もまた、公表されている出題範囲とサンプル問題をもとに独自に作成した、いわば「一つの仮説」に基づく問題集です。実際の試験問題とは形式や難易度が異なる場合があります。本書で身につけた知識を土台に、過去問や他の教材にもぜひ触れ、多角的に対策を進めてください。",
+      "matches": [
+        "2024年"
+      ]
+    }
+  ],
+  "field_differences": [
+    {
+      "id": "Q_1_019",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_1_024",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_1_029",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_2_009",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_2_017",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_2_023",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_2_026",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_3_004",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_3_014",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_3_017",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_3_029",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_3_034",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_3_039",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_3_040",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_004",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_006",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_014",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_016",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_017",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_025",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_039",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_050",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_067",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_069",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_072",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_4_079",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_081",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_083",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round40_precision_review"
+    },
+    {
+      "id": "Q_4_089",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_4_094",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_4_103",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_4_108",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_109",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_115",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_4_125",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_008",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_5_010",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_5_015",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_027",
+      "fields": [
+        "stem",
+        "options"
+      ],
+      "current_adoption": "round40_precision_review"
+    },
+    {
+      "id": "Q_5_028",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_034",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_5_059",
+      "fields": [
+        "stem",
+        "options",
+        "explanations"
+      ],
+      "current_adoption": "round38_rewrite_review"
+    },
+    {
+      "id": "Q_5_079",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_084",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_085",
+      "fields": [
+        "stem"
+      ],
+      "current_adoption": "inherit_unchanged_academic_content_and_supplemental_decisions"
+    },
+    {
+      "id": "Q_5_092",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_100",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_5_101",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_O_030",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_O_031",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_O_063",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_M_002",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_M_007",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_M_032",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    },
+    {
+      "id": "Q_MO_005",
+      "fields": [
+        "options"
+      ],
+      "current_adoption": "shortening_context_review"
+    }
+  ],
+  "independent_new_primary_audit": false,
+  "first_edition_neutral_draft_applied": false
+}
