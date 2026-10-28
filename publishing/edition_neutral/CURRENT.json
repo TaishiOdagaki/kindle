@@ -1,8 +1,8 @@
 {
   "date_jst": "2026-10-28",
   "branch": "audit/edition-neutral-20261028",
-  "canonical_docx": "publishing/edition_neutral/20261028_frontmatter_revision/manuscript.docx",
-  "docx_sha256": "71965bf7c00cc91a7dab66a10e9543bfc2f38a777c79106d0284d91b00ec83fc",
+  "canonical_docx": "publishing/edition_neutral/20261028_author_page/manuscript.docx",
+  "docx_sha256": "0092239e41641f4fb571b6cbd6ecda2b6988edbd2fc9659c77f4d8b648d1d10c",
   "canonical_epub": "publishing/edition_neutral/20261028_frontmatter_revision/manuscript.epub",
   "epub_sha256": "c688dfa3cc2101fb048edd67f603a89b4600bc39f03a9c8d7070b6a1a984d0c3",
   "cover": "publishing/edition_neutral/20261028_frontmatter_revision/cover.jpg",
@@ -14,5 +14,8 @@
   "publication_approved": false,
   "release_ready": false,
   "review_policy": "Inherit existing audit; no blanket re-audit",
-  "checkpoint": "publishing/edition_neutral/20261028_frontmatter_revision/README.md"
+  "checkpoint": "publishing/edition_neutral/20261028_author_page/README.md",
+  "latest_change": "Word only: separate author page and expanded purpose, per user",
+  "epub_frontmatter_matches_latest_word": false,
+  "epub_update_requested": false
 }
