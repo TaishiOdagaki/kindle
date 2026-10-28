@@ -3,8 +3,8 @@
   "branch": "audit/edition-neutral-20261028",
   "canonical_docx": "publishing/edition_neutral/20261028_author_page/manuscript.docx",
   "docx_sha256": "0092239e41641f4fb571b6cbd6ecda2b6988edbd2fc9659c77f4d8b648d1d10c",
-  "canonical_epub": "publishing/edition_neutral/20261028_reader_check/manuscript.epub",
-  "epub_sha256": "4e5e7f2f957b151f8b78dc66936c47b9b80fc1cb562a604e67ef308b10620cd9",
+  "canonical_epub": "publishing/edition_neutral/20261028_heading_fix/manuscript.epub",
+  "epub_sha256": "60d7c38b8c38c4eeda4e627cf6ff01f3ab51fe4160db360d2b2ff340ea8aa47e",
   "cover": "publishing/edition_neutral/20261028_frontmatter_revision/cover.jpg",
   "title": "これ一冊で基礎から完成！　登録日本語教員試験 パーフェクト問題集",
   "subtitle": "基礎から応用試験対策＋実戦演習〈全５００問〉",
@@ -14,17 +14,16 @@
   "publication_approved": false,
   "release_ready": false,
   "review_policy": "Inherit existing audit; no blanket re-audit",
-  "checkpoint": "publishing/edition_neutral/20261028_visual_check/README.md",
-  "latest_change": "Full Apple Books visual pass completed;orphan headings recorded;manuscript unchanged",
+  "checkpoint": "publishing/edition_neutral/20261028_heading_fix/README.md",
+  "latest_change": "Keep 500 question and 500 explanation starts together; all text/IDs/hrefs unchanged; EPUBCheck and Kindle conversion pass",
   "epub_frontmatter_matches_latest_word": true,
   "epub_update_requested": true,
   "reader_check": "publishing/edition_neutral/20261028_reader_check/reader_audit.json",
   "cover_outside_review_scope": true,
   "visual_review": {
-    "status": "completed_in_Apple_Books",
-    "scope": "Title through afterword;cover excluded;default font full-screen two-column display",
-    "reader_pages": "2–286",
-    "open_layout_finding": "V15-01 orphan question/explanation headings;review only,not edited",
+    "prior_full_pass": "publishing/edition_neutral/20261028_visual_check/README.md",
+    "heading_fix": "implemented",
+    "post_fix_GUI_confirmation": "pending_due_to_reader_UI_failure",
     "kindle_gui_review_completed": false
   }
 }
