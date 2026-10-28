@@ -1,0 +1,127 @@
+{
+  "scope": "Reader-visible production QA only; no scholarly re-audit;cover excluded",
+  "source_sha256": "0ec637b034cf7cda8a1e7feac273050025b0327d76e1c5c5db578d93eaf7754a",
+  "output_sha256": "4e5e7f2f957b151f8b78dc66936c47b9b80fc1cb562a604e67ef308b10620cd9",
+  "problem_and_answer_headers_checked": 1000,
+  "display_number_mismatches": [],
+  "semantic_link_checks": {
+    "question_to_explanation": 500,
+    "return_to_toc": 1000,
+    "explanation_to_question": 500
+  },
+  "broken_links": [],
+  "question_fields_equal_latest_word": 500,
+  "full_book_text_unchanged_by_fixes": true,
+  "duplicate_options": 0,
+  "duplicate_stems": 0,
+  "answer_labels_in_question": 0,
+  "unique_correct_option_bold_italic_flags": 0,
+  "production_note_candidates": 0,
+  "table_count": 10,
+  "table_cell_count": 1030,
+  "table_scope": "Structural presence and unchanged text;not fresh mobile visual certification",
+  "targeted_reference_reading": [
+    "Q_2_021:underline explicitly immaterial",
+    "Q_4_086:problem statement included;9 and inverse21 distinct examples",
+    "Q_5_054:blank and context present"
+  ],
+  "artificial_mid_question_boundary_fixes": 12,
+  "fixes": [
+    {
+      "from_file": "EPUB/text/part003_s01.xhtml",
+      "to_file": "EPUB/text/part002_s02.xhtml",
+      "moved_top_level_elements": 2,
+      "start": "1. 一回のペーパーテストの点数だけを保存し、学習者による学習の振り返りには使わない。\n2. 評価表だけで構成し、言語的・文化的体験の記録や学習の成果は保存しない。\n3. 保存する作品はすべて教師だけ",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part004_s01.xhtml",
+      "to_file": "EPUB/text/part003_s02.xhtml",
+      "moved_top_level_elements": 3,
+      "start": "音声学における「調音位置」に関する組み合わせとして、IPA表記と調音位置の組み合わせが正しいものはどれか。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part005_s01.xhtml",
+      "to_file": "EPUB/text/part004_s04.xhtml",
+      "moved_top_level_elements": 2,
+      "start": "1. 形成的評価\n2. 総括的評価\n3. 相対評価のみ\n4. 診断的評価のみ",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part006_s01.xhtml",
+      "to_file": "EPUB/text/part005_s16.xhtml",
+      "moved_top_level_elements": 3,
+      "start": "モジュール制の具体例として、Cambridge Englishが公表するDELTAの構成と受講順序の説明に合うものを一つ選べ。すべてのモジュール型コースが同じ条件とは限らない。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part007_s01.xhtml",
+      "to_file": "EPUB/text/part006_s05.xhtml",
+      "moved_top_level_elements": 4,
+      "start": "2（誤）　対象と言語の組合せが逆です。土語学科は日本人に台湾語を教えるものと説明されています。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part008_s01.xhtml",
+      "to_file": "EPUB/text/part007_s03.xhtml",
+      "moved_top_level_elements": 5,
+      "start": "1（誤）　提示された原因は「ご飯」という語の意味を知らないことです。経験に基づく出来事の枠組みと、文章の内容との食い違いを示した事例ではありません。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part009_s01.xhtml",
+      "to_file": "EPUB/text/part008_s02.xhtml",
+      "moved_top_level_elements": 5,
+      "start": "1（誤）　一人だけが情報を使って完成させ、他のメンバーは発話しないという条件です。互いに情報を伝え合って完成させる設問の活動には対応しません。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part010_s01.xhtml",
+      "to_file": "EPUB/text/part009_s01.xhtml",
+      "moved_top_level_elements": 4,
+      "start": "2（誤）　5頁では、一人の教師、教師の共同研究、研究者や支援者との協働という形態を認めています。外部研究者の参加自体が誤りなのではなく、教師の探究を一方的な評価に置き換える点が、この章の説明に合いませ",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part011_s01.xhtml",
+      "to_file": "EPUB/text/part010_s02.xhtml",
+      "moved_top_level_elements": 4,
+      "start": "2（誤）　困難の予測を要求するのは、同論文で区別される強形です。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part012_s01.xhtml",
+      "to_file": "EPUB/text/part011_s01.xhtml",
+      "moved_top_level_elements": 3,
+      "start": "3（正）　国際交流基金の食生活の教材は、助数詞＋もを使って、話し手が量を多いと感じていることを表す用法を説明しています。ここではその用法を問います。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part014_s01.xhtml",
+      "to_file": "EPUB/text/part013_s01.xhtml",
+      "moved_top_level_elements": 3,
+      "start": "3（誤）　この分類の認知方略には練習や分析などがあり、学習計画・自己評価は別の群です。",
+      "reason": "remove artificial file break within one question or explanation"
+    },
+    {
+      "from_file": "EPUB/text/part015_s01.xhtml",
+      "to_file": "EPUB/text/part014_s02.xhtml",
+      "moved_top_level_elements": 3,
+      "start": "3（正）　同教材は副助詞に「取り立て助詞」「取り立て詞」という名称を併記し、「だけ」の限定、「も」の並立・付加を説明しています。ここでは指定教材の分類を使います。",
+      "reason": "remove artificial file break within one question or explanation"
+    }
+  ],
+  "epubcheck": {
+    "fatal": 0,
+    "error": 0,
+    "warning": 0
+  },
+  "live_reader_ui_test_completed": false,
+  "ui_limitation": "Local HTTP preview server denied network permission. Browser local-file URL explicitly blocked by security policy; no bypass attempted. Link interaction inferred from resolved semantic targets,not claimed as GUI clicks.",
+  "final_kindle_screen_inspection": "assigned to user by prior explicit instruction",
+  "publication_approved": false,
+  "kindle_conversion": "Success",
+  "kindle_errors": 0,
+  "kindle_quality_issues": 0
+}
