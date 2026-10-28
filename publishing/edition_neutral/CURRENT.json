@@ -1,10 +1,10 @@
 {
   "date_jst": "2026-10-28",
   "branch": "audit/edition-neutral-20261028",
-  "canonical_docx": "publishing/edition_neutral/20261028_author_iroha/manuscript.docx",
-  "docx_sha256": "e46dc19dd5b6f70361c7d9099eaef6017d82b76af84437c591da2cf69e3673a3",
-  "canonical_epub": "publishing/edition_neutral/20261028_author_iroha/manuscript.epub",
-  "epub_sha256": "96a54e4d40e076320a5734e7e5cbbd77b5eb9fd6843a03c5724bf4295fe38ba4",
+  "canonical_docx": "publishing/edition_neutral/20261028_author_bio_expanded/manuscript.docx",
+  "docx_sha256": "445571e016fba806d3a4a3e4a1c1300282d9f123cf09210e50fdaff0741b0286",
+  "canonical_epub": "publishing/edition_neutral/20261028_author_bio_expanded/manuscript.epub",
+  "epub_sha256": "ac7cfc0ae45e620fcd2b495332d8eb3b72754b3a83b72524343dee034d993ed0",
   "cover": "publishing/edition_neutral/20261028_frontmatter_revision/cover.jpg",
   "title": "これ一冊で基礎から完成！　登録日本語教員試験 パーフェクト問題集",
   "subtitle": "基礎から応用試験対策＋実戦演習〈全５００問〉",
@@ -14,8 +14,8 @@
   "publication_approved": false,
   "release_ready": false,
   "review_policy": "Inherit existing audit; no blanket re-audit",
-  "checkpoint": "publishing/edition_neutral/20261028_author_iroha/README.md",
-  "latest_change": "Author and biography updated in 6 locations; residual old author 0; 500 question records unchanged; EPUBCheck and Kindle conversion pass",
+  "checkpoint": "publishing/edition_neutral/20261028_author_bio_expanded/README.md",
+  "latest_change": "Expand author profile to 640 Japanese characters in 5 polite-form paragraphs; standalone page retained; no cover changes",
   "epub_frontmatter_matches_latest_word": true,
   "epub_update_requested": true,
   "reader_check": "publishing/edition_neutral/20261028_reader_check/reader_audit.json",
@@ -27,6 +27,6 @@
     "kindle_gui_review_completed": false
   },
   "author": "登録日本語教員試験対策研究会「いろは」",
-  "canonical_description": "publishing/edition_neutral/20261028_author_iroha/description.txt",
-  "canonical_registration": "publishing/edition_neutral/20261028_author_iroha/registration.json"
+  "canonical_description": "publishing/edition_neutral/20261028_author_bio_expanded/description.txt",
+  "canonical_registration": "publishing/edition_neutral/20261028_author_bio_expanded/registration.json"
 }

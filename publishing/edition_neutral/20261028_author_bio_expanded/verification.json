@@ -1,0 +1,33 @@
+{
+  "biography_paragraphs": 5,
+  "biography_characters": 640,
+  "only_author_profile_xml_changed": true,
+  "other_zip_members_byte_identical": true,
+  "ids_hrefs_unchanged": true,
+  "cover_unchanged_user_supplied": true,
+  "files": {
+    "本文.docx": {
+      "sha256": "445571e016fba806d3a4a3e4a1c1300282d9f123cf09210e50fdaff0741b0286",
+      "size": 340009
+    },
+    "本文.epub": {
+      "sha256": "ac7cfc0ae45e620fcd2b495332d8eb3b72754b3a83b72524343dee034d993ed0",
+      "size": 692060
+    },
+    "登録情報.json": {
+      "sha256": "743da56502ed56fa49a2da3289a69565fc016f49b3496ffd8943a7d5ccfbc557",
+      "size": 3315
+    },
+    "商品説明.txt": {
+      "sha256": "0a38df98a2035f3ca8aa49a38d1272ccee1da7426158469af7e9beb2a5c96cf5",
+      "size": 3129
+    }
+  },
+  "epubcheck_errors": 0,
+  "epubcheck_warnings": 0,
+  "word_pages": 401,
+  "render_changed_pages": [
+    "page-3.png",
+    "page-98.png"
+  ]
+}
